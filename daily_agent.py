@@ -1,25 +1,20 @@
 """
 ================================================================
-MUSTANG MODE - DAILY AI JOB AGENT
+MUSTANG MODE - DAILY AI JOB AGENT (CLOUD VERSION)
 ================================================================
 Tuned for: ANIL GOPI GUDAPATI
 Profile : Mechanical Design Engineer / CAD Engineer
 Location: Hyderabad
 
-Runs once a day, scans Gmail for new jobs matching your profile,
-and emails you a beautifully formatted digest.
-================================================================
-
-USAGE:
-    python daily_agent.py
-
-SCHEDULE (Windows Task Scheduler):
-    Set this script to run daily at 7:00 AM
+This is the CLOUD version of the agent.
+It reads secrets from environment variables so it can run
+on GitHub Actions / any cloud platform.
 ================================================================
 """
 
 import os
 import re
+import json
 import base64
 import smtplib
 from datetime import datetime, timedelta
@@ -28,16 +23,32 @@ from email.mime.multipart import MIMEMultipart
 
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
-from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 
 # =====================================================
-# CONFIGURATION - edit these for your setup
+# LOAD SECRETS FROM ENVIRONMENT VARIABLES
+# =====================================================
+# When running locally: secrets come from your shell or config.py
+# When running on GitHub Actions: secrets come from repo secrets
+
+# Try local config.py first (for testing), fall back to env vars
+try:
+    from config import GMAIL_APP_PASSWORD as LOCAL_PASSWORD
+except ImportError:
+    LOCAL_PASSWORD = None
+
+GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD") or LOCAL_PASSWORD or ""
+
+# Token JSON (full content as a single env var when on cloud)
+GMAIL_TOKEN_JSON = os.environ.get("GMAIL_TOKEN_JSON", "")
+
+# =====================================================
+# CONFIGURATION
 # =====================================================
 
 DIGEST_RECIPIENT = "anilgopi731@gmail.com"
 SENDER_EMAIL = "anilgopi731@gmail.com"
-SENDER_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "piffajrpftbcfeyw")
+SENDER_APP_PASSWORD = GMAIL_APP_PASSWORD
 
 DAYS_BACK = 1
 MAX_EMAILS = 100
@@ -78,25 +89,40 @@ PREFERRED_LOCATIONS = [
 ]
 
 # =====================================================
-# GMAIL API
+# GMAIL API (CLOUD-COMPATIBLE)
 # =====================================================
 
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
 
 def gmail_authenticate():
+    """
+    On cloud: load credentials from GMAIL_TOKEN_JSON env var
+    Locally : load from token.json file
+    """
     creds = None
-    if os.path.exists('token.json'):
+
+    # 1. Try environment variable (cloud)
+    if GMAIL_TOKEN_JSON:
+        try:
+            token_data = json.loads(GMAIL_TOKEN_JSON)
+            creds = Credentials.from_authorized_user_info(token_data, SCOPES)
+            print("[OK] Loaded credentials from environment variable")
+        except Exception as e:
+            print(f"[WARN] Failed to load token from env: {e}")
+
+    # 2. Fall back to local token.json
+    if not creds and os.path.exists('token.json'):
         creds = Credentials.from_authorized_user_file('token.json', SCOPES)
+        print("[OK] Loaded credentials from token.json file")
+
+    # 3. Refresh if expired
+    if creds and creds.expired and creds.refresh_token:
+        creds.refresh(Request())
+        print("[OK] Refreshed expired credentials")
 
     if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
-            flow = InstalledAppFlow.from_client_secrets_file('credentials.json', SCOPES)
-            creds = flow.run_local_server(port=0)
-        with open('token.json', 'w') as token:
-            token.write(creds.to_json())
+        raise RuntimeError("No valid credentials found! Set GMAIL_TOKEN_JSON env var or run generate_token.py locally first.")
 
     return build('gmail', 'v1', credentials=creds)
 
@@ -330,15 +356,14 @@ def build_digest_html(jobs, scanned_count):
 
             preview_clean = j['preview'].replace('<', '&lt;').replace('>', '&gt;')[:220]
 
-            # Match color logic
             if j['match'] >= 70:
-                match_color = "#16a34a"   # green for high match
+                match_color = "#16a34a"
                 match_label = "HIGH MATCH"
             elif j['match'] >= 50:
-                match_color = "#dc2626"   # red for good match
+                match_color = "#dc2626"
                 match_label = "GOOD MATCH"
             else:
-                match_color = "#f59e0b"   # amber for low match
+                match_color = "#f59e0b"
                 match_label = "POTENTIAL"
 
             job_cards += f"""
@@ -369,14 +394,12 @@ def build_digest_html(jobs, scanned_count):
     <body style='margin:0; padding:0; background:#f3f4f6; font-family:Verdana, Arial, sans-serif;'>
         <div style='max-width:700px; margin:0 auto; background:#f3f4f6; padding:24px 16px;'>
 
-            <!-- HEADER -->
             <div style='text-align:center; padding:32px 20px; background:linear-gradient(135deg, #1f1f1f 0%, #0a0a0a 100%); border-radius:16px; margin-bottom:20px; box-shadow:0 4px 12px rgba(0,0,0,0.15);'>
                 <div style='color:#dc2626; font-size:36px; margin-bottom:6px; font-weight:bold; letter-spacing:4px; font-family:Verdana, Arial, sans-serif;'>🏎️ MUSTANG MODE</div>
                 <h1 style='color:#ffffff; font-family:Verdana, Arial, sans-serif; letter-spacing:6px; margin:8px 0 0 0; font-size:18px; font-weight:bold;'>DAILY DIGEST</h1>
                 <div style='color:#9ca3af; font-size:11px; letter-spacing:2px; margin-top:8px;'>{today.upper()}</div>
             </div>
 
-            <!-- GREETING -->
             <div style='background:#ffffff; border-radius:12px; padding:20px 24px; margin-bottom:18px; border:1px solid #e5e7eb; box-shadow:0 1px 3px rgba(0,0,0,0.04);'>
                 <div style='color:#111827; font-size:15px; line-height:1.7;'>
                     Good morning <span style='color:#dc2626; font-weight:bold;'>{USER_NAME}</span>! 👋<br>
@@ -386,7 +409,6 @@ def build_digest_html(jobs, scanned_count):
                 </div>
             </div>
 
-            <!-- METRICS -->
             <table style='width:100%; border-collapse:separate; border-spacing:8px 0; margin-bottom:20px;'>
                 <tr>
                     <td style='width:33%; background:#ffffff; border:1px solid #e5e7eb; padding:16px 8px; border-radius:10px; text-align:center;'>
@@ -404,10 +426,8 @@ def build_digest_html(jobs, scanned_count):
                 </tr>
             </table>
 
-            <!-- JOB CARDS -->
             {body_html}
 
-            <!-- FOOTER -->
             <div style='text-align:center; padding:24px 20px; margin-top:20px; background:#1f1f1f; border-radius:12px;'>
                 <div style='color:#dc2626; font-size:11px; letter-spacing:3px; font-family:Verdana, Arial, sans-serif; font-weight:bold;'>TUNED BY PRECISION &nbsp;|&nbsp; DRIVEN BY ENGINEERING</div>
                 <div style='margin-top:10px; color:#6b7280; font-size:10px; letter-spacing:1px;'>🏎️ Mustang Mode AI Agent &nbsp;·&nbsp; Sent automatically every morning</div>
@@ -421,17 +441,9 @@ def build_digest_html(jobs, scanned_count):
 
 
 def send_digest(html_content, job_count):
-    if SENDER_APP_PASSWORD == "":
-        print("")
-        print("WARNING: No email password set!")
-        print("Email NOT sent. See setup guide for App Password.")
-        print("")
-        print("Saving digest to 'last_digest.html' for preview...")
-        with open('last_digest.html', 'w', encoding='utf-8') as f:
-            f.write(html_content)
-        print("Open 'last_digest.html' in your browser to preview.")
-        print("")
-        return
+    if not SENDER_APP_PASSWORD:
+        print("ERROR: No GMAIL_APP_PASSWORD found in environment!")
+        return False
 
     today = datetime.now().strftime("%b %d")
     subject = f"Mustang Mode | {job_count} jobs found today ({today})"
@@ -450,16 +462,15 @@ def send_digest(html_content, job_count):
             server.login(SENDER_EMAIL, SENDER_APP_PASSWORD)
             server.send_message(msg)
         print("Digest sent successfully!")
+        return True
     except Exception as e:
         print(f"Send failed: {e}")
-        print("Saving digest to 'last_digest.html' as backup...")
-        with open('last_digest.html', 'w', encoding='utf-8') as f:
-            f.write(html_content)
+        return False
 
 
 def main():
     print("=" * 60)
-    print("MUSTANG MODE - DAILY AGENT")
+    print("MUSTANG MODE - DAILY AGENT (CLOUD)")
     print(f"Run time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"Driver: {USER_NAME}")
     print("=" * 60)
