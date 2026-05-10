@@ -1,20 +1,22 @@
 """
 ================================================================
-MUSTANG MODE - DAILY AI JOB AGENT (CLOUD VERSION)
+MUSTANG MODE - DAILY AI JOB AGENT (CLOUD + GEMINI BRAIN v2.0)
 ================================================================
 Tuned for: ANIL GOPI GUDAPATI
 Profile : Mechanical Design Engineer / CAD Engineer
 Location: Hyderabad
 
-This is the CLOUD version of the agent.
-It reads secrets from environment variables so it can run
-on GitHub Actions / any cloud platform.
+🆕 v2.0 Update:
+- Added Gemini AI brain for intelligent job analysis
+- Each job now gets AI-powered match score + reasoning
+- Cover letter opener auto-generated for top jobs
 ================================================================
 """
 
 import os
 import re
 import json
+import time
 import base64
 import smtplib
 from datetime import datetime, timedelta
@@ -25,22 +27,25 @@ from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
 
+# Optional: Gemini AI
+try:
+    import google.generativeai as genai
+    GEMINI_AVAILABLE = True
+except ImportError:
+    GEMINI_AVAILABLE = False
+
 # =====================================================
 # LOAD SECRETS FROM ENVIRONMENT VARIABLES
 # =====================================================
-# When running locally: secrets come from your shell or config.py
-# When running on GitHub Actions: secrets come from repo secrets
 
-# Try local config.py first (for testing), fall back to env vars
 try:
     from config import GMAIL_APP_PASSWORD as LOCAL_PASSWORD
 except ImportError:
     LOCAL_PASSWORD = None
 
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD") or LOCAL_PASSWORD or ""
-
-# Token JSON (full content as a single env var when on cloud)
 GMAIL_TOKEN_JSON = os.environ.get("GMAIL_TOKEN_JSON", "")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 
 # =====================================================
 # CONFIGURATION
@@ -54,11 +59,30 @@ DAYS_BACK = 1
 MAX_EMAILS = 100
 MIN_MATCH_PCT = 20
 
+# AI brain settings
+USE_AI_BRAIN = bool(GEMINI_API_KEY) and GEMINI_AVAILABLE
+MAX_AI_ANALYSES = 8  # Only analyze top 8 jobs to save API quota
+AI_DELAY_SECONDS = 1  # Pause between AI calls to avoid rate limits
+
 # =====================================================
 # ANIL'S PROFILE
 # =====================================================
 
 USER_NAME = "Anil"
+
+USER_PROFILE_SUMMARY = """
+Anil Gopi Gudapati - Mechanical Design Engineer / CAD Engineer
+Location: Hyderabad, India
+Education: B-Tech Mechanical Engineering (2024)
+Experience: ~1 year
+- CAD Engineer at restor3d (Nov 2024 - Present): Designs patient-specific orthopedic implants in SolidWorks
+- AutoCAD Design Intern at HP Associates (Jun-Nov 2024): HVAC system designs
+
+Core Skills: SolidWorks (expert), CATIA, AutoCAD, NX CAD, CERO, 3D modeling, drafting
+Domain Expertise: Orthopedic implants, medical devices, weldment, HVAC, sheet metal
+Career Stage: Early career (1 year experience), open to design engineer roles
+Looking For: Mechanical/Design Engineer, CAD Engineer, R&D Engineer roles in Hyderabad/Remote
+"""
 
 USER_SKILLS = [
     "solidworks", "catia", "autocad", "nx cad", "nx", "cero", "creo",
@@ -89,20 +113,87 @@ PREFERRED_LOCATIONS = [
 ]
 
 # =====================================================
-# GMAIL API (CLOUD-COMPATIBLE)
+# GEMINI AI BRAIN
+# =====================================================
+
+def init_gemini():
+    """Initialize Gemini API"""
+    if not USE_AI_BRAIN:
+        return None
+    try:
+        genai.configure(api_key=GEMINI_API_KEY)
+        model = genai.GenerativeModel('gemini-1.5-flash')
+        print("[OK] Gemini AI brain activated")
+        return model
+    except Exception as e:
+        print(f"[WARN] Gemini init failed: {e}")
+        return None
+
+
+def ai_analyze_job(model, job_data):
+    """
+    Use Gemini to analyze a single job and return:
+    - ai_score: 0-100
+    - verdict: HIGH/GOOD/SKIP
+    - reasoning: why it fits or doesn't
+    - concerns: red flags
+    - cover_opener: ready-to-use cover letter opener
+    """
+    if not model:
+        return None
+
+    prompt = f"""You are a career advisor analyzing a job for this candidate:
+
+{USER_PROFILE_SUMMARY}
+
+JOB DETAILS:
+Title: {job_data['title']}
+Company: {job_data['company']}
+Location: {job_data['location']}
+Salary: {job_data['salary']}
+Description: {job_data['preview'][:600]}
+
+Analyze this job for THIS specific candidate. Respond ONLY with valid JSON in this exact format:
+
+{{
+    "ai_score": <integer 0-100>,
+    "verdict": "<HIGH|GOOD|SKIP>",
+    "reasoning": "<2 sentences explaining fit or mismatch>",
+    "concerns": "<one specific concern, or 'None'>",
+    "cover_opener": "<one sentence cover letter opener for this candidate>"
+}}
+
+Be honest and specific. Score reflects ACTUAL fit, not just keyword overlap.
+- HIGH (75-100): Apply today, strong fit
+- GOOD (50-74): Worth applying, decent fit
+- SKIP (<50): Skip unless desperate
+"""
+
+    try:
+        response = model.generate_content(prompt)
+        text = response.text.strip()
+
+        # Strip markdown code fences if present
+        if text.startswith('```'):
+            text = re.sub(r'^```(?:json)?\s*', '', text)
+            text = re.sub(r'\s*```$', '', text)
+
+        result = json.loads(text)
+        return result
+    except Exception as e:
+        print(f"  [AI] Failed for {job_data.get('title', 'unknown')}: {e}")
+        return None
+
+
+# =====================================================
+# GMAIL API
 # =====================================================
 
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
 
 def gmail_authenticate():
-    """
-    On cloud: load credentials from GMAIL_TOKEN_JSON env var
-    Locally : load from token.json file
-    """
     creds = None
-
-    # 1. Try environment variable (cloud)
     if GMAIL_TOKEN_JSON:
         try:
             token_data = json.loads(GMAIL_TOKEN_JSON)
@@ -111,18 +202,16 @@ def gmail_authenticate():
         except Exception as e:
             print(f"[WARN] Failed to load token from env: {e}")
 
-    # 2. Fall back to local token.json
     if not creds and os.path.exists('token.json'):
         creds = Credentials.from_authorized_user_file('token.json', SCOPES)
         print("[OK] Loaded credentials from token.json file")
 
-    # 3. Refresh if expired
     if creds and creds.expired and creds.refresh_token:
         creds.refresh(Request())
         print("[OK] Refreshed expired credentials")
 
     if not creds or not creds.valid:
-        raise RuntimeError("No valid credentials found! Set GMAIL_TOKEN_JSON env var or run generate_token.py locally first.")
+        raise RuntimeError("No valid credentials found!")
 
     return build('gmail', 'v1', credentials=creds)
 
@@ -319,8 +408,9 @@ def scan_gmail():
             'salary': salary,
             'match': match_pct,
             'matched_skills': matched_skills,
-            'preview': full_body[:250] if full_body else snippet,
-            'link': link
+            'preview': full_body[:500] if full_body else snippet,
+            'link': link,
+            'ai_analysis': None  # Will be filled in next step
         })
 
         print(f"  Match #{len(matched_jobs)}: {title} @ {company} ({match_pct}%)")
@@ -329,8 +419,40 @@ def scan_gmail():
     return matched_jobs, len(all_messages)
 
 
+def enrich_with_ai(matched_jobs):
+    """Run AI brain on top jobs"""
+    if not USE_AI_BRAIN:
+        print("[AI] Gemini brain disabled (no API key or library)")
+        return matched_jobs
+
+    model = init_gemini()
+    if not model:
+        return matched_jobs
+
+    top_jobs = matched_jobs[:MAX_AI_ANALYSES]
+    print(f"[AI] Analyzing top {len(top_jobs)} jobs with Gemini...")
+
+    for i, job in enumerate(top_jobs):
+        print(f"  [{i+1}/{len(top_jobs)}] Analyzing: {job['title']}")
+        analysis = ai_analyze_job(model, job)
+        if analysis:
+            job['ai_analysis'] = analysis
+            print(f"    -> AI Score: {analysis['ai_score']} ({analysis['verdict']})")
+        time.sleep(AI_DELAY_SECONDS)
+
+    # Re-sort using AI score if available
+    def sort_key(j):
+        if j.get('ai_analysis'):
+            return j['ai_analysis']['ai_score']
+        return j['match']
+
+    matched_jobs.sort(key=sort_key, reverse=True)
+    return matched_jobs
+
+
 def build_digest_html(jobs, scanned_count):
     today = datetime.now().strftime("%A, %B %d, %Y")
+    ai_status = "🧠 AI BRAIN: ACTIVE" if USE_AI_BRAIN else "🔍 KEYWORD MATCHING"
 
     if not jobs:
         body_html = """
@@ -356,10 +478,64 @@ def build_digest_html(jobs, scanned_count):
 
             preview_clean = j['preview'].replace('<', '&lt;').replace('>', '&gt;')[:220]
 
-            if j['match'] >= 70:
+            # AI analysis section
+            ai_html = ""
+            ai = j.get('ai_analysis')
+            if ai:
+                verdict = ai['verdict']
+                if verdict == 'HIGH':
+                    verdict_color = '#16a34a'
+                    verdict_emoji = '🔥'
+                    verdict_label = 'HIGHLY RECOMMENDED'
+                elif verdict == 'GOOD':
+                    verdict_color = '#dc2626'
+                    verdict_emoji = '👍'
+                    verdict_label = 'WORTH APPLYING'
+                else:
+                    verdict_color = '#f59e0b'
+                    verdict_emoji = '🤷'
+                    verdict_label = 'SKIP UNLESS DESPERATE'
+
+                concerns_html = ""
+                if ai.get('concerns') and ai['concerns'].lower() not in ['none', 'no concerns', '']:
+                    concerns_html = f"""
+                    <div style='margin-top:8px; padding:8px; background:#fef3c7; border-left:3px solid #f59e0b; border-radius:4px; font-size:12px; color:#78350f;'>
+                        <b>⚠️ Concern:</b> {ai['concerns']}
+                    </div>
+                    """
+
+                cover_html = ""
+                if ai.get('cover_opener'):
+                    cover_html = f"""
+                    <div style='margin-top:8px; padding:10px; background:#dbeafe; border-left:3px solid #2563eb; border-radius:4px; font-size:12px; color:#1e3a8a; font-style:italic;'>
+                        <b>✍️ Cover letter opener:</b><br>"{ai['cover_opener']}"
+                    </div>
+                    """
+
+                ai_html = f"""
+                <div style='margin-top:12px; padding:14px; background:#f0fdf4; border:1px solid #86efac; border-radius:8px;'>
+                    <div style='display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;'>
+                        <div style='font-size:11px; color:{verdict_color}; font-weight:bold; letter-spacing:1px;'>
+                            🧠 AI VERDICT: {verdict_emoji} {verdict_label}
+                        </div>
+                        <span style='background:{verdict_color}; color:#fff; padding:4px 10px; border-radius:12px; font-size:11px; font-weight:bold;'>
+                            AI Score: {ai['ai_score']}/100
+                        </span>
+                    </div>
+                    <div style='font-size:13px; color:#111; line-height:1.5;'>
+                        {ai['reasoning']}
+                    </div>
+                    {concerns_html}
+                    {cover_html}
+                </div>
+                """
+
+            # Determine match badge color
+            display_score = ai['ai_score'] if ai else j['match']
+            if display_score >= 70:
                 match_color = "#16a34a"
                 match_label = "HIGH MATCH"
-            elif j['match'] >= 50:
+            elif display_score >= 50:
                 match_color = "#dc2626"
                 match_label = "GOOD MATCH"
             else:
@@ -374,20 +550,21 @@ def build_digest_html(jobs, scanned_count):
                         <div style='font-family:Verdana, Arial, sans-serif; color:#111827; font-size:18px; font-weight:bold; margin-top:6px; line-height:1.3;'>{j['title']}</div>
                         <div style='color:#dc2626; font-size:13px; font-weight:bold; margin-top:3px;'>{j['company']}</div>
                     </div>
-                    <span style='background:linear-gradient(135deg,#dc2626,#991b1b); color:#ffffff; padding:7px 16px; border-radius:20px; font-size:13px; font-weight:bold; font-family:Verdana, Arial, sans-serif; min-width:50px; text-align:center; flex-shrink:0; margin-left:12px;'>{j['match']}%</span>
+                    <span style='background:linear-gradient(135deg,#dc2626,#991b1b); color:#ffffff; padding:7px 16px; border-radius:20px; font-size:13px; font-weight:bold; font-family:Verdana, Arial, sans-serif; min-width:50px; text-align:center; flex-shrink:0; margin-left:12px;'>{display_score}%</span>
                 </div>
                 <div style='color:#4b5563; font-size:13px; margin:12px 0; padding:6px 0; border-top:1px solid #f3f4f6; border-bottom:1px solid #f3f4f6;'>
                     📍 <b style='color:#111827;'>{j['location']}</b> &nbsp;&nbsp;|&nbsp;&nbsp; 💰 <b style='color:#111827;'>{j['salary']}</b>
                 </div>
                 <div style='color:#6b7280; font-size:12.5px; line-height:1.6; margin:10px 0; padding:12px; background:#f9fafb; border-left:3px solid #dc2626; border-radius:4px;'>{preview_clean}...</div>
                 <div style='margin-top:10px;'>{skills_html}</div>
+                {ai_html}
                 {apply_btn}
             </div>
             """
 
         body_html = job_cards
 
-    high_match_count = sum(1 for j in jobs if j['match'] >= 50)
+    high_match_count = sum(1 for j in jobs if (j.get('ai_analysis', {}) or {}).get('ai_score', j['match']) >= 70)
 
     html = f"""
     <html>
@@ -398,14 +575,15 @@ def build_digest_html(jobs, scanned_count):
                 <div style='color:#dc2626; font-size:36px; margin-bottom:6px; font-weight:bold; letter-spacing:4px; font-family:Verdana, Arial, sans-serif;'>🏎️ MUSTANG MODE</div>
                 <h1 style='color:#ffffff; font-family:Verdana, Arial, sans-serif; letter-spacing:6px; margin:8px 0 0 0; font-size:18px; font-weight:bold;'>DAILY DIGEST</h1>
                 <div style='color:#9ca3af; font-size:11px; letter-spacing:2px; margin-top:8px;'>{today.upper()}</div>
+                <div style='color:#22c55e; font-size:10px; letter-spacing:2px; margin-top:6px; font-weight:bold;'>{ai_status}</div>
             </div>
 
             <div style='background:#ffffff; border-radius:12px; padding:20px 24px; margin-bottom:18px; border:1px solid #e5e7eb; box-shadow:0 1px 3px rgba(0,0,0,0.04);'>
                 <div style='color:#111827; font-size:15px; line-height:1.7;'>
                     Good morning <span style='color:#dc2626; font-weight:bold;'>{USER_NAME}</span>! 👋<br>
-                    Your AI agent scanned <b style='color:#111827;'>{scanned_count} emails</b> overnight and found
+                    Your AI agent scanned <b style='color:#111827;'>{scanned_count} emails</b> and found
                     <b style='color:#16a34a;'>{len(jobs)} jobs</b> matching your profile
-                    ({high_match_count} are high-match).
+                    ({high_match_count} are high-priority).
                 </div>
             </div>
 
@@ -421,7 +599,7 @@ def build_digest_html(jobs, scanned_count):
                     </td>
                     <td style='width:33%; background:#ffffff; border:1px solid #e5e7eb; padding:16px 8px; border-radius:10px; text-align:center;'>
                         <div style='color:#16a34a; font-size:24px; font-weight:bold; font-family:Verdana, Arial, sans-serif;'>{high_match_count}</div>
-                        <div style='color:#6b7280; font-size:10px; letter-spacing:1.5px; font-weight:600;'>POLE POSITION</div>
+                        <div style='color:#6b7280; font-size:10px; letter-spacing:1.5px; font-weight:600;'>HIGH PRIORITY</div>
                     </td>
                 </tr>
             </table>
@@ -430,7 +608,7 @@ def build_digest_html(jobs, scanned_count):
 
             <div style='text-align:center; padding:24px 20px; margin-top:20px; background:#1f1f1f; border-radius:12px;'>
                 <div style='color:#dc2626; font-size:11px; letter-spacing:3px; font-family:Verdana, Arial, sans-serif; font-weight:bold;'>TUNED BY PRECISION &nbsp;|&nbsp; DRIVEN BY ENGINEERING</div>
-                <div style='margin-top:10px; color:#6b7280; font-size:10px; letter-spacing:1px;'>🏎️ Mustang Mode AI Agent &nbsp;·&nbsp; Sent automatically every morning</div>
+                <div style='margin-top:10px; color:#6b7280; font-size:10px; letter-spacing:1px;'>🏎️ Mustang Mode AI Agent v2.0 &nbsp;·&nbsp; Powered by Gemini AI</div>
             </div>
 
         </div>
@@ -442,15 +620,15 @@ def build_digest_html(jobs, scanned_count):
 
 def send_digest(html_content, job_count):
     if not SENDER_APP_PASSWORD:
-        print("ERROR: No GMAIL_APP_PASSWORD found in environment!")
+        print("ERROR: No GMAIL_APP_PASSWORD found!")
         return False
 
     today = datetime.now().strftime("%b %d")
-    subject = f"Mustang Mode | {job_count} jobs found today ({today})"
+    subject = f"🏎️ Mustang Mode v2 | {job_count} jobs analyzed by AI ({today})"
 
     msg = MIMEMultipart('alternative')
     msg['Subject'] = subject
-    msg['From'] = f"Mustang Mode <{SENDER_EMAIL}>"
+    msg['From'] = f"Mustang Mode AI <{SENDER_EMAIL}>"
     msg['To'] = DIGEST_RECIPIENT
 
     html_part = MIMEText(html_content, 'html')
@@ -470,18 +648,25 @@ def send_digest(html_content, job_count):
 
 def main():
     print("=" * 60)
-    print("MUSTANG MODE - DAILY AGENT (CLOUD)")
+    print("MUSTANG MODE v2.0 - WITH AI BRAIN")
     print(f"Run time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"Driver: {USER_NAME}")
+    print(f"AI Brain: {'ENABLED (Gemini)' if USE_AI_BRAIN else 'DISABLED'}")
     print("=" * 60)
 
+    # Step 1: Scan Gmail
     matched_jobs, scanned_count = scan_gmail()
 
     print("")
     print("=" * 60)
-    print(f"SCAN RESULT: {len(matched_jobs)} matches from {scanned_count} emails")
+    print(f"INITIAL SCAN: {len(matched_jobs)} matches from {scanned_count} emails")
     print("=" * 60)
 
+    # Step 2: AI enrichment
+    if matched_jobs:
+        matched_jobs = enrich_with_ai(matched_jobs)
+
+    # Step 3: Build & send digest
     html = build_digest_html(matched_jobs, scanned_count)
     send_digest(html, len(matched_jobs))
 
