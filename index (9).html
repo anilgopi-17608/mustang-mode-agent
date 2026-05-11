@@ -1,0 +1,1312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🏎️ Mustang Mode — AI Job Agent</title>
+<meta name="description" content="An autonomous AI agent that scans Gmail daily, finds engineering jobs matching my profile, and emails me a beautifully formatted digest. Built by Anil Gopi Gudapati.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    color: #fff;
+    line-height: 1.7;
+    overflow-x: hidden;
+    background: #0a0014;
+    position: relative;
+}
+
+a { color: inherit; text-decoration: none; }
+
+/* ============= MUSTANG WALLPAPER BACKGROUND ============= */
+.mustang-bg {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-image: url('BMW M5 Competition.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    z-index: -3;
+}
+
+/* Dark overlay so text stays readable on top of car image */
+.bg-overlay {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: 
+        linear-gradient(135deg, rgba(10,0,20,0.45) 0%, rgba(20,5,20,0.35) 50%, rgba(40,10,30,0.45) 100%),
+        radial-gradient(ellipse at top, rgba(220,38,38,0.10) 0%, transparent 60%),
+        radial-gradient(ellipse at bottom, rgba(255,107,0,0.08) 0%, transparent 60%);
+    z-index: -2;
+}
+
+/* Vignette effect to fade edges */
+.vignette {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: radial-gradient(ellipse at center, transparent 40%, rgba(0,0,0,0.25) 100%);
+    z-index: -1;
+    pointer-events: none;
+}
+
+/* Glowing racing stripe at top */
+.racing-stripes {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, 
+        transparent 0%, 
+        #ffd700 15%, 
+        #ff6b00 30%, 
+        #dc2626 50%, 
+        #ff6b00 70%, 
+        #ffd700 85%, 
+        transparent 100%);
+    z-index: 100;
+    box-shadow: 0 0 20px rgba(255, 107, 0, 0.6);
+}
+
+/* ============= NAVIGATION ============= */
+nav {
+    position: sticky;
+    top: 0;
+    background: rgba(10, 0, 20, 0.92);
+    backdrop-filter: blur(15px);
+    border-bottom: 2px solid rgba(255, 107, 0, 0.4);
+    padding: 18px 0;
+    z-index: 50;
+}
+
+.nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.brand {
+    font-family: 'Audiowide', cursive;
+    font-size: 22px;
+    background: linear-gradient(90deg, #ffd700 0%, #ff6b00 50%, #dc2626 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    letter-spacing: 3px;
+    text-shadow: 0 0 30px rgba(255, 107, 0, 0.5);
+}
+
+.brand span { color: #fff; -webkit-text-fill-color: #fff; }
+
+.nav-links { display: flex; gap: 28px; }
+
+.nav-links a {
+    font-size: 14px;
+    color: #ddd;
+    transition: all 0.3s;
+    font-weight: 500;
+}
+
+.nav-links a:hover {
+    color: #ff6b00;
+    text-shadow: 0 0 10px rgba(255, 107, 0, 0.6);
+}
+
+/* Tiny creator avatar in nav */
+.nav-creator {
+    display: inline-flex !important;
+    align-items: center;
+    gap: 10px;
+    padding: 5px 14px 5px 5px;
+    background: rgba(255,107,0,0.1);
+    border: 1px solid rgba(255,107,0,0.4);
+    border-radius: 30px;
+    transition: all 0.3s;
+    text-decoration: none;
+}
+
+.nav-creator:hover {
+    background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
+    border-color: #ffd700;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 15px rgba(255, 107, 0, 0.4);
+}
+
+.nav-creator:hover .nav-name {
+    color: #fff !important;
+    text-shadow: none !important;
+}
+
+.nav-creator:hover .nav-arrow {
+    transform: translateX(3px);
+}
+
+.nav-avatar {
+    width: 30px;
+    height: 30px;
+    background: linear-gradient(135deg, #ffd700 0%, #ff6b00 50%, #dc2626 100%);
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Audiowide', cursive;
+    font-size: 12px;
+    color: #fff;
+    box-shadow: 0 2px 10px rgba(255, 107, 0, 0.4);
+}
+
+.nav-name {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.nav-arrow {
+    display: inline-block;
+    transition: transform 0.3s;
+    margin-left: 4px;
+}
+
+/* ============= HERO ============= */
+.hero {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 24px 30px;
+    text-align: center;
+    position: relative;
+    min-height: auto;
+}
+
+/* Empty space to let the BMW shine through */
+.car-space {
+    height: 350px;
+    width: 100%;
+}
+
+/* CTA buttons positioned above the stats */
+.cta-wrap {
+    max-width: 1200px;
+    margin: 0 auto 40px;
+    padding: 0 24px;
+    text-align: center;
+}
+
+.tagline-pill {
+    display: inline-block;
+    background: rgba(255,107,0,0.2);
+    border: 1px solid rgba(255,107,0,0.6);
+    color: #ffd700;
+    padding: 8px 22px;
+    border-radius: 30px;
+    font-size: 12px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 25px rgba(255,107,0,0.3);
+}
+
+.hero h1 {
+    font-family: 'Audiowide', cursive;
+    font-size: clamp(32px, 5vw, 56px);
+    line-height: 1.15;
+    margin-bottom: 20px;
+    letter-spacing: 1.5px;
+    color: #fff;
+    text-shadow: 
+        0 0 40px rgba(255, 107, 0, 0.6),
+        0 4px 30px rgba(0, 0, 0, 0.9),
+        2px 2px 0 rgba(0,0,0,0.5);
+}
+
+.hero h1 .accent {
+    background: linear-gradient(90deg, #ffd700 0%, #ff6b00 50%, #dc2626 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.hero-quote {
+    font-family: 'Audiowide', cursive;
+    color: #ffd700;
+    font-size: 14px;
+    letter-spacing: 5px;
+    margin-bottom: 28px;
+    text-shadow: 0 0 20px rgba(255, 215, 0, 0.5), 0 2px 10px rgba(0,0,0,0.8);
+}
+
+.hero-desc {
+    max-width: 700px;
+    margin: 0 auto 40px;
+    font-size: 17px;
+    color: #eee;
+    line-height: 1.7;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.8);
+    background: rgba(10,0,20,0.4);
+    backdrop-filter: blur(10px);
+    padding: 20px 24px;
+    border-radius: 12px;
+    border: 1px solid rgba(255,107,0,0.2);
+}
+
+.cta-row {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 16px 32px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 15px;
+    transition: all 0.3s;
+    cursor: pointer;
+    border: none;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
+    color: #fff;
+    box-shadow: 0 4px 25px rgba(255, 107, 0, 0.5);
+}
+
+.btn-primary:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 35px rgba(255, 107, 0, 0.7);
+}
+
+.btn-secondary {
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    border: 1px solid rgba(255,107,0,0.5);
+    backdrop-filter: blur(10px);
+}
+
+.btn-secondary:hover {
+    background: rgba(255, 107, 0, 0.15);
+    border-color: #ff6b00;
+    box-shadow: 0 0 25px rgba(255, 107, 0, 0.4);
+}
+
+/* ============= STATS ============= */
+.stats {
+    max-width: 1200px;
+    margin: 60px auto;
+    padding: 0 24px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.stat {
+    background: rgba(15,5,25,0.7);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255,107,0,0.3);
+    border-left: 3px solid #ff6b00;
+    border-radius: 12px;
+    padding: 28px 24px;
+    transition: all 0.3s;
+}
+
+.stat:hover {
+    transform: translateY(-4px);
+    border-color: #ff6b00;
+    box-shadow: 0 8px 30px rgba(255, 107, 0, 0.3);
+    background: rgba(30,10,30,0.7);
+}
+
+.stat-num {
+    font-family: 'Audiowide', cursive;
+    font-size: 42px;
+    background: linear-gradient(135deg, #ffd700 0%, #ff6b00 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 8px;
+}
+
+.stat-label {
+    font-size: 11px;
+    color: #ccc;
+    letter-spacing: 2px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+/* ============= SECTIONS ============= */
+section {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 80px 24px;
+    position: relative;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.section-title .pill {
+    display: inline-block;
+    color: #ff6b00;
+    font-size: 11px;
+    letter-spacing: 4px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    text-transform: uppercase;
+}
+
+.section-title h2 {
+    font-family: 'Audiowide', cursive;
+    font-size: clamp(28px, 4vw, 42px);
+    color: #fff;
+    letter-spacing: 2px;
+    text-shadow: 
+        0 0 30px rgba(255, 107, 0, 0.4),
+        0 2px 10px rgba(0,0,0,0.8);
+}
+
+/* ============= HOW IT WORKS ============= */
+.flow {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px;
+}
+
+.step {
+    background: rgba(15,5,25,0.85);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255,107,0,0.3);
+    border-radius: 14px;
+    padding: 28px 24px;
+    text-align: center;
+    transition: all 0.3s;
+    position: relative;
+    overflow: hidden;
+}
+
+.step::after {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #ffd700, #ff6b00, #dc2626);
+    transform: scaleX(0);
+    transition: transform 0.4s;
+}
+
+.step:hover::after { transform: scaleX(1); }
+
+.step:hover {
+    transform: translateY(-6px);
+    border-color: #ff6b00;
+    box-shadow: 0 10px 40px rgba(255, 107, 0, 0.3);
+    background: rgba(30,10,30,0.85);
+}
+
+.step-icon {
+    font-size: 40px;
+    margin-bottom: 16px;
+    display: inline-block;
+    filter: drop-shadow(0 0 15px rgba(255, 107, 0, 0.5));
+}
+
+.step-num {
+    position: absolute;
+    top: 12px;
+    right: 16px;
+    font-family: 'Audiowide', cursive;
+    font-size: 28px;
+    background: linear-gradient(135deg, #ffd700, #ff6b00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    opacity: 0.5;
+}
+
+.step h3 {
+    color: #fff;
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.step p {
+    color: #ccc;
+    font-size: 13px;
+    line-height: 1.6;
+}
+
+/* ============= FEATURES ============= */
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.feature {
+    background: rgba(15,5,25,0.75);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255,107,0,0.25);
+    border-radius: 14px;
+    padding: 28px;
+    transition: all 0.3s;
+}
+
+.feature:hover {
+    border-color: #ff6b00;
+    background: rgba(40,15,30,0.85);
+    box-shadow: 0 10px 40px rgba(255, 107, 0, 0.25);
+}
+
+.feature-icon {
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(135deg, #ffd700 0%, #ff6b00 50%, #dc2626 100%);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    margin-bottom: 18px;
+    box-shadow: 0 4px 20px rgba(255, 107, 0, 0.5);
+}
+
+.feature h3 {
+    color: #fff;
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.feature p {
+    color: #ccc;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+/* ============= TECH STACK ============= */
+.tech-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+}
+
+.tech-badge {
+    background: rgba(15,5,25,0.7);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,107,0,0.4);
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 30px;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.tech-badge:hover {
+    background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(255, 107, 0, 0.5);
+    border-color: #ffd700;
+}
+
+.tech-badge .icon { margin-right: 8px; }
+
+/* ============= EMAIL PREVIEW ============= */
+.source-tabs-wrap {
+    max-width: 1200px;
+    margin: 40px auto 60px;
+    padding: 0 24px;
+}
+
+.source-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin: 0;
+}
+
+.source-tab {
+    background: rgba(15,5,25,0.7);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,107,0,0.3);
+    color: #ddd;
+    padding: 10px 18px;
+    border-radius: 30px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: inherit;
+}
+
+.source-tab:hover {
+    border-color: #ff6b00;
+    background: rgba(40,15,30,0.7);
+    transform: translateY(-2px);
+}
+
+.source-tab.active {
+    background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
+    border-color: #ffd700;
+    color: #fff;
+    box-shadow: 0 4px 20px rgba(255, 107, 0, 0.5);
+}
+
+.tab-count {
+    background: rgba(255,255,255,0.2);
+    padding: 2px 9px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+.source-tab.active .tab-count {
+    background: rgba(255,255,255,0.3);
+}
+
+.source-badge {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 12px;
+    margin-bottom: 8px;
+    letter-spacing: 0.5px;
+}
+
+.linkedin-badge {
+    background: #e0f2fe;
+    color: #0077b5;
+    border: 1px solid #0077b5;
+}
+
+.naukri-badge {
+    background: #fef3c7;
+    color: #d97706;
+    border: 1px solid #f59e0b;
+}
+
+.indeed-badge {
+    background: #dbeafe;
+    color: #1e40af;
+    border: 1px solid #2563eb;
+}
+
+.direct-badge {
+    background: #f3e8ff;
+    color: #7e22ce;
+    border: 1px solid #a855f7;
+}
+
+.preview-wrap {
+    background: rgba(15,5,25,0.85);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255,107,0,0.4);
+    border-radius: 16px;
+    padding: 40px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+}
+
+.email-mock {
+    background: #f3f4f6;
+    border-radius: 12px;
+    padding: 24px;
+    color: #111;
+    font-family: Verdana, Arial, sans-serif;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.email-header {
+    background: linear-gradient(135deg, #1f1f1f 0%, #0a0a0a 100%);
+    border-radius: 12px;
+    padding: 24px;
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+.email-header .logo {
+    background: linear-gradient(90deg, #ffd700, #ff6b00, #dc2626);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    margin-bottom: 6px;
+}
+
+.email-header .subtitle {
+    color: #fff;
+    font-size: 12px;
+    letter-spacing: 4px;
+}
+
+.email-greeting {
+    background: #fff;
+    border-radius: 10px;
+    padding: 16px;
+    margin-bottom: 14px;
+    font-size: 13px;
+}
+
+.job-card-preview {
+    background: #fff;
+    border: 1px solid #e5e7eb;
+    border-left: 4px solid #ff6b00;
+    border-radius: 10px;
+    padding: 18px;
+    margin-bottom: 12px;
+}
+
+.job-pole {
+    font-size: 9px;
+    color: #9ca3af;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+.job-pole .high { color: #16a34a; }
+
+.job-title {
+    color: #111;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 4px;
+}
+
+.job-company {
+    color: #ff6b00;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.match-badge {
+    background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
+    color: #fff;
+    padding: 5px 12px;
+    border-radius: 16px;
+    font-size: 11px;
+    font-weight: 700;
+    float: right;
+}
+
+.ai-verdict {
+    background: #f0fdf4;
+    border: 1px solid #86efac;
+    border-radius: 8px;
+    padding: 12px;
+    margin-top: 10px;
+    font-size: 11px;
+    color: #14532d;
+}
+
+.ai-verdict .label {
+    color: #16a34a;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+/* ============= ARCHITECTURE ============= */
+.arch-diagram {
+    background: rgba(15,5,25,0.85);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255,107,0,0.4);
+    border-radius: 14px;
+    padding: 40px;
+    text-align: center;
+}
+
+.arch-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.arch-box {
+    background: rgba(40,10,30,0.8);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,107,0,0.5);
+    border-radius: 12px;
+    padding: 20px 28px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 13px;
+    min-width: 160px;
+    box-shadow: 0 4px 15px rgba(255, 107, 0, 0.15);
+}
+
+.arch-box .icon {
+    font-size: 28px;
+    display: block;
+    margin-bottom: 8px;
+    filter: drop-shadow(0 0 10px rgba(255, 107, 0, 0.5));
+}
+
+.arch-arrow {
+    color: #ff6b00;
+    font-size: 28px;
+    font-weight: 700;
+    text-shadow: 0 0 15px rgba(255, 107, 0, 0.6);
+}
+
+.arch-arrow.down { display: none; }
+
+@media (max-width: 768px) {
+    .arch-arrow { display: none; }
+    .arch-arrow.down { display: block; }
+}
+
+/* ============= CREATOR ============= */
+.creator {
+    text-align: center;
+    background: rgba(40,10,30,0.7);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255,107,0,0.4);
+    border-radius: 16px;
+    padding: 60px 40px;
+    box-shadow: 0 0 60px rgba(255, 107, 0, 0.1);
+}
+
+.avatar {
+    width: 90px;
+    height: 90px;
+    background: linear-gradient(135deg, #ffd700 0%, #ff6b00 50%, #dc2626 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 24px;
+    font-family: 'Audiowide', cursive;
+    font-size: 32px;
+    color: #fff;
+    box-shadow: 0 8px 30px rgba(255, 107, 0, 0.6);
+}
+
+.creator h3 {
+    font-family: 'Audiowide', cursive;
+    color: #fff;
+    font-size: 28px;
+    letter-spacing: 2px;
+    margin-bottom: 8px;
+    text-shadow: 0 0 20px rgba(255, 107, 0, 0.4);
+}
+
+.creator-title {
+    color: #ff6b00;
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 8px;
+    letter-spacing: 1px;
+}
+
+.creator-loc {
+    color: #ccc;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    flex-wrap: wrap;
+}
+
+.social-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 22px;
+    background: rgba(0,0,0,0.5);
+    border: 1px solid rgba(255,107,0,0.4);
+    border-radius: 8px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    transition: all 0.3s;
+    backdrop-filter: blur(10px);
+}
+
+.social-btn:hover {
+    background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
+    border-color: #ffd700;
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(255, 107, 0, 0.5);
+}
+
+/* ============= FOOTER ============= */
+footer {
+    text-align: center;
+    padding: 40px 24px;
+    border-top: 1px solid rgba(255,107,0,0.3);
+    margin-top: 60px;
+    color: #aaa;
+    font-size: 12px;
+    letter-spacing: 2px;
+    background: rgba(10,0,20,0.7);
+    backdrop-filter: blur(15px);
+}
+
+footer .accent {
+    background: linear-gradient(90deg, #ffd700, #ff6b00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+}
+
+/* ============= RESPONSIVE ============= */
+@media (max-width: 768px) {
+    .nav-links { display: none; }
+    .hero { padding: 20px 20px 20px; }
+    .car-space { height: 200px; }
+    .cta-wrap { margin-bottom: 30px; }
+    .hero-desc { font-size: 16px; }
+    section { padding: 50px 20px; }
+    .preview-wrap { padding: 20px; }
+    .arch-diagram { padding: 24px; }
+    .mustang-bg { background-attachment: scroll; }
+}
+</style>
+</head>
+<body>
+
+<!-- Mustang wallpaper background layers -->
+<div class="mustang-bg"></div>
+<div class="bg-overlay"></div>
+<div class="vignette"></div>
+
+<!-- Top racing stripe -->
+<div class="racing-stripes"></div>
+
+<!-- ============== NAV ============== -->
+<nav>
+    <div class="nav-container">
+        <div class="brand">🏎️ MUSTANG <span>MODE</span></div>
+        <div class="nav-links">
+            <a href="#how">How it works</a>
+            <a href="#features">Features</a>
+            <a href="#stack">Stack</a>
+            <a href="#preview">Preview</a>
+            <a href="https://www.linkedin.com/in/anil-gopi-gudapati" target="_blank" class="nav-creator">
+                <span class="nav-avatar">AG</span>
+                <span class="nav-name">Anil <span class="nav-arrow">→</span></span>
+            </a>
+        </div>
+    </div>
+</nav>
+
+<!-- ============== HERO ============== -->
+<section class="hero">
+    <div class="tagline-pill">⚡ Autonomous AI Job Agent</div>
+    <h1>The AI that Hunts <span class="accent">Jobs</span> While I Sleep</h1>
+    <div class="hero-quote">🏁 TUNED BY PRECISION · DRIVEN BY ENGINEERING 🏁</div>
+</section>
+
+<!-- ============== CAR SHOWCASE SPACE ============== -->
+<div class="car-space"></div>
+
+<!-- ============== CTA BUTTONS ============== -->
+<div class="cta-wrap">
+    <div class="cta-row">
+        <a href="https://github.com/anilgopi-17608/mustang-mode-agent" class="btn btn-primary" target="_blank">
+            <span>📦</span> View on GitHub →
+        </a>
+        <a href="#preview" class="btn btn-secondary">
+            <span>📧</span> See Sample Email
+        </a>
+    </div>
+</div>
+
+<!-- ============== STATS ============== -->
+<div class="stats">
+    <div class="stat">
+        <div class="stat-num">4×</div>
+        <div class="stat-label">Daily Scans</div>
+    </div>
+    <div class="stat">
+        <div class="stat-num">35+</div>
+        <div class="stat-label">Skills Tracked</div>
+    </div>
+    <div class="stat">
+        <div class="stat-num">24/7</div>
+        <div class="stat-label">Always Live</div>
+    </div>
+    <div class="stat">
+        <div class="stat-num">₹0</div>
+        <div class="stat-label">Forever Free</div>
+    </div>
+</div>
+
+<!-- ============== SOURCE TABS ============== -->
+<div class="source-tabs-wrap">
+    <div class="source-tabs">
+        <button class="source-tab active" onclick="filterSource('all')" data-tab="all">
+            🌐 <span>All Jobs</span> <span class="tab-count">7</span>
+        </button>
+        <button class="source-tab" onclick="filterSource('linkedin')" data-tab="linkedin">
+            💼 <span>LinkedIn</span> <span class="tab-count">2</span>
+        </button>
+        <button class="source-tab" onclick="filterSource('naukri')" data-tab="naukri">
+            🇮🇳 <span>Naukri</span> <span class="tab-count">2</span>
+        </button>
+        <button class="source-tab" onclick="filterSource('indeed')" data-tab="indeed">
+            🔍 <span>Indeed</span> <span class="tab-count">1</span>
+        </button>
+        <button class="source-tab" onclick="filterSource('direct')" data-tab="direct">
+            ✉️ <span>Direct</span> <span class="tab-count">2</span>
+        </button>
+    </div>
+</div>
+
+<!-- ============== HOW IT WORKS ============== -->
+<section id="how">
+    <div class="section-title">
+        <div class="pill">🔧 The Engine</div>
+        <h2>How Mustang Mode Works</h2>
+    </div>
+
+    <div class="flow">
+        <div class="step">
+            <div class="step-num">01</div>
+            <div class="step-icon">🌅</div>
+            <h3>Wake Up</h3>
+            <p>GitHub Actions wakes the agent at 8AM, 10AM, 12PM, 7PM IST every day — even when my laptop is off.</p>
+        </div>
+        <div class="step">
+            <div class="step-num">02</div>
+            <div class="step-icon">🔍</div>
+            <h3>Scan Gmail</h3>
+            <p>Connects via OAuth and scans the last 24 hours of emails for job-related content from LinkedIn, Naukri, Indeed.</p>
+        </div>
+        <div class="step">
+            <div class="step-num">03</div>
+            <div class="step-icon">🧠</div>
+            <h3>AI Analysis</h3>
+            <p>Gemini AI reads each job description and scores it against my actual profile — not just keywords.</p>
+        </div>
+        <div class="step">
+            <div class="step-num">04</div>
+            <div class="step-icon">📧</div>
+            <h3>Email Digest</h3>
+            <p>Beautifully formatted HTML digest lands in my inbox with top jobs, AI verdicts, and cover letter openers.</p>
+        </div>
+    </div>
+</section>
+
+<!-- ============== ARCHITECTURE ============== -->
+<section>
+    <div class="section-title">
+        <div class="pill">🏗️ Architecture</div>
+        <h2>Built to Race</h2>
+    </div>
+
+    <div class="arch-diagram">
+        <div class="arch-row">
+            <div class="arch-box">
+                <span class="icon">⏰</span>
+                GitHub Actions<br>
+                <span style="color:#bbb; font-size:11px;">Cron Scheduler</span>
+            </div>
+            <div class="arch-arrow">→</div>
+            <div class="arch-arrow down">↓</div>
+            <div class="arch-box">
+                <span class="icon">🐍</span>
+                Python Agent<br>
+                <span style="color:#bbb; font-size:11px;">daily_agent.py</span>
+            </div>
+            <div class="arch-arrow">→</div>
+            <div class="arch-arrow down">↓</div>
+            <div class="arch-box">
+                <span class="icon">📨</span>
+                Gmail API<br>
+                <span style="color:#bbb; font-size:11px;">OAuth 2.0</span>
+            </div>
+        </div>
+        <div class="arch-row">
+            <div class="arch-box">
+                <span class="icon">📧</span>
+                SMTP Send<br>
+                <span style="color:#bbb; font-size:11px;">HTML Digest</span>
+            </div>
+            <div class="arch-arrow">←</div>
+            <div class="arch-arrow down">↑</div>
+            <div class="arch-box">
+                <span class="icon">🎨</span>
+                HTML Builder<br>
+                <span style="color:#bbb; font-size:11px;">Email Render</span>
+            </div>
+            <div class="arch-arrow">←</div>
+            <div class="arch-arrow down">↑</div>
+            <div class="arch-box">
+                <span class="icon">🧠</span>
+                Gemini AI<br>
+                <span style="color:#bbb; font-size:11px;">Job Scoring</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============== FEATURES ============== -->
+<section id="features">
+    <div class="section-title">
+        <div class="pill">⚡ Features</div>
+        <h2>What's Under the Hood</h2>
+    </div>
+
+    <div class="features-grid">
+        <div class="feature">
+            <div class="feature-icon">🎯</div>
+            <h3>Skill-Based Matching</h3>
+            <p>Tracks 35+ engineering skills (SolidWorks, CATIA, AutoCAD, NX CAD, orthopedic implants, HVAC) for precise matching.</p>
+        </div>
+        <div class="feature">
+            <div class="feature-icon">🧠</div>
+            <h3>AI Reasoning</h3>
+            <p>Gemini AI analyzes each job and explains WHY it fits — not just keyword scores. Includes concerns and red flags.</p>
+        </div>
+        <div class="feature">
+            <div class="feature-icon">📍</div>
+            <h3>Location Intelligence</h3>
+            <p>Boosts Hyderabad jobs by +15%, remote jobs by +12%. Knows Indian cities and recognizes "WFH" patterns.</p>
+        </div>
+        <div class="feature">
+            <div class="feature-icon">💰</div>
+            <h3>Salary Extraction</h3>
+            <p>Recognizes Indian formats (LPA, CTC, ₹), USD ($), ranges, and CTC variants via regex.</p>
+        </div>
+        <div class="feature">
+            <div class="feature-icon">✍️</div>
+            <h3>Cover Letter Openers</h3>
+            <p>For top jobs, AI generates a one-sentence cover letter opener tailored to my background. Copy-paste ready.</p>
+        </div>
+        <div class="feature">
+            <div class="feature-icon">☁️</div>
+            <h3>Cloud Deployed</h3>
+            <p>Runs on GitHub Actions with encrypted secrets. No server to maintain. No laptop needed. ₹0/month forever.</p>
+        </div>
+    </div>
+</section>
+
+<!-- ============== TECH STACK ============== -->
+<section id="stack">
+    <div class="section-title">
+        <div class="pill">🛠️ Tech Stack</div>
+        <h2>Engineered with Care</h2>
+    </div>
+
+    <div class="tech-grid">
+        <div class="tech-badge"><span class="icon">🐍</span>Python 3.11</div>
+        <div class="tech-badge"><span class="icon">📨</span>Gmail API</div>
+        <div class="tech-badge"><span class="icon">🧠</span>Gemini AI</div>
+        <div class="tech-badge"><span class="icon">⚙️</span>GitHub Actions</div>
+        <div class="tech-badge"><span class="icon">🔐</span>OAuth 2.0</div>
+        <div class="tech-badge"><span class="icon">📤</span>SMTP</div>
+        <div class="tech-badge"><span class="icon">🎨</span>HTML/CSS</div>
+        <div class="tech-badge"><span class="icon">⏰</span>Cron</div>
+        <div class="tech-badge"><span class="icon">🖥️</span>Streamlit</div>
+        <div class="tech-badge"><span class="icon">🔍</span>Regex</div>
+    </div>
+</section>
+
+<!-- ============== EMAIL PREVIEW WITH TABS ============== -->
+<section id="preview">
+    <div class="email-mock">
+            <div class="email-header">
+                <div class="logo">🏎️ MUSTANG MODE</div>
+                <div class="subtitle">DAILY DIGEST</div>
+            </div>
+
+            <div class="email-greeting" id="greeting-text">
+                Good morning <strong style="color:#ff6b00;">Anil</strong>! 👋<br>
+                Your AI agent scanned <strong>9 emails</strong> and found <strong style="color:#16a34a;">7 jobs</strong> matching your profile.
+            </div>
+
+            <!-- LinkedIn Job 1 -->
+            <div class="job-card-preview" data-source="linkedin">
+                <div class="source-badge linkedin-badge">💼 LinkedIn</div>
+                <span class="match-badge">96%</span>
+                <div class="job-pole">POLE POSITION #1 | <span class="high">HIGH MATCH</span></div>
+                <div class="job-title">Senior Design Engineer</div>
+                <div class="job-company">Cummins India</div>
+                <div style="font-size:11px; color:#4b5563; margin:8px 0; padding:6px 0; border-top:1px solid #f3f4f6; border-bottom:1px solid #f3f4f6;">
+                    📍 <strong>Bengaluru, Pune, Hyderabad</strong> | 💰 <strong>RS. 12 LPA</strong>
+                </div>
+                <div class="ai-verdict">
+                    <div class="label">🧠 AI VERDICT: 🔥 HIGHLY RECOMMENDED (Score: 96/100)</div>
+                    <div style="margin-top:6px; color:#111;">
+                        Strong match for SolidWorks + mechanical design experience. Cummins values your CAD skills.
+                    </div>
+                </div>
+            </div>
+
+            <!-- LinkedIn Job 2 -->
+            <div class="job-card-preview" data-source="linkedin">
+                <div class="source-badge linkedin-badge">💼 LinkedIn</div>
+                <span class="match-badge" style="background:linear-gradient(135deg,#16a34a,#14532d);">88%</span>
+                <div class="job-pole">POLE POSITION #2 | <span class="high">HIGH MATCH</span></div>
+                <div class="job-title">CAD Engineer</div>
+                <div class="job-company">L&T Technology Services</div>
+                <div style="font-size:11px; color:#4b5563; margin:8px 0;">
+                    📍 <strong>Hyderabad</strong> | 💰 <strong>RS. 8 LPA</strong>
+                </div>
+            </div>
+
+            <!-- Naukri Job 1 -->
+            <div class="job-card-preview" data-source="naukri">
+                <div class="source-badge naukri-badge">🇮🇳 Naukri</div>
+                <span class="match-badge" style="background:linear-gradient(135deg,#16a34a,#14532d);">85%</span>
+                <div class="job-pole">POLE POSITION #3 | <span class="high">HIGH MATCH</span></div>
+                <div class="job-title">Mechanical Design Engineer</div>
+                <div class="job-company">Tata Consultancy Services</div>
+                <div style="font-size:11px; color:#4b5563; margin:8px 0;">
+                    📍 <strong>Hyderabad, Telangana</strong> | 💰 <strong>RS. 6 LPA</strong>
+                </div>
+                <div class="ai-verdict">
+                    <div class="label">🧠 AI VERDICT: 👍 WORTH APPLYING (Score: 85/100)</div>
+                    <div style="margin-top:6px; color:#111;">
+                        Good fit for early career. Hyderabad location matches your preference perfectly.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Naukri Job 2 -->
+            <div class="job-card-preview" data-source="naukri">
+                <div class="source-badge naukri-badge">🇮🇳 Naukri</div>
+                <span class="match-badge" style="background:linear-gradient(135deg,#dc2626,#991b1b);">68%</span>
+                <div class="job-pole">POLE POSITION #4 | <span style="color:#dc2626;">GOOD MATCH</span></div>
+                <div class="job-title">Product Design Engineer</div>
+                <div class="job-company">Wipro Limited</div>
+                <div style="font-size:11px; color:#4b5563; margin:8px 0;">
+                    📍 <strong>Bengaluru, Pune</strong>
+                </div>
+            </div>
+
+            <!-- Indeed Job -->
+            <div class="job-card-preview" data-source="indeed">
+                <div class="source-badge indeed-badge">🔍 Indeed</div>
+                <span class="match-badge" style="background:linear-gradient(135deg,#16a34a,#14532d);">82%</span>
+                <div class="job-pole">POLE POSITION #5 | <span class="high">HIGH MATCH</span></div>
+                <div class="job-title">Junior Mechanical Engineer</div>
+                <div class="job-company">Bosch India</div>
+                <div style="font-size:11px; color:#4b5563; margin:8px 0;">
+                    📍 <strong>Bengaluru, Hyderabad</strong>
+                </div>
+                <div class="ai-verdict">
+                    <div class="label">🧠 AI VERDICT: 🔥 GREAT FOR FRESHERS (Score: 82/100)</div>
+                    <div style="margin-top:6px; color:#111;">
+                        Bosch trains junior engineers well. Your weldment + sheet metal knowledge is a plus.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Direct Email Job 1 -->
+            <div class="job-card-preview" data-source="direct">
+                <div class="source-badge direct-badge">✉️ Direct</div>
+                <span class="match-badge" style="background:linear-gradient(135deg,#dc2626,#991b1b);">75%</span>
+                <div class="job-pole">POLE POSITION #6 | <span style="color:#dc2626;">GOOD MATCH</span></div>
+                <div class="job-title">Mechanical Engineer</div>
+                <div class="job-company">Hubbell Incorporated</div>
+                <div style="font-size:11px; color:#4b5563; margin:8px 0;">
+                    📍 <strong>Bengaluru</strong> | 💰 <strong>Not Mentioned</strong>
+                </div>
+            </div>
+
+            <!-- Direct Email Job 2 -->
+            <div class="job-card-preview" data-source="direct">
+                <div class="source-badge direct-badge">✉️ Direct</div>
+                <span class="match-badge" style="background:linear-gradient(135deg,#f59e0b,#92400e);">52%</span>
+                <div class="job-pole">POLE POSITION #7 | <span style="color:#f59e0b;">POTENTIAL</span></div>
+                <div class="job-title">Trainee Engineer</div>
+                <div class="job-company">Emerson</div>
+                <div style="font-size:11px; color:#4b5563; margin:8px 0;">
+                    📍 <strong>Pune</strong>
+                </div>
+            </div>
+
+            <!-- Empty state -->
+            <div id="no-jobs-msg" style="display:none; text-align:center; padding:40px 20px; color:#6b7280; background:#fff; border-radius:10px; margin-bottom:12px;">
+                <div style="font-size:36px; margin-bottom:10px;">🏁</div>
+                <div style="font-weight:700; color:#dc2626;">No jobs from this source today</div>
+                <div style="font-size:12px; margin-top:6px;">Check back tomorrow for fresh matches!</div>
+            </div>
+
+            <div style="text-align:center; padding:14px; background:#1f1f1f; border-radius:8px; color:#ff6b00; font-size:10px; letter-spacing:3px; font-weight:700;">
+                🏁 TUNED BY PRECISION · DRIVEN BY ENGINEERING 🏁
+            </div>
+        </div>
+</section>
+
+<script>
+function filterSource(source) {
+    // Update active tab
+    document.querySelectorAll('.source-tab').forEach(t => t.classList.remove('active'));
+    document.querySelector('[data-tab="' + source + '"]').classList.add('active');
+    
+    // Filter job cards
+    const cards = document.querySelectorAll('.job-card-preview');
+    let visibleCount = 0;
+    cards.forEach(card => {
+        if (source === 'all' || card.getAttribute('data-source') === source) {
+            card.style.display = '';
+            visibleCount++;
+        } else {
+            card.style.display = 'none';
+        }
+    });
+    
+    // Show/hide empty state
+    const noJobsMsg = document.getElementById('no-jobs-msg');
+    if (visibleCount === 0) {
+        noJobsMsg.style.display = 'block';
+    } else {
+        noJobsMsg.style.display = 'none';
+    }
+    
+    // Update greeting text
+    const greeting = document.getElementById('greeting-text');
+    const sourceNames = {
+        all: 'all sources',
+        linkedin: 'LinkedIn',
+        naukri: 'Naukri',
+        indeed: 'Indeed',
+        direct: 'direct emails'
+    };
+    greeting.innerHTML = 'Good morning <strong style="color:#ff6b00;">Anil</strong>! 👋<br>Showing <strong style="color:#16a34a;">' + visibleCount + ' jobs</strong> from <strong>' + sourceNames[source] + '</strong>.';
+}
+</script>
+
+<!-- ============== FOOTER ============== -->
+<footer>
+    <div><span class="accent">🏎️ MUSTANG MODE v2.0</span> — built in one day, runs forever</div>
+    <div style="margin-top:8px;">© 2026 Anil Gopi Gudapati · 🏁 Made with engineering precision 🏁</div>
+</footer>
+
+</body>
+</html>
