@@ -1,0 +1,21 @@
+{
+  "last_run": null,
+  "last_run_iso": null,
+  "stats": {
+    "total_runs": 0,
+    "total_emails_scanned": 0,
+    "total_jobs_matched": 0,
+    "emails_scanned_7d": 0,
+    "jobs_matched_7d": 0,
+    "avg_match_score": 0,
+    "high_match_count": 0
+  },
+  "recent_sources": {
+    "linkedin": 0,
+    "naukri": 0,
+    "indeed": 0,
+    "foundit": 0,
+    "direct": 0
+  },
+  "history": []
+}
