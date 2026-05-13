@@ -297,6 +297,61 @@ nav {
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
+    align-items: center;
+}
+
+.source-tab-group {
+    display: inline-flex;
+    align-items: stretch;
+    background: rgba(15,5,25,0.7);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,107,0,0.3);
+    border-radius: 30px;
+    overflow: hidden;
+    transition: all 0.3s;
+}
+
+.source-tab-group:hover {
+    border-color: #ff6b00;
+    transform: translateY(-2px);
+}
+
+.source-tab-group .source-tab {
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    transform: none !important;
+}
+
+.source-tab-group .source-tab.active {
+    background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
+    color: #fff;
+    box-shadow: none;
+}
+
+.source-tab-group:has(.source-tab.active) {
+    border-color: #ffd700;
+    box-shadow: 0 4px 20px rgba(255, 107, 0, 0.5);
+}
+
+.source-link {
+    background: rgba(255, 107, 0, 0.15);
+    color: #ffd700;
+    padding: 10px 16px;
+    font-size: 16px;
+    font-weight: 700;
+    border-left: 1px solid rgba(255, 107, 0, 0.4);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+}
+
+.source-link:hover {
+    background: linear-gradient(135deg, #ffd700, #ff6b00);
+    color: #fff;
+    padding-right: 22px;
 }
 
 .source-tab {
@@ -705,15 +760,24 @@ footer .accent {
         <button class="source-tab active" onclick="filterSource('all')" data-tab="all">
             🌐 <span>All Jobs</span> <span class="tab-count">7</span>
         </button>
-        <button class="source-tab" onclick="filterSource('linkedin')" data-tab="linkedin">
-            💼 <span>LinkedIn</span> <span class="tab-count">2</span>
-        </button>
-        <button class="source-tab" onclick="filterSource('naukri')" data-tab="naukri">
-            🇮🇳 <span>Naukri</span> <span class="tab-count">2</span>
-        </button>
-        <button class="source-tab" onclick="filterSource('indeed')" data-tab="indeed">
-            🔍 <span>Indeed</span> <span class="tab-count">1</span>
-        </button>
+        <div class="source-tab-group">
+            <button class="source-tab" onclick="filterSource('linkedin')" data-tab="linkedin">
+                💼 <span>LinkedIn</span> <span class="tab-count">2</span>
+            </button>
+            <a href="https://www.linkedin.com/jobs/" target="_blank" class="source-link" title="Open LinkedIn Jobs">→</a>
+        </div>
+        <div class="source-tab-group">
+            <button class="source-tab" onclick="filterSource('naukri')" data-tab="naukri">
+                🇮🇳 <span>Naukri</span> <span class="tab-count">2</span>
+            </button>
+            <a href="https://www.naukri.com/mynaukri/" target="_blank" class="source-link" title="Open Naukri">→</a>
+        </div>
+        <div class="source-tab-group">
+            <button class="source-tab" onclick="filterSource('indeed')" data-tab="indeed">
+                🔍 <span>Indeed</span> <span class="tab-count">1</span>
+            </button>
+            <a href="https://in.indeed.com/myjobs" target="_blank" class="source-link" title="Open Indeed">→</a>
+        </div>
         <button class="source-tab" onclick="filterSource('direct')" data-tab="direct">
             ✉️ <span>Direct</span> <span class="tab-count">2</span>
         </button>
