@@ -36,7 +36,6 @@ a { color: inherit; text-decoration: none; }
     z-index: -3;
 }
 
-/* Dark overlay so text stays readable on top of car image */
 .bg-overlay {
     position: fixed;
     top: 0; left: 0; right: 0; bottom: 0;
@@ -47,7 +46,6 @@ a { color: inherit; text-decoration: none; }
     z-index: -2;
 }
 
-/* Vignette effect to fade edges */
 .vignette {
     position: fixed;
     top: 0; left: 0; right: 0; bottom: 0;
@@ -56,19 +54,11 @@ a { color: inherit; text-decoration: none; }
     pointer-events: none;
 }
 
-/* Glowing racing stripe at top */
 .racing-stripes {
     position: fixed;
     top: 0; left: 0; right: 0;
     height: 4px;
-    background: linear-gradient(90deg, 
-        transparent 0%, 
-        #ffd700 15%, 
-        #ff6b00 30%, 
-        #dc2626 50%, 
-        #ff6b00 70%, 
-        #ffd700 85%, 
-        transparent 100%);
+    background: linear-gradient(90deg, transparent 0%, #ffd700 15%, #ff6b00 30%, #dc2626 50%, #ff6b00 70%, #ffd700 85%, transparent 100%);
     z-index: 100;
     box-shadow: 0 0 20px rgba(255, 107, 0, 0.6);
 }
@@ -101,7 +91,6 @@ nav {
     -webkit-text-fill-color: transparent;
     background-clip: text;
     letter-spacing: 3px;
-    text-shadow: 0 0 30px rgba(255, 107, 0, 0.5);
 }
 
 .brand span { color: #fff; -webkit-text-fill-color: #fff; }
@@ -117,10 +106,8 @@ nav {
 
 .nav-links a:hover {
     color: #ff6b00;
-    text-shadow: 0 0 10px rgba(255, 107, 0, 0.6);
 }
 
-/* Tiny creator avatar in nav */
 .nav-creator {
     display: inline-flex !important;
     align-items: center;
@@ -130,23 +117,11 @@ nav {
     border: 1px solid rgba(255,107,0,0.4);
     border-radius: 30px;
     transition: all 0.3s;
-    text-decoration: none;
 }
 
 .nav-creator:hover {
     background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
     border-color: #ffd700;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 15px rgba(255, 107, 0, 0.4);
-}
-
-.nav-creator:hover .nav-name {
-    color: #fff !important;
-    text-shadow: none !important;
-}
-
-.nav-creator:hover .nav-arrow {
-    transform: translateX(3px);
 }
 
 .nav-avatar {
@@ -160,20 +135,12 @@ nav {
     font-family: 'Audiowide', cursive;
     font-size: 12px;
     color: #fff;
-    box-shadow: 0 2px 10px rgba(255, 107, 0, 0.4);
 }
 
 .nav-name {
     color: #fff;
     font-size: 13px;
     font-weight: 600;
-    letter-spacing: 1px;
-}
-
-.nav-arrow {
-    display: inline-block;
-    transition: transform 0.3s;
-    margin-left: 4px;
 }
 
 /* ============= HERO ============= */
@@ -183,21 +150,6 @@ nav {
     padding: 20px 24px 30px;
     text-align: center;
     position: relative;
-    min-height: auto;
-}
-
-/* Empty space to let the BMW shine through */
-.car-space {
-    height: 350px;
-    width: 100%;
-}
-
-/* CTA buttons positioned above the stats */
-.cta-wrap {
-    max-width: 1200px;
-    margin: 0 auto 40px;
-    padding: 0 24px;
-    text-align: center;
 }
 
 .tagline-pill {
@@ -213,7 +165,6 @@ nav {
     margin-bottom: 20px;
     text-transform: uppercase;
     backdrop-filter: blur(10px);
-    box-shadow: 0 0 25px rgba(255,107,0,0.3);
 }
 
 .hero h1 {
@@ -223,10 +174,7 @@ nav {
     margin-bottom: 20px;
     letter-spacing: 1.5px;
     color: #fff;
-    text-shadow: 
-        0 0 40px rgba(255, 107, 0, 0.6),
-        0 4px 30px rgba(0, 0, 0, 0.9),
-        2px 2px 0 rgba(0,0,0,0.5);
+    text-shadow: 0 0 40px rgba(255, 107, 0, 0.6), 0 4px 30px rgba(0, 0, 0, 0.9);
 }
 
 .hero h1 .accent {
@@ -242,21 +190,19 @@ nav {
     font-size: 14px;
     letter-spacing: 5px;
     margin-bottom: 28px;
-    text-shadow: 0 0 20px rgba(255, 215, 0, 0.5), 0 2px 10px rgba(0,0,0,0.8);
+    text-shadow: 0 0 20px rgba(255, 215, 0, 0.5);
 }
 
-.hero-desc {
-    max-width: 700px;
+.car-space {
+    height: 350px;
+    width: 100%;
+}
+
+.cta-wrap {
+    max-width: 1200px;
     margin: 0 auto 40px;
-    font-size: 17px;
-    color: #eee;
-    line-height: 1.7;
-    text-shadow: 0 2px 10px rgba(0,0,0,0.8);
-    background: rgba(10,0,20,0.4);
-    backdrop-filter: blur(10px);
-    padding: 20px 24px;
-    border-radius: 12px;
-    border: 1px solid rgba(255,107,0,0.2);
+    padding: 0 24px;
+    text-align: center;
 }
 
 .cta-row {
@@ -287,7 +233,6 @@ nav {
 
 .btn-primary:hover {
     transform: translateY(-3px);
-    box-shadow: 0 8px 35px rgba(255, 107, 0, 0.7);
 }
 
 .btn-secondary {
@@ -295,12 +240,6 @@ nav {
     color: #fff;
     border: 1px solid rgba(255,107,0,0.5);
     backdrop-filter: blur(10px);
-}
-
-.btn-secondary:hover {
-    background: rgba(255, 107, 0, 0.15);
-    border-color: #ff6b00;
-    box-shadow: 0 0 25px rgba(255, 107, 0, 0.4);
 }
 
 /* ============= STATS ============= */
@@ -326,8 +265,6 @@ nav {
 .stat:hover {
     transform: translateY(-4px);
     border-color: #ff6b00;
-    box-shadow: 0 8px 30px rgba(255, 107, 0, 0.3);
-    background: rgba(30,10,30,0.7);
 }
 
 .stat-num {
@@ -348,6 +285,57 @@ nav {
     text-transform: uppercase;
 }
 
+/* ============= SOURCE TABS ============= */
+.source-tabs-wrap {
+    max-width: 1200px;
+    margin: 40px auto 60px;
+    padding: 0 24px;
+}
+
+.source-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.source-tab {
+    background: rgba(15,5,25,0.7);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,107,0,0.3);
+    color: #ddd;
+    padding: 10px 18px;
+    border-radius: 30px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: inherit;
+}
+
+.source-tab:hover {
+    border-color: #ff6b00;
+    transform: translateY(-2px);
+}
+
+.source-tab.active {
+    background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
+    border-color: #ffd700;
+    color: #fff;
+    box-shadow: 0 4px 20px rgba(255, 107, 0, 0.5);
+}
+
+.tab-count {
+    background: rgba(255,255,255,0.2);
+    padding: 2px 9px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 700;
+}
+
 /* ============= SECTIONS ============= */
 section {
     max-width: 1200px;
@@ -356,10 +344,7 @@ section {
     position: relative;
 }
 
-.section-title {
-    text-align: center;
-    margin-bottom: 60px;
-}
+.section-title { text-align: center; margin-bottom: 60px; }
 
 .section-title .pill {
     display: inline-block;
@@ -376,9 +361,6 @@ section {
     font-size: clamp(28px, 4vw, 42px);
     color: #fff;
     letter-spacing: 2px;
-    text-shadow: 
-        0 0 30px rgba(255, 107, 0, 0.4),
-        0 2px 10px rgba(0,0,0,0.8);
 }
 
 /* ============= HOW IT WORKS ============= */
@@ -397,34 +379,14 @@ section {
     text-align: center;
     transition: all 0.3s;
     position: relative;
-    overflow: hidden;
 }
-
-.step::after {
-    content: '';
-    position: absolute;
-    bottom: 0; left: 0; right: 0;
-    height: 3px;
-    background: linear-gradient(90deg, #ffd700, #ff6b00, #dc2626);
-    transform: scaleX(0);
-    transition: transform 0.4s;
-}
-
-.step:hover::after { transform: scaleX(1); }
 
 .step:hover {
     transform: translateY(-6px);
     border-color: #ff6b00;
-    box-shadow: 0 10px 40px rgba(255, 107, 0, 0.3);
-    background: rgba(30,10,30,0.85);
 }
 
-.step-icon {
-    font-size: 40px;
-    margin-bottom: 16px;
-    display: inline-block;
-    filter: drop-shadow(0 0 15px rgba(255, 107, 0, 0.5));
-}
+.step-icon { font-size: 40px; margin-bottom: 16px; }
 
 .step-num {
     position: absolute;
@@ -439,18 +401,8 @@ section {
     opacity: 0.5;
 }
 
-.step h3 {
-    color: #fff;
-    font-size: 17px;
-    font-weight: 700;
-    margin-bottom: 10px;
-}
-
-.step p {
-    color: #ccc;
-    font-size: 13px;
-    line-height: 1.6;
-}
+.step h3 { color: #fff; font-size: 17px; font-weight: 700; margin-bottom: 10px; }
+.step p { color: #ccc; font-size: 13px; }
 
 /* ============= FEATURES ============= */
 .features-grid {
@@ -470,8 +422,6 @@ section {
 
 .feature:hover {
     border-color: #ff6b00;
-    background: rgba(40,15,30,0.85);
-    box-shadow: 0 10px 40px rgba(255, 107, 0, 0.25);
 }
 
 .feature-icon {
@@ -484,21 +434,10 @@ section {
     justify-content: center;
     font-size: 24px;
     margin-bottom: 18px;
-    box-shadow: 0 4px 20px rgba(255, 107, 0, 0.5);
 }
 
-.feature h3 {
-    color: #fff;
-    font-size: 17px;
-    font-weight: 700;
-    margin-bottom: 10px;
-}
-
-.feature p {
-    color: #ccc;
-    font-size: 14px;
-    line-height: 1.6;
-}
+.feature h3 { color: #fff; font-size: 17px; font-weight: 700; margin-bottom: 10px; }
+.feature p { color: #ccc; font-size: 14px; }
 
 /* ============= TECH STACK ============= */
 .tech-grid {
@@ -522,113 +461,55 @@ section {
 
 .tech-badge:hover {
     background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
-    transform: translateY(-3px);
-    box-shadow: 0 6px 20px rgba(255, 107, 0, 0.5);
-    border-color: #ffd700;
 }
 
-.tech-badge .icon { margin-right: 8px; }
-
-/* ============= EMAIL PREVIEW ============= */
-.source-tabs-wrap {
-    max-width: 1200px;
-    margin: 40px auto 60px;
-    padding: 0 24px;
-}
-
-.source-tabs {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-    margin: 0;
-}
-
-.source-tab {
-    background: rgba(15,5,25,0.7);
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255,107,0,0.3);
-    color: #ddd;
-    padding: 10px 18px;
-    border-radius: 30px;
-    font-size: 13px;
-    font-weight: 600;
-    cursor: pointer;
-    transition: all 0.3s;
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    font-family: inherit;
-}
-
-.source-tab:hover {
-    border-color: #ff6b00;
-    background: rgba(40,15,30,0.7);
-    transform: translateY(-2px);
-}
-
-.source-tab.active {
-    background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
-    border-color: #ffd700;
-    color: #fff;
-    box-shadow: 0 4px 20px rgba(255, 107, 0, 0.5);
-}
-
-.tab-count {
-    background: rgba(255,255,255,0.2);
-    padding: 2px 9px;
-    border-radius: 12px;
-    font-size: 11px;
-    font-weight: 700;
-}
-
-.source-tab.active .tab-count {
-    background: rgba(255,255,255,0.3);
-}
-
-.source-badge {
-    display: inline-block;
-    font-size: 10px;
-    font-weight: 700;
-    padding: 3px 10px;
-    border-radius: 12px;
-    margin-bottom: 8px;
-    letter-spacing: 0.5px;
-}
-
-.linkedin-badge {
-    background: #e0f2fe;
-    color: #0077b5;
-    border: 1px solid #0077b5;
-}
-
-.naukri-badge {
-    background: #fef3c7;
-    color: #d97706;
-    border: 1px solid #f59e0b;
-}
-
-.indeed-badge {
-    background: #dbeafe;
-    color: #1e40af;
-    border: 1px solid #2563eb;
-}
-
-.direct-badge {
-    background: #f3e8ff;
-    color: #7e22ce;
-    border: 1px solid #a855f7;
-}
-
-.preview-wrap {
+/* ============= ARCHITECTURE ============= */
+.arch-diagram {
     background: rgba(15,5,25,0.85);
     backdrop-filter: blur(15px);
     border: 1px solid rgba(255,107,0,0.4);
-    border-radius: 16px;
+    border-radius: 14px;
     padding: 40px;
-    box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+    text-align: center;
 }
 
+.arch-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.arch-box {
+    background: rgba(40,10,30,0.8);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,107,0,0.5);
+    border-radius: 12px;
+    padding: 20px 28px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 13px;
+    min-width: 160px;
+}
+
+.arch-box .icon { font-size: 28px; display: block; margin-bottom: 8px; }
+
+.arch-arrow {
+    color: #ff6b00;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.arch-arrow.down { display: none; }
+
+@media (max-width: 768px) {
+    .arch-arrow { display: none; }
+    .arch-arrow.down { display: block; }
+}
+
+/* ============= EMAIL PREVIEW ============= */
 .email-mock {
     background: #f3f4f6;
     border-radius: 12px;
@@ -681,27 +562,10 @@ section {
     margin-bottom: 12px;
 }
 
-.job-pole {
-    font-size: 9px;
-    color: #9ca3af;
-    letter-spacing: 2px;
-    font-weight: 700;
-}
-
+.job-pole { font-size: 9px; color: #9ca3af; letter-spacing: 2px; font-weight: 700; }
 .job-pole .high { color: #16a34a; }
-
-.job-title {
-    color: #111;
-    font-size: 15px;
-    font-weight: 700;
-    margin-top: 4px;
-}
-
-.job-company {
-    color: #ff6b00;
-    font-size: 12px;
-    font-weight: 700;
-}
+.job-title { color: #111; font-size: 15px; font-weight: 700; margin-top: 4px; }
+.job-company { color: #ff6b00; font-size: 12px; font-weight: 700; }
 
 .match-badge {
     background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
@@ -723,142 +587,21 @@ section {
     color: #14532d;
 }
 
-.ai-verdict .label {
-    color: #16a34a;
+.ai-verdict .label { color: #16a34a; font-weight: 700; letter-spacing: 1px; }
+
+.source-badge {
+    display: inline-block;
+    font-size: 10px;
     font-weight: 700;
-    letter-spacing: 1px;
-}
-
-/* ============= ARCHITECTURE ============= */
-.arch-diagram {
-    background: rgba(15,5,25,0.85);
-    backdrop-filter: blur(15px);
-    border: 1px solid rgba(255,107,0,0.4);
-    border-radius: 14px;
-    padding: 40px;
-    text-align: center;
-}
-
-.arch-row {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin: 20px 0;
-}
-
-.arch-box {
-    background: rgba(40,10,30,0.8);
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255,107,0,0.5);
+    padding: 3px 10px;
     border-radius: 12px;
-    padding: 20px 28px;
-    color: #fff;
-    font-weight: 600;
-    font-size: 13px;
-    min-width: 160px;
-    box-shadow: 0 4px 15px rgba(255, 107, 0, 0.15);
-}
-
-.arch-box .icon {
-    font-size: 28px;
-    display: block;
     margin-bottom: 8px;
-    filter: drop-shadow(0 0 10px rgba(255, 107, 0, 0.5));
 }
 
-.arch-arrow {
-    color: #ff6b00;
-    font-size: 28px;
-    font-weight: 700;
-    text-shadow: 0 0 15px rgba(255, 107, 0, 0.6);
-}
-
-.arch-arrow.down { display: none; }
-
-@media (max-width: 768px) {
-    .arch-arrow { display: none; }
-    .arch-arrow.down { display: block; }
-}
-
-/* ============= CREATOR ============= */
-.creator {
-    text-align: center;
-    background: rgba(40,10,30,0.7);
-    backdrop-filter: blur(15px);
-    border: 1px solid rgba(255,107,0,0.4);
-    border-radius: 16px;
-    padding: 60px 40px;
-    box-shadow: 0 0 60px rgba(255, 107, 0, 0.1);
-}
-
-.avatar {
-    width: 90px;
-    height: 90px;
-    background: linear-gradient(135deg, #ffd700 0%, #ff6b00 50%, #dc2626 100%);
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0 auto 24px;
-    font-family: 'Audiowide', cursive;
-    font-size: 32px;
-    color: #fff;
-    box-shadow: 0 8px 30px rgba(255, 107, 0, 0.6);
-}
-
-.creator h3 {
-    font-family: 'Audiowide', cursive;
-    color: #fff;
-    font-size: 28px;
-    letter-spacing: 2px;
-    margin-bottom: 8px;
-    text-shadow: 0 0 20px rgba(255, 107, 0, 0.4);
-}
-
-.creator-title {
-    color: #ff6b00;
-    font-weight: 600;
-    font-size: 15px;
-    margin-bottom: 8px;
-    letter-spacing: 1px;
-}
-
-.creator-loc {
-    color: #ccc;
-    font-size: 14px;
-    margin-bottom: 30px;
-}
-
-.social-links {
-    display: flex;
-    justify-content: center;
-    gap: 14px;
-    flex-wrap: wrap;
-}
-
-.social-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 12px 22px;
-    background: rgba(0,0,0,0.5);
-    border: 1px solid rgba(255,107,0,0.4);
-    border-radius: 8px;
-    color: #fff;
-    font-size: 13px;
-    font-weight: 600;
-    transition: all 0.3s;
-    backdrop-filter: blur(10px);
-}
-
-.social-btn:hover {
-    background: linear-gradient(135deg, #ff6b00 0%, #dc2626 100%);
-    border-color: #ffd700;
-    transform: translateY(-3px);
-    box-shadow: 0 6px 20px rgba(255, 107, 0, 0.5);
-}
+.linkedin-badge { background: #e0f2fe; color: #0077b5; border: 1px solid #0077b5; }
+.naukri-badge { background: #fef3c7; color: #d97706; border: 1px solid #f59e0b; }
+.indeed-badge { background: #dbeafe; color: #1e40af; border: 1px solid #2563eb; }
+.direct-badge { background: #f3e8ff; color: #7e22ce; border: 1px solid #a855f7; }
 
 /* ============= FOOTER ============= */
 footer {
@@ -881,15 +624,11 @@ footer .accent {
     font-weight: 700;
 }
 
-/* ============= RESPONSIVE ============= */
 @media (max-width: 768px) {
     .nav-links { display: none; }
     .hero { padding: 20px 20px 20px; }
     .car-space { height: 200px; }
-    .cta-wrap { margin-bottom: 30px; }
-    .hero-desc { font-size: 16px; }
     section { padding: 50px 20px; }
-    .preview-wrap { padding: 20px; }
     .arch-diagram { padding: 24px; }
     .mustang-bg { background-attachment: scroll; }
 }
@@ -897,15 +636,12 @@ footer .accent {
 </head>
 <body>
 
-<!-- Mustang wallpaper background layers -->
 <div class="mustang-bg"></div>
 <div class="bg-overlay"></div>
 <div class="vignette"></div>
-
-<!-- Top racing stripe -->
 <div class="racing-stripes"></div>
 
-<!-- ============== NAV ============== -->
+<!-- NAV -->
 <nav>
     <div class="nav-container">
         <div class="brand">🏎️ MUSTANG <span>MODE</span></div>
@@ -916,23 +652,22 @@ footer .accent {
             <a href="#preview">Preview</a>
             <a href="https://www.linkedin.com/in/anil-gopi-gudapati" target="_blank" class="nav-creator">
                 <span class="nav-avatar">AG</span>
-                <span class="nav-name">Anil <span class="nav-arrow">→</span></span>
+                <span class="nav-name">Anil →</span>
             </a>
         </div>
     </div>
 </nav>
 
-<!-- ============== HERO ============== -->
+<!-- HERO -->
 <section class="hero">
     <div class="tagline-pill">⚡ Autonomous AI Job Agent</div>
     <h1>The AI that Hunts <span class="accent">Jobs</span> While I Sleep</h1>
     <div class="hero-quote">🏁 TUNED BY PRECISION · DRIVEN BY ENGINEERING 🏁</div>
 </section>
 
-<!-- ============== CAR SHOWCASE SPACE ============== -->
 <div class="car-space"></div>
 
-<!-- ============== CTA BUTTONS ============== -->
+<!-- CTA BUTTONS -->
 <div class="cta-wrap">
     <div class="cta-row">
         <a href="https://github.com/anilgopi-17608/mustang-mode-agent" class="btn btn-primary" target="_blank">
@@ -944,7 +679,7 @@ footer .accent {
     </div>
 </div>
 
-<!-- ============== STATS ============== -->
+<!-- STATS -->
 <div class="stats">
     <div class="stat">
         <div class="stat-num">4×</div>
@@ -964,7 +699,7 @@ footer .accent {
     </div>
 </div>
 
-<!-- ============== SOURCE TABS ============== -->
+<!-- SOURCE TABS -->
 <div class="source-tabs-wrap">
     <div class="source-tabs">
         <button class="source-tab active" onclick="filterSource('all')" data-tab="all">
@@ -985,291 +720,239 @@ footer .accent {
     </div>
 </div>
 
-<!-- ============== HOW IT WORKS ============== -->
+<!-- HOW IT WORKS -->
 <section id="how">
     <div class="section-title">
         <div class="pill">🔧 The Engine</div>
         <h2>How Mustang Mode Works</h2>
     </div>
-
     <div class="flow">
         <div class="step">
             <div class="step-num">01</div>
             <div class="step-icon">🌅</div>
             <h3>Wake Up</h3>
-            <p>GitHub Actions wakes the agent at 8AM, 10AM, 12PM, 7PM IST every day — even when my laptop is off.</p>
+            <p>GitHub Actions wakes the agent at 8AM, 10AM, 12PM, 7PM IST every day.</p>
         </div>
         <div class="step">
             <div class="step-num">02</div>
             <div class="step-icon">🔍</div>
             <h3>Scan Gmail</h3>
-            <p>Connects via OAuth and scans the last 24 hours of emails for job-related content from LinkedIn, Naukri, Indeed.</p>
+            <p>Connects via OAuth and scans the last 24 hours for job-related emails.</p>
         </div>
         <div class="step">
             <div class="step-num">03</div>
             <div class="step-icon">🧠</div>
             <h3>AI Analysis</h3>
-            <p>Gemini AI reads each job description and scores it against my actual profile — not just keywords.</p>
+            <p>Gemini AI reads each job and scores it against my actual profile.</p>
         </div>
         <div class="step">
             <div class="step-num">04</div>
             <div class="step-icon">📧</div>
             <h3>Email Digest</h3>
-            <p>Beautifully formatted HTML digest lands in my inbox with top jobs, AI verdicts, and cover letter openers.</p>
+            <p>Beautifully formatted HTML digest lands in my inbox with AI verdicts.</p>
         </div>
     </div>
 </section>
 
-<!-- ============== ARCHITECTURE ============== -->
+<!-- ARCHITECTURE -->
 <section>
     <div class="section-title">
         <div class="pill">🏗️ Architecture</div>
         <h2>Built to Race</h2>
     </div>
-
     <div class="arch-diagram">
         <div class="arch-row">
             <div class="arch-box">
-                <span class="icon">⏰</span>
-                GitHub Actions<br>
+                <span class="icon">⏰</span>GitHub Actions<br>
                 <span style="color:#bbb; font-size:11px;">Cron Scheduler</span>
             </div>
             <div class="arch-arrow">→</div>
             <div class="arch-arrow down">↓</div>
             <div class="arch-box">
-                <span class="icon">🐍</span>
-                Python Agent<br>
+                <span class="icon">🐍</span>Python Agent<br>
                 <span style="color:#bbb; font-size:11px;">daily_agent.py</span>
             </div>
             <div class="arch-arrow">→</div>
             <div class="arch-arrow down">↓</div>
             <div class="arch-box">
-                <span class="icon">📨</span>
-                Gmail API<br>
+                <span class="icon">📨</span>Gmail API<br>
                 <span style="color:#bbb; font-size:11px;">OAuth 2.0</span>
             </div>
         </div>
         <div class="arch-row">
             <div class="arch-box">
-                <span class="icon">📧</span>
-                SMTP Send<br>
+                <span class="icon">📧</span>SMTP Send<br>
                 <span style="color:#bbb; font-size:11px;">HTML Digest</span>
             </div>
             <div class="arch-arrow">←</div>
             <div class="arch-arrow down">↑</div>
             <div class="arch-box">
-                <span class="icon">🎨</span>
-                HTML Builder<br>
+                <span class="icon">🎨</span>HTML Builder<br>
                 <span style="color:#bbb; font-size:11px;">Email Render</span>
             </div>
             <div class="arch-arrow">←</div>
             <div class="arch-arrow down">↑</div>
             <div class="arch-box">
-                <span class="icon">🧠</span>
-                Gemini AI<br>
+                <span class="icon">🧠</span>Gemini AI<br>
                 <span style="color:#bbb; font-size:11px;">Job Scoring</span>
             </div>
         </div>
     </div>
 </section>
 
-<!-- ============== FEATURES ============== -->
+<!-- FEATURES -->
 <section id="features">
     <div class="section-title">
         <div class="pill">⚡ Features</div>
         <h2>What's Under the Hood</h2>
     </div>
-
     <div class="features-grid">
         <div class="feature">
             <div class="feature-icon">🎯</div>
             <h3>Skill-Based Matching</h3>
-            <p>Tracks 35+ engineering skills (SolidWorks, CATIA, AutoCAD, NX CAD, orthopedic implants, HVAC) for precise matching.</p>
+            <p>Tracks 35+ engineering skills (SolidWorks, CATIA, AutoCAD) for precise matching.</p>
         </div>
         <div class="feature">
             <div class="feature-icon">🧠</div>
             <h3>AI Reasoning</h3>
-            <p>Gemini AI analyzes each job and explains WHY it fits — not just keyword scores. Includes concerns and red flags.</p>
+            <p>Gemini AI analyzes each job and explains WHY it fits — not just keywords.</p>
         </div>
         <div class="feature">
             <div class="feature-icon">📍</div>
             <h3>Location Intelligence</h3>
-            <p>Boosts Hyderabad jobs by +15%, remote jobs by +12%. Knows Indian cities and recognizes "WFH" patterns.</p>
+            <p>Boosts Hyderabad jobs by +15%, remote jobs by +12%.</p>
         </div>
         <div class="feature">
             <div class="feature-icon">💰</div>
             <h3>Salary Extraction</h3>
-            <p>Recognizes Indian formats (LPA, CTC, ₹), USD ($), ranges, and CTC variants via regex.</p>
+            <p>Recognizes Indian formats (LPA, CTC, ₹), USD ($), and ranges via regex.</p>
         </div>
         <div class="feature">
             <div class="feature-icon">✍️</div>
             <h3>Cover Letter Openers</h3>
-            <p>For top jobs, AI generates a one-sentence cover letter opener tailored to my background. Copy-paste ready.</p>
+            <p>AI generates a one-sentence cover letter opener tailored to my background.</p>
         </div>
         <div class="feature">
             <div class="feature-icon">☁️</div>
             <h3>Cloud Deployed</h3>
-            <p>Runs on GitHub Actions with encrypted secrets. No server to maintain. No laptop needed. ₹0/month forever.</p>
+            <p>Runs on GitHub Actions with encrypted secrets. ₹0/month forever.</p>
         </div>
     </div>
 </section>
 
-<!-- ============== TECH STACK ============== -->
+<!-- TECH STACK -->
 <section id="stack">
     <div class="section-title">
         <div class="pill">🛠️ Tech Stack</div>
         <h2>Engineered with Care</h2>
     </div>
-
     <div class="tech-grid">
-        <div class="tech-badge"><span class="icon">🐍</span>Python 3.11</div>
-        <div class="tech-badge"><span class="icon">📨</span>Gmail API</div>
-        <div class="tech-badge"><span class="icon">🧠</span>Gemini AI</div>
-        <div class="tech-badge"><span class="icon">⚙️</span>GitHub Actions</div>
-        <div class="tech-badge"><span class="icon">🔐</span>OAuth 2.0</div>
-        <div class="tech-badge"><span class="icon">📤</span>SMTP</div>
-        <div class="tech-badge"><span class="icon">🎨</span>HTML/CSS</div>
-        <div class="tech-badge"><span class="icon">⏰</span>Cron</div>
-        <div class="tech-badge"><span class="icon">🖥️</span>Streamlit</div>
-        <div class="tech-badge"><span class="icon">🔍</span>Regex</div>
+        <div class="tech-badge">🐍 Python 3.11</div>
+        <div class="tech-badge">📨 Gmail API</div>
+        <div class="tech-badge">🧠 Gemini AI</div>
+        <div class="tech-badge">⚙️ GitHub Actions</div>
+        <div class="tech-badge">🔐 OAuth 2.0</div>
+        <div class="tech-badge">📤 SMTP</div>
+        <div class="tech-badge">🎨 HTML/CSS</div>
+        <div class="tech-badge">⏰ Cron</div>
+        <div class="tech-badge">🖥️ Streamlit</div>
+        <div class="tech-badge">🔍 Regex</div>
     </div>
 </section>
 
-<!-- ============== EMAIL PREVIEW WITH TABS ============== -->
+<!-- EMAIL PREVIEW -->
 <section id="preview">
     <div class="email-mock">
-            <div class="email-header">
-                <div class="logo">🏎️ MUSTANG MODE</div>
-                <div class="subtitle">DAILY DIGEST</div>
-            </div>
-
-            <div class="email-greeting" id="greeting-text">
-                Good morning <strong style="color:#ff6b00;">Anil</strong>! 👋<br>
-                Your AI agent scanned <strong>9 emails</strong> and found <strong style="color:#16a34a;">7 jobs</strong> matching your profile.
-            </div>
-
-            <!-- LinkedIn Job 1 -->
-            <div class="job-card-preview" data-source="linkedin">
-                <div class="source-badge linkedin-badge">💼 LinkedIn</div>
-                <span class="match-badge">96%</span>
-                <div class="job-pole">POLE POSITION #1 | <span class="high">HIGH MATCH</span></div>
-                <div class="job-title">Senior Design Engineer</div>
-                <div class="job-company">Cummins India</div>
-                <div style="font-size:11px; color:#4b5563; margin:8px 0; padding:6px 0; border-top:1px solid #f3f4f6; border-bottom:1px solid #f3f4f6;">
-                    📍 <strong>Bengaluru, Pune, Hyderabad</strong> | 💰 <strong>RS. 12 LPA</strong>
-                </div>
-                <div class="ai-verdict">
-                    <div class="label">🧠 AI VERDICT: 🔥 HIGHLY RECOMMENDED (Score: 96/100)</div>
-                    <div style="margin-top:6px; color:#111;">
-                        Strong match for SolidWorks + mechanical design experience. Cummins values your CAD skills.
-                    </div>
-                </div>
-            </div>
-
-            <!-- LinkedIn Job 2 -->
-            <div class="job-card-preview" data-source="linkedin">
-                <div class="source-badge linkedin-badge">💼 LinkedIn</div>
-                <span class="match-badge" style="background:linear-gradient(135deg,#16a34a,#14532d);">88%</span>
-                <div class="job-pole">POLE POSITION #2 | <span class="high">HIGH MATCH</span></div>
-                <div class="job-title">CAD Engineer</div>
-                <div class="job-company">L&T Technology Services</div>
-                <div style="font-size:11px; color:#4b5563; margin:8px 0;">
-                    📍 <strong>Hyderabad</strong> | 💰 <strong>RS. 8 LPA</strong>
-                </div>
-            </div>
-
-            <!-- Naukri Job 1 -->
-            <div class="job-card-preview" data-source="naukri">
-                <div class="source-badge naukri-badge">🇮🇳 Naukri</div>
-                <span class="match-badge" style="background:linear-gradient(135deg,#16a34a,#14532d);">85%</span>
-                <div class="job-pole">POLE POSITION #3 | <span class="high">HIGH MATCH</span></div>
-                <div class="job-title">Mechanical Design Engineer</div>
-                <div class="job-company">Tata Consultancy Services</div>
-                <div style="font-size:11px; color:#4b5563; margin:8px 0;">
-                    📍 <strong>Hyderabad, Telangana</strong> | 💰 <strong>RS. 6 LPA</strong>
-                </div>
-                <div class="ai-verdict">
-                    <div class="label">🧠 AI VERDICT: 👍 WORTH APPLYING (Score: 85/100)</div>
-                    <div style="margin-top:6px; color:#111;">
-                        Good fit for early career. Hyderabad location matches your preference perfectly.
-                    </div>
-                </div>
-            </div>
-
-            <!-- Naukri Job 2 -->
-            <div class="job-card-preview" data-source="naukri">
-                <div class="source-badge naukri-badge">🇮🇳 Naukri</div>
-                <span class="match-badge" style="background:linear-gradient(135deg,#dc2626,#991b1b);">68%</span>
-                <div class="job-pole">POLE POSITION #4 | <span style="color:#dc2626;">GOOD MATCH</span></div>
-                <div class="job-title">Product Design Engineer</div>
-                <div class="job-company">Wipro Limited</div>
-                <div style="font-size:11px; color:#4b5563; margin:8px 0;">
-                    📍 <strong>Bengaluru, Pune</strong>
-                </div>
-            </div>
-
-            <!-- Indeed Job -->
-            <div class="job-card-preview" data-source="indeed">
-                <div class="source-badge indeed-badge">🔍 Indeed</div>
-                <span class="match-badge" style="background:linear-gradient(135deg,#16a34a,#14532d);">82%</span>
-                <div class="job-pole">POLE POSITION #5 | <span class="high">HIGH MATCH</span></div>
-                <div class="job-title">Junior Mechanical Engineer</div>
-                <div class="job-company">Bosch India</div>
-                <div style="font-size:11px; color:#4b5563; margin:8px 0;">
-                    📍 <strong>Bengaluru, Hyderabad</strong>
-                </div>
-                <div class="ai-verdict">
-                    <div class="label">🧠 AI VERDICT: 🔥 GREAT FOR FRESHERS (Score: 82/100)</div>
-                    <div style="margin-top:6px; color:#111;">
-                        Bosch trains junior engineers well. Your weldment + sheet metal knowledge is a plus.
-                    </div>
-                </div>
-            </div>
-
-            <!-- Direct Email Job 1 -->
-            <div class="job-card-preview" data-source="direct">
-                <div class="source-badge direct-badge">✉️ Direct</div>
-                <span class="match-badge" style="background:linear-gradient(135deg,#dc2626,#991b1b);">75%</span>
-                <div class="job-pole">POLE POSITION #6 | <span style="color:#dc2626;">GOOD MATCH</span></div>
-                <div class="job-title">Mechanical Engineer</div>
-                <div class="job-company">Hubbell Incorporated</div>
-                <div style="font-size:11px; color:#4b5563; margin:8px 0;">
-                    📍 <strong>Bengaluru</strong> | 💰 <strong>Not Mentioned</strong>
-                </div>
-            </div>
-
-            <!-- Direct Email Job 2 -->
-            <div class="job-card-preview" data-source="direct">
-                <div class="source-badge direct-badge">✉️ Direct</div>
-                <span class="match-badge" style="background:linear-gradient(135deg,#f59e0b,#92400e);">52%</span>
-                <div class="job-pole">POLE POSITION #7 | <span style="color:#f59e0b;">POTENTIAL</span></div>
-                <div class="job-title">Trainee Engineer</div>
-                <div class="job-company">Emerson</div>
-                <div style="font-size:11px; color:#4b5563; margin:8px 0;">
-                    📍 <strong>Pune</strong>
-                </div>
-            </div>
-
-            <!-- Empty state -->
-            <div id="no-jobs-msg" style="display:none; text-align:center; padding:40px 20px; color:#6b7280; background:#fff; border-radius:10px; margin-bottom:12px;">
-                <div style="font-size:36px; margin-bottom:10px;">🏁</div>
-                <div style="font-weight:700; color:#dc2626;">No jobs from this source today</div>
-                <div style="font-size:12px; margin-top:6px;">Check back tomorrow for fresh matches!</div>
-            </div>
-
-            <div style="text-align:center; padding:14px; background:#1f1f1f; border-radius:8px; color:#ff6b00; font-size:10px; letter-spacing:3px; font-weight:700;">
-                🏁 TUNED BY PRECISION · DRIVEN BY ENGINEERING 🏁
+        <div class="email-header">
+            <div class="logo">🏎️ MUSTANG MODE</div>
+            <div class="subtitle">DAILY DIGEST</div>
+        </div>
+        <div class="email-greeting" id="greeting-text">
+            Good morning <strong style="color:#ff6b00;">Anil</strong>! 👋<br>
+            Your AI agent scanned <strong>9 emails</strong> and found <strong style="color:#16a34a;">7 jobs</strong> matching your profile.
+        </div>
+        <div class="job-card-preview" data-source="linkedin">
+            <div class="source-badge linkedin-badge">💼 LinkedIn</div>
+            <span class="match-badge">96%</span>
+            <div class="job-pole">POLE POSITION #1 | <span class="high">HIGH MATCH</span></div>
+            <div class="job-title">Senior Design Engineer</div>
+            <div class="job-company">Cummins India</div>
+            <div style="font-size:11px; color:#4b5563; margin:8px 0;">📍 <strong>Bengaluru, Pune, Hyderabad</strong> | 💰 <strong>RS. 12 LPA</strong></div>
+            <div class="ai-verdict">
+                <div class="label">🧠 AI VERDICT: 🔥 HIGHLY RECOMMENDED (96/100)</div>
+                <div style="margin-top:6px; color:#111;">Strong match for SolidWorks + mechanical design experience.</div>
             </div>
         </div>
+        <div class="job-card-preview" data-source="linkedin">
+            <div class="source-badge linkedin-badge">💼 LinkedIn</div>
+            <span class="match-badge" style="background:linear-gradient(135deg,#16a34a,#14532d);">88%</span>
+            <div class="job-pole">POLE POSITION #2 | <span class="high">HIGH MATCH</span></div>
+            <div class="job-title">CAD Engineer</div>
+            <div class="job-company">L&T Technology Services</div>
+            <div style="font-size:11px; color:#4b5563; margin:8px 0;">📍 <strong>Hyderabad</strong> | 💰 <strong>RS. 8 LPA</strong></div>
+        </div>
+        <div class="job-card-preview" data-source="naukri">
+            <div class="source-badge naukri-badge">🇮🇳 Naukri</div>
+            <span class="match-badge" style="background:linear-gradient(135deg,#16a34a,#14532d);">85%</span>
+            <div class="job-pole">POLE POSITION #3 | <span class="high">HIGH MATCH</span></div>
+            <div class="job-title">Mechanical Design Engineer</div>
+            <div class="job-company">Tata Consultancy Services</div>
+            <div style="font-size:11px; color:#4b5563; margin:8px 0;">📍 <strong>Hyderabad, Telangana</strong> | 💰 <strong>RS. 6 LPA</strong></div>
+        </div>
+        <div class="job-card-preview" data-source="naukri">
+            <div class="source-badge naukri-badge">🇮🇳 Naukri</div>
+            <span class="match-badge" style="background:linear-gradient(135deg,#dc2626,#991b1b);">68%</span>
+            <div class="job-pole">POLE POSITION #4 | <span style="color:#dc2626;">GOOD MATCH</span></div>
+            <div class="job-title">Product Design Engineer</div>
+            <div class="job-company">Wipro Limited</div>
+            <div style="font-size:11px; color:#4b5563; margin:8px 0;">📍 <strong>Bengaluru, Pune</strong></div>
+        </div>
+        <div class="job-card-preview" data-source="indeed">
+            <div class="source-badge indeed-badge">🔍 Indeed</div>
+            <span class="match-badge" style="background:linear-gradient(135deg,#16a34a,#14532d);">82%</span>
+            <div class="job-pole">POLE POSITION #5 | <span class="high">HIGH MATCH</span></div>
+            <div class="job-title">Junior Mechanical Engineer</div>
+            <div class="job-company">Bosch India</div>
+            <div style="font-size:11px; color:#4b5563; margin:8px 0;">📍 <strong>Bengaluru, Hyderabad</strong></div>
+        </div>
+        <div class="job-card-preview" data-source="direct">
+            <div class="source-badge direct-badge">✉️ Direct</div>
+            <span class="match-badge" style="background:linear-gradient(135deg,#dc2626,#991b1b);">75%</span>
+            <div class="job-pole">POLE POSITION #6 | <span style="color:#dc2626;">GOOD MATCH</span></div>
+            <div class="job-title">Mechanical Engineer</div>
+            <div class="job-company">Hubbell Incorporated</div>
+            <div style="font-size:11px; color:#4b5563; margin:8px 0;">📍 <strong>Bengaluru</strong></div>
+        </div>
+        <div class="job-card-preview" data-source="direct">
+            <div class="source-badge direct-badge">✉️ Direct</div>
+            <span class="match-badge" style="background:linear-gradient(135deg,#f59e0b,#92400e);">52%</span>
+            <div class="job-pole">POLE POSITION #7 | <span style="color:#f59e0b;">POTENTIAL</span></div>
+            <div class="job-title">Trainee Engineer</div>
+            <div class="job-company">Emerson</div>
+            <div style="font-size:11px; color:#4b5563; margin:8px 0;">📍 <strong>Pune</strong></div>
+        </div>
+        <div id="no-jobs-msg" style="display:none; text-align:center; padding:40px 20px; color:#6b7280; background:#fff; border-radius:10px; margin-bottom:12px;">
+            <div style="font-size:36px; margin-bottom:10px;">🏁</div>
+            <div style="font-weight:700; color:#dc2626;">No jobs from this source today</div>
+            <div style="font-size:12px; margin-top:6px;">Check back tomorrow for fresh matches!</div>
+        </div>
+        <div style="text-align:center; padding:14px; background:#1f1f1f; border-radius:8px; color:#ff6b00; font-size:10px; letter-spacing:3px; font-weight:700;">
+            🏁 TUNED BY PRECISION · DRIVEN BY ENGINEERING 🏁
+        </div>
+    </div>
 </section>
+
+<!-- FOOTER -->
+<footer>
+    <div><span class="accent">🏎️ MUSTANG MODE v2.0</span> — built in one day, runs forever</div>
+    <div style="margin-top:8px;">© 2026 Anil Gopi Gudapati · 🏁 Made with engineering precision 🏁</div>
+</footer>
 
 <script>
 function filterSource(source) {
-    // Update active tab
     document.querySelectorAll('.source-tab').forEach(t => t.classList.remove('active'));
     document.querySelector('[data-tab="' + source + '"]').classList.add('active');
     
-    // Filter job cards
     const cards = document.querySelectorAll('.job-card-preview');
     let visibleCount = 0;
     cards.forEach(card => {
@@ -1281,7 +964,6 @@ function filterSource(source) {
         }
     });
     
-    // Show/hide empty state
     const noJobsMsg = document.getElementById('no-jobs-msg');
     if (visibleCount === 0) {
         noJobsMsg.style.display = 'block';
@@ -1289,7 +971,6 @@ function filterSource(source) {
         noJobsMsg.style.display = 'none';
     }
     
-    // Update greeting text
     const greeting = document.getElementById('greeting-text');
     const sourceNames = {
         all: 'all sources',
@@ -1302,11 +983,71 @@ function filterSource(source) {
 }
 </script>
 
-<!-- ============== FOOTER ============== -->
-<footer>
-    <div><span class="accent">🏎️ MUSTANG MODE v2.0</span> — built in one day, runs forever</div>
-    <div style="margin-top:8px;">© 2026 Anil Gopi Gudapati · 🏁 Made with engineering precision 🏁</div>
-</footer>
+<!-- LIVE STATS LOADER -->
+<script>
+async function loadLiveStats() {
+    try {
+        const response = await fetch('stats.json?t=' + Date.now());
+        if (!response.ok) return;
+        const data = await response.json();
+        
+        if (!data.stats || data.stats.total_runs === 0) {
+            console.log('[Mustang Mode] No runs yet - showing sample data');
+            return;
+        }
+        
+        const stats = document.querySelectorAll('.stat-num');
+        if (stats.length >= 4) {
+            stats[0].textContent = data.stats.total_runs;
+            stats[1].textContent = data.stats.jobs_matched_7d;
+            stats[2].textContent = data.stats.emails_scanned_7d;
+            stats[3].textContent = data.stats.avg_match_score + '%';
+        }
+        
+        const labels = document.querySelectorAll('.stat-label');
+        if (labels.length >= 4) {
+            labels[0].textContent = 'Total Runs';
+            labels[1].textContent = 'Jobs Matched (7d)';
+            labels[2].textContent = 'Emails Scanned (7d)';
+            labels[3].textContent = 'Avg Match Score';
+        }
+        
+        if (data.recent_sources) {
+            const total = Object.values(data.recent_sources).reduce((a,b) => a+b, 0);
+            const tabs = {
+                'all': total,
+                'linkedin': data.recent_sources.linkedin || 0,
+                'naukri': data.recent_sources.naukri || 0,
+                'indeed': data.recent_sources.indeed || 0,
+                'direct': data.recent_sources.direct || 0
+            };
+            for (const [key, count] of Object.entries(tabs)) {
+                const tab = document.querySelector('[data-tab="' + key + '"] .tab-count');
+                if (tab) tab.textContent = count;
+            }
+        }
+        
+        if (data.last_run) {
+            const footer = document.querySelector('footer');
+            if (footer) {
+                const lastRun = document.createElement('div');
+                lastRun.style.marginTop = '12px';
+                lastRun.style.color = '#16a34a';
+                lastRun.style.fontWeight = '700';
+                lastRun.style.fontSize = '11px';
+                lastRun.innerHTML = '🟢 LAST RUN: ' + data.last_run;
+                footer.appendChild(lastRun);
+            }
+        }
+        
+        console.log('[Mustang Mode] Live stats loaded:', data);
+    } catch (err) {
+        console.log('[Mustang Mode] Using sample data');
+    }
+}
+
+window.addEventListener('DOMContentLoaded', loadLiveStats);
+</script>
 
 </body>
 </html>
