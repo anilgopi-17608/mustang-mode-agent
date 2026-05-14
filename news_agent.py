@@ -1,15 +1,23 @@
 """
 ================================================================
-TECH PIT STOP - DAILY NEWS DIGEST AGENT v1.0
+TECH PIT STOP - DAILY DIGEST v2.0
 ================================================================
-Tuned for: ANIL GOPI GUDAPATI
-Sources:
-  📰 ABN Telugu (Andhra Jyothy)
-  📰 ETV Telugu (Eenadu)
-  📺 Prasad Tech in Telugu (YouTube)
+Built for: ANIL GOPI GUDAPATI
+Layout: 2-column (News + Stocks)
 
-Runs every morning at 7:00 AM IST via GitHub Actions.
-Sends a beautifully formatted news digest to your Gmail.
+LEFT COLUMN (70%): News
+  🤖 AI / Tech (TechCrunch, The Verge, MIT Tech)
+  🏥 Medical Devices (MassDevice, Medical Design)
+  🇮🇳 India Tech (YourStory, Inc42)
+  🛠️ Engineering (Engineering.com)
+  📺 Tech Videos (MKBHD, Two Minute Papers)
+
+RIGHT COLUMN (30%): Indian Stock Market
+  📈 Nifty 50, Sensex, Bank Nifty
+  🏆 Top Gainers / Losers
+  💵 USD/INR, Gold price
+
+Runs at 7:00 AM IST daily via GitHub Actions.
 ================================================================
 """
 
@@ -25,7 +33,6 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from xml.etree import ElementTree as ET
 
-# Optional: Gemini AI
 try:
     import google.generativeai as genai
     GEMINI_AVAILABLE = True
@@ -33,92 +40,161 @@ except ImportError:
     GEMINI_AVAILABLE = False
 
 # =====================================================
-# LOAD SECRETS
+# CONFIGURATION
 # =====================================================
 
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 
-# =====================================================
-# CONFIGURATION
-# =====================================================
-
 DIGEST_RECIPIENT = "anilgopi731@gmail.com"
 SENDER_EMAIL = "anilgopi731@gmail.com"
 USER_NAME = "Anil"
 
-# News sources (RSS feeds)
-NEWS_SOURCES = {
-    "ABN Andhra Jyothy": {
-        "rss": "https://rss.andhrajyothy.com/news/AndhraPradesh?SupId=0&SubId=43",
-        "icon": "📰",
-        "color": "#dc2626"
-    },
-    "NTV Telugu": {
-        "rss": "https://ntvtelugu.com/feed",
-        "icon": "📺",
-        "color": "#0077b5"
-    },
-    "Mana Telangana": {
-        "rss": "https://manatelangana.news/feed",
-        "icon": "🟠",
-        "color": "#16a34a"
-    }
-}
-
-# YouTube channels (using YouTube's built-in RSS - no API key needed!)
-YOUTUBE_CHANNELS = {
-    "Prasad Tech in Telugu": {
-        "channel_id": "UCb-xXZ7ltTvrh9C6DgB9H-Q",
-        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCb-xXZ7ltTvrh9C6DgB9H-Q",
-        "icon": "📺",
-        "color": "#ff0000"
-    }
-}
-
-MAX_NEWS_PER_SOURCE = 5
-MAX_VIDEOS = 3
 USE_AI_SUMMARIES = bool(GEMINI_API_KEY) and GEMINI_AVAILABLE
+
+# News sources organized by category
+NEWS_CATEGORIES = {
+    "🤖 AI & TECH": {
+        "color": "#dc2626",
+        "max_items": 5,
+        "feeds": [
+            ("TechCrunch", "https://techcrunch.com/feed/"),
+            ("The Verge", "https://www.theverge.com/rss/index.xml"),
+            ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index"),
+            ("MIT Technology Review", "https://www.technologyreview.com/feed/")
+        ]
+    },
+    "💼 MARKET INTELLIGENCE": {
+        "color": "#7c3aed",
+        "max_items": 5,
+        "feeds": [
+            ("Economic Times Markets", "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"),
+            ("Moneycontrol Business", "https://www.moneycontrol.com/rss/business.xml"),
+            ("Business Standard Markets", "https://www.business-standard.com/rss/markets-106.rss"),
+            ("Livemint Companies", "https://www.livemint.com/rss/companies"),
+            ("Reuters Business", "https://www.reuters.com/business/feed/")
+        ]
+    },
+    "🏥 MEDICAL DEVICES": {
+        "color": "#16a34a",
+        "max_items": 3,
+        "feeds": [
+            ("MassDevice", "https://www.massdevice.com/feed/"),
+            ("Medical Design & Outsourcing", "https://www.medicaldesignandoutsourcing.com/feed/"),
+            ("Medical Device Network", "https://www.medicaldevice-network.com/feed/")
+        ]
+    },
+    "🇮🇳 INDIA TECH": {
+        "color": "#ff6b00",
+        "max_items": 3,
+        "feeds": [
+            ("YourStory", "https://yourstory.com/feed"),
+            ("Inc42", "https://inc42.com/feed/"),
+            ("Entrackr", "https://entrackr.com/feed/")
+        ]
+    },
+    "🛠️ ENGINEERING": {
+        "color": "#0891b2",
+        "max_items": 2,
+        "feeds": [
+            ("Design World", "https://www.designworldonline.com/feed/"),
+            ("Engineering.com", "https://www.engineering.com/rss")
+        ]
+    }
+}
+
+# YouTube channels
+YOUTUBE_CHANNELS = [
+    {
+        "name": "MKBHD",
+        "channel_id": "UCBJycsmduvYEL83R_U4JriQ",
+        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ"
+    },
+    {
+        "name": "Two Minute Papers (AI)",
+        "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg"
+    }
+]
+
+# Stock symbols to track
+STOCK_SYMBOLS = {
+    "indices": [
+        ("Nifty 50", "^NSEI"),
+        ("Sensex", "^BSESN"),
+        ("Bank Nifty", "^NSEBANK")
+    ],
+    "currency": [
+        ("USD/INR", "INR=X")
+    ],
+    "commodity": [
+        ("Gold (₹/10g)", "GC=F")
+    ]
+}
+
+# Top stocks for gainers/losers tracking
+TOP_STOCKS = [
+    ("TCS", "TCS.NS"),
+    ("Reliance", "RELIANCE.NS"),
+    ("HDFC Bank", "HDFCBANK.NS"),
+    ("Infosys", "INFY.NS"),
+    ("ICICI Bank", "ICICIBANK.NS"),
+    ("L&T", "LT.NS"),
+    ("Wipro", "WIPRO.NS"),
+    ("Maruti", "MARUTI.NS"),
+    ("Sun Pharma", "SUNPHARMA.NS"),
+    ("Bharti Airtel", "BHARTIARTL.NS")
+]
 
 # =====================================================
 # GEMINI AI FOR SUMMARIES
 # =====================================================
 
 def init_gemini():
-    """Initialize Gemini API"""
     if not USE_AI_SUMMARIES:
         return None
     try:
         genai.configure(api_key=GEMINI_API_KEY)
         model = genai.GenerativeModel('gemini-1.5-flash')
-        print("[OK] Gemini AI activated for summaries")
+        print("[OK] Gemini AI activated")
         return model
     except Exception as e:
         print(f"[WARN] Gemini init failed: {e}")
         return None
 
 
-def ai_summarize(model, title, content):
-    """Get AI summary of a news article"""
+def ai_summarize(model, title, content, category=""):
     if not model:
-        return content[:200] + "..."
+        return content[:180] + "..." if content else ""
     
-    prompt = f"""Summarize this Telugu/English news article in ONE simple English sentence (max 25 words). Be direct and informative.
+    # Special prompt for market intelligence to highlight deals/acquisitions
+    if "MARKET" in category.upper() or "BUSINESS" in category.upper():
+        prompt = f"""Summarize this business news in ONE punchy English sentence (max 30 words). 
+Focus on:
+- Deal value (₹, $)
+- Companies involved
+- Action (acquired, merged, raised, listed)
+- Impact
 
 Title: {title}
 Content: {content[:500]}
 
-Respond with ONLY the summary, no preamble."""
+Reply with ONLY the summary."""
+    else:
+        prompt = f"""Summarize this news in ONE simple English sentence (max 25 words). Be direct.
+
+Title: {title}
+Content: {content[:400]}
+
+Reply with ONLY the summary."""
     
     try:
         response = model.generate_content(prompt)
         summary = response.text.strip()
-        # Clean up
         summary = re.sub(r'^"|"$', '', summary)
-        return summary[:200]
+        return summary[:220]
     except Exception as e:
-        print(f"  [AI] Summary failed: {e}")
-        return content[:200] + "..."
+        return content[:180] + "..." if content else ""
 
 
 # =====================================================
@@ -126,7 +202,7 @@ Respond with ONLY the summary, no preamble."""
 # =====================================================
 
 def fetch_rss(url, max_items=5):
-    """Fetch and parse RSS feed"""
+    """Fetch and parse RSS feed (RSS 2.0 or Atom)"""
     try:
         req = urllib.request.Request(
             url,
@@ -140,219 +216,331 @@ def fetch_rss(url, max_items=5):
         root = ET.fromstring(data)
         items = []
         
-        # Try standard RSS format
+        # RSS 2.0 format
         for item in root.iter('item'):
             if len(items) >= max_items:
                 break
-            
-            title_elem = item.find('title')
-            link_elem = item.find('link')
-            desc_elem = item.find('description')
-            pub_elem = item.find('pubDate')
-            
-            title = title_elem.text if title_elem is not None else "No title"
-            link = link_elem.text if link_elem is not None else ""
-            description = desc_elem.text if desc_elem is not None else ""
-            pub_date = pub_elem.text if pub_elem is not None else ""
-            
-            # Clean HTML from description
-            description = re.sub(r'<[^>]+>', ' ', description or '')
+            title = (item.findtext('title') or '').strip()
+            link = (item.findtext('link') or '').strip()
+            description = (item.findtext('description') or '').strip()
+            description = re.sub(r'<[^>]+>', ' ', description)
             description = re.sub(r'\s+', ' ', description).strip()
             
-            items.append({
-                'title': title or '',
-                'link': link or '',
-                'description': description[:500],
-                'pub_date': pub_date or ''
-            })
+            if title and link:
+                items.append({
+                    'title': title,
+                    'link': link,
+                    'description': description[:400]
+                })
         
-        # Try Atom format if no items found (YouTube uses this)
+        # Atom format (YouTube)
         if not items:
-            ns = {'atom': 'http://www.w3.org/2005/Atom',
-                  'media': 'http://search.yahoo.com/mrss/'}
-            for entry in root.iter('{http://www.w3.org/2005/Atom}entry'):
+            atom_ns = '{http://www.w3.org/2005/Atom}'
+            media_ns = '{http://search.yahoo.com/mrss/}'
+            
+            for entry in root.iter(f'{atom_ns}entry'):
                 if len(items) >= max_items:
                     break
                 
-                title_elem = entry.find('{http://www.w3.org/2005/Atom}title')
-                link_elem = entry.find('{http://www.w3.org/2005/Atom}link')
-                pub_elem = entry.find('{http://www.w3.org/2005/Atom}published')
+                title = (entry.findtext(f'{atom_ns}title') or '').strip()
+                link_elem = entry.find(f'{atom_ns}link')
+                link = link_elem.get('href', '') if link_elem is not None else ''
                 
-                # Try to get description from media:description
                 desc = ""
-                media_desc = entry.find('{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}description')
-                if media_desc is not None and media_desc.text:
-                    desc = media_desc.text[:500]
+                thumb = ""
                 
-                # YouTube thumbnail
-                thumbnail = ""
-                media_thumb = entry.find('{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}thumbnail')
-                if media_thumb is not None:
-                    thumbnail = media_thumb.get('url', '')
+                media_group = entry.find(f'{media_ns}group')
+                if media_group is not None:
+                    desc_elem = media_group.find(f'{media_ns}description')
+                    if desc_elem is not None and desc_elem.text:
+                        desc = desc_elem.text[:400]
+                    
+                    thumb_elem = media_group.find(f'{media_ns}thumbnail')
+                    if thumb_elem is not None:
+                        thumb = thumb_elem.get('url', '')
                 
-                title = title_elem.text if title_elem is not None else "No title"
-                link = link_elem.get('href', '') if link_elem is not None else ""
-                pub_date = pub_elem.text if pub_elem is not None else ""
-                
-                items.append({
-                    'title': title or '',
-                    'link': link or '',
-                    'description': desc,
-                    'pub_date': pub_date or '',
-                    'thumbnail': thumbnail
-                })
+                if title and link:
+                    items.append({
+                        'title': title,
+                        'link': link,
+                        'description': desc,
+                        'thumbnail': thumb
+                    })
         
         return items
     except Exception as e:
-        print(f"  [ERROR] Failed to fetch {url}: {e}")
+        print(f"  [ERROR] {url}: {e}")
         return []
+
+
+# =====================================================
+# STOCK MARKET DATA (Yahoo Finance)
+# =====================================================
+
+def fetch_stock_data(symbol):
+    """Fetch current price and change for a symbol via Yahoo Finance"""
+    try:
+        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(symbol)}"
+        req = urllib.request.Request(
+            url,
+            headers={
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            }
+        )
+        with urllib.request.urlopen(req, timeout=10) as response:
+            data = json.loads(response.read())
+        
+        result = data['chart']['result'][0]
+        meta = result['meta']
+        
+        current = meta.get('regularMarketPrice', 0)
+        previous = meta.get('chartPreviousClose', meta.get('previousClose', current))
+        change = current - previous
+        change_pct = (change / previous * 100) if previous else 0
+        
+        return {
+            'price': current,
+            'change': change,
+            'change_pct': change_pct,
+            'is_up': change >= 0
+        }
+    except Exception as e:
+        print(f"  [STOCK] Failed {symbol}: {e}")
+        return None
+
+
+def get_market_data():
+    """Get all market data: indices, top movers, currency, gold"""
+    print("\n[STOCKS] Fetching market data...")
+    market = {
+        'indices': [],
+        'gainers': [],
+        'losers': [],
+        'currency': [],
+        'commodity': []
+    }
+    
+    # Indices
+    for name, symbol in STOCK_SYMBOLS['indices']:
+        data = fetch_stock_data(symbol)
+        if data:
+            market['indices'].append({'name': name, **data})
+            print(f"  {name}: {data['price']:.2f} ({data['change_pct']:+.2f}%)")
+    
+    # Currency
+    for name, symbol in STOCK_SYMBOLS['currency']:
+        data = fetch_stock_data(symbol)
+        if data:
+            market['currency'].append({'name': name, **data})
+    
+    # Commodity
+    for name, symbol in STOCK_SYMBOLS['commodity']:
+        data = fetch_stock_data(symbol)
+        if data:
+            market['commodity'].append({'name': name, **data})
+    
+    # Top stocks for gainers/losers
+    stock_data = []
+    for name, symbol in TOP_STOCKS:
+        data = fetch_stock_data(symbol)
+        if data:
+            stock_data.append({'name': name, **data})
+    
+    # Sort by change_pct
+    stock_data.sort(key=lambda x: x['change_pct'], reverse=True)
+    market['gainers'] = stock_data[:3]
+    market['losers'] = stock_data[-3:][::-1]  # Reverse to show worst first
+    
+    return market
 
 
 # =====================================================
 # BUILD HTML DIGEST
 # =====================================================
 
-def build_news_digest(news_data, video_data):
-    today = datetime.now().strftime("%A, %B %d, %Y")
+def build_news_column_html(all_news, all_videos):
+    """Build the LEFT column with all news + videos"""
+    html = ""
     
-    # Build news sections
-    news_html = ""
-    for source_name, source_info in news_data.items():
-        items = source_info['items']
+    # News categories
+    for cat_name, cat_info in all_news.items():
+        items = cat_info['items']
         if not items:
             continue
         
-        cards = ""
+        color = cat_info['color']
+        cards_html = ""
         for i, item in enumerate(items, 1):
-            summary = item.get('summary', item.get('description', ''))[:250]
-            cards += f"""
-            <div style='background:#ffffff; border:1px solid #e5e7eb; border-left:4px solid {source_info['color']}; border-radius:10px; padding:18px; margin-bottom:12px;'>
-                <div style='font-size:10px; color:#9ca3af; letter-spacing:2px; font-weight:bold; margin-bottom:6px;'>STORY #{i}</div>
-                <div style='color:#111827; font-size:15px; font-weight:bold; margin-bottom:8px; line-height:1.4;'>
+            summary = item.get('summary', item.get('description', ''))[:200]
+            cards_html += f"""
+            <div style='background:#ffffff; border:1px solid #e5e7eb; border-left:3px solid {color}; border-radius:8px; padding:14px; margin-bottom:10px;'>
+                <div style='font-size:9px; color:#9ca3af; letter-spacing:2px; font-weight:bold; margin-bottom:4px;'>#{i}</div>
+                <div style='color:#111827; font-size:14px; font-weight:bold; line-height:1.4; margin-bottom:6px;'>
                     {item['title']}
                 </div>
-                <div style='color:#4b5563; font-size:13px; line-height:1.6; margin:8px 0; padding:10px; background:#f9fafb; border-radius:6px;'>
+                <div style='color:#4b5563; font-size:12px; line-height:1.5; margin:6px 0;'>
                     💡 {summary}
                 </div>
-                <a href='{item['link']}' style='display:inline-block; color:{source_info['color']}; font-size:12px; font-weight:bold; text-decoration:none; margin-top:4px;'>
-                    📖 Read full article →
+                <a href='{item['link']}' style='display:inline-block; color:{color}; font-size:11px; font-weight:bold; text-decoration:none; margin-top:4px;'>
+                    📖 Read →
                 </a>
             </div>
             """
         
-        news_html += f"""
-        <div style='margin-bottom:24px;'>
-            <div style='background:linear-gradient(135deg, {source_info['color']}, #000); color:#fff; padding:14px 20px; border-radius:10px; margin-bottom:14px; text-align:center;'>
-                <div style='font-size:11px; letter-spacing:3px; font-weight:bold;'>{source_info['icon']} {source_name.upper()}</div>
-                <div style='font-size:18px; font-weight:bold; margin-top:4px;'>Top {len(items)} Stories</div>
+        html += f"""
+        <div style='margin-bottom:20px;'>
+            <div style='background:linear-gradient(135deg, {color}, #000); color:#fff; padding:10px 14px; border-radius:8px; margin-bottom:10px;'>
+                <div style='font-size:13px; font-weight:bold; letter-spacing:2px;'>{cat_name}</div>
             </div>
-            {cards}
+            {cards_html}
         </div>
         """
     
-    # Build YouTube videos section
-    video_html = ""
-    for channel_name, channel_info in video_data.items():
-        videos = channel_info['items']
-        if not videos:
-            continue
-        
-        cards = ""
-        for i, vid in enumerate(videos, 1):
+    # YouTube videos
+    if all_videos:
+        html += """
+        <div style='margin-bottom:20px;'>
+            <div style='background:linear-gradient(135deg, #ff0000, #000); color:#fff; padding:10px 14px; border-radius:8px; margin-bottom:10px;'>
+                <div style='font-size:13px; font-weight:bold; letter-spacing:2px;'>📺 TOP TECH VIDEOS</div>
+            </div>
+        """
+        for vid in all_videos:
             thumb = vid.get('thumbnail', '')
-            desc = vid.get('summary', vid.get('description', 'New video uploaded'))[:200]
+            channel = vid.get('channel', '')
+            summary = vid.get('summary', vid.get('description', 'New video uploaded'))[:180]
             
             thumb_html = ""
             if thumb:
                 thumb_html = f"""
-                <a href='{vid['link']}' style='display:block; text-align:center; margin-bottom:10px;'>
-                    <img src='{thumb}' style='max-width:100%; border-radius:8px; border:2px solid #e5e7eb;' alt='Video thumbnail'>
+                <a href='{vid['link']}'>
+                    <img src='{thumb}' style='width:100%; border-radius:6px; margin-bottom:8px; border:1px solid #e5e7eb;' alt='Video'>
                 </a>
                 """
             
-            cards += f"""
-            <div style='background:#ffffff; border:1px solid #e5e7eb; border-left:4px solid {channel_info['color']}; border-radius:10px; padding:18px; margin-bottom:12px;'>
-                <div style='font-size:10px; color:#9ca3af; letter-spacing:2px; font-weight:bold; margin-bottom:6px;'>VIDEO #{i}</div>
-                <div style='color:#111827; font-size:15px; font-weight:bold; margin-bottom:10px; line-height:1.4;'>
-                    🎬 {vid['title']}
+            html += f"""
+            <div style='background:#ffffff; border:1px solid #e5e7eb; border-left:3px solid #ff0000; border-radius:8px; padding:14px; margin-bottom:10px;'>
+                <div style='font-size:9px; color:#9ca3af; letter-spacing:2px; font-weight:bold; margin-bottom:6px;'>🎬 {channel.upper()}</div>
+                <div style='color:#111827; font-size:14px; font-weight:bold; margin-bottom:8px; line-height:1.4;'>
+                    {vid['title']}
                 </div>
                 {thumb_html}
-                <div style='color:#4b5563; font-size:13px; line-height:1.6; margin:8px 0; padding:10px; background:#f9fafb; border-radius:6px;'>
-                    💡 {desc}
+                <div style='color:#4b5563; font-size:12px; line-height:1.5; margin:6px 0;'>
+                    💡 {summary}
                 </div>
-                <a href='{vid['link']}' style='display:inline-block; background:linear-gradient(135deg, {channel_info['color']}, #c00); color:#fff; padding:10px 20px; border-radius:6px; font-size:12px; font-weight:bold; text-decoration:none; margin-top:6px;'>
-                    ▶️ Watch on YouTube
+                <a href='{vid['link']}' style='display:inline-block; background:#ff0000; color:#fff; padding:6px 14px; border-radius:4px; font-size:11px; font-weight:bold; text-decoration:none;'>
+                    ▶️ Watch
                 </a>
             </div>
             """
-        
-        video_html += f"""
-        <div style='margin-bottom:24px;'>
-            <div style='background:linear-gradient(135deg, {channel_info['color']}, #000); color:#fff; padding:14px 20px; border-radius:10px; margin-bottom:14px; text-align:center;'>
-                <div style='font-size:11px; letter-spacing:3px; font-weight:bold;'>{channel_info['icon']} {channel_name.upper()}</div>
-                <div style='font-size:18px; font-weight:bold; margin-top:4px;'>Latest {len(videos)} Videos</div>
+        html += "</div>"
+    
+    return html
+
+
+def build_stock_column_html(market):
+    """Build the RIGHT column with stock market data"""
+    
+    def stock_card(item, prefix=""):
+        if not item:
+            return ""
+        arrow = "▲" if item['is_up'] else "▼"
+        color = "#16a34a" if item['is_up'] else "#dc2626"
+        sign = "+" if item['is_up'] else ""
+        return f"""
+        <div style='background:#ffffff; padding:10px 12px; margin-bottom:6px; border-radius:6px; border:1px solid #e5e7eb;'>
+            <div style='color:#374151; font-size:11px; font-weight:bold; margin-bottom:2px;'>{prefix}{item['name']}</div>
+            <div style='display:flex; justify-content:space-between; align-items:center;'>
+                <div style='color:#111827; font-size:14px; font-weight:bold;'>₹{item['price']:,.2f}</div>
+                <div style='color:{color}; font-size:11px; font-weight:bold;'>{arrow} {sign}{item['change_pct']:.2f}%</div>
             </div>
-            {cards}
         </div>
         """
     
-    total_stories = sum(len(s['items']) for s in news_data.values())
-    total_videos = sum(len(c['items']) for c in video_data.values())
+    indices_html = "".join(stock_card(idx) for idx in market.get('indices', []))
+    gainers_html = "".join(stock_card(stk) for stk in market.get('gainers', []))
+    losers_html = "".join(stock_card(stk) for stk in market.get('losers', []))
+    currency_html = "".join(stock_card(c) for c in market.get('currency', []))
+    commodity_html = "".join(stock_card(c) for c in market.get('commodity', []))
+    
+    return f"""
+    <!-- Indices -->
+    <div style='background:linear-gradient(135deg, #1f1f1f, #0a0a0a); color:#fff; padding:10px 14px; border-radius:8px; margin-bottom:10px;'>
+        <div style='font-size:11px; font-weight:bold; letter-spacing:2px;'>📈 MARKET INDICES</div>
+    </div>
+    {indices_html}
+    
+    <!-- Gainers -->
+    <div style='background:linear-gradient(135deg, #16a34a, #0a4d1e); color:#fff; padding:10px 14px; border-radius:8px; margin:14px 0 10px;'>
+        <div style='font-size:11px; font-weight:bold; letter-spacing:2px;'>🏆 TOP GAINERS</div>
+    </div>
+    {gainers_html}
+    
+    <!-- Losers -->
+    <div style='background:linear-gradient(135deg, #dc2626, #4d0a0a); color:#fff; padding:10px 14px; border-radius:8px; margin:14px 0 10px;'>
+        <div style='font-size:11px; font-weight:bold; letter-spacing:2px;'>📉 TOP LOSERS</div>
+    </div>
+    {losers_html}
+    
+    <!-- Currency & Gold -->
+    <div style='background:linear-gradient(135deg, #f59e0b, #92400e); color:#fff; padding:10px 14px; border-radius:8px; margin:14px 0 10px;'>
+        <div style='font-size:11px; font-weight:bold; letter-spacing:2px;'>💵 FOREX & GOLD</div>
+    </div>
+    {currency_html}
+    {commodity_html}
+    """
+
+
+def build_digest_html(all_news, all_videos, market):
+    today = datetime.now().strftime("%A, %B %d, %Y")
+    
+    news_column = build_news_column_html(all_news, all_videos)
+    stock_column = build_stock_column_html(market)
+    
+    total_stories = sum(len(s['items']) for s in all_news.values())
+    total_videos = len(all_videos)
     
     html = f"""
     <html>
     <body style='margin:0; padding:0; background:#f3f4f6; font-family:Verdana, Arial, sans-serif;'>
-        <div style='max-width:700px; margin:0 auto; padding:24px 16px;'>
+        <div style='max-width:900px; margin:0 auto; padding:24px 16px;'>
             
             <!-- Header -->
-            <div style='text-align:center; padding:32px 20px; background:linear-gradient(135deg, #1f1f1f 0%, #0a0a0a 100%); border-radius:16px; margin-bottom:24px; box-shadow:0 4px 12px rgba(0,0,0,0.15);'>
-                <div style='font-size:32px; margin-bottom:6px;'>🌅</div>
-                <h1 style='color:#ffffff; font-family:Verdana, Arial, sans-serif; letter-spacing:4px; margin:8px 0 0 0; font-size:24px; font-weight:bold;'>TECH PIT STOP</h1>
-                <div style='color:#fbbf24; font-size:14px; letter-spacing:3px; margin-top:8px; font-weight:bold;'>MORNING DIGEST</div>
-                <div style='color:#9ca3af; font-size:11px; letter-spacing:2px; margin-top:10px;'>{today.upper()}</div>
+            <div style='text-align:center; padding:28px 20px; background:linear-gradient(135deg, #1f1f1f 0%, #0a0a0a 100%); border-radius:14px; margin-bottom:18px;'>
+                <div style='font-size:32px; margin-bottom:4px;'>🌅</div>
+                <h1 style='color:#ffffff; letter-spacing:4px; margin:6px 0 0 0; font-size:22px; font-weight:bold;'>TECH PIT STOP</h1>
+                <div style='color:#fbbf24; font-size:12px; letter-spacing:3px; margin-top:6px; font-weight:bold;'>MORNING DIGEST</div>
+                <div style='color:#9ca3af; font-size:11px; letter-spacing:2px; margin-top:8px;'>{today.upper()}</div>
             </div>
             
             <!-- Greeting -->
-            <div style='background:#ffffff; border-radius:12px; padding:20px 24px; margin-bottom:18px; border:1px solid #e5e7eb;'>
-                <div style='color:#111827; font-size:15px; line-height:1.7;'>
+            <div style='background:#ffffff; border-radius:10px; padding:16px 20px; margin-bottom:16px; border:1px solid #e5e7eb;'>
+                <div style='color:#111827; font-size:14px; line-height:1.7;'>
                     Good morning <span style='color:#dc2626; font-weight:bold;'>{USER_NAME}</span>! ☕<br>
-                    Here's what happened while you were sleeping:<br>
-                    <span style='color:#16a34a; font-weight:bold;'>{total_stories} news stories</span> + 
-                    <span style='color:#dc2626; font-weight:bold;'>{total_videos} new videos</span> from your favorite channels.
+                    <span style='color:#16a34a; font-weight:bold;'>{total_stories} stories</span> + 
+                    <span style='color:#ff0000; font-weight:bold;'>{total_videos} videos</span> + 
+                    <span style='color:#f59e0b; font-weight:bold;'>live market data</span> waiting for you.
                 </div>
             </div>
             
-            <!-- Stats -->
-            <table style='width:100%; border-collapse:separate; border-spacing:8px 0; margin-bottom:20px;'>
+            <!-- 2-Column Layout -->
+            <table cellpadding="0" cellspacing="0" border="0" style='width:100%; border-collapse:separate; border-spacing:10px 0;'>
                 <tr>
-                    <td style='width:33%; background:#ffffff; border:1px solid #e5e7eb; padding:16px 8px; border-radius:10px; text-align:center;'>
-                        <div style='color:#dc2626; font-size:24px; font-weight:bold;'>📰</div>
-                        <div style='color:#111827; font-size:22px; font-weight:bold;'>{total_stories}</div>
-                        <div style='color:#6b7280; font-size:10px; letter-spacing:1px; font-weight:600;'>NEWS STORIES</div>
+                    <!-- LEFT: News (~70%) -->
+                    <td style='width:65%; vertical-align:top;'>
+                        {news_column}
                     </td>
-                    <td style='width:33%; background:#ffffff; border:1px solid #e5e7eb; padding:16px 8px; border-radius:10px; text-align:center;'>
-                        <div style='color:#dc2626; font-size:24px; font-weight:bold;'>📺</div>
-                        <div style='color:#111827; font-size:22px; font-weight:bold;'>{total_videos}</div>
-                        <div style='color:#6b7280; font-size:10px; letter-spacing:1px; font-weight:600;'>NEW VIDEOS</div>
-                    </td>
-                    <td style='width:33%; background:#ffffff; border:1px solid #e5e7eb; padding:16px 8px; border-radius:10px; text-align:center;'>
-                        <div style='color:#16a34a; font-size:24px; font-weight:bold;'>🧠</div>
-                        <div style='color:#111827; font-size:13px; font-weight:bold; margin-top:8px;'>AI-Summarized</div>
-                        <div style='color:#6b7280; font-size:10px; letter-spacing:1px; font-weight:600;'>BY GEMINI</div>
+                    
+                    <!-- RIGHT: Stocks (~30%) -->
+                    <td style='width:35%; vertical-align:top;'>
+                        {stock_column}
                     </td>
                 </tr>
             </table>
             
-            <!-- News Section -->
-            {news_html}
-            
-            <!-- Videos Section -->
-            {video_html}
-            
             <!-- Footer -->
-            <div style='text-align:center; padding:24px 20px; margin-top:20px; background:#1f1f1f; border-radius:12px;'>
+            <div style='text-align:center; padding:20px; margin-top:18px; background:#1f1f1f; border-radius:10px;'>
                 <div style='color:#fbbf24; font-size:11px; letter-spacing:3px; font-weight:bold;'>🌅 STAY CURIOUS · LEARN DAILY 🚀</div>
-                <div style='margin-top:10px; color:#6b7280; font-size:10px; letter-spacing:1px;'>☕ Tech Pit Stop · Sent automatically every morning</div>
+                <div style='margin-top:8px; color:#6b7280; font-size:10px; letter-spacing:1px;'>☕ Tech Pit Stop · Sent every morning at 7 AM IST</div>
             </div>
             
         </div>
@@ -372,7 +560,7 @@ def send_digest(html_content, total_stories, total_videos):
         return False
     
     today = datetime.now().strftime("%b %d")
-    subject = f"🌅 Tech Pit Stop | {total_stories} stories + {total_videos} videos ({today})"
+    subject = f"🌅 Tech Pit Stop | {total_stories} stories + market update ({today})"
     
     msg = MIMEMultipart('alternative')
     msg['Subject'] = subject
@@ -380,7 +568,7 @@ def send_digest(html_content, total_stories, total_videos):
     msg['To'] = DIGEST_RECIPIENT
     msg.attach(MIMEText(html_content, 'html'))
     
-    print(f"Sending digest to {DIGEST_RECIPIENT}...")
+    print(f"\nSending to {DIGEST_RECIPIENT}...")
     try:
         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
             server.login(SENDER_EMAIL, GMAIL_APP_PASSWORD)
@@ -398,84 +586,86 @@ def send_digest(html_content, total_stories, total_videos):
 
 def main():
     print("=" * 60)
-    print("TECH PIT STOP v1.0 - MORNING NEWS DIGEST")
+    print("TECH PIT STOP v2.0 - MORNING DIGEST")
     print(f"Run time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
     
-    # Initialize Gemini (optional - script works without it)
     model = init_gemini()
     
-    # Fetch news from all sources (each is independent - one failing is OK)
-    news_data = {}
-    for source_name, source_info in NEWS_SOURCES.items():
-        print(f"\n[NEWS] Fetching {source_name}...")
-        try:
-            items = fetch_rss(source_info['rss'], MAX_NEWS_PER_SOURCE)
-            print(f"  Found {len(items)} stories")
-            
-            # AI-summarize each item (only if Gemini is available)
-            if model and items:
+    # Fetch news by category
+    all_news = {}
+    for cat_name, cat_info in NEWS_CATEGORIES.items():
+        print(f"\n[NEWS] {cat_name}")
+        category_items = []
+        max_per_cat = cat_info['max_items']
+        
+        for source_name, rss_url in cat_info['feeds']:
+            if len(category_items) >= max_per_cat:
+                break
+            try:
+                items = fetch_rss(rss_url, max_items=2)
                 for item in items:
-                    try:
-                        item['summary'] = ai_summarize(model, item['title'], item['description'])
-                        time.sleep(0.5)
-                    except Exception as e:
-                        print(f"  [AI] Skip summary for one item: {e}")
-                        item['summary'] = item.get('description', '')[:200]
-            
-            news_data[source_name] = {
-                'items': items,
-                **source_info
-            }
-        except Exception as e:
-            print(f"  [ERROR] Source {source_name} failed: {e}")
-            news_data[source_name] = {
-                'items': [],
-                **source_info
-            }
+                    if len(category_items) >= max_per_cat:
+                        break
+                    item['source'] = source_name
+                    
+                    # AI summarize
+                    if model:
+                        try:
+                            item['summary'] = ai_summarize(model, item['title'], item['description'], cat_name)
+                            time.sleep(0.3)
+                        except:
+                            item['summary'] = item.get('description', '')[:180]
+                    
+                    category_items.append(item)
+                print(f"  ✓ {source_name}: {len(items)} items")
+            except Exception as e:
+                print(f"  ✗ {source_name} failed: {e}")
+        
+        all_news[cat_name] = {
+            'items': category_items[:max_per_cat],
+            'color': cat_info['color']
+        }
     
     # Fetch YouTube videos
-    video_data = {}
-    for channel_name, channel_info in YOUTUBE_CHANNELS.items():
-        print(f"\n[VIDEO] Fetching {channel_name}...")
+    print("\n[VIDEOS] Fetching top tech videos...")
+    all_videos = []
+    for channel in YOUTUBE_CHANNELS:
         try:
-            items = fetch_rss(channel_info['rss'], MAX_VIDEOS)
-            print(f"  Found {len(items)} videos")
-            
-            # AI-summarize video descriptions
-            if model and items:
-                for item in items:
+            items = fetch_rss(channel['rss'], max_items=1)
+            for item in items:
+                item['channel'] = channel['name']
+                if model:
                     try:
                         item['summary'] = ai_summarize(model, item['title'], item['description'])
-                        time.sleep(0.5)
-                    except Exception as e:
-                        print(f"  [AI] Skip summary for one video: {e}")
-                        item['summary'] = "New video uploaded - click to watch!"
-            
-            video_data[channel_name] = {
-                'items': items,
-                **channel_info
-            }
+                        time.sleep(0.3)
+                    except:
+                        item['summary'] = "Click to watch this video"
+                all_videos.append(item)
+            print(f"  ✓ {channel['name']}: {len(items)} videos")
         except Exception as e:
-            print(f"  [ERROR] Channel {channel_name} failed: {e}")
-            video_data[channel_name] = {
-                'items': [],
-                **channel_info
-            }
+            print(f"  ✗ {channel['name']} failed: {e}")
     
-    # Build digest
-    total_stories = sum(len(s['items']) for s in news_data.values())
-    total_videos = sum(len(c['items']) for c in video_data.values())
+    # Fetch stock market data
+    try:
+        market = get_market_data()
+    except Exception as e:
+        print(f"[ERROR] Market data failed: {e}")
+        market = {'indices': [], 'gainers': [], 'losers': [], 'currency': [], 'commodity': []}
+    
+    # Stats
+    total_stories = sum(len(s['items']) for s in all_news.values())
+    total_videos = len(all_videos)
     
     print(f"\n{'=' * 60}")
-    print(f"DIGEST: {total_stories} stories + {total_videos} videos")
+    print(f"DIGEST: {total_stories} stories + {total_videos} videos + market data")
     print(f"{'=' * 60}")
     
-    if total_stories == 0 and total_videos == 0:
-        print("[WARN] Nothing to send - all sources empty!")
-        print("Sending minimal digest anyway to confirm pipeline works...")
+    if total_stories == 0 and total_videos == 0 and not market['indices']:
+        print("[WARN] Everything empty - skipping send")
+        return
     
-    html = build_news_digest(news_data, video_data)
+    html = build_digest_html(all_news, all_videos, market)
     send_digest(html, total_stories, total_videos)
     
     print("\nMorning digest complete! ☕")
