@@ -155,9 +155,9 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
                 <span class="nav-avatar">AG</span>
                 <span class="nav-name">Anil →</span>
             </a>
-            <button class="news-icon-btn" id="newsToggle" title="Daily News & Markets">
+            <a href="news.html" target="_blank" class="news-icon-btn" title="Daily News & Markets">
                 <img src="news-icon.png" alt="News" class="news-icon-img">
-            </button>
+            </a>
         </div>
     </div>
 </nav>
@@ -244,110 +244,13 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
     <div style="margin-top:8px;">© 2026 Anil Gopi Gudapati · 🏁 Made with engineering precision 🏁</div>
 </footer>
 
-<!-- NEWS PANEL -->
-<div class="backdrop" id="backdrop"></div>
-<aside class="news-panel" id="newsPanel">
-    <div class="panel-header">
-        <h2>🌍 DAILY DIGEST</h2>
-        <button class="close-btn" id="closePanel">×</button>
-    </div>
-    <div class="panel-content">
-        <div class="date-stamp" id="todayDate">THURSDAY · MAY 14, 2026</div>
-        
-        <div class="stock-section">
-            <h3>📈 MARKET SNAPSHOT</h3>
-            <div class="stock-row"><span class="stock-name">Nifty 50</span><span class="stock-value">24,150.45</span><span class="stock-change up">▲ +0.85%</span></div>
-            <div class="stock-row"><span class="stock-name">Sensex</span><span class="stock-value">79,425.30</span><span class="stock-change up">▲ +0.62%</span></div>
-            <div class="stock-row"><span class="stock-name">Bank Nifty</span><span class="stock-value">52,180.75</span><span class="stock-change up">▲ +1.24%</span></div>
-            <div class="stock-row"><span class="stock-name">USD/INR</span><span class="stock-value">₹83.42</span><span class="stock-change down">▼ -0.15%</span></div>
-            <div class="stock-row"><span class="stock-name">Gold (10g)</span><span class="stock-value">₹71,250</span><span class="stock-change up">▲ +0.45%</span></div>
-        </div>
-        
-        <div class="cat-section">
-            <div class="cat-header"><span class="cat-title">🤖 AI & TECH</span><span class="cat-count">3</span></div>
-            <div class="news-item">
-                <div class="title">OpenAI announces GPT-5 with 1M context</div>
-                <div class="summary">💡 New flagship: 10x faster, handles entire codebases in one prompt.</div>
-                <div class="meta"><span class="source">TechCrunch</span><a href="https://techcrunch.com" target="_blank" class="read-link">Read →</a></div>
-            </div>
-            <div class="news-item">
-                <div class="title">Anthropic releases Claude Opus 4.7</div>
-                <div class="summary">💡 Improved coding capabilities, available in API and web app.</div>
-                <div class="meta"><span class="source">The Verge</span><a href="https://theverge.com" target="_blank" class="read-link">Read →</a></div>
-            </div>
-        </div>
-        
-        <div class="cat-section">
-            <div class="cat-header"><span class="cat-title">💼 MARKET INTELLIGENCE</span><span class="cat-count">2</span></div>
-            <div class="news-item">
-                <div class="title">Tata Motors acquires EV startup for ₹500cr</div>
-                <div class="summary">💡 Deal expands EV charging to 10,000 stations by 2026.</div>
-                <div class="meta"><span class="source">Economic Times</span><a href="https://economictimes.indiatimes.com" target="_blank" class="read-link">Read →</a></div>
-            </div>
-            <div class="news-item">
-                <div class="title">Reliance announces $5B AI infrastructure</div>
-                <div class="summary">💡 New data centers in Mumbai/Hyderabad with NVIDIA partnership.</div>
-                <div class="meta"><span class="source">Moneycontrol</span><a href="https://moneycontrol.com" target="_blank" class="read-link">Read →</a></div>
-            </div>
-        </div>
-        
-        <div class="cat-section">
-            <div class="cat-header"><span class="cat-title">🏥 MEDICAL DEVICES</span><span class="cat-count">2</span></div>
-            <div class="news-item">
-                <div class="title">Stryker launches AI hip implant tool</div>
-                <div class="summary">💡 Predicts implant success with 95% accuracy, FDA-cleared.</div>
-                <div class="meta"><span class="source">MassDevice</span><a href="https://massdevice.com" target="_blank" class="read-link">Read →</a></div>
-            </div>
-            <div class="news-item">
-                <div class="title">J&J orthopedic reports 12% Q4 growth</div>
-                <div class="summary">💡 Knee/hip replacement systems drive results.</div>
-                <div class="meta"><span class="source">Medical Design</span><a href="https://medicaldesignandoutsourcing.com" target="_blank" class="read-link">Read →</a></div>
-            </div>
-        </div>
-        
-        <div class="cat-section">
-            <div class="cat-header"><span class="cat-title">🇮🇳 INDIA TECH</span><span class="cat-count">1</span></div>
-            <div class="news-item">
-                <div class="title">Zoho hits $1B annual revenue</div>
-                <div class="summary">💡 Bootstrapped Indian SaaS company crosses major milestone.</div>
-                <div class="meta"><span class="source">YourStory</span><a href="https://yourstory.com" target="_blank" class="read-link">Read →</a></div>
-            </div>
-        </div>
-    </div>
-    <div class="panel-footer">🌅 Updated daily at 7 AM IST<br>Tech Pit Stop · Made for Anil</div>
-</aside>
+<!-- NEWS NOW OPENS IN SEPARATE PAGE (news.html) -->
 
 <script>
 function filterSource(source) {
     document.querySelectorAll('.source-tab').forEach(t => t.classList.remove('active'));
     document.querySelector('[data-tab="' + source + '"]').classList.add('active');
 }
-
-const newsToggle = document.getElementById('newsToggle');
-const newsPanel = document.getElementById('newsPanel');
-const closePanel = document.getElementById('closePanel');
-const backdrop = document.getElementById('backdrop');
-
-newsToggle.addEventListener('click', () => {
-    newsPanel.classList.add('open');
-    backdrop.classList.add('show');
-    document.body.style.overflow = 'hidden';
-});
-
-function closeNews() {
-    newsPanel.classList.remove('open');
-    backdrop.classList.remove('show');
-    document.body.style.overflow = '';
-}
-
-closePanel.addEventListener('click', closeNews);
-backdrop.addEventListener('click', closeNews);
-document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeNews(); });
-
-const today = new Date();
-const days = ['SUNDAY','MONDAY','TUESDAY','WEDNESDAY','THURSDAY','FRIDAY','SATURDAY'];
-const months = ['JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER'];
-document.getElementById('todayDate').textContent = `${days[today.getDay()]} · ${months[today.getMonth()]} ${today.getDate()}, ${today.getFullYear()}`;
 </script>
 
 </body>
