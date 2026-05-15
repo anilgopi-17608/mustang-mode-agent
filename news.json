@@ -1,91 +1,91 @@
 {
-  "last_updated": "Friday, May 15, 2026 at 11:00 AM IST",
-  "last_updated_iso": "2026-05-15T11:00:57.321026",
+  "last_updated": "Friday, May 15, 2026 at 04:09 PM IST",
+  "last_updated_iso": "2026-05-15T16:09:44.969719",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23827.05,
-        "change": 137.45000000000073,
-        "change_pct": 0.5802124138862654,
-        "is_up": true
+        "price": 23643.5,
+        "change": -46.099999999998545,
+        "change_pct": -0.19460016209644126,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 75798.99,
-        "change": 400.2700000000041,
-        "change_pct": 0.5308710811005865,
-        "is_up": true
+        "price": 75237.99,
+        "change": -160.72999999999593,
+        "change_pct": -0.2131733801316467,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 54275.25,
-        "change": 146.3000000000029,
-        "change_pct": 0.2702805060877828,
-        "is_up": true
+        "price": 53710.35,
+        "change": -418.59999999999854,
+        "change_pct": -0.7733384815334466,
+        "is_up": false
       }
     ],
     "gainers": [
       {
         "name": "Infosys",
-        "price": 1123.9,
-        "change": 28.90000000000009,
-        "change_pct": 2.6392694063927022,
-        "is_up": true
-      },
-      {
-        "name": "TCS",
-        "price": 2291.2,
-        "change": 45.19999999999982,
-        "change_pct": 2.012466607301862,
+        "price": 1119.0,
+        "change": 24.0,
+        "change_pct": 2.191780821917808,
         "is_up": true
       },
       {
         "name": "Bharti Airtel",
-        "price": 1917.5,
-        "change": 34.0,
-        "change_pct": 1.8051499867268384,
+        "price": 1905.4,
+        "change": 21.90000000000009,
+        "change_pct": 1.1627289620387624,
+        "is_up": true
+      },
+      {
+        "name": "Maruti",
+        "price": 13221.0,
+        "change": 146.0,
+        "change_pct": 1.1166347992351817,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Reliance",
-        "price": 1339.4,
-        "change": -22.399999999999864,
-        "change_pct": -1.6448817741224748,
+        "price": 1336.4,
+        "change": -25.399999999999864,
+        "change_pct": -1.8651784402995937,
         "is_up": false
       },
       {
         "name": "L&T",
-        "price": 3933.2,
-        "change": -7.200000000000273,
-        "change_pct": -0.1827225662369372,
+        "price": 3909.0,
+        "change": -31.40000000000009,
+        "change_pct": -0.7968734138666148,
         "is_up": false
       },
       {
-        "name": "ICICI Bank",
-        "price": 1250.5,
-        "change": 4.5,
-        "change_pct": 0.3611556982343499,
-        "is_up": true
+        "name": "HDFC Bank",
+        "price": 767.5,
+        "change": -2.0499999999999545,
+        "change_pct": -0.26638944837891687,
+        "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.92,
-        "change": 0.1670000000000016,
-        "change_pct": 0.17440706818585486,
+        "price": 95.955,
+        "change": 0.20199999999999818,
+        "change_pct": 0.21095944774576061,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4586.1,
-        "change": -99.19999999999982,
-        "change_pct": -2.117260367532491,
+        "price": 4556.2,
+        "change": -129.10000000000036,
+        "change_pct": -2.7554265468593337,
         "is_up": false
       }
     ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Kaynes Tech shares fall another 5% a day after crashing 20%. What brokerages fear the most?",
-          "summary": "Kaynes Tech shares extended losses, falling another 5% after a 20% crash following weak Q4 earnings. Profit declined 22% YoY despite 26% revenue growth, which missed internal targe...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-shares-fall-another-5-a-day-after-crashing-20-what-brokerages-fear-the-most/articleshow/131108703.cms",
+          "title": "Adani legal relief could be a turning point for India's biggest infrastructure bet: Deven Choksey",
+          "summary": "A potential dropping of US fraud charges against Gautam Adani could signal the end of an eighteen-month defensive period for the Adani Group. This development is expected to reopen...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/adani-groups-legal-clouds-clear-this-could-be-a-turning-point-for-indias-biggest-infrastructure-bet-deven-choksey/articleshow/131114615.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "NSE EGRs to commence trading from May 18. Here’s what gold investors should know",
-          "summary": "The NSE will launch trading in Electronic Gold Receipts (EGRs) from May 18, aiming to transform gold investing in India. The exchange said EGRs will make gold trading more transpar...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-egrs-to-commence-trading-from-may-18-heres-what-gold-investors-should-know/articleshow/131108576.cms",
+          "title": "Global Markets | European shares tumble on Iran war-linked inflation woes",
+          "summary": "U.S. President Donald Trump, on the last day of his trip ‌to China, said ⁠his patience ⁠with Iran was running out and that China's President Xi Jinping agreed that Tehran must not ...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-tumble-on-iran-war-linked-inflation-woes/articleshow/131113877.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Billionaire Adani to settle with SEC, nears end of US legal woes",
-          "summary": "Adani and his nephew Sagar agreed to pay a total of $18 million to settle Securities and Exchange Commission allegations they made false and misleading representations about Adani ...",
-          "link": "https://www.livemint.com/companies/gautam-adani-sagar-adani-sec-settlement-us-fraud-charges-adani-green-energy-bribery-allegations-11778816850171.html",
+          "title": "Tata Cliq leans on premium brands to stand out in e-commerce race",
+          "summary": "Ten years since it first launched, Tata Cliq has exited some categories like electronics as it sharpens focus on premium brands like American athleisure brand Lululemon and luxury ...",
+          "link": "https://www.livemint.com/companies/news/tata-cliq-lululemon-india-launch-india-ecommerce-market-tata-digital-premium-fashion-india-11778830774143.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "UroMems eyes regulatory filings for SUI treatment after $60m fundraise",
-          "summary": "UroMems plans to use the funds to complete a pivotal trial to support regulatory filings for its UroActive system in the US and Europe. The post UroMems eyes regulatory filings for...",
-          "link": "https://www.medicaldevice-network.com/news/uromems-eyes-regulatory-filings-for-sui-treatment-after-60m-fundraise/",
+          "title": "BlueWind Medical raises $47.8m to advance commercialisation efforts for UUI treatment",
+          "summary": "BlueWind plans to use the funds for expanding sales functions and market access initiatives for its Revi implantable tibial neuromodulation system. The post BlueWind Medical raises...",
+          "link": "https://www.medicaldevice-network.com/news/bluewind-medical-raises-47m-to-advance-commercialisation-efforts-for-uui-treatment/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "The new startup stack: From data pipelines to agentic AI systems",
-          "summary": "At a Snowflake x AWS Mixer, founders and experts discussed the rise of agentic AI, decision-grade data, and the next startup stack....",
-          "link": "https://yourstory.com/2026/05/startup-stack-data-pipelines-agentic-ai-systems",
-          "source": "YourStory"
-        },
-        {
           "title": "How Karnataka’s merchants are using digital payments to grow faster",
           "summary": "From a flower stall and a family-run saree store to an expanding ice cream chain, businesses across Karnataka are using digital payments to streamline operations, serve customers b...",
           "link": "https://yourstory.com/2026/05/how-karnatakas-merchants-using-digital-payments-grow-faster",
           "source": "YourStory"
         },
         {
-          "title": "Ecommerce To Capture 22% Of India’s Retail GMV By 2031",
-          "summary": "No longer just about shopping online, India&#8217;s ecommerce story is fast becoming a full-scale retail reset. According to Inc42 Datalabs’&#8230;...",
-          "link": "https://inc42.com/buzz/ecommerce-to-capture-22-of-indias-retail-gmv-by-2031/",
+          "title": "The next decade of enterprise AI: Seven trends redefining business",
+          "summary": "The next decade of enterprise AIAs AI scales, cost discipline becomes as important as innovation. Enterprises must manage inference economics with rigor: choosing the right model f...",
+          "link": "https://yourstory.com/2026/05/the-next-decade-of-enterprise-ai-seven-trends-redefining-business",
+          "source": "YourStory"
+        },
+        {
+          "title": "Exclusive: Unicorn Innovaccer Lays Off 340 Employees In Another Restructuring Round",
+          "summary": "Healthtech unicorn Innovaccer fired 340 employees today in a restructuring exercise, sources told Inc42. This is the startup’s third layoff&#8230;...",
+          "link": "https://inc42.com/buzz/exclusive-healthtech-unicorn-innovaccer-lays-off-340-employees-in-another-restructuring-round/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Technical thinking: A dam shame",
-          "summary": "By Mark Jones We trudged down the road to Au Train Falls with crampons on. We visit during our yearly ice cave adventure in Michigan’s UP. The road wasn’t plowed as well as on past...",
-          "link": "https://www.designworldonline.com/technical-thinking-dam-shame/",
+          "title": "PTDA welcomes Industrial Concepts & Solutions as member",
+          "summary": "The Power Transmission Distributors Association (PTDA) has welcomed a new distributor member, Industrial Concepts &#38; Solutions, Inc. Industrial Concepts &#38; Solutions distribu...",
+          "link": "https://www.designworldonline.com/ptda-welcomes-industrial-concepts-solutions-as-member/",
           "source": "Design World"
         },
         {
-          "title": "AutomationDirect adds STAHL intrinsic safety products",
-          "summary": "AutomationDirect now offers STAHL Zener barriers and intrinsically safe isolators expands our offering of safety products, further strengthening our ability to support a wide range...",
-          "link": "https://www.designworldonline.com/automationdirect-adds-stahl-intrinsic-safety-products/",
+          "title": "Technical thinking: A dam shame",
+          "summary": "By Mark Jones We trudged down the road to Au Train Falls with crampons on. We visit during our yearly ice cave adventure in Michigan’s UP. The road wasn’t plowed as well as on past...",
+          "link": "https://www.designworldonline.com/technical-thinking-dam-shame/",
           "source": "Design World"
         }
       ]
