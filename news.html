@@ -28,7 +28,9 @@ nav { position: sticky; top: 0; background: rgba(10,0,20,0.92); backdrop-filter:
 .page-header { max-width: 1000px; margin: 0 auto; padding: 60px 24px 40px; text-align: center; }
 .page-header h1 { font-family: 'Audiowide', cursive; font-size: clamp(36px, 6vw, 56px); background: linear-gradient(90deg, #ffd700, #ff6b00, #dc2626); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 4px; margin-bottom: 16px; }
 .date-stamp { font-family: 'Audiowide', cursive; color: #ffd700; font-size: 14px; letter-spacing: 3px; margin-bottom: 12px; }
-.last-update { color: #16a34a; font-size: 11px; letter-spacing: 1px; margin-bottom: 20px; font-weight: 600; }
+.last-update { color: #16a34a; font-size: 11px; letter-spacing: 1px; margin-bottom: 8px; font-weight: 600; }
+.market-update { color: #fbbf24; font-size: 11px; letter-spacing: 1px; margin-bottom: 20px; font-weight: 600; animation: blink 2s infinite; }
+@keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
 .page-header p { color: #ddd; font-size: 16px; max-width: 600px; margin: 0 auto; line-height: 1.6; }
 
 .sections-container { max-width: 1000px; margin: 0 auto 60px; padding: 0 24px; }
@@ -49,13 +51,18 @@ nav { position: sticky; top: 0; background: rgba(10,0,20,0.92); backdrop-filter:
 .section-card.open .arrow-icon { background: linear-gradient(135deg, #ffd700, #ff6b00); color: #fff; transform: rotate(90deg); }
 
 .section-content { max-height: 0; overflow: hidden; transition: max-height 0.4s ease-out; }
-.section-card.open .section-content { max-height: 5000px; transition: max-height 0.6s ease-in; }
+.section-card.open .section-content { max-height: 8000px; transition: max-height 0.6s ease-in; }
 .section-inner { padding: 0 24px 24px; }
 
+.market-subsection { margin-top: 20px; }
+.market-subsection:first-child { margin-top: 0; }
+.market-subtitle { color: #ffd700; font-family: 'Audiowide', cursive; font-size: 13px; letter-spacing: 2px; margin-bottom: 12px; }
+
 .stock-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; }
-.stock-card { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,107,0,0.2); border-radius: 10px; padding: 16px; }
+.stock-card { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,107,0,0.2); border-radius: 10px; padding: 16px; transition: all 0.2s; }
+.stock-card:hover { background: rgba(255,255,255,0.08); border-color: rgba(255,107,0,0.5); }
 .stock-name { color: #aaa; font-size: 11px; letter-spacing: 1px; font-weight: 600; margin-bottom: 6px; }
-.stock-value { color: #fff; font-size: 20px; font-weight: bold; margin-bottom: 4px; font-family: 'Audiowide', cursive; }
+.stock-value { color: #fff; font-size: 18px; font-weight: bold; margin-bottom: 4px; font-family: 'Audiowide', cursive; }
 .stock-change { font-size: 12px; font-weight: bold; }
 .stock-change.up { color: #16a34a; }
 .stock-change.down { color: #dc2626; }
@@ -66,8 +73,7 @@ nav { position: sticky; top: 0; background: rgba(10,0,20,0.92); backdrop-filter:
 .news-item .news-summary { color: #bbb; font-size: 13px; line-height: 1.6; margin-bottom: 10px; }
 .news-item .news-meta { display: flex; justify-content: space-between; align-items: center; font-size: 12px; }
 .news-item .news-source { color: #ff6b00; font-weight: bold; letter-spacing: 1px; }
-.news-item .read-link { color: #16a34a; font-weight: 600; transition: color 0.2s; }
-.news-item .read-link:hover { color: #22d966; }
+.news-item .read-link { color: #16a34a; font-weight: 600; }
 
 .loading-state { text-align: center; padding: 60px 20px; color: #aaa; }
 .loading-state .spinner { font-size: 48px; animation: spin 2s linear infinite; }
@@ -108,7 +114,8 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
     <h1>🌍 DAILY DIGEST</h1>
     <div class="date-stamp" id="todayDate">LOADING...</div>
     <div class="last-update" id="lastUpdate"></div>
-    <p>Your morning briefing — click any section to expand and read.</p>
+    <div class="market-update" id="marketUpdate"></div>
+    <p>Your morning briefing — click any section to expand. Markets update hourly.</p>
 </div>
 
 <div class="sections-container" id="sectionsContainer">
@@ -120,23 +127,20 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
 
 <footer>
     <div><span class="accent">🌍 TECH PIT STOP</span> — your daily intel briefing</div>
-    <div style="margin-top:8px;">Updated daily at 7 AM IST · Built by Anil Gopi Gudapati</div>
+    <div style="margin-top:8px;">News at 7 AM IST · Markets update hourly · Built by Anil Gopi Gudapati</div>
 </footer>
 
 <script>
-// Update date display
 const today = new Date();
 const days = ['SUNDAY','MONDAY','TUESDAY','WEDNESDAY','THURSDAY','FRIDAY','SATURDAY'];
 const months = ['JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER'];
 document.getElementById('todayDate').textContent = `${days[today.getDay()]} · ${months[today.getMonth()]} ${today.getDate()}, ${today.getFullYear()}`;
 
-// Toggle section function (global)
 function toggleSection(sectionId) {
     const card = document.querySelector(`[data-section="${sectionId}"]`);
     if (card) card.classList.toggle('open');
 }
 
-// Load news from news.json
 async function loadNews() {
     try {
         const response = await fetch('news.json?t=' + Date.now());
@@ -144,7 +148,6 @@ async function loadNews() {
             showError("news.json not found. The agent hasn't run yet.");
             return;
         }
-        
         const data = await response.json();
         renderNews(data);
     } catch (err) {
@@ -157,17 +160,19 @@ function renderNews(data) {
     const container = document.getElementById('sectionsContainer');
     container.innerHTML = '';
     
-    // Update "last updated" label
     if (data.last_updated) {
-        document.getElementById('lastUpdate').textContent = '🟢 LAST UPDATED: ' + data.last_updated;
+        document.getElementById('lastUpdate').textContent = '🟢 NEWS UPDATED: ' + data.last_updated;
     }
     
-    // Build market section first if data exists
-    if (data.market && data.market.indices && data.market.indices.length > 0) {
+    if (data.market_last_updated) {
+        document.getElementById('marketUpdate').textContent = '📈 MARKETS UPDATED: ' + data.market_last_updated;
+    }
+    
+    // Build market section (with new structure: Indian + US + Crypto)
+    if (data.market) {
         container.appendChild(buildMarketSection(data.market));
     }
     
-    // Build each news category
     if (data.categories) {
         let sectionIdx = 1;
         for (const [catName, catData] of Object.entries(data.categories)) {
@@ -178,7 +183,6 @@ function renderNews(data) {
         }
     }
     
-    // If nothing was added, show empty state
     if (container.children.length === 0) {
         showError("No news available yet. Check back after 7 AM IST tomorrow!");
     }
@@ -195,24 +199,79 @@ function buildMarketSection(market) {
     card.className = 'section-card';
     card.setAttribute('data-section', 'market');
     
-    const indicators = market.indices.length + (market.currency?.length || 0) + (market.commodity?.length || 0);
+    let innerHTML = '';
     
-    let stockCards = '';
+    // 🇮🇳 INDIAN MARKETS
+    if (market.indian) {
+        innerHTML += '<div class="market-subsection">';
+        innerHTML += '<div class="market-subtitle">🇮🇳 INDIAN MARKETS — INDICES</div>';
+        innerHTML += '<div class="stock-grid">';
+        (market.indian.indices || []).forEach(s => innerHTML += buildStockCard(s));
+        innerHTML += '</div>';
+        
+        if (market.indian.gainers && market.indian.gainers.length > 0) {
+            innerHTML += '<div class="market-subtitle" style="margin-top:18px;color:#16a34a;">🏆 INDIAN GAINERS</div>';
+            innerHTML += '<div class="stock-grid">';
+            market.indian.gainers.forEach(s => innerHTML += buildStockCard(s));
+            innerHTML += '</div>';
+        }
+        
+        if (market.indian.losers && market.indian.losers.length > 0) {
+            innerHTML += '<div class="market-subtitle" style="margin-top:18px;color:#dc2626;">📉 INDIAN LOSERS</div>';
+            innerHTML += '<div class="stock-grid">';
+            market.indian.losers.forEach(s => innerHTML += buildStockCard(s));
+            innerHTML += '</div>';
+        }
+        innerHTML += '</div>';
+    }
     
-    // Indices
-    market.indices.forEach(item => {
-        stockCards += buildStockCard(item);
-    });
+    // 🇺🇸 US MARKETS
+    if (market.us) {
+        innerHTML += '<div class="market-subsection">';
+        innerHTML += '<div class="market-subtitle">🇺🇸 US MARKETS — INDICES</div>';
+        innerHTML += '<div class="stock-grid">';
+        (market.us.indices || []).forEach(s => innerHTML += buildStockCard(s));
+        innerHTML += '</div>';
+        
+        if (market.us.gainers && market.us.gainers.length > 0) {
+            innerHTML += '<div class="market-subtitle" style="margin-top:18px;">📊 TOP US STOCKS</div>';
+            innerHTML += '<div class="stock-grid">';
+            [...market.us.gainers, ...market.us.losers].forEach(s => innerHTML += buildStockCard(s));
+            innerHTML += '</div>';
+        }
+        innerHTML += '</div>';
+    }
     
-    // Currency
-    (market.currency || []).forEach(item => {
-        stockCards += buildStockCard(item);
-    });
+    // ₿ CRYPTO
+    if (market.crypto && market.crypto.length > 0) {
+        innerHTML += '<div class="market-subsection">';
+        innerHTML += '<div class="market-subtitle">₿ CRYPTOCURRENCY</div>';
+        innerHTML += '<div class="stock-grid">';
+        market.crypto.forEach(s => innerHTML += buildStockCard(s, '$'));
+        innerHTML += '</div>';
+        innerHTML += '</div>';
+    }
     
-    // Commodity
-    (market.commodity || []).forEach(item => {
-        stockCards += buildStockCard(item);
-    });
+    // 💵 CURRENCY & COMMODITY
+    if ((market.currency && market.currency.length > 0) || (market.commodity && market.commodity.length > 0)) {
+        innerHTML += '<div class="market-subsection">';
+        innerHTML += '<div class="market-subtitle">💵 FOREX & COMMODITY</div>';
+        innerHTML += '<div class="stock-grid">';
+        (market.currency || []).forEach(s => innerHTML += buildStockCard(s));
+        (market.commodity || []).forEach(s => innerHTML += buildStockCard(s));
+        innerHTML += '</div>';
+        innerHTML += '</div>';
+    }
+    
+    // Total count
+    const totalCount = ((market.indian?.indices?.length || 0) + 
+                       (market.indian?.gainers?.length || 0) + 
+                       (market.indian?.losers?.length || 0) + 
+                       (market.us?.indices?.length || 0) +
+                       (market.us?.gainers?.length || 0) +
+                       (market.crypto?.length || 0) +
+                       (market.currency?.length || 0) +
+                       (market.commodity?.length || 0));
     
     card.innerHTML = `
         <button class="section-toggle" onclick="toggleSection('market')">
@@ -220,29 +279,19 @@ function buildMarketSection(market) {
                 <div class="section-icon-circle">📈</div>
                 <div class="section-info">
                     <div class="section-title">MARKET SNAPSHOT</div>
-                    <div class="section-count">${indicators} INDICATORS · LIVE</div>
+                    <div class="section-count">${totalCount} INDICATORS · UPDATES HOURLY</div>
                 </div>
             </div>
             <div class="arrow-icon">→</div>
         </button>
         <div class="section-content">
-            <div class="section-inner">
-                <div class="stock-grid">${stockCards}</div>
-                ${(market.gainers && market.gainers.length > 0) ? `
-                    <h3 style="color:#16a34a; margin-top:24px; margin-bottom:12px; font-family:'Audiowide',cursive; font-size:14px; letter-spacing:2px;">🏆 TOP GAINERS</h3>
-                    <div class="stock-grid">${market.gainers.map(buildStockCard).join('')}</div>
-                ` : ''}
-                ${(market.losers && market.losers.length > 0) ? `
-                    <h3 style="color:#dc2626; margin-top:24px; margin-bottom:12px; font-family:'Audiowide',cursive; font-size:14px; letter-spacing:2px;">📉 TOP LOSERS</h3>
-                    <div class="stock-grid">${market.losers.map(buildStockCard).join('')}</div>
-                ` : ''}
-            </div>
+            <div class="section-inner">${innerHTML}</div>
         </div>
     `;
     return card;
 }
 
-function buildStockCard(stock) {
+function buildStockCard(stock, prefix = '') {
     const arrow = stock.is_up ? '▲' : '▼';
     const cls = stock.is_up ? 'up' : 'down';
     const sign = stock.is_up ? '+' : '';
@@ -251,7 +300,7 @@ function buildStockCard(stock) {
     return `
         <div class="stock-card">
             <div class="stock-name">${stock.name || 'Unknown'}</div>
-            <div class="stock-value">${price}</div>
+            <div class="stock-value">${prefix}${price}</div>
             <div class="stock-change ${cls}">${arrow} ${sign}${pct}%</div>
         </div>
     `;
@@ -260,8 +309,6 @@ function buildStockCard(stock) {
 function buildNewsSection(catName, catData, idx) {
     const sectionId = 'cat-' + idx;
     const items = catData.items || [];
-    
-    // Extract icon (first character/emoji)
     const icon = catName.match(/^\S+/) ? catName.match(/^\S+/)[0] : '📰';
     const cleanName = catName.replace(/^\S+\s+/, '');
     
@@ -296,9 +343,7 @@ function buildNewsSection(catName, catData, idx) {
             <div class="arrow-icon">→</div>
         </button>
         <div class="section-content">
-            <div class="section-inner">
-                ${itemsHtml}
-            </div>
+            <div class="section-inner">${itemsHtml}</div>
         </div>
     `;
     return card;
@@ -318,13 +363,16 @@ function showError(message) {
             <div class="icon">🏁</div>
             <h2>NEWS NOT AVAILABLE YET</h2>
             <p>${escapeHtml(message)}</p>
-            <p style="margin-top:16px; color:#ffd700;">The agent runs daily at 7:00 AM IST. Once it runs, this page will show fresh news automatically!</p>
+            <p style="margin-top:16px; color:#ffd700;">The agent runs daily at 7:00 AM IST. Markets update hourly. Once they run, this page will show fresh data automatically!</p>
         </div>
     `;
 }
 
-// Load news on page load
+// Load on page load
 loadNews();
+
+// Auto-refresh every 5 minutes to get latest market data
+setInterval(loadNews, 5 * 60 * 1000);
 </script>
 
 </body>
