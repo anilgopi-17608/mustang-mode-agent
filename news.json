@@ -1,0 +1,247 @@
+{
+  "last_updated": "Friday, May 15, 2026 at 10:07 AM IST",
+  "last_updated_iso": "2026-05-15T10:07:28.874277",
+  "market": {
+    "indices": [
+      {
+        "name": "Nifty 50",
+        "price": 23806.35,
+        "change": 116.75,
+        "change_pct": 0.4928322977171417,
+        "is_up": true
+      },
+      {
+        "name": "Sensex",
+        "price": 75772.51,
+        "change": 373.7899999999936,
+        "change_pct": 0.4957511215044414,
+        "is_up": true
+      },
+      {
+        "name": "Bank Nifty",
+        "price": 54160.95,
+        "change": 32.0,
+        "change_pct": 0.05911808745597319,
+        "is_up": true
+      }
+    ],
+    "gainers": [
+      {
+        "name": "Infosys",
+        "price": 1128.5,
+        "change": 33.5,
+        "change_pct": 3.0593607305936072,
+        "is_up": true
+      },
+      {
+        "name": "TCS",
+        "price": 2291.9,
+        "change": 45.90000000000009,
+        "change_pct": 2.043633125556549,
+        "is_up": true
+      },
+      {
+        "name": "Bharti Airtel",
+        "price": 1918.2,
+        "change": 34.700000000000045,
+        "change_pct": 1.8423148393947462,
+        "is_up": true
+      }
+    ],
+    "losers": [
+      {
+        "name": "Reliance",
+        "price": 1347.2,
+        "change": -14.599999999999909,
+        "change_pct": -1.07211044206197,
+        "is_up": false
+      },
+      {
+        "name": "L&T",
+        "price": 3942.8,
+        "change": 2.400000000000091,
+        "change_pct": 0.06090752207897906,
+        "is_up": true
+      },
+      {
+        "name": "ICICI Bank",
+        "price": 1249.6,
+        "change": 3.599999999999909,
+        "change_pct": 0.2889245585874726,
+        "is_up": true
+      }
+    ],
+    "currency": [
+      {
+        "name": "USD/INR",
+        "price": 95.925,
+        "change": 0.17199999999999704,
+        "change_pct": 0.17962883669440857,
+        "is_up": true
+      }
+    ],
+    "commodity": [
+      {
+        "name": "Gold (₹/10g)",
+        "price": 4616.5,
+        "change": -68.80000000000018,
+        "change_pct": -1.4684225129660893,
+        "is_up": false
+      }
+    ]
+  },
+  "categories": {
+    "🤖 AI & TECH": {
+      "color": "#dc2626",
+      "items": [
+        {
+          "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+          "summary": "Here's what the biggest tech court case of the year is all about....",
+          "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+          "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liqu...",
+          "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Honda&#8217;s hybrid future starts with new Accord and RDX prototypes",
+          "summary": "",
+          "link": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx",
+          "source": "The Verge"
+        },
+        {
+          "title": "Closing time",
+          "summary": "",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+          "source": "The Verge"
+        },
+        {
+          "title": "Men use \"vocal fry\" more than women, counter to stereotype",
+          "summary": "Study suggests \"the bias is real but socially constructed, rather than grounded in how women actually sound.\"...",
+          "link": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
+          "source": "Ars Technica"
+        }
+      ]
+    },
+    "💼 MARKET INTELLIGENCE": {
+      "color": "#7c3aed",
+      "items": [
+        {
+          "title": "HAL shares drop over 4% after Q4 results. What are Goldman Sachs and Nomura saying?",
+          "summary": "Hindustan Aeronautics Limited shares fell over 4% despite reporting steady Q4FY26 earnings growth, strong sequential performance and higher annual profit. While Nomura maintained a...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hal-shares-drop-over-4-after-q4-results-what-are-goldman-sachs-and-nomura-saying/articleshow/131108072.cms",
+          "source": "Economic Times Markets"
+        },
+        {
+          "title": "US Stock Market: Bond markets brace for higher-for-longer yields amid oil price surge",
+          "summary": "Investors anticipate prolonged elevated U.S. Treasury yields due to inflation concerns, particularly from surging oil prices amid Middle East conflict. Incoming Fed Chair Kevin War...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-bond-markets-brace-for-higher-for-longer-yields-amid-oil-price-surge/articleshow/131108036.cms",
+          "source": "Economic Times Markets"
+        },
+        {
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "Billionaire Adani to settle with SEC, nears end of US legal woes",
+          "summary": "Adani and his nephew Sagar agreed to pay a total of $18 million to settle Securities and Exchange Commission allegations they made false and misleading representations about Adani ...",
+          "link": "https://www.livemint.com/companies/gautam-adani-sagar-adani-sec-settlement-us-fraud-charges-adani-green-energy-bribery-allegations-11778816850171.html",
+          "source": "Livemint Companies"
+        }
+      ]
+    },
+    "🏥 MEDICAL DEVICES": {
+      "color": "#16a34a",
+      "items": [
+        {
+          "title": "Hamilton Medical selects PTC Codebeamer ALM",
+          "summary": "NEWS RELEASE: PTC Codebeamer replaces legacy system at Hamilton Medical Collaboration agreement formed to advance market-specific ALM-PLM solutions Codebeamer ALM solution selected...",
+          "link": "https://www.medicaldesignandoutsourcing.com/hamilton-medical-selects-ptc-codebeamer-alm/",
+          "source": "Medical Design & Outsourcing"
+        },
+        {
+          "title": "What’s next for cervical spine tech and startup Synergy Spine Solutions",
+          "summary": "Synergy Spine Solutions designed its Synergy Disc cervical implant like a ball and socket hip joint to improve alignment while preserving range of motion for patients with degenera...",
+          "link": "https://www.medicaldesignandoutsourcing.com/synergy-spine-cervical-disc-ceo-josh-butters-advice/",
+          "source": "Medical Design & Outsourcing"
+        },
+        {
+          "title": "UroMems eyes regulatory filings for SUI treatment after $60m fundraise",
+          "summary": "UroMems plans to use the funds to complete a pivotal trial to support regulatory filings for its UroActive system in the US and Europe. The post UroMems eyes regulatory filings for...",
+          "link": "https://www.medicaldevice-network.com/news/uromems-eyes-regulatory-filings-for-sui-treatment-after-60m-fundraise/",
+          "source": "Medical Device Network"
+        }
+      ]
+    },
+    "🇮🇳 INDIA TECH": {
+      "color": "#ff6b00",
+      "items": [
+        {
+          "title": "Meet LiteFold, a biotech startup using proprietary AI to speed up drug discovery",
+          "summary": "Bengaluru and Delaware-based LiteFold is a biotech AI-native platform designed to accelerate computational biology workflows....",
+          "link": "https://yourstory.com/2026/05/litefold-biotech-startup-using-proprietary-ai-speed-up-drug-discovery",
+          "source": "YourStory"
+        },
+        {
+          "title": "How Karnataka’s merchants are using digital payments to grow faster",
+          "summary": "From a flower stall and a family-run saree store to an expanding ice cream chain, businesses across Karnataka are using digital payments to streamline operations, serve customers b...",
+          "link": "https://yourstory.com/2026/05/how-karnatakas-merchants-using-digital-payments-grow-faster",
+          "source": "YourStory"
+        },
+        {
+          "title": "Ecommerce To Capture 22% Of India’s Retail GMV By 2031",
+          "summary": "No longer just about shopping online, India&#8217;s ecommerce story is fast becoming a full-scale retail reset. According to Inc42 Datalabs’&#8230;...",
+          "link": "https://inc42.com/buzz/ecommerce-to-capture-22-of-indias-retail-gmv-by-2031/",
+          "source": "Inc42"
+        }
+      ]
+    },
+    "🛠️ ENGINEERING": {
+      "color": "#0891b2",
+      "items": [
+        {
+          "title": "Technical thinking: A dam shame",
+          "summary": "By Mark Jones We trudged down the road to Au Train Falls with crampons on. We visit during our yearly ice cave adventure in Michigan’s UP. The road wasn’t plowed as well as on past...",
+          "link": "https://www.designworldonline.com/technical-thinking-dam-shame/",
+          "source": "Design World"
+        },
+        {
+          "title": "AutomationDirect adds STAHL intrinsic safety products",
+          "summary": "AutomationDirect now offers STAHL Zener barriers and intrinsically safe isolators expands our offering of safety products, further strengthening our ability to support a wide range...",
+          "link": "https://www.designworldonline.com/automationdirect-adds-stahl-intrinsic-safety-products/",
+          "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "“The Biggest Android Update Ever”",
+          "summary": "Everything we know so far about Android 17, Gemini Intelligence and Googlebooks\n\nPhone camera processing: https://youtu.be/coX4duwUCpw\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist...",
+          "link": "https://www.youtube.com/watch?v=eFeDpUVEy48",
+          "source": "MKBHD",
+          "thumbnail": "https://i2.ytimg.com/vi/eFeDpUVEy48/hqdefault.jpg"
+        },
+        {
+          "title": "NVIDIA New AI Is An Efficiency Monster",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2604.24954\nhttps://developer.nvidia.com/blo...",
+          "link": "https://www.youtube.com/watch?v=4wC8hnQawiA",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i1.ytimg.com/vi/4wC8hnQawiA/hqdefault.jpg"
+        }
+      ]
+    }
+  }
+}
