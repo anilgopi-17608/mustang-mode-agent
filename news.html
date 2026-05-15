@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🌍 Daily Digest — Tech Pit Stop</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Inter', sans-serif; color: #fff; line-height: 1.7; overflow-x: hidden; background: #0a0014; min-height: 100vh; }
+a { color: inherit; text-decoration: none; }
+
+.mustang-bg { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background-image: url('BMW M5 Competition.jpg'); background-size: cover; background-position: center; background-attachment: fixed; z-index: -3; }
+.bg-overlay { position: fixed; inset: 0; background: linear-gradient(135deg, rgba(10,0,20,0.75), rgba(20,5,20,0.7), rgba(40,10,30,0.75)); z-index: -2; }
+.vignette { position: fixed; inset: 0; background: radial-gradient(ellipse at center, transparent 30%, rgba(0,0,0,0.5) 100%); z-index: -1; pointer-events: none; }
+.racing-stripes { position: fixed; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, transparent, #ffd700 15%, #ff6b00 30%, #dc2626 50%, #ff6b00 70%, #ffd700 85%, transparent); z-index: 100; box-shadow: 0 0 20px rgba(255,107,0,0.6); }
+
+nav { position: sticky; top: 0; background: rgba(10,0,20,0.92); backdrop-filter: blur(15px); border-bottom: 2px solid rgba(255,107,0,0.4); padding: 18px 0; z-index: 50; }
+.nav-container { max-width: 1200px; margin: 0 auto; padding: 0 24px; display: flex; justify-content: space-between; align-items: center; }
+.brand { font-family: 'Audiowide', cursive; font-size: 22px; background: linear-gradient(90deg, #ffd700, #ff6b00, #dc2626); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 3px; }
+.brand span { color: #fff; -webkit-text-fill-color: #fff; }
+
+.back-link { display: inline-flex; align-items: center; gap: 8px; padding: 10px 20px; background: rgba(255,107,0,0.15); border: 1px solid rgba(255,107,0,0.5); border-radius: 30px; color: #ffd700; font-size: 13px; font-weight: 600; transition: all 0.3s; }
+.back-link:hover { background: linear-gradient(135deg, #ff6b00, #dc2626); border-color: #ffd700; color: #fff; transform: translateX(-5px); }
+
+/* Page header */
+.page-header { max-width: 1000px; margin: 0 auto; padding: 60px 24px 40px; text-align: center; }
+.page-header h1 { font-family: 'Audiowide', cursive; font-size: clamp(36px, 6vw, 56px); background: linear-gradient(90deg, #ffd700, #ff6b00, #dc2626); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 4px; margin-bottom: 16px; text-shadow: 0 0 40px rgba(255,107,0,0.4); }
+.date-stamp { font-family: 'Audiowide', cursive; color: #ffd700; font-size: 14px; letter-spacing: 3px; margin-bottom: 20px; }
+.page-header p { color: #ddd; font-size: 16px; max-width: 600px; margin: 0 auto; line-height: 1.6; }
+
+/* Container */
+.sections-container { max-width: 1000px; margin: 0 auto 60px; padding: 0 24px; }
+
+/* Accordion section */
+.section-card { background: rgba(15,5,25,0.85); backdrop-filter: blur(15px); border: 1px solid rgba(255,107,0,0.3); border-radius: 14px; margin-bottom: 16px; overflow: hidden; transition: all 0.3s; }
+.section-card:hover { border-color: rgba(255,107,0,0.6); box-shadow: 0 8px 30px rgba(255,107,0,0.2); }
+
+.section-toggle { width: 100%; background: transparent; border: none; padding: 22px 24px; cursor: pointer; display: flex; align-items: center; justify-content: space-between; color: #fff; transition: all 0.3s; font-family: inherit; }
+.section-toggle:hover { background: rgba(255,107,0,0.05); }
+
+.section-toggle-left { display: flex; align-items: center; gap: 16px; }
+.section-icon-circle { width: 48px; height: 48px; background: linear-gradient(135deg, #ffd700, #ff6b00, #dc2626); border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 24px; box-shadow: 0 4px 15px rgba(255,107,0,0.4); }
+.section-info { text-align: left; }
+.section-title { font-family: 'Audiowide', cursive; font-size: 16px; letter-spacing: 2px; color: #fff; margin-bottom: 4px; }
+.section-count { color: #ffd700; font-size: 11px; letter-spacing: 2px; font-weight: 600; }
+
+.arrow-icon { width: 36px; height: 36px; background: rgba(255,107,0,0.15); border: 1px solid rgba(255,107,0,0.4); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #ffd700; font-size: 16px; transition: all 0.3s; flex-shrink: 0; }
+.section-card.open .arrow-icon { background: linear-gradient(135deg, #ffd700, #ff6b00); color: #fff; transform: rotate(90deg); }
+
+.section-content { max-height: 0; overflow: hidden; transition: max-height 0.4s ease-out; }
+.section-card.open .section-content { max-height: 5000px; transition: max-height 0.6s ease-in; }
+
+.section-inner { padding: 0 24px 24px; }
+
+/* Stock items */
+.stock-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; }
+.stock-card { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,107,0,0.2); border-radius: 10px; padding: 16px; }
+.stock-name { color: #aaa; font-size: 11px; letter-spacing: 1px; font-weight: 600; margin-bottom: 6px; }
+.stock-value { color: #fff; font-size: 20px; font-weight: bold; margin-bottom: 4px; font-family: 'Audiowide', cursive; }
+.stock-change { font-size: 12px; font-weight: bold; }
+.stock-change.up { color: #16a34a; }
+.stock-change.down { color: #dc2626; }
+
+/* News items */
+.news-item { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,107,0,0.2); border-radius: 10px; padding: 18px; margin-bottom: 12px; transition: all 0.2s; }
+.news-item:hover { background: rgba(255,255,255,0.08); border-color: rgba(255,107,0,0.5); transform: translateX(4px); }
+.news-item:last-child { margin-bottom: 0; }
+.news-item .news-title { color: #fff; font-size: 15px; font-weight: bold; margin-bottom: 8px; line-height: 1.4; }
+.news-item .news-summary { color: #bbb; font-size: 13px; line-height: 1.6; margin-bottom: 10px; }
+.news-item .news-meta { display: flex; justify-content: space-between; align-items: center; font-size: 12px; }
+.news-item .news-source { color: #ff6b00; font-weight: bold; letter-spacing: 1px; }
+.news-item .read-link { color: #16a34a; font-weight: 600; transition: color 0.2s; }
+.news-item .read-link:hover { color: #22d966; }
+
+footer { text-align: center; padding: 40px 24px; border-top: 1px solid rgba(255,107,0,0.3); color: #aaa; font-size: 12px; background: rgba(10,0,20,0.7); backdrop-filter: blur(15px); }
+footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; }
+
+@media (max-width: 768px) {
+    .page-header { padding: 40px 20px; }
+    .section-toggle { padding: 18px 20px; }
+    .section-inner { padding: 0 20px 20px; }
+    .section-icon-circle { width: 40px; height: 40px; font-size: 20px; }
+    .mustang-bg { background-attachment: scroll; }
+}
+</style>
+</head>
+<body>
+
+<div class="mustang-bg"></div>
+<div class="bg-overlay"></div>
+<div class="vignette"></div>
+<div class="racing-stripes"></div>
+
+<nav>
+    <div class="nav-container">
+        <div class="brand">🏎️ MUSTANG <span>MODE</span></div>
+        <a href="index.html" class="back-link">← Back to Home</a>
+    </div>
+</nav>
+
+<div class="page-header">
+    <h1>🌍 DAILY DIGEST</h1>
+    <div class="date-stamp" id="todayDate">THURSDAY · MAY 14, 2026</div>
+    <p>Your morning briefing — click any section below to expand and read.</p>
+</div>
+
+<div class="sections-container">
+    
+    <!-- 📈 MARKET SNAPSHOT -->
+    <div class="section-card" data-section="market">
+        <button class="section-toggle" onclick="toggleSection('market')">
+            <div class="section-toggle-left">
+                <div class="section-icon-circle">📈</div>
+                <div class="section-info">
+                    <div class="section-title">MARKET SNAPSHOT</div>
+                    <div class="section-count">5 INDICATORS · LIVE</div>
+                </div>
+            </div>
+            <div class="arrow-icon">→</div>
+        </button>
+        <div class="section-content">
+            <div class="section-inner">
+                <div class="stock-grid">
+                    <div class="stock-card">
+                        <div class="stock-name">NIFTY 50</div>
+                        <div class="stock-value">24,150.45</div>
+                        <div class="stock-change up">▲ +0.85%</div>
+                    </div>
+                    <div class="stock-card">
+                        <div class="stock-name">SENSEX</div>
+                        <div class="stock-value">79,425.30</div>
+                        <div class="stock-change up">▲ +0.62%</div>
+                    </div>
+                    <div class="stock-card">
+                        <div class="stock-name">BANK NIFTY</div>
+                        <div class="stock-value">52,180.75</div>
+                        <div class="stock-change up">▲ +1.24%</div>
+                    </div>
+                    <div class="stock-card">
+                        <div class="stock-name">USD/INR</div>
+                        <div class="stock-value">₹83.42</div>
+                        <div class="stock-change down">▼ -0.15%</div>
+                    </div>
+                    <div class="stock-card">
+                        <div class="stock-name">GOLD (10g)</div>
+                        <div class="stock-value">₹71,250</div>
+                        <div class="stock-change up">▲ +0.45%</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 🤖 AI & TECH -->
+    <div class="section-card" data-section="ai-tech">
+        <button class="section-toggle" onclick="toggleSection('ai-tech')">
+            <div class="section-toggle-left">
+                <div class="section-icon-circle">🤖</div>
+                <div class="section-info">
+                    <div class="section-title">AI & TECH</div>
+                    <div class="section-count">3 STORIES</div>
+                </div>
+            </div>
+            <div class="arrow-icon">→</div>
+        </button>
+        <div class="section-content">
+            <div class="section-inner">
+                <div class="news-item">
+                    <div class="news-title">OpenAI announces GPT-5 with 1M context</div>
+                    <div class="news-summary">💡 New flagship model: 10x faster, cheaper API, handles entire codebases in one prompt.</div>
+                    <div class="news-meta">
+                        <span class="news-source">TechCrunch</span>
+                        <a href="https://techcrunch.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+                <div class="news-item">
+                    <div class="news-title">Anthropic releases Claude Opus 4.7</div>
+                    <div class="news-summary">💡 Improved coding and reasoning capabilities, now available in API and web app.</div>
+                    <div class="news-meta">
+                        <span class="news-source">The Verge</span>
+                        <a href="https://theverge.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+                <div class="news-item">
+                    <div class="news-title">Google DeepMind builds AI for drug discovery</div>
+                    <div class="news-summary">💡 AI model predicts protein structures 100x faster, partnering with pharma giants.</div>
+                    <div class="news-meta">
+                        <span class="news-source">MIT Tech Review</span>
+                        <a href="https://technologyreview.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 💼 MARKET INTELLIGENCE -->
+    <div class="section-card" data-section="market-intel">
+        <button class="section-toggle" onclick="toggleSection('market-intel')">
+            <div class="section-toggle-left">
+                <div class="section-icon-circle">💼</div>
+                <div class="section-info">
+                    <div class="section-title">MARKET INTELLIGENCE</div>
+                    <div class="section-count">3 STORIES</div>
+                </div>
+            </div>
+            <div class="arrow-icon">→</div>
+        </button>
+        <div class="section-content">
+            <div class="section-inner">
+                <div class="news-item">
+                    <div class="news-title">Tata Motors acquires EV startup Battery Smart for ₹500cr</div>
+                    <div class="news-summary">💡 Deal aims to expand EV charging infrastructure to 10,000 stations by 2026.</div>
+                    <div class="news-meta">
+                        <span class="news-source">Economic Times</span>
+                        <a href="https://economictimes.indiatimes.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+                <div class="news-item">
+                    <div class="news-title">Reliance announces $5B AI infrastructure investment</div>
+                    <div class="news-summary">💡 New data centers planned in Mumbai and Hyderabad, partnership with NVIDIA confirmed.</div>
+                    <div class="news-meta">
+                        <span class="news-source">Moneycontrol</span>
+                        <a href="https://moneycontrol.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+                <div class="news-item">
+                    <div class="news-title">SEBI approves new IPO from Hyderabad pharma giant</div>
+                    <div class="news-summary">💡 ₹2,500cr issue to fund R&D and manufacturing expansion; listing expected Q2 2026.</div>
+                    <div class="news-meta">
+                        <span class="news-source">Business Standard</span>
+                        <a href="https://business-standard.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 🏥 MEDICAL DEVICES -->
+    <div class="section-card" data-section="medical">
+        <button class="section-toggle" onclick="toggleSection('medical')">
+            <div class="section-toggle-left">
+                <div class="section-icon-circle">🏥</div>
+                <div class="section-info">
+                    <div class="section-title">MEDICAL DEVICES</div>
+                    <div class="section-count">3 STORIES · YOUR FIELD</div>
+                </div>
+            </div>
+            <div class="arrow-icon">→</div>
+        </button>
+        <div class="section-content">
+            <div class="section-inner">
+                <div class="news-item">
+                    <div class="news-title">Stryker launches AI-powered hip implant tool</div>
+                    <div class="news-summary">💡 New software predicts implant success rate with 95% accuracy, FDA-cleared.</div>
+                    <div class="news-meta">
+                        <span class="news-source">MassDevice</span>
+                        <a href="https://massdevice.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+                <div class="news-item">
+                    <div class="news-title">J&J orthopedic division reports 12% Q4 revenue growth</div>
+                    <div class="news-summary">💡 Strong demand for knee and hip replacement systems drives results, new launches planned.</div>
+                    <div class="news-meta">
+                        <span class="news-source">Medical Design</span>
+                        <a href="https://medicaldesignandoutsourcing.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+                <div class="news-item">
+                    <div class="news-title">Restor3d expands patient-specific implant manufacturing</div>
+                    <div class="news-summary">💡 New Hyderabad facility doubles capacity for custom orthopedic implants using SolidWorks.</div>
+                    <div class="news-meta">
+                        <span class="news-source">Medical Device Network</span>
+                        <a href="https://medicaldevice-network.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 🇮🇳 INDIA TECH -->
+    <div class="section-card" data-section="india-tech">
+        <button class="section-toggle" onclick="toggleSection('india-tech')">
+            <div class="section-toggle-left">
+                <div class="section-icon-circle">🇮🇳</div>
+                <div class="section-info">
+                    <div class="section-title">INDIA TECH & STARTUPS</div>
+                    <div class="section-count">2 STORIES</div>
+                </div>
+            </div>
+            <div class="arrow-icon">→</div>
+        </button>
+        <div class="section-content">
+            <div class="section-inner">
+                <div class="news-item">
+                    <div class="news-title">Bangalore SaaS startup Zoho hits $1B in annual revenue</div>
+                    <div class="news-summary">💡 Bootstrapped Indian company crosses milestone, plans international expansion in 2026.</div>
+                    <div class="news-meta">
+                        <span class="news-source">YourStory</span>
+                        <a href="https://yourstory.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+                <div class="news-item">
+                    <div class="news-title">Hyderabad startup ecosystem attracts $2B funding</div>
+                    <div class="news-summary">💡 T-Hub announces partnerships with 50+ VCs, focus on deep tech and AI startups.</div>
+                    <div class="news-meta">
+                        <span class="news-source">Inc42</span>
+                        <a href="https://inc42.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 🛠️ ENGINEERING -->
+    <div class="section-card" data-section="engineering">
+        <button class="section-toggle" onclick="toggleSection('engineering')">
+            <div class="section-toggle-left">
+                <div class="section-icon-circle">🛠️</div>
+                <div class="section-info">
+                    <div class="section-title">ENGINEERING</div>
+                    <div class="section-count">2 STORIES</div>
+                </div>
+            </div>
+            <div class="arrow-icon">→</div>
+        </button>
+        <div class="section-content">
+            <div class="section-inner">
+                <div class="news-item">
+                    <div class="news-title">SolidWorks 2026 introduces AI-assisted CAD modeling</div>
+                    <div class="news-summary">💡 New tools generate 3D models from text descriptions, available for subscribers.</div>
+                    <div class="news-meta">
+                        <span class="news-source">Engineering.com</span>
+                        <a href="https://engineering.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+                <div class="news-item">
+                    <div class="news-title">Tesla's giga-press 3.0 reduces car frame production time by 70%</div>
+                    <div class="news-summary">💡 New version makes entire car body in single piece, expected at Texas plant.</div>
+                    <div class="news-meta">
+                        <span class="news-source">Design World</span>
+                        <a href="https://designworldonline.com" target="_blank" class="read-link">Read full →</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+<footer>
+    <div><span class="accent">🌍 TECH PIT STOP</span> — your daily intel briefing</div>
+    <div style="margin-top:8px;">Updated daily at 7 AM IST · Built by Anil Gopi Gudapati</div>
+</footer>
+
+<script>
+function toggleSection(sectionId) {
+    const card = document.querySelector(`[data-section="${sectionId}"]`);
+    card.classList.toggle('open');
+}
+
+// Update date
+const today = new Date();
+const days = ['SUNDAY','MONDAY','TUESDAY','WEDNESDAY','THURSDAY','FRIDAY','SATURDAY'];
+const months = ['JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER'];
+document.getElementById('todayDate').textContent = `${days[today.getDay()]} · ${months[today.getMonth()]} ${today.getDate()}, ${today.getFullYear()}`;
+
+// Auto-open first section (Market Snapshot) on page load
+setTimeout(() => {
+    document.querySelector('[data-section="market"]').classList.add('open');
+}, 300);
+</script>
+
+</body>
+</html>
