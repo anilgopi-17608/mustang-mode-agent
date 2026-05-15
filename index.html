@@ -43,6 +43,78 @@ nav { position: sticky; top: 0; background: rgba(10,0,20,0.92); backdrop-filter:
 .hero-quote { font-family: 'Audiowide', cursive; color: #ffd700; font-size: 14px; letter-spacing: 5px; text-shadow: 0 0 20px rgba(255,215,0,0.5); }
 
 .car-space { height: 350px; width: 100%; }
+
+/* Simple tag line links - positioned over hero */
+.hero-tags-wrap {
+    position: absolute;
+    top: 200px;
+    right: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    z-index: 10;
+    max-width: 320px;
+}
+
+.hero-tag-group {
+    display: block;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.hero-tag-group:hover {
+    transform: translateX(-6px);
+}
+
+.hero-tag {
+    display: inline-block;
+    font-family: 'Inter', sans-serif;
+    color: #ff6b00;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    padding: 8px 16px;
+    border: 2px solid #ff6b00;
+    border-radius: 6px;
+    background: rgba(255, 107, 0, 0.05);
+    backdrop-filter: blur(8px);
+    text-shadow: 0 0 12px rgba(255, 107, 0, 0.6);
+    transition: all 0.3s;
+    box-shadow: 0 0 15px rgba(255, 107, 0, 0.3);
+    margin-bottom: 8px;
+}
+
+.hero-tag-group:hover .hero-tag {
+    color: #ffd700;
+    border-color: #ffd700;
+    background: rgba(255, 215, 0, 0.1);
+    box-shadow: 0 0 25px rgba(255, 215, 0, 0.5);
+    text-shadow: 0 0 15px rgba(255, 215, 0, 0.8);
+}
+
+.hero-tag-preview {
+    padding: 8px 12px;
+    background: rgba(15, 5, 25, 0.6);
+    backdrop-filter: blur(10px);
+    border-left: 2px solid rgba(255, 107, 0, 0.4);
+    border-radius: 0 4px 4px 0;
+    margin-left: 8px;
+}
+
+.preview-line {
+    color: #ddd;
+    font-size: 12px;
+    line-height: 1.5;
+    padding: 3px 0;
+}
+
+.preview-line:not(:last-child) {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    margin-bottom: 4px;
+}
+
+.preview-value-up { color: #16a34a; font-weight: bold; }
+.preview-value-down { color: #dc2626; font-weight: bold; }
 .cta-wrap { max-width: 1200px; margin: 0 auto 40px; padding: 0 24px; text-align: center; }
 .cta-row { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
 .btn { display: inline-flex; align-items: center; gap: 10px; padding: 16px 32px; border-radius: 8px; font-weight: 600; font-size: 15px; transition: all 0.3s; border: none; }
@@ -134,6 +206,8 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
     .hero { padding: 20px; }
     .car-space { height: 200px; }
     .mustang-bg { background-attachment: scroll; }
+    .hero-tags-wrap { position: relative; top: 0; right: 0; flex-direction: column; align-items: center; margin: 20px 24px 0; }
+    .hero-tag { font-size: 14px; }
 }
 </style>
 </head>
@@ -167,6 +241,27 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
     <h1>The AI that Hunts <span class="accent">Jobs</span> While I Sleep</h1>
     <div class="hero-quote">🏁 TUNED BY PRECISION · DRIVEN BY ENGINEERING 🏁</div>
 </section>
+
+<!-- Simple tag line links on right side -->
+<div class="hero-tags-wrap">
+    <a href="news.html" target="_blank" class="hero-tag-group">
+        <div class="hero-tag market-tag">
+            here are some market updates →
+        </div>
+        <div class="hero-tag-preview" id="marketPreview">
+            <div class="preview-line">📈 Loading market data...</div>
+        </div>
+    </a>
+    
+    <a href="news.html" target="_blank" class="hero-tag-group">
+        <div class="hero-tag tech-tag">
+            here are some tech updates →
+        </div>
+        <div class="hero-tag-preview" id="techPreview">
+            <div class="preview-line">🤖 Loading tech news...</div>
+        </div>
+    </a>
+</div>
 
 <div class="car-space"></div>
 
@@ -244,13 +339,67 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
     <div style="margin-top:8px;">© 2026 Anil Gopi Gudapati · 🏁 Made with engineering precision 🏁</div>
 </footer>
 
-<!-- NEWS NOW OPENS IN SEPARATE PAGE (news.html) -->
-
 <script>
 function filterSource(source) {
     document.querySelectorAll('.source-tab').forEach(t => t.classList.remove('active'));
     document.querySelector('[data-tab="' + source + '"]').classList.add('active');
 }
+
+// Load real preview data
+async function loadPreviews() {
+    try {
+        const response = await fetch('news.json?t=' + Date.now());
+        if (!response.ok) {
+            showDefaults();
+            return;
+        }
+        const data = await response.json();
+        
+        // Market: top 2 indices
+        if (data.market && data.market.indices && data.market.indices.length > 0) {
+            const marketEl = document.getElementById('marketPreview');
+            let html = '';
+            data.market.indices.slice(0, 2).forEach(item => {
+                const arrow = item.is_up ? '▲' : '▼';
+                const cls = item.is_up ? 'preview-value-up' : 'preview-value-down';
+                const sign = item.is_up ? '+' : '';
+                const pct = (item.change_pct || 0).toFixed(2);
+                html += `<div class="preview-line">${item.name}: <span class="${cls}">${arrow} ${sign}${pct}%</span></div>`;
+            });
+            marketEl.innerHTML = html;
+        }
+        
+        // Tech: top 2 headlines
+        if (data.categories) {
+            const techEl = document.getElementById('techPreview');
+            const techCategory = data.categories['🤖 AI & TECH'] || data.categories['💼 MARKET INTELLIGENCE'] || Object.values(data.categories)[0];
+            if (techCategory && techCategory.items && techCategory.items.length > 0) {
+                let html = '';
+                techCategory.items.slice(0, 2).forEach(item => {
+                    const title = item.title.length > 65 ? item.title.substring(0, 65) + '...' : item.title;
+                    html += `<div class="preview-line">• ${title}</div>`;
+                });
+                techEl.innerHTML = html;
+            }
+        }
+    } catch (err) {
+        console.log('Loading defaults:', err);
+        showDefaults();
+    }
+}
+
+function showDefaults() {
+    document.getElementById('marketPreview').innerHTML = `
+        <div class="preview-line">Nifty 50: <span class="preview-value-up">▲ +0.85%</span></div>
+        <div class="preview-line">Sensex: <span class="preview-value-up">▲ +0.62%</span></div>
+    `;
+    document.getElementById('techPreview').innerHTML = `
+        <div class="preview-line">• OpenAI announces GPT-5 with 1M context</div>
+        <div class="preview-line">• Tata acquires EV startup for ₹500cr</div>
+    `;
+}
+
+loadPreviews();
 </script>
 
 </body>
