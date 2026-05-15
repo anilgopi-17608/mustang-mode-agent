@@ -1,27 +1,93 @@
 {
-  "last_updated": "Thursday, May 15, 2026 at 7:00 AM IST",
-  "last_updated_iso": "2026-05-15T07:00:00",
+  "last_updated": "Friday, May 15, 2026 at 11:00 AM IST",
+  "last_updated_iso": "2026-05-15T11:00:57.321026",
   "market": {
     "indices": [
-      {"name": "Nifty 50", "price": 24150.45, "change_pct": 0.85, "is_up": true},
-      {"name": "Sensex", "price": 79425.30, "change_pct": 0.62, "is_up": true},
-      {"name": "Bank Nifty", "price": 52180.75, "change_pct": 1.24, "is_up": true}
-    ],
-    "currency": [
-      {"name": "USD/INR", "price": 83.42, "change_pct": -0.15, "is_up": false}
-    ],
-    "commodity": [
-      {"name": "Gold (10g)", "price": 71250, "change_pct": 0.45, "is_up": true}
+      {
+        "name": "Nifty 50",
+        "price": 23827.05,
+        "change": 137.45000000000073,
+        "change_pct": 0.5802124138862654,
+        "is_up": true
+      },
+      {
+        "name": "Sensex",
+        "price": 75798.99,
+        "change": 400.2700000000041,
+        "change_pct": 0.5308710811005865,
+        "is_up": true
+      },
+      {
+        "name": "Bank Nifty",
+        "price": 54275.25,
+        "change": 146.3000000000029,
+        "change_pct": 0.2702805060877828,
+        "is_up": true
+      }
     ],
     "gainers": [
-      {"name": "TCS", "price": 4250.30, "change_pct": 3.2, "is_up": true},
-      {"name": "Reliance", "price": 2845.15, "change_pct": 2.5, "is_up": true},
-      {"name": "HDFC Bank", "price": 1680.50, "change_pct": 1.8, "is_up": true}
+      {
+        "name": "Infosys",
+        "price": 1123.9,
+        "change": 28.90000000000009,
+        "change_pct": 2.6392694063927022,
+        "is_up": true
+      },
+      {
+        "name": "TCS",
+        "price": 2291.2,
+        "change": 45.19999999999982,
+        "change_pct": 2.012466607301862,
+        "is_up": true
+      },
+      {
+        "name": "Bharti Airtel",
+        "price": 1917.5,
+        "change": 34.0,
+        "change_pct": 1.8051499867268384,
+        "is_up": true
+      }
     ],
     "losers": [
-      {"name": "Maruti", "price": 11250.40, "change_pct": -1.8, "is_up": false},
-      {"name": "Sun Pharma", "price": 1845.20, "change_pct": -1.2, "is_up": false},
-      {"name": "Bharti Airtel", "price": 1450.30, "change_pct": -0.5, "is_up": false}
+      {
+        "name": "Reliance",
+        "price": 1339.4,
+        "change": -22.399999999999864,
+        "change_pct": -1.6448817741224748,
+        "is_up": false
+      },
+      {
+        "name": "L&T",
+        "price": 3933.2,
+        "change": -7.200000000000273,
+        "change_pct": -0.1827225662369372,
+        "is_up": false
+      },
+      {
+        "name": "ICICI Bank",
+        "price": 1250.5,
+        "change": 4.5,
+        "change_pct": 0.3611556982343499,
+        "is_up": true
+      }
+    ],
+    "currency": [
+      {
+        "name": "USD/INR",
+        "price": 95.92,
+        "change": 0.1670000000000016,
+        "change_pct": 0.17440706818585486,
+        "is_up": true
+      }
+    ],
+    "commodity": [
+      {
+        "name": "Gold (₹/10g)",
+        "price": 4586.1,
+        "change": -99.19999999999982,
+        "change_pct": -2.117260367532491,
+        "is_up": false
+      }
     ]
   },
   "categories": {
@@ -29,22 +95,34 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "OpenAI announces GPT-5 with 1 million token context window",
-          "summary": "New flagship model is 10x faster, cheaper API, and can handle entire codebases in a single prompt for developers.",
-          "link": "https://techcrunch.com",
+          "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+          "summary": "Here's what the biggest tech court case of the year is all about....",
+          "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic releases Claude Opus 4.7 with improved coding",
-          "summary": "Significant improvements to coding and reasoning capabilities, now available in API and Claude.ai web app.",
-          "link": "https://theverge.com",
+          "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+          "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liqu...",
+          "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Honda&#8217;s hybrid future starts with new Accord and RDX prototypes",
+          "summary": "",
+          "link": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx",
           "source": "The Verge"
         },
         {
-          "title": "Google DeepMind builds AI for accelerated drug discovery",
-          "summary": "New AI model predicts protein structures 100x faster than existing methods, partnering with pharmaceutical giants.",
-          "link": "https://technologyreview.com",
-          "source": "MIT Tech Review"
+          "title": "Closing time",
+          "summary": "",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+          "source": "The Verge"
+        },
+        {
+          "title": "Men use \"vocal fry\" more than women, counter to stereotype",
+          "summary": "Study suggests \"the bias is real but socially constructed, rather than grounded in how women actually sound.\"...",
+          "link": "https://arstechnica.com/science/2026/05/men-use-vocal-fry-more-than-women-counter-to-stereotype/",
+          "source": "Ars Technica"
         }
       ]
     },
@@ -52,22 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Tata Motors acquires 75% stake in EV startup Battery Smart for ₹500cr",
-          "summary": "Strategic deal aims to expand EV charging infrastructure to 10,000 stations across India by 2026.",
-          "link": "https://economictimes.indiatimes.com",
-          "source": "Economic Times"
+          "title": "Kaynes Tech shares fall another 5% a day after crashing 20%. What brokerages fear the most?",
+          "summary": "Kaynes Tech shares extended losses, falling another 5% after a 20% crash following weak Q4 earnings. Profit declined 22% YoY despite 26% revenue growth, which missed internal targe...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-shares-fall-another-5-a-day-after-crashing-20-what-brokerages-fear-the-most/articleshow/131108703.cms",
+          "source": "Economic Times Markets"
         },
         {
-          "title": "Reliance announces $5B investment in AI infrastructure",
-          "summary": "New data centers planned in Mumbai and Hyderabad, exclusive partnership with NVIDIA confirmed for next-gen chips.",
-          "link": "https://moneycontrol.com",
-          "source": "Moneycontrol"
+          "title": "NSE EGRs to commence trading from May 18. Here’s what gold investors should know",
+          "summary": "The NSE will launch trading in Electronic Gold Receipts (EGRs) from May 18, aiming to transform gold investing in India. The exchange said EGRs will make gold trading more transpar...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-egrs-to-commence-trading-from-may-18-heres-what-gold-investors-should-know/articleshow/131108576.cms",
+          "source": "Economic Times Markets"
         },
         {
-          "title": "SEBI approves Hyderabad pharma IPO worth ₹2,500cr",
-          "summary": "Major drug manufacturer to use funds for R&D and manufacturing expansion, listing expected in Q2 2026.",
-          "link": "https://business-standard.com",
-          "source": "Business Standard"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "Billionaire Adani to settle with SEC, nears end of US legal woes",
+          "summary": "Adani and his nephew Sagar agreed to pay a total of $18 million to settle Securities and Exchange Commission allegations they made false and misleading representations about Adani ...",
+          "link": "https://www.livemint.com/companies/gautam-adani-sagar-adani-sec-settlement-us-fraud-charges-adani-green-energy-bribery-allegations-11778816850171.html",
+          "source": "Livemint Companies"
         }
       ]
     },
@@ -75,21 +165,21 @@
       "color": "#16a34a",
       "items": [
         {
-          "title": "Stryker launches AI-powered hip implant planning tool",
-          "summary": "New software predicts implant success rates with 95% accuracy, FDA-cleared for use in US orthopedic centers.",
-          "link": "https://massdevice.com",
-          "source": "MassDevice"
+          "title": "Hamilton Medical selects PTC Codebeamer ALM",
+          "summary": "NEWS RELEASE: PTC Codebeamer replaces legacy system at Hamilton Medical Collaboration agreement formed to advance market-specific ALM-PLM solutions Codebeamer ALM solution selected...",
+          "link": "https://www.medicaldesignandoutsourcing.com/hamilton-medical-selects-ptc-codebeamer-alm/",
+          "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "J&J orthopedic division reports 12% Q4 revenue growth",
-          "summary": "Strong demand for knee and hip replacement systems drives strong results, multiple new product launches planned.",
-          "link": "https://medicaldesignandoutsourcing.com",
-          "source": "Medical Design"
+          "title": "What’s next for cervical spine tech and startup Synergy Spine Solutions",
+          "summary": "Synergy Spine Solutions designed its Synergy Disc cervical implant like a ball and socket hip joint to improve alignment while preserving range of motion for patients with degenera...",
+          "link": "https://www.medicaldesignandoutsourcing.com/synergy-spine-cervical-disc-ceo-josh-butters-advice/",
+          "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Restor3d expands patient-specific implant manufacturing in India",
-          "summary": "New Hyderabad facility doubles capacity for custom orthopedic implants using SolidWorks 3D modeling.",
-          "link": "https://medicaldevice-network.com",
+          "title": "UroMems eyes regulatory filings for SUI treatment after $60m fundraise",
+          "summary": "UroMems plans to use the funds to complete a pivotal trial to support regulatory filings for its UroActive system in the US and Europe. The post UroMems eyes regulatory filings for...",
+          "link": "https://www.medicaldevice-network.com/news/uromems-eyes-regulatory-filings-for-sui-treatment-after-60m-fundraise/",
           "source": "Medical Device Network"
         }
       ]
@@ -98,15 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Bangalore SaaS startup Zoho hits $1 billion in annual revenue",
-          "summary": "Bootstrapped Indian company crosses major milestone, plans aggressive international expansion in 2026.",
-          "link": "https://yourstory.com",
+          "title": "The new startup stack: From data pipelines to agentic AI systems",
+          "summary": "At a Snowflake x AWS Mixer, founders and experts discussed the rise of agentic AI, decision-grade data, and the next startup stack....",
+          "link": "https://yourstory.com/2026/05/startup-stack-data-pipelines-agentic-ai-systems",
           "source": "YourStory"
         },
         {
-          "title": "Hyderabad startup ecosystem attracts $2B in fresh funding",
-          "summary": "T-Hub announces strategic partnerships with 50+ venture capitalists, focus on deep tech and AI startups.",
-          "link": "https://inc42.com",
+          "title": "How Karnataka’s merchants are using digital payments to grow faster",
+          "summary": "From a flower stall and a family-run saree store to an expanding ice cream chain, businesses across Karnataka are using digital payments to streamline operations, serve customers b...",
+          "link": "https://yourstory.com/2026/05/how-karnatakas-merchants-using-digital-payments-grow-faster",
+          "source": "YourStory"
+        },
+        {
+          "title": "Ecommerce To Capture 22% Of India’s Retail GMV By 2031",
+          "summary": "No longer just about shopping online, India&#8217;s ecommerce story is fast becoming a full-scale retail reset. According to Inc42 Datalabs’&#8230;...",
+          "link": "https://inc42.com/buzz/ecommerce-to-capture-22-of-indias-retail-gmv-by-2031/",
           "source": "Inc42"
         }
       ]
@@ -115,16 +211,35 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "SolidWorks 2026 introduces AI-assisted CAD modeling",
-          "summary": "New tools generate 3D models from text descriptions and sketches, available to existing subscribers immediately.",
-          "link": "https://engineering.com",
-          "source": "Engineering.com"
+          "title": "Technical thinking: A dam shame",
+          "summary": "By Mark Jones We trudged down the road to Au Train Falls with crampons on. We visit during our yearly ice cave adventure in Michigan’s UP. The road wasn’t plowed as well as on past...",
+          "link": "https://www.designworldonline.com/technical-thinking-dam-shame/",
+          "source": "Design World"
         },
         {
-          "title": "Tesla's giga-press 3.0 reduces car frame time by 70%",
-          "summary": "New version makes entire car body in single piece, expected to debut at Texas plant in summer 2026.",
-          "link": "https://designworldonline.com",
+          "title": "AutomationDirect adds STAHL intrinsic safety products",
+          "summary": "AutomationDirect now offers STAHL Zener barriers and intrinsically safe isolators expands our offering of safety products, further strengthening our ability to support a wide range...",
+          "link": "https://www.designworldonline.com/automationdirect-adds-stahl-intrinsic-safety-products/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "“The Biggest Android Update Ever”",
+          "summary": "Everything we know so far about Android 17, Gemini Intelligence and Googlebooks\n\nPhone camera processing: https://youtu.be/coX4duwUCpw\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist...",
+          "link": "https://www.youtube.com/watch?v=eFeDpUVEy48",
+          "source": "MKBHD",
+          "thumbnail": "https://i2.ytimg.com/vi/eFeDpUVEy48/hqdefault.jpg"
+        },
+        {
+          "title": "NVIDIA New AI Is An Efficiency Monster",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2604.24954\nhttps://developer.nvidia.com/blo...",
+          "link": "https://www.youtube.com/watch?v=4wC8hnQawiA",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i1.ytimg.com/vi/4wC8hnQawiA/hqdefault.jpg"
         }
       ]
     }
