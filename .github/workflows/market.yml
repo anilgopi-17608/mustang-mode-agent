@@ -1,0 +1,40 @@
+name: Market Updater (Hourly)
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Every hour, 24/7
+    - cron: '0 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-market:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Market Updater
+        env:
+          TZ: 'Asia/Kolkata'
+        run: python market_agent.py
+
+      - name: Commit news.json back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add news.json
+          git diff --staged --quiet || git commit -m "📈 Hourly market data update"
+          git push
+        continue-on-error: true
