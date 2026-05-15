@@ -609,7 +609,6 @@ def main():
                         break
                     item['source'] = source_name
                     
-                    # AI summarize
                     if model:
                         try:
                             item['summary'] = ai_summarize(model, item['title'], item['description'], cat_name)
@@ -665,10 +664,65 @@ def main():
         print("[WARN] Everything empty - skipping send")
         return
     
+    # ⭐ NEW: Save to news.json for the web page
+    save_news_json(all_news, all_videos, market)
+    
     html = build_digest_html(all_news, all_videos, market)
     send_digest(html, total_stories, total_videos)
     
     print("\nMorning digest complete! ☕")
+
+
+def save_news_json(all_news, all_videos, market):
+    """Save news data to news.json for the web page"""
+    print("\n[JSON] Saving news.json for web page...")
+    
+    # Build the JSON structure
+    news_json = {
+        "last_updated": datetime.now().strftime("%A, %B %d, %Y at %I:%M %p IST"),
+        "last_updated_iso": datetime.now().isoformat(),
+        "market": market,
+        "categories": {}
+    }
+    
+    # Add news by category
+    for cat_name, cat_info in all_news.items():
+        items_clean = []
+        for item in cat_info['items']:
+            items_clean.append({
+                "title": item.get('title', ''),
+                "summary": item.get('summary', item.get('description', ''))[:250],
+                "link": item.get('link', ''),
+                "source": item.get('source', '')
+            })
+        news_json["categories"][cat_name] = {
+            "color": cat_info.get('color', '#ff6b00'),
+            "items": items_clean
+        }
+    
+    # Add videos as their own category
+    if all_videos:
+        videos_clean = []
+        for vid in all_videos:
+            videos_clean.append({
+                "title": vid.get('title', ''),
+                "summary": vid.get('summary', '')[:250],
+                "link": vid.get('link', ''),
+                "source": vid.get('channel', 'YouTube'),
+                "thumbnail": vid.get('thumbnail', '')
+            })
+        news_json["categories"]["📺 TOP TECH VIDEOS"] = {
+            "color": "#ff0000",
+            "items": videos_clean
+        }
+    
+    # Write to file
+    try:
+        with open('news.json', 'w', encoding='utf-8') as f:
+            json.dump(news_json, f, indent=2, ensure_ascii=False)
+        print(f"  ✓ news.json saved ({len(news_json['categories'])} categories)")
+    except Exception as e:
+        print(f"  ✗ Failed: {e}")
 
 
 if __name__ == "__main__":
