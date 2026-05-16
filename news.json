@@ -1,6 +1,6 @@
 {
-  "last_updated": "Friday, May 15, 2026 at 11:10 PM IST",
-  "last_updated_iso": "2026-05-15T23:10:14.234457",
+  "last_updated": "Saturday, May 16, 2026 at 01:56 PM IST",
+  "last_updated_iso": "2026-05-16T13:56:54.011226",
   "market": {
     "indices": [
       {
@@ -13,8 +13,8 @@
       {
         "name": "Sensex",
         "price": 75237.99,
-        "change": -160.72999999999593,
-        "change_pct": -0.2131733801316467,
+        "change": -160.70999999999185,
+        "change_pct": -0.21314691102100153,
         "is_up": false
       },
       {
@@ -74,18 +74,18 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.96,
-        "change": 0.20699999999999363,
-        "change_pct": 0.21618121625431438,
+        "price": 95.955,
+        "change": 0.20199999999999818,
+        "change_pct": 0.21095944774576061,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4562.9,
-        "change": -122.40000000000055,
-        "change_pct": -2.6124260986489776,
+        "price": 4561.9,
+        "change": -123.40000000000055,
+        "change_pct": -2.6337694491281356,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Tesla reveals two Robotaxi crashes involving teleoperators",
-          "summary": "Newly un-redacted crash reports reveal some of the troubles Tesla has had as it tries to scale its robotaxis....",
-          "link": "https://techcrunch.com/2026/05/15/tesla-reveals-two-robotaxi-crashes-involving-teleoperators/",
+          "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
+          "summary": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the compa...",
+          "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-          "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments....",
-          "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+          "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
+          "summary": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times....",
+          "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
           "source": "TechCrunch"
         },
         {
-          "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+          "title": "Xbox is now XBOX",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+          "link": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
           "source": "The Verge"
         },
         {
-          "title": "Does Trump Mobile know how many stripes are on the American flag?",
+          "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
+          "link": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
           "source": "The Verge"
         },
         {
-          "title": "Making cement from a different type of rock could clean up emissions",
-          "summary": "Limestone might not be the only source for Portland cement....",
-          "link": "https://arstechnica.com/science/2026/05/running-the-numbers-on-a-zero-emission-way-to-make-cement/",
+          "title": "Russia pressures university students to become wartime drone pilots",
+          "summary": "Universities promise no frontline duty and perks if students enlist in military....",
+          "link": "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "JSW Steel posts 13-fold rise in profit for March quarter; to double capacity in 6 years",
-          "summary": "JSW Steel reported a nearly 13-fold surge in Q4 profit driven by an exceptional gain and record volumes. The company plans aggressive expansion, targeting 78 million tonne capacity...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-posts-13-fold-rise-in-profit-for-march-quarter-to-double-capacity-in-6-years/articleshow/131122142.cms",
+          "title": "Bitcoin slips towards $79K as higher Treasury yields and oil prices pressure trigger risk-off sentiment",
+          "summary": "Bitcoin dipped towards $79,000, influenced by rising US Treasury yields, inflation concerns, and high oil prices, impacting global risk assets. Major altcoins also saw declines, wi...",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slips-towards-79k-as-higher-treasury-yields-and-oil-prices-pressure-trigger-risk-off-sentiment/articleshow/131133871.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "SAIL Q4 Results: Cons PAT surges 47% YoY to Rs 1,835 crore, revenue rises 5%",
-          "summary": "SAIL reported a strong Q4FY26 performance with net profit rising 47% year on year and revenue growing 5%. Sequential profit surged sharply, EBITDA improved significantly, and the b...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sail-q4-results-cons-pat-surges-47-yoy-to-rs-1835-crore-revenue-rises-5/articleshow/131122112.cms",
+          "title": "SpaceX shareholders approve 5-for-1 stock split ahead of much-awaited IPO: Report",
+          "summary": "SpaceX shareholders have approved a five-for-one stock split. The company is preparing for a major stock market debut. SpaceX aims to list its shares on Nasdaq as early as June 12....",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shareholders-approve-5-for-1-stock-split-ahead-of-much-awaited-ipo-report/articleshow/131133631.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Tata Steel ended FY26 on a strong note, aided by higher volumes and firm steel prices",
-          "summary": "Tata Steel closed FY26 with a 6% revenue rise to ₹2.32 trillion and a threefold jump in net profit, driven by strong volumes and firm steel prices.&amp;nbsp;...",
-          "link": "https://www.livemint.com/companies/tata-steel-ended-fy26-on-a-strong-note-aided-by-higher-volumes-and-firm-steel-prices-11778855911355.html",
+          "title": "OpenAI gives Greg Brockman more control in massive shake-up, Head of ChatGPT moved: Report",
+          "summary": "OpenAI has reorganized its leadership amid ongoing legal disputes with Elon Musk, giving Brockman's control over product strategy.The company has also made various other changes...",
+          "link": "https://www.livemint.com/companies/news/openai-gives-greg-brockman-more-control-in-massive-shake-up-head-of-chatgpt-moved-report-11778896850747.html",
           "source": "Livemint Companies"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Karnataka fast-tracks drone testing facility near Bengaluru, eyes leadership in India's drone economy",
-          "summary": "Karnataka is accelerating plans for a new drone testing facility near Bengaluru as the state pushes to position itself at the center of India’s rapidly expanding drone economy....",
-          "link": "https://yourstory.com/2026/05/karnataka-drone-testing-facility-bengaluru-drone-economy",
+          "title": "Artisanal communities: how this platform empowers creativity and entrepreneurship",
+          "summary": "In this photo essay, we feature highlights from the Colour Play edition of Sunday Soul Sante in Bengaluru....",
+          "link": "https://yourstory.com/2026/05/artisanal-communities-creativity--entrepreneurship-sunday-soul-sante-photography",
           "source": "YourStory"
         },
         {
-          "title": "Globbel Launches Unified Platform for Cross-Border E-commerce",
-          "summary": "Globbel has launched a cross-border ecommerce platform designed to help brands expand internationally across 16 markets within weeks...",
-          "link": "https://yourstory.com/2026/05/globbel-cross-border-ecommerce-platform-global-expansion-2026",
+          "title": "Freshworks experts reveal the three signs your IT team is ready to modernize",
+          "summary": "Freshworks experts Vish Mehta and Reddy Ramprakash break down what it takes to modernize IT service management without adding more chaos....",
+          "link": "https://yourstory.com/2026/05/freshworks-experts-reveal-three-signs-it-team-modernize",
           "source": "YourStory"
         },
         {
-          "title": "Nazara Bulk Deal: Zerodha Buys Shares Worth ₹93 Cr, Promoter Mitter Infotech Offloads Stake",
-          "summary": "Discount brokerage company Zerodha (Zerodha Broking Ltd) has purchased over 35 Lakh shares of listed gaming firm Nazara Technologies on&#8230;...",
-          "link": "https://inc42.com/buzz/nazara-bulk-deal-zerodha-buys-shares-worth-%e2%82%b993-cr-promoter-mitter-infotech-offloads-stake/",
+          "title": "App-Based Gig Workers’ Union Calls For 5-Hour Nationwide Shutdown",
+          "summary": "The Gig &#38; Platform Service Workers Union (GIPSWU) has called for a nationwide five-hour shutdown of app-based services, demanding higher&#8230;...",
+          "link": "https://inc42.com/buzz/app-based-gig-workers-union-calls-for-5-hour-nationwide-shutdown/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Thinking beyond AI: Solving real manufacturing challenges",
-          "summary": "In this episode of Mind over Machine, managing editor Mike Santora introduces a conversation with Sean Petterson, CEO and co-founder of Supersede. Santora outlines the format of th...",
-          "link": "https://www.designworldonline.com/thinking-beyond-ai-solving-real-manufacturing-challenges/",
+          "title": "Right-sized SCADA: edge monitoring without the overhead",
+          "summary": "A right-sized automation platform using open configuration techniques helped a user monitor a solar power system and improve return on investment. Bruce Cloutier, Integ Process Gro...",
+          "link": "https://www.designworldonline.com/right-sized-scada-edge-monitoring-without-the-overhead/",
           "source": "Design World"
         },
         {
-          "title": "LOVATO contactors gain A2L certification for HVAC use",
-          "summary": "LOVATO Electric has announced that its electromechanical contactor portfolio, including the BG Series mini-contactors, BF Series contactors and DPBF Series definite purpose contact...",
-          "link": "https://www.designworldonline.com/lovato-contactors-gain-a2l-certification-for-hvac-use/",
+          "title": "Interactive 3D catalog makes Concentric Maxi Torque bushings and pulleys easier to specify and procure",
+          "summary": "U.S. manufacturer of power transmission and motion control components Custom Machine &#38; Tool Co. now offers design engineers an interactive 3D catalog featuring Concentric Maxi ...",
+          "link": "https://www.designworldonline.com/interactive-3d-catalog-makes-concentric-maxi-torque-bushings-and-pulleys-easier-to-specify-and-procure/",
           "source": "Design World"
         }
       ]
