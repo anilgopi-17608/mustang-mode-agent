@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, May 17, 2026 at 02:43 PM IST",
-  "last_updated_iso": "2026-05-17T14:43:41.576122",
+  "last_updated": "Monday, May 18, 2026 at 08:09 PM IST",
+  "last_updated_iso": "2026-05-18T20:09:20.449949",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23643.5,
-        "change": -46.099999999998545,
-        "change_pct": -0.19460016209644126,
-        "is_up": false
+        "price": 23649.95,
+        "change": 6.450000000000728,
+        "change_pct": 0.02728022500899075,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 75237.99,
-        "change": -160.70999999999185,
-        "change_pct": -0.21314691102100153,
-        "is_up": false
+        "price": 75315.04,
+        "change": 77.04999999998836,
+        "change_pct": 0.10240837109017446,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 53710.35,
-        "change": -418.59999999999854,
-        "change_pct": -0.7733384815334466,
+        "price": 53537.0,
+        "change": -173.34999999999854,
+        "change_pct": -0.32274971211321196,
         "is_up": false
       }
     ],
     "gainers": [
       {
         "name": "Infosys",
-        "price": 1119.0,
-        "change": 24.0,
-        "change_pct": 2.191780821917808,
+        "price": 1142.5,
+        "change": 23.5,
+        "change_pct": 2.100089365504915,
         "is_up": true
       },
       {
         "name": "Bharti Airtel",
-        "price": 1905.4,
-        "change": 21.90000000000009,
-        "change_pct": 1.1627289620387624,
+        "price": 1938.1,
+        "change": 32.69999999999982,
+        "change_pct": 1.716175081347739,
         "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 13221.0,
-        "change": 146.0,
-        "change_pct": 1.1166347992351817,
+        "name": "Sun Pharma",
+        "price": 1905.8,
+        "change": 27.59999999999991,
+        "change_pct": 1.4694920668725326,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Reliance",
-        "price": 1336.4,
-        "change": -25.399999999999864,
-        "change_pct": -1.8651784402995937,
+        "name": "Maruti",
+        "price": 13016.0,
+        "change": -205.0,
+        "change_pct": -1.5505634974661524,
         "is_up": false
       },
       {
-        "name": "L&T",
-        "price": 3909.0,
-        "change": -31.40000000000009,
-        "change_pct": -0.7968734138666148,
+        "name": "Reliance",
+        "price": 1335.9,
+        "change": -0.5,
+        "change_pct": -0.037413947919784495,
         "is_up": false
       },
       {
         "name": "HDFC Bank",
-        "price": 767.5,
-        "change": -2.0499999999999545,
-        "change_pct": -0.26638944837891687,
-        "is_up": false
+        "price": 768.65,
+        "change": 1.1499999999999773,
+        "change_pct": 0.14983713355048564,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.955,
-        "change": 0.20199999999999818,
-        "change_pct": 0.21095944774576061,
+        "price": 96.335,
+        "change": 0.37999999999999545,
+        "change_pct": 0.3960189672242149,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4561.9,
-        "change": -123.40000000000055,
-        "change_pct": -2.6337694491281356,
-        "is_up": false
+        "price": 4564.1,
+        "change": 2.2000000000007276,
+        "change_pct": 0.04822552006840851,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "The haves and have nots of the AI gold rush",
-          "summary": "The vibes around the current AI boom aren't great, even in the tech industry....",
-          "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+          "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
+          "summary": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay....",
+          "link": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
           "source": "TechCrunch"
         },
         {
-          "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-          "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside...",
-          "link": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+          "title": "South Korea’s LetinAR is building optics behind AI glasses",
+          "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era....",
+          "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
           "source": "TechCrunch"
         },
         {
-          "title": "Snap, YouTube, and TikTok settle suit over harm to students",
+          "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
           "summary": "",
-          "link": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
+          "link": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
           "source": "The Verge"
         },
         {
-          "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+          "title": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
           "summary": "",
-          "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+          "link": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
           "source": "The Verge"
         },
         {
-          "title": "The US is betting on AI to catch insider trading in prediction markets",
-          "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously....",
-          "link": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+          "title": "The US space enterprise is desperately waiting for Starship—will it finally deliver?",
+          "summary": "\"This is such a wild ride. The highs are high. The lows are low.\"...",
+          "link": "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "What does an import restriction mean for silver investments?",
-          "summary": "India’s move to restrict silver imports and raise duties is expected to push up domestic prices by increasing premiums over global benchmarks. While global prices may remain stable...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/what-does-an-import-restriction-mean-for-silver-investments/articleshow/131151188.cms",
+          "title": "UnitedHealth falls after Berkshire sells stake in health insurer",
+          "summary": "UnitedHealth stock ​is up ​about 20% so far this year, after falling more than ⁠30% last year, which had made it the worst performer ​on the Dow Jones Industrial Average index in 2...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/unitedhealth-falls-after-berkshire-sells-stake-in-health-insurer/articleshow/131179448.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "PFC board clears next step for REC merger, seeks govt approval",
-          "summary": "Power Finance Corporation has taken a key step toward merging with REC Limited after its board approved seeking the President of India’s nod for the transaction. PFC has authorised...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pfc-board-clears-next-step-for-rec-merger-seeks-govt-approval/articleshow/131151051.cms",
+          "title": "Block deal: JSW Energy sells Rs 3,150 crore JSW Steel stake to GQG, SBI Mutual Fund",
+          "summary": "JSW Energy has divested a portion of its JSW Steel stake for Rs 3,150 crore to fund its aggressive power generation expansion. The company aims to reach 30 GW capacity by 2030, bol...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/block-deal-jsw-energy-sells-rs-3150-crore-jsw-steel-stake-to-gqg-sbi-mutual-fund/articleshow/131178988.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Realty group Sattva deepens premium hotel push amid travel boom",
-          "summary": "Sattva’s expansion comes amid a broader shift among Indian real estate developers towards hospitality assets as room rates and occupancies remain high after the pandemic-led travel...",
-          "link": "https://www.livemint.com/companies/news/realty-firm-sattva-group-hospitality-sector-india-real-estate-developer-11778991620842.html",
+          "title": "Vodafone Idea draws up  ₹1 trillion cash strategy amid dues, capex push",
+          "summary": "Vodafone Idea's plan comes as analysts raise concerns about the company’s future payment obligations to clear spectrum dues, and the company is confident it can raise funds from a ...",
+          "link": "https://www.livemint.com/companies/news/vodafone-idea-financial-roadmap-cash-strategy-dues-capex-turnaround-funding-11779106252434.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA clears Glooko’s cloud-based insulin dosing platform",
-          "summary": "Ideating on Glooko’s existing EndoTool system, the cloud-based version is designed to support more scalable deployment across hospital settings. The post FDA clears Glooko’s cloud-...",
-          "link": "https://www.medicaldevice-network.com/news/fda-clears-glooko-cloud-based-insulin-dosing-platform/",
+          "title": "Podcast: MHRA CEO Lawrence Tallon on the future of medical device regulation in the UK",
+          "summary": "Lawrence Tallon, CEO of the MHRA, discusses the agency's initiatives to advance the UK's regulatory protocols for medical devices. The post Podcast: MHRA CEO Lawrence Tallon on the...",
+          "link": "https://www.medicaldevice-network.com/features/podcast-mhra-ceo-lawrence-tallon-on-the-future-of-medical-device-regulation-in-the-uk/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Freshworks experts reveal the three signs your IT team is ready to modernize",
-          "summary": "Freshworks experts Vish Mehta and Reddy Ramprakash break down what it takes to modernize IT service management without adding more chaos....",
-          "link": "https://yourstory.com/2026/05/freshworks-experts-reveal-three-signs-it-team-modernize",
+          "title": "Karnataka fast-tracks drone testing facility near Bengaluru, eyes leadership in India's drone economy",
+          "summary": "Karnataka is accelerating plans for a new drone testing facility near Bengaluru as the state pushes to position itself at the center of India’s rapidly expanding drone economy....",
+          "link": "https://yourstory.com/2026/05/karnataka-drone-testing-facility-bengaluru-drone-economy",
           "source": "YourStory"
         },
         {
-          "title": "Shri Dharmendra Pradhan chairs Bharat Innovates 2026 deep-tech roundtable",
-          "summary": "With France emerging as a key innovation partner and the India–EU FTA strengthening strategic alignment, Bharat Innovates 2026 s...",
-          "link": "https://yourstory.com/2026/05/bharat-innovates-2026-dharmendra-pradhan-india-deeptech-global-partnerships",
+          "title": "Inside Anthropic's $30 Billion Run Rate: How the AI Lab Is Betting Its Future on Compute",
+          "summary": "The company's CFO reveals the unprecedented economics, cultural philosophy, and strategic gambles powering one of the fastest-growing enterprises...",
+          "link": "https://yourstory.com/2026/05/anthropic-30-billion-revenue-claude-ai-compute-strategy",
           "source": "YourStory"
         },
         {
-          "title": "The Mythos Stress Test: Can Indian Fintechs, Banks Fend Off AI-Native Cyber Threats?",
-          "summary": "Just as the global security community grapples with shockwaves from Anthropic’s Mythos that can autonomously exploit software vulnerabilities, Google recently&#8230;...",
-          "link": "https://inc42.com/features/the-mythos-stress-test-can-indian-fintechs-banks-fend-off-ai-native-cyber-threats/",
+          "title": "SEDEMAC Q4: Profit Skyrockets 3.7X To ₹32 Cr, Revenue Up 60% YoY",
+          "summary": "Deeptech company SEDEMAC Mechatronics&#8217; net profit for the quarter ended March 2026 (Q4 FY26) surged 273% to ₹32.1 Cr from&#8230;...",
+          "link": "https://inc42.com/buzz/sedemac-q4-profit-skyrockets-3-7x-to-%e2%82%b932-cr-revenue-up-60-yoy/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Right-sized SCADA: edge monitoring without the overhead",
-          "summary": "A right-sized automation platform using open configuration techniques helped a user monitor a solar power system and improve return on investment. Bruce Cloutier, Integ Process Gro...",
-          "link": "https://www.designworldonline.com/right-sized-scada-edge-monitoring-without-the-overhead/",
+          "title": "Teledyne DALSA launches Kaleido SWIR hyperspectral camera",
+          "summary": "Teledyne DALSA, a Teledyne Technologies company, has announced Kaleido, a short wave infrared (SWIR) hyperspectral camera for industrial inspection applications. The camera is desi...",
+          "link": "https://www.designworldonline.com/teledyne-dalsa-launches-kaleido-swir-hyperspectral-camera/",
           "source": "Design World"
         },
         {
-          "title": "Interactive 3D catalog makes Concentric Maxi Torque bushings and pulleys easier to specify and procure",
-          "summary": "U.S. manufacturer of power transmission and motion control components Custom Machine &#38; Tool Co. now offers design engineers an interactive 3D catalog featuring Concentric Maxi ...",
-          "link": "https://www.designworldonline.com/interactive-3d-catalog-makes-concentric-maxi-torque-bushings-and-pulleys-easier-to-specify-and-procure/",
+          "title": "Aibuild FETS offers powerful simulation for additive builds",
+          "summary": "Aibuild, a manufacturing software company, announced the launch of Aibuild FETS, a finite element thermomechanical simulation tool designed to run significantly faster than convent...",
+          "link": "https://www.designworldonline.com/aibuild-fets-offers-powerful-simulation-for-additive-builds/",
           "source": "Design World"
         }
       ]
