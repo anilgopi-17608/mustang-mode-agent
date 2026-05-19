@@ -1,92 +1,92 @@
 {
-  "last_updated": "Monday, May 18, 2026 at 08:09 PM IST",
-  "last_updated_iso": "2026-05-18T20:09:20.449949",
+  "last_updated": "Tuesday, May 19, 2026 at 05:59 PM IST",
+  "last_updated_iso": "2026-05-19T17:59:50.985755",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23649.95,
-        "change": 6.450000000000728,
-        "change_pct": 0.02728022500899075,
-        "is_up": true
+        "price": 23618.0,
+        "change": -31.950000000000728,
+        "change_pct": -0.13509542303472408,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 75315.04,
-        "change": 77.04999999998836,
-        "change_pct": 0.10240837109017446,
-        "is_up": true
+        "price": 75200.85,
+        "change": -114.18999999998778,
+        "change_pct": -0.1516164633252373,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 53537.0,
-        "change": -173.34999999999854,
-        "change_pct": -0.32274971211321196,
+        "price": 53409.15,
+        "change": -127.84999999999854,
+        "change_pct": -0.2388068065076462,
         "is_up": false
       }
     ],
     "gainers": [
       {
         "name": "Infosys",
-        "price": 1142.5,
-        "change": 23.5,
-        "change_pct": 2.100089365504915,
+        "price": 1196.9,
+        "change": 54.40000000000009,
+        "change_pct": 4.761487964989067,
         "is_up": true
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1938.1,
-        "change": 32.69999999999982,
-        "change_pct": 1.716175081347739,
+        "name": "TCS",
+        "price": 2327.1,
+        "change": 43.90000000000009,
+        "change_pct": 1.922740014015421,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1905.8,
-        "change": 27.59999999999991,
-        "change_pct": 1.4694920668725326,
+        "name": "Wipro",
+        "price": 195.17,
+        "change": 3.0,
+        "change_pct": 1.5611177603163866,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 13016.0,
-        "change": -205.0,
-        "change_pct": -1.5505634974661524,
+        "name": "Bharti Airtel",
+        "price": 1913.5,
+        "change": -24.59999999999991,
+        "change_pct": -1.2692843506526965,
+        "is_up": false
+      },
+      {
+        "name": "Sun Pharma",
+        "price": 1882.3,
+        "change": -23.5,
+        "change_pct": -1.2330779725049847,
         "is_up": false
       },
       {
         "name": "Reliance",
-        "price": 1335.9,
-        "change": -0.5,
-        "change_pct": -0.037413947919784495,
+        "price": 1322.7,
+        "change": -13.200000000000045,
+        "change_pct": -0.9880979115203267,
         "is_up": false
-      },
-      {
-        "name": "HDFC Bank",
-        "price": 768.65,
-        "change": 1.1499999999999773,
-        "change_pct": 0.14983713355048564,
-        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.335,
-        "change": 0.37999999999999545,
-        "change_pct": 0.3960189672242149,
+        "price": 96.5325,
+        "change": 0.19750000000000512,
+        "change_pct": 0.20501375408730488,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4564.1,
-        "change": 2.2000000000007276,
-        "change_pct": 0.04822552006840851,
-        "is_up": true
+        "price": 4542.0,
+        "change": -16.0,
+        "change_pct": -0.35103115401491886,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
-          "summary": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay....",
-          "link": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
+          "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
+          "summary": "Stilta announced Tuesday a $10 million seed round led by Andreessen Horowitz. Other investors in the round include YC and operators from companies like OpenAI, Legora, and Lovable....",
+          "link": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
           "source": "TechCrunch"
         },
         {
-          "title": "South Korea’s LetinAR is building optics behind AI glasses",
-          "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era....",
-          "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+          "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
+          "summary": "Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets....",
+          "link": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
           "source": "TechCrunch"
         },
         {
-          "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
+          "title": "Marshall brings ANC back to its smaller on-ear wireless headphones",
           "summary": "",
-          "link": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
+          "link": "https://www.theverge.com/tech/930787/marshall-milton-anc-active-noise-canceling-wireless-headphones",
           "source": "The Verge"
         },
         {
-          "title": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
+          "title": "These are the robot vacuum-mops I recommend for every type of home",
           "summary": "",
-          "link": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
+          "link": "https://www.theverge.com/gadgets/932425/best-robot-vacuum-mop-reviews-buying-guide",
           "source": "The Verge"
         },
         {
-          "title": "The US space enterprise is desperately waiting for Starship—will it finally deliver?",
-          "summary": "\"This is such a wild ride. The highs are high. The lows are low.\"...",
-          "link": "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/",
+          "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
+          "summary": "CDC is working to move the infected American and six others to Germany....",
+          "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "UnitedHealth falls after Berkshire sells stake in health insurer",
-          "summary": "UnitedHealth stock ​is up ​about 20% so far this year, after falling more than ⁠30% last year, which had made it the worst performer ​on the Dow Jones Industrial Average index in 2...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/unitedhealth-falls-after-berkshire-sells-stake-in-health-insurer/articleshow/131179448.cms",
+          "title": "Gainers &amp; Losers: Vodafone and Coforge among 6 big movers on Tuesday",
+          "summary": "​Vodafone, Coforge and other stocks led market action on Tuesday as IT stocks rallied while HPCL gained on fuel price hikes and select midcaps saw sharp gains and losses post earni...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-vodafone-and-coforge-among-6-big-movers-on-tuesday/slideshow/131200272.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Block deal: JSW Energy sells Rs 3,150 crore JSW Steel stake to GQG, SBI Mutual Fund",
-          "summary": "JSW Energy has divested a portion of its JSW Steel stake for Rs 3,150 crore to fund its aggressive power generation expansion. The company aims to reach 30 GW capacity by 2030, bol...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/block-deal-jsw-energy-sells-rs-3150-crore-jsw-steel-stake-to-gqg-sbi-mutual-fund/articleshow/131178988.cms",
+          "title": "NeoLiv to invest about Rs 500cr to build 76-acre housing project near Mumbai",
+          "summary": "The project, comprising of housing plots and villas, has an estimated saleable area of 13 lakh sq ft with a revenue potential of around Rs 800 crore....",
+          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/neoliv-to-invest-about-rs-500cr-to-build-76-acre-housing-project-near-mumbai/articleshow/131200162.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Vodafone Idea draws up  ₹1 trillion cash strategy amid dues, capex push",
-          "summary": "Vodafone Idea's plan comes as analysts raise concerns about the company’s future payment obligations to clear spectrum dues, and the company is confident it can raise funds from a ...",
-          "link": "https://www.livemint.com/companies/news/vodafone-idea-financial-roadmap-cash-strategy-dues-capex-turnaround-funding-11779106252434.html",
+          "title": "PepsiCo India 2025 revenue up 8% as snacks growth offsets weak beverage sales",
+          "summary": "PepsiCo India reported higher revenue and profit for 2025, aided by double-digit growth in foods, even as unseasonal rains and intensifying competition weighed on beverages....",
+          "link": "https://www.livemint.com/companies/company-results/pepsico-india-2025-revenue-rises-snacks-growth-campa-cola-competition-beverages-11779189840929.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Podcast: MHRA CEO Lawrence Tallon on the future of medical device regulation in the UK",
-          "summary": "Lawrence Tallon, CEO of the MHRA, discusses the agency's initiatives to advance the UK's regulatory protocols for medical devices. The post Podcast: MHRA CEO Lawrence Tallon on the...",
-          "link": "https://www.medicaldevice-network.com/features/podcast-mhra-ceo-lawrence-tallon-on-the-future-of-medical-device-regulation-in-the-uk/",
+          "title": "Philips introduces SmartIQ AI software for coronary imaging advancement",
+          "summary": "SmartIQ is specifically designed to address the trade-off between image quality and radiation dose levels in coronary imaging procedures. The post Philips introduces SmartIQ AI sof...",
+          "link": "https://www.medicaldevice-network.com/news/philips-introduces-smartiq-ai-software-for-coronary-imaging-advancement/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Karnataka fast-tracks drone testing facility near Bengaluru, eyes leadership in India's drone economy",
-          "summary": "Karnataka is accelerating plans for a new drone testing facility near Bengaluru as the state pushes to position itself at the center of India’s rapidly expanding drone economy....",
-          "link": "https://yourstory.com/2026/05/karnataka-drone-testing-facility-bengaluru-drone-economy",
+          "title": "Numerize's bet on agentic OS for restaurants - The intelligence layer F&B always wanted!",
+          "summary": "Numerize has scaled from a spreadsheet fix to an AI intelligence layer trusted by 300+ restaurant groups across India. Co-founder and CEO Bharat Puppala says the industry's next OS...",
+          "link": "https://yourstory.com/2026/05/numerizes-agentic-os-restaurants-intelligence-layer",
           "source": "YourStory"
         },
         {
-          "title": "Inside Anthropic's $30 Billion Run Rate: How the AI Lab Is Betting Its Future on Compute",
-          "summary": "The company's CFO reveals the unprecedented economics, cultural philosophy, and strategic gambles powering one of the fastest-growing enterprises...",
-          "link": "https://yourstory.com/2026/05/anthropic-30-billion-revenue-claude-ai-compute-strategy",
+          "title": "Chtrbox aims to become the engine behind India's creator economy",
+          "summary": "From a startup solving influencer chaos to India’s only listed influencer marketing firm at scale, Chtrbox is building the infrastructure brands now need to win online....",
+          "link": "https://yourstory.com/2026/05/chtrbox-india-influencer-marketing-creator-economy",
           "source": "YourStory"
         },
         {
-          "title": "SEDEMAC Q4: Profit Skyrockets 3.7X To ₹32 Cr, Revenue Up 60% YoY",
-          "summary": "Deeptech company SEDEMAC Mechatronics&#8217; net profit for the quarter ended March 2026 (Q4 FY26) surged 273% to ₹32.1 Cr from&#8230;...",
-          "link": "https://inc42.com/buzz/sedemac-q4-profit-skyrockets-3-7x-to-%e2%82%b932-cr-revenue-up-60-yoy/",
+          "title": "Groww Promoters Sell Stake Worth ₹270 Cr",
+          "summary": "Stock broking firm Groww’s promoters have offloaded shares worth around ₹270 Cr over the past one week, according to disclosures&#8230;...",
+          "link": "https://inc42.com/buzz/groww-promoters-sell-stake-worth-%e2%82%b9270-cr/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Teledyne DALSA launches Kaleido SWIR hyperspectral camera",
-          "summary": "Teledyne DALSA, a Teledyne Technologies company, has announced Kaleido, a short wave infrared (SWIR) hyperspectral camera for industrial inspection applications. The camera is desi...",
-          "link": "https://www.designworldonline.com/teledyne-dalsa-launches-kaleido-swir-hyperspectral-camera/",
+          "title": "SKF summit to focus on industrial energy efficiency",
+          "summary": "SKF will host its annual virtual Tech &#38; Innovation Summit on June 18, bringing together industry representatives and technical experts to discuss technologies, products and sol...",
+          "link": "https://www.designworldonline.com/skf-summit-to-focus-on-industrial-energy-efficiency/",
           "source": "Design World"
         },
         {
-          "title": "Aibuild FETS offers powerful simulation for additive builds",
-          "summary": "Aibuild, a manufacturing software company, announced the launch of Aibuild FETS, a finite element thermomechanical simulation tool designed to run significantly faster than convent...",
-          "link": "https://www.designworldonline.com/aibuild-fets-offers-powerful-simulation-for-additive-builds/",
+          "title": "ABB to supply power systems for Spanish Navy vessels",
+          "summary": "ABB secured a contract with Spanish state-owned shipbuilding and design company Navantia to supply two planned Spanish Navy coastal hydrographic vessels with a DC-based power distr...",
+          "link": "https://www.designworldonline.com/abb-to-supply-power-systems-for-spanish-navy-vessels/",
           "source": "Design World"
         }
       ]
