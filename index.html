@@ -17,6 +17,7 @@ a { color: inherit; text-decoration: none; }
 .vignette { position: fixed; inset: 0; background: radial-gradient(ellipse at center, transparent 40%, rgba(0,0,0,0.25) 100%); z-index: -1; pointer-events: none; }
 .racing-stripes { position: fixed; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, transparent, #ffd700 15%, #ff6b00 30%, #dc2626 50%, #ff6b00 70%, #ffd700 85%, transparent); z-index: 100; box-shadow: 0 0 20px rgba(255,107,0,0.6); }
 
+/* NAV */
 nav { position: sticky; top: 0; background: rgba(10,0,20,0.92); backdrop-filter: blur(15px); border-bottom: 2px solid rgba(255,107,0,0.4); padding: 18px 0; z-index: 50; }
 .nav-container { max-width: 1200px; margin: 0 auto; padding: 0 24px; display: flex; justify-content: space-between; align-items: center; }
 .brand { font-family: 'Audiowide', cursive; font-size: 22px; background: linear-gradient(90deg, #ffd700, #ff6b00, #dc2626); -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 3px; }
@@ -25,10 +26,37 @@ nav { position: sticky; top: 0; background: rgba(10,0,20,0.92); backdrop-filter:
 .nav-links a { font-size: 14px; color: #ddd; font-weight: 500; transition: color 0.3s; }
 .nav-links a:hover { color: #ff6b00; }
 
+/* VOICE BUTTON in nav */
+.voice-nav-btn {
+    background: linear-gradient(135deg, #dc2626, #ff6b00);
+    border: 2px solid #ffd700;
+    color: #fff;
+    width: 44px; height: 44px;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.3s;
+    position: relative;
+    box-shadow: 0 4px 15px rgba(220,38,38,0.4);
+}
+.voice-nav-btn:hover { transform: scale(1.1); box-shadow: 0 6px 25px rgba(220,38,38,0.7); }
+.voice-nav-btn.listening {
+    animation: voicePulse 1s infinite;
+    background: linear-gradient(135deg, #16a34a, #15803d);
+    border-color: #16a34a;
+    box-shadow: 0 0 30px rgba(22,163,74,0.8);
+}
+@keyframes voicePulse {
+    0%, 100% { transform: scale(1); box-shadow: 0 0 20px rgba(22,163,74,0.5); }
+    50% { transform: scale(1.15); box-shadow: 0 0 40px rgba(22,163,74,1); }
+}
+
+/* NEWS ICON */
 .news-icon-btn { background: linear-gradient(135deg, #ffd700, #ff6b00, #dc2626); border: 2px solid #ffd700; color: #fff; width: 44px; height: 44px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 22px; cursor: pointer; transition: all 0.3s; position: relative; box-shadow: 0 4px 15px rgba(255,107,0,0.4); padding: 0; overflow: hidden; }
 .news-icon-btn:hover { transform: scale(1.1) rotate(10deg); box-shadow: 0 6px 25px rgba(255,107,0,0.7); }
-.news-icon-img { width: 28px; height: 28px; object-fit: contain; filter: brightness(1.1); }
 .news-icon-btn::after { content: ''; position: absolute; top: -2px; right: -2px; width: 12px; height: 12px; background: #16a34a; border-radius: 50%; border: 2px solid #0a0014; animation: pulse 2s infinite; }
+.news-icon-img { width: 28px; height: 28px; object-fit: contain; }
 @keyframes pulse { 0%, 100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.3); opacity: 0.8; } }
 
 .nav-creator { display: inline-flex !important; align-items: center; gap: 10px; padding: 5px 14px 5px 5px; background: rgba(255,107,0,0.1); border: 1px solid rgba(255,107,0,0.4); border-radius: 30px; transition: all 0.3s; }
@@ -36,100 +64,168 @@ nav { position: sticky; top: 0; background: rgba(10,0,20,0.92); backdrop-filter:
 .nav-avatar { width: 30px; height: 30px; background: linear-gradient(135deg, #ffd700, #ff6b00, #dc2626); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-family: 'Audiowide', cursive; font-size: 12px; color: #fff; }
 .nav-name { color: #fff; font-size: 13px; font-weight: 600; }
 
+/* HERO */
 .hero { max-width: 1200px; margin: 0 auto; padding: 20px 24px 30px; text-align: center; }
 .tagline-pill { display: inline-block; background: rgba(255,107,0,0.2); border: 1px solid rgba(255,107,0,0.6); color: #ffd700; padding: 8px 22px; border-radius: 30px; font-size: 12px; letter-spacing: 3px; font-weight: 600; margin-bottom: 20px; text-transform: uppercase; backdrop-filter: blur(10px); }
 .hero h1 { font-family: 'Audiowide', cursive; font-size: clamp(32px, 5vw, 56px); line-height: 1.15; margin-bottom: 20px; color: #fff; text-shadow: 0 0 40px rgba(255,107,0,0.6); }
 .hero h1 .accent { background: linear-gradient(90deg, #ffd700, #ff6b00, #dc2626); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
 .hero-quote { font-family: 'Audiowide', cursive; color: #ffd700; font-size: 14px; letter-spacing: 5px; text-shadow: 0 0 20px rgba(255,215,0,0.5); }
 
-.car-space { height: 350px; width: 100%; }
-
-/* Simple tag line links - positioned over hero */
-.hero-tags-wrap {
-    position: absolute;
-    top: 320px;
-    right: 60px;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    z-index: 10;
-    max-width: 320px;
-}
-
-.hero-tag-group {
-    display: block;
-    text-decoration: none;
-    transition: all 0.3s;
-}
-
-.hero-tag-group:hover {
-    transform: translateX(-6px);
-}
-
-.hero-tag {
-    display: inline-block;
-    font-family: 'Inter', sans-serif;
-    color: #ff6b00;
-    font-size: 16px;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    padding: 8px 16px;
-    border: 2px solid #ff6b00;
-    border-radius: 6px;
-    background: rgba(255, 107, 0, 0.05);
-    backdrop-filter: blur(8px);
-    text-shadow: 0 0 12px rgba(255, 107, 0, 0.6);
-    transition: all 0.3s;
-    box-shadow: 0 0 15px rgba(255, 107, 0, 0.3);
-    margin-bottom: 8px;
-}
-
-.hero-tag-group:hover .hero-tag {
-    color: #ffd700;
-    border-color: #ffd700;
-    background: rgba(255, 215, 0, 0.1);
-    box-shadow: 0 0 25px rgba(255, 215, 0, 0.5);
-    text-shadow: 0 0 15px rgba(255, 215, 0, 0.8);
-}
-
-.hero-tag-preview {
-    padding: 8px 12px;
-    background: rgba(15, 5, 25, 0.6);
-    backdrop-filter: blur(10px);
-    border-left: 2px solid rgba(255, 107, 0, 0.4);
-    border-radius: 0 4px 4px 0;
-    margin-left: 8px;
-}
-
-.preview-line {
-    color: #ddd;
-    font-size: 12px;
-    line-height: 1.5;
-    padding: 3px 0;
-}
-
-.preview-line:not(:last-child) {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-    margin-bottom: 4px;
-}
-
+/* HERO TAGS */
+.hero-tags-wrap { position: absolute; top: 320px; right: 60px; display: flex; flex-direction: column; gap: 20px; z-index: 10; max-width: 320px; }
+.hero-tag-group { display: block; text-decoration: none; transition: all 0.3s; }
+.hero-tag-group:hover { transform: translateX(-6px); }
+.hero-tag { display: inline-block; font-family: 'Inter', sans-serif; color: #ff6b00; font-size: 16px; font-weight: 600; letter-spacing: 0.5px; padding: 8px 16px; border: 2px solid #ff6b00; border-radius: 6px; background: rgba(255,107,0,0.05); backdrop-filter: blur(8px); text-shadow: 0 0 12px rgba(255,107,0,0.6); transition: all 0.3s; box-shadow: 0 0 15px rgba(255,107,0,0.3); margin-bottom: 8px; }
+.hero-tag-group:hover .hero-tag { color: #ffd700; border-color: #ffd700; background: rgba(255,215,0,0.1); box-shadow: 0 0 25px rgba(255,215,0,0.5); }
+.hero-tag-preview { padding: 8px 12px; background: rgba(15,5,25,0.6); backdrop-filter: blur(10px); border-left: 2px solid rgba(255,107,0,0.4); border-radius: 0 4px 4px 0; margin-left: 8px; }
+.preview-line { color: #ddd; font-size: 12px; line-height: 1.5; padding: 3px 0; }
+.preview-line:not(:last-child) { border-bottom: 1px solid rgba(255,255,255,0.05); margin-bottom: 4px; }
 .preview-value-up { color: #16a34a; font-weight: bold; }
 .preview-value-down { color: #dc2626; font-weight: bold; }
-.cta-wrap { max-width: 1200px; margin: 0 auto 40px; padding: 0 24px; text-align: center; }
-.cta-row { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
-.btn { display: inline-flex; align-items: center; gap: 10px; padding: 16px 32px; border-radius: 8px; font-weight: 600; font-size: 15px; transition: all 0.3s; border: none; }
-.btn-primary { background: linear-gradient(135deg, #ff6b00, #dc2626); color: #fff; box-shadow: 0 4px 25px rgba(255,107,0,0.5); }
-.btn-secondary { background: rgba(0,0,0,0.5); color: #fff; border: 1px solid rgba(255,107,0,0.5); }
 
+.car-space { height: 350px; width: 100%; }
+
+/* ============= VOICE AGENT UI ============= */
+.voice-agent-panel {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 200;
+    width: 90%;
+    max-width: 600px;
+    background: rgba(10,0,20,0.95);
+    backdrop-filter: blur(20px);
+    border: 2px solid rgba(255,107,0,0.5);
+    border-radius: 20px;
+    padding: 20px 24px;
+    box-shadow: 0 10px 50px rgba(255,107,0,0.3);
+    display: none;
+    flex-direction: column;
+    gap: 14px;
+    animation: slideUp 0.4s ease;
+}
+@keyframes slideUp { from { transform: translateX(-50%) translateY(100px); opacity: 0; } to { transform: translateX(-50%) translateY(0); opacity: 1; } }
+
+.voice-agent-panel.visible { display: flex; }
+
+.voice-status {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-family: 'Audiowide', cursive;
+    font-size: 13px;
+    color: #ffd700;
+    letter-spacing: 2px;
+}
+
+.voice-indicator {
+    width: 12px; height: 12px;
+    border-radius: 50%;
+    background: #ffd700;
+    animation: blink 1s infinite;
+}
+.voice-indicator.listening { background: #16a34a; animation: blink 0.5s infinite; }
+.voice-indicator.speaking { background: #ff6b00; animation: blink 0.3s infinite; }
+.voice-indicator.idle { background: #888; animation: none; }
+@keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.2; } }
+
+.voice-transcript {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,107,0,0.2);
+    border-radius: 10px;
+    padding: 12px 16px;
+    font-size: 14px;
+    color: #fff;
+    min-height: 44px;
+    font-style: italic;
+}
+
+.voice-response {
+    background: rgba(255,107,0,0.1);
+    border: 1px solid rgba(255,107,0,0.4);
+    border-radius: 10px;
+    padding: 12px 16px;
+    font-size: 14px;
+    color: #fff;
+    min-height: 44px;
+    line-height: 1.6;
+    display: none;
+}
+
+.voice-actions {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.voice-btn {
+    flex: 1;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-family: inherit;
+    min-width: 80px;
+}
+
+.voice-btn-primary {
+    background: linear-gradient(135deg, #dc2626, #ff6b00);
+    color: #fff;
+}
+.voice-btn-primary:hover { transform: translateY(-2px); box-shadow: 0 4px 15px rgba(220,38,38,0.5); }
+
+.voice-btn-secondary {
+    background: rgba(255,255,255,0.1);
+    color: #ddd;
+    border: 1px solid rgba(255,255,255,0.2);
+}
+.voice-btn-secondary:hover { background: rgba(255,255,255,0.2); }
+
+.voice-btn-yes {
+    background: linear-gradient(135deg, #16a34a, #15803d);
+    color: #fff;
+    display: none;
+}
+.voice-btn-no {
+    background: rgba(220,38,38,0.2);
+    color: #dc2626;
+    border: 1px solid rgba(220,38,38,0.4);
+    display: none;
+}
+
+.voice-close {
+    position: absolute;
+    top: 12px;
+    right: 16px;
+    background: none;
+    border: none;
+    color: #888;
+    font-size: 20px;
+    cursor: pointer;
+}
+.voice-close:hover { color: #fff; }
+
+.voice-commands-hint {
+    font-size: 11px;
+    color: #888;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+/* STATS */
 .stats { max-width: 1200px; margin: 60px auto; padding: 0 24px; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; }
 .stat { background: rgba(15,5,25,0.7); backdrop-filter: blur(15px); border: 1px solid rgba(255,107,0,0.3); border-left: 3px solid #ff6b00; border-radius: 12px; padding: 28px 24px; }
 .stat-num { font-family: 'Audiowide', cursive; font-size: 42px; background: linear-gradient(135deg, #ffd700, #ff6b00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 8px; }
 .stat-label { font-size: 11px; color: #ccc; letter-spacing: 2px; font-weight: 600; text-transform: uppercase; }
 
+/* SOURCE TABS */
 .source-tabs-wrap { max-width: 1200px; margin: 40px auto 60px; padding: 0 24px; }
 .source-tabs { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; }
 .source-tab { background: rgba(15,5,25,0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255,107,0,0.3); color: #ddd; padding: 10px 18px; border-radius: 30px; font-size: 13px; font-weight: 600; cursor: pointer; transition: all 0.3s; display: inline-flex; align-items: center; gap: 8px; font-family: inherit; }
-.source-tab:hover { border-color: #ff6b00; transform: translateY(-2px); }
 .source-tab.active { background: linear-gradient(135deg, #ff6b00, #dc2626); border-color: #ffd700; color: #fff; }
 .tab-count { background: rgba(255,255,255,0.2); padding: 2px 9px; border-radius: 12px; font-size: 11px; font-weight: 700; }
 .source-tab-group { display: inline-flex; align-items: stretch; background: rgba(15,5,25,0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255,107,0,0.3); border-radius: 30px; overflow: hidden; }
@@ -138,6 +234,7 @@ nav { position: sticky; top: 0; background: rgba(10,0,20,0.92); backdrop-filter:
 .source-link { background: rgba(255,107,0,0.15); color: #ffd700; padding: 10px 16px; font-size: 16px; font-weight: 700; border-left: 1px solid rgba(255,107,0,0.4); display: inline-flex; align-items: center; transition: all 0.2s; }
 .source-link:hover { background: linear-gradient(135deg, #ffd700, #ff6b00); color: #fff; }
 
+/* SECTIONS */
 section { max-width: 1200px; margin: 0 auto; padding: 80px 24px; }
 .section-title { text-align: center; margin-bottom: 60px; }
 .section-title .pill { display: inline-block; color: #ff6b00; font-size: 11px; letter-spacing: 4px; font-weight: 700; margin-bottom: 12px; text-transform: uppercase; }
@@ -160,54 +257,43 @@ section { max-width: 1200px; margin: 0 auto; padding: 80px 24px; }
 .tech-grid { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
 .tech-badge { background: rgba(15,5,25,0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255,107,0,0.4); color: #fff; padding: 12px 24px; border-radius: 30px; font-size: 14px; font-weight: 600; }
 
+/* CTA */
+.cta-wrap { max-width: 1200px; margin: 0 auto 40px; padding: 0 24px; text-align: center; }
+.cta-row { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+.btn { display: inline-flex; align-items: center; gap: 10px; padding: 16px 32px; border-radius: 8px; font-weight: 600; font-size: 15px; transition: all 0.3s; border: none; cursor: pointer; }
+.btn-primary { background: linear-gradient(135deg, #ff6b00, #dc2626); color: #fff; box-shadow: 0 4px 25px rgba(255,107,0,0.5); }
+.btn-secondary { background: rgba(0,0,0,0.5); color: #fff; border: 1px solid rgba(255,107,0,0.5); }
+
 footer { text-align: center; padding: 40px 24px; border-top: 1px solid rgba(255,107,0,0.3); margin-top: 60px; color: #aaa; font-size: 12px; background: rgba(10,0,20,0.7); backdrop-filter: blur(15px); }
 footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; }
 
-/* News Panel */
-.news-panel { position: fixed; top: 0; right: -500px; width: 480px; max-width: 90vw; height: 100vh; background: linear-gradient(135deg, #1a0014, #0a0a14); border-left: 2px solid rgba(255,107,0,0.4); box-shadow: -10px 0 50px rgba(0,0,0,0.6); z-index: 200; transition: right 0.4s cubic-bezier(0.16, 1, 0.3, 1); overflow-y: auto; color: #fff; }
-.news-panel.open { right: 0; }
-.panel-header { background: linear-gradient(135deg, #ff6b00, #dc2626); padding: 20px 24px; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 10; }
-.panel-header h2 { font-family: 'Audiowide', cursive; font-size: 18px; letter-spacing: 3px; }
-.close-btn { background: rgba(255,255,255,0.2); border: none; color: #fff; width: 36px; height: 36px; border-radius: 50%; cursor: pointer; font-size: 20px; transition: all 0.2s; }
-.close-btn:hover { background: rgba(255,255,255,0.3); transform: rotate(90deg); }
-.panel-content { padding: 20px; }
-.date-stamp { color: #fbbf24; font-size: 12px; letter-spacing: 2px; margin-bottom: 20px; text-align: center; font-family: 'Audiowide', cursive; }
-
-.stock-section { background: linear-gradient(135deg, rgba(22,163,74,0.15), rgba(220,38,38,0.1)); border: 1px solid rgba(22,163,74,0.4); border-radius: 10px; padding: 16px; margin-bottom: 20px; }
-.stock-section h3 { color: #16a34a; font-size: 12px; letter-spacing: 2px; margin-bottom: 12px; font-family: 'Audiowide', cursive; }
-.stock-row { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.1); font-size: 13px; }
-.stock-row:last-child { border-bottom: none; }
-.stock-name { color: #ddd; }
-.stock-value { color: #fff; font-weight: bold; }
-.stock-change.up { color: #16a34a; font-weight: bold; }
-.stock-change.down { color: #dc2626; font-weight: bold; }
-
-.cat-section { margin-bottom: 24px; }
-.cat-header { background: rgba(15,5,25,0.8); border-left: 4px solid #ff6b00; padding: 12px 16px; margin-bottom: 12px; border-radius: 6px; display: flex; justify-content: space-between; }
-.cat-title { font-size: 12px; font-weight: bold; letter-spacing: 2px; color: #ffd700; }
-.cat-count { background: rgba(255,107,0,0.3); color: #ffd700; padding: 2px 10px; border-radius: 12px; font-size: 11px; font-weight: bold; }
-.news-item { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,107,0,0.2); border-radius: 8px; padding: 14px; margin-bottom: 10px; transition: all 0.2s; }
-.news-item:hover { background: rgba(255,255,255,0.08); border-color: rgba(255,107,0,0.5); }
-.news-item .title { color: #fff; font-size: 13px; font-weight: bold; margin-bottom: 6px; line-height: 1.4; }
-.news-item .summary { color: #aaa; font-size: 11px; line-height: 1.5; margin-bottom: 8px; }
-.news-item .meta { display: flex; justify-content: space-between; align-items: center; font-size: 10px; }
-.news-item .source { color: #ff6b00; font-weight: bold; }
-.news-item .read-link { color: #16a34a; text-decoration: none; }
-
-.backdrop { position: fixed; inset: 0; background: rgba(0,0,0,0.7); z-index: 150; opacity: 0; visibility: hidden; transition: all 0.3s; }
-.backdrop.show { opacity: 1; visibility: visible; }
-
-.panel-footer { text-align: center; padding: 20px; color: #666; font-size: 11px; border-top: 1px solid rgba(255,107,0,0.2); }
+/* EMAIL PREVIEW */
+.email-mock { background: #f3f4f6; border-radius: 12px; padding: 24px; color: #111; font-family: Verdana, Arial, sans-serif; }
+.email-header { background: linear-gradient(135deg, #1f1f1f, #0a0a0a); border-radius: 12px; padding: 24px; text-align: center; margin-bottom: 18px; }
+.email-header .logo { background: linear-gradient(90deg, #ffd700, #ff6b00, #dc2626); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 22px; font-weight: 700; letter-spacing: 3px; }
+.email-header .subtitle { color: #fff; font-size: 12px; letter-spacing: 4px; }
+.email-greeting { background: #fff; border-radius: 10px; padding: 16px; margin-bottom: 14px; font-size: 13px; }
+.job-card-preview { background: #fff; border: 1px solid #e5e7eb; border-left: 4px solid #ff6b00; border-radius: 10px; padding: 18px; margin-bottom: 12px; }
+.job-pole { font-size: 9px; color: #9ca3af; letter-spacing: 2px; font-weight: 700; }
+.job-pole .high { color: #16a34a; }
+.job-title { color: #111; font-size: 15px; font-weight: 700; margin-top: 4px; }
+.job-company { color: #ff6b00; font-size: 12px; font-weight: 700; }
+.match-badge { background: linear-gradient(135deg, #ff6b00, #dc2626); color: #fff; padding: 5px 12px; border-radius: 16px; font-size: 11px; font-weight: 700; float: right; }
+.source-badge { display: inline-block; font-size: 10px; font-weight: 700; padding: 3px 10px; border-radius: 12px; margin-bottom: 8px; }
+.linkedin-badge { background: #e0f2fe; color: #0077b5; border: 1px solid #0077b5; }
+.naukri-badge { background: #fef3c7; color: #d97706; border: 1px solid #f59e0b; }
+.indeed-badge { background: #dbeafe; color: #1e40af; border: 1px solid #2563eb; }
+.direct-badge { background: #f3e8ff; color: #7e22ce; border: 1px solid #a855f7; }
 
 @media (max-width: 768px) {
     .nav-links a { display: none; }
     .nav-creator { display: none !important; }
-    .news-icon-btn { width: 40px; height: 40px; }
+    .news-icon-btn, .voice-nav-btn { width: 40px; height: 40px; }
     .hero { padding: 20px; }
     .car-space { height: 200px; }
     .mustang-bg { background-attachment: scroll; }
-    .hero-tags-wrap { position: relative; top: 0; right: 0; flex-direction: column; align-items: center; margin: 20px 24px 0; }
-    .hero-tag { font-size: 14px; }
+    .hero-tags-wrap { position: relative; top: 0; right: 0; max-width: 100%; margin: 20px 24px 0; }
+    .voice-agent-panel { width: 95%; bottom: 10px; }
 }
 </style>
 </head>
@@ -218,6 +304,7 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
 <div class="vignette"></div>
 <div class="racing-stripes"></div>
 
+<!-- NAV -->
 <nav>
     <div class="nav-container">
         <div class="brand">🏎️ MUSTANG <span>MODE</span></div>
@@ -229,34 +316,32 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
                 <span class="nav-avatar">AG</span>
                 <span class="nav-name">Anil →</span>
             </a>
+            <!-- GLOBE NEWS ICON + MIC ICON side by side -->
             <a href="news.html" target="_blank" class="news-icon-btn" title="Daily News & Markets">
                 <img src="news-icon.png" alt="News" class="news-icon-img">
             </a>
+            <button class="voice-nav-btn" id="voiceNavBtn" title="Talk to Mustang Mode" onclick="toggleVoiceAgent()">🎙️</button>
         </div>
     </div>
 </nav>
 
+<!-- HERO -->
 <section class="hero">
     <div class="tagline-pill">⚡ Autonomous AI Job Agent</div>
     <h1>The AI that Hunts <span class="accent">Jobs</span> While I Sleep</h1>
     <div class="hero-quote">🏁 TUNED BY PRECISION · DRIVEN BY ENGINEERING 🏁</div>
 </section>
 
-<!-- Simple tag line links on right side -->
+<!-- HERO TAG LINES -->
 <div class="hero-tags-wrap">
     <a href="news.html" target="_blank" class="hero-tag-group">
-        <div class="hero-tag market-tag">
-            here are some market updates →
-        </div>
+        <div class="hero-tag market-tag">here are some market updates →</div>
         <div class="hero-tag-preview" id="marketPreview">
             <div class="preview-line">📈 Loading market data...</div>
         </div>
     </a>
-    
     <a href="news.html" target="_blank" class="hero-tag-group">
-        <div class="hero-tag tech-tag">
-            here are some tech updates →
-        </div>
+        <div class="hero-tag tech-tag">here are some tech updates →</div>
         <div class="hero-tag-preview" id="techPreview">
             <div class="preview-line">🤖 Loading tech news...</div>
         </div>
@@ -265,6 +350,7 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
 
 <div class="car-space"></div>
 
+<!-- CTA -->
 <div class="cta-wrap">
     <div class="cta-row">
         <a href="https://github.com/anilgopi-17608/mustang-mode-agent" class="btn btn-primary" target="_blank">📦 View on GitHub →</a>
@@ -272,13 +358,15 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
     </div>
 </div>
 
+<!-- STATS -->
 <div class="stats">
-    <div class="stat"><div class="stat-num">4×</div><div class="stat-label">Daily Scans</div></div>
-    <div class="stat"><div class="stat-num">35+</div><div class="stat-label">Skills Tracked</div></div>
-    <div class="stat"><div class="stat-num">24/7</div><div class="stat-label">Always Live</div></div>
-    <div class="stat"><div class="stat-num">₹0</div><div class="stat-label">Forever Free</div></div>
+    <div class="stat"><div class="stat-num" id="stat0">4×</div><div class="stat-label">Daily Scans</div></div>
+    <div class="stat"><div class="stat-num" id="stat1">35+</div><div class="stat-label">Skills Tracked</div></div>
+    <div class="stat"><div class="stat-num" id="stat2">24/7</div><div class="stat-label">Always Live</div></div>
+    <div class="stat"><div class="stat-num" id="stat3">₹0</div><div class="stat-label">Forever Free</div></div>
 </div>
 
+<!-- SOURCE TABS -->
 <div class="source-tabs-wrap">
     <div class="source-tabs">
         <button class="source-tab active" onclick="filterSource('all')" data-tab="all">🌐 All Jobs <span class="tab-count">7</span></button>
@@ -298,6 +386,7 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
     </div>
 </div>
 
+<!-- HOW IT WORKS -->
 <section id="how">
     <div class="section-title"><div class="pill">🔧 The Engine</div><h2>How Mustang Mode Works</h2></div>
     <div class="flow">
@@ -308,18 +397,20 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
     </div>
 </section>
 
+<!-- FEATURES -->
 <section id="features">
     <div class="section-title"><div class="pill">⚡ Features</div><h2>What's Under the Hood</h2></div>
     <div class="features-grid">
-        <div class="feature"><div class="feature-icon">🎯</div><h3>Skill-Based Matching</h3><p>35+ engineering skills tracked.</p></div>
-        <div class="feature"><div class="feature-icon">🧠</div><h3>AI Reasoning</h3><p>Gemini explains WHY each job fits.</p></div>
-        <div class="feature"><div class="feature-icon">📍</div><h3>Location Intelligence</h3><p>Hyderabad +15%, remote +12%.</p></div>
-        <div class="feature"><div class="feature-icon">✍️</div><h3>Cover Letter Openers</h3><p>AI-generated, copy-paste ready.</p></div>
-        <div class="feature"><div class="feature-icon">☁️</div><h3>Cloud Deployed</h3><p>24/7 on GitHub Actions, ₹0/month.</p></div>
-        <div class="feature"><div class="feature-icon">🌍</div><h3>News Widget</h3><p>Click the globe for daily news.</p></div>
+        <div class="feature"><div class="feature-icon">🎯</div><h3>Skill-Based Matching</h3><p>35+ engineering skills tracked for precise matching.</p></div>
+        <div class="feature"><div class="feature-icon">🧠</div><h3>AI Reasoning</h3><p>Gemini explains WHY each job fits your profile.</p></div>
+        <div class="feature"><div class="feature-icon">📍</div><h3>Location Intelligence</h3><p>Hyderabad +15%, remote +12% boost.</p></div>
+        <div class="feature"><div class="feature-icon">✍️</div><h3>Cover Letter Openers</h3><p>AI-generated, copy-paste ready for each job.</p></div>
+        <div class="feature"><div class="feature-icon">☁️</div><h3>Cloud Deployed</h3><p>24/7 on GitHub Actions, ₹0/month forever.</p></div>
+        <div class="feature"><div class="feature-icon">🎙️</div><h3>Voice Agent (NEW!)</h3><p>Click 🎙️ and ask "How many emails were scanned?" to get a live spoken answer!</p></div>
     </div>
 </section>
 
+<!-- TECH STACK -->
 <section id="stack">
     <div class="section-title"><div class="pill">🛠️ Tech Stack</div><h2>Engineered with Care</h2></div>
     <div class="tech-grid">
@@ -331,75 +422,470 @@ footer .accent { background: linear-gradient(90deg, #ffd700, #ff6b00); -webkit-b
         <div class="tech-badge">📤 SMTP</div>
         <div class="tech-badge">🎨 HTML/CSS</div>
         <div class="tech-badge">⏰ Cron</div>
+        <div class="tech-badge">🎙️ Web Speech API</div>
+        <div class="tech-badge">📊 Yahoo Finance</div>
+    </div>
+</section>
+
+<!-- EMAIL PREVIEW -->
+<section id="preview">
+    <div class="email-mock">
+        <div class="email-header">
+            <div class="logo">🏎️ MUSTANG MODE</div>
+            <div class="subtitle">DAILY DIGEST</div>
+        </div>
+        <div class="email-greeting" id="greeting-text">
+            Good morning <strong style="color:#ff6b00;">Anil</strong>! 👋<br>
+            Your AI agent scanned <strong>9 emails</strong> and found <strong style="color:#16a34a;">7 jobs</strong>.
+        </div>
+        <div class="job-card-preview" data-source="linkedin">
+            <div class="source-badge linkedin-badge">💼 LinkedIn</div>
+            <span class="match-badge">96%</span>
+            <div class="job-pole">POLE POSITION #1 | <span class="high">HIGH MATCH</span></div>
+            <div class="job-title">Senior Design Engineer</div>
+            <div class="job-company">Cummins India</div>
+        </div>
+        <div class="job-card-preview" data-source="naukri">
+            <div class="source-badge naukri-badge">🇮🇳 Naukri</div>
+            <span class="match-badge" style="background:linear-gradient(135deg,#16a34a,#14532d);">85%</span>
+            <div class="job-pole">POLE POSITION #2 | <span class="high">HIGH MATCH</span></div>
+            <div class="job-title">Mechanical Design Engineer</div>
+            <div class="job-company">TCS</div>
+        </div>
+        <div class="job-card-preview" data-source="indeed">
+            <div class="source-badge indeed-badge">🔍 Indeed</div>
+            <span class="match-badge" style="background:linear-gradient(135deg,#16a34a,#14532d);">82%</span>
+            <div class="job-pole">POLE POSITION #3 | <span class="high">HIGH MATCH</span></div>
+            <div class="job-title">CAD Engineer</div>
+            <div class="job-company">Bosch India</div>
+        </div>
+        <div style="display:none;" data-source="direct" class="job-card-preview">
+            <div class="source-badge direct-badge">✉️ Direct</div>
+            <span class="match-badge" style="background:linear-gradient(135deg,#dc2626,#991b1b);">75%</span>
+            <div class="job-title">Mechanical Engineer</div>
+            <div class="job-company">Hubbell Incorporated</div>
+        </div>
     </div>
 </section>
 
 <footer>
-    <div><span class="accent">🏎️ MUSTANG MODE v2.0</span> — built in one day, runs forever</div>
-    <div style="margin-top:8px;">© 2026 Anil Gopi Gudapati · 🏁 Made with engineering precision 🏁</div>
+    <div><span class="accent">🏎️ MUSTANG MODE v2.0</span> — built in 9 days, runs forever</div>
+    <div style="margin-top:8px;" id="lastRun"></div>
 </footer>
 
+<!-- ============ VOICE AGENT PANEL ============ -->
+<div class="voice-agent-panel" id="voicePanel">
+    <button class="voice-close" onclick="closeVoiceAgent()">×</button>
+    <div class="voice-status">
+        <div class="voice-indicator idle" id="voiceIndicator"></div>
+        <span id="voiceStatusText">🎙️ MUSTANG VOICE AGENT READY</span>
+    </div>
+    <div class="voice-transcript" id="voiceTranscript">
+        Press "Start Listening" and ask me anything...
+        <br><small style="color:#888;">Try: "How many emails were scanned?"</small>
+    </div>
+    <div class="voice-response" id="voiceResponse"></div>
+    <div class="voice-actions">
+        <button class="voice-btn voice-btn-primary" id="listenBtn" onclick="startListening()">🎙️ Start Listening</button>
+        <button class="voice-btn voice-btn-secondary" id="stopBtn" onclick="stopEverything()" style="display:none">⏹ Stop</button>
+        <button class="voice-btn voice-btn-yes" id="yesBtn" onclick="userSaidYes()">✅ Yes, Read Emails</button>
+        <button class="voice-btn voice-btn-no" id="noBtn" onclick="userSaidNo()">❌ No Thanks</button>
+    </div>
+    <div class="voice-commands-hint">
+        💡 Try asking: "How many emails?" · "Read my digest" · "What's the market?" · "Top job today?"
+    </div>
+</div>
+
+<!-- ============ SCRIPTS ============ -->
 <script>
+// ================================================
+// GLOBALS
+// ================================================
+let recognition = null;
+let isListening = false;
+let isSpeaking = false;
+let statsData = {};
+let newsData = {};
+let awaitingReadConfirmation = false;
+let emailsToRead = [];
+
+// ================================================
+// LOAD DATA FROM JSON FILES
+// ================================================
+async function loadAllData() {
+    try {
+        const statsRes = await fetch('stats.json?t=' + Date.now());
+        if (statsRes.ok) statsData = await statsRes.json();
+    } catch(e) { console.log('stats.json not loaded'); }
+
+    try {
+        const newsRes = await fetch('news.json?t=' + Date.now());
+        if (newsRes.ok) newsData = await newsRes.json();
+    } catch(e) { console.log('news.json not loaded'); }
+
+    updateLiveStats();
+    updatePreviews();
+}
+
+// ================================================
+// UPDATE LIVE STATS FROM stats.json
+// ================================================
+function updateLiveStats() {
+    if (!statsData.stats || statsData.stats.total_runs === 0) return;
+    const s = statsData.stats;
+    const nums = document.querySelectorAll('.stat-num');
+    const labels = document.querySelectorAll('.stat-label');
+    if (nums[0]) { nums[0].textContent = s.total_runs; labels[0].textContent = 'Total Runs'; }
+    if (nums[1]) { nums[1].textContent = s.jobs_matched_7d; labels[1].textContent = 'Jobs Matched (7d)'; }
+    if (nums[2]) { nums[2].textContent = s.emails_scanned_7d; labels[2].textContent = 'Emails Scanned (7d)'; }
+    if (nums[3]) { nums[3].textContent = (s.avg_match_score || 0) + '%'; labels[3].textContent = 'Avg Match Score'; }
+    if (statsData.last_run) {
+        document.getElementById('lastRun').innerHTML = '<span style="color:#16a34a;font-weight:700;">🟢 LAST RUN: ' + statsData.last_run + '</span>';
+    }
+}
+
+// ================================================
+// UPDATE PREVIEW TAGS FROM news.json
+// ================================================
+function updatePreviews() {
+    if (newsData.market && newsData.market.indices) {
+        const el = document.getElementById('marketPreview');
+        let html = '';
+        (newsData.market.indices || newsData.market.indian?.indices || []).slice(0, 2).forEach(item => {
+            const arrow = item.is_up ? '▲' : '▼';
+            const cls = item.is_up ? 'preview-value-up' : 'preview-value-down';
+            const sign = item.is_up ? '+' : '';
+            html += `<div class="preview-line">${item.name}: <span class="${cls}">${arrow} ${sign}${(item.change_pct||0).toFixed(2)}%</span></div>`;
+        });
+        if (html) el.innerHTML = html;
+    }
+
+    if (newsData.categories) {
+        const el = document.getElementById('techPreview');
+        const techCat = newsData.categories['🤖 AI & TECH'] || Object.values(newsData.categories)[0];
+        if (techCat && techCat.items) {
+            let html = '';
+            techCat.items.slice(0, 2).forEach(item => {
+                const title = item.title.length > 60 ? item.title.substring(0, 60) + '...' : item.title;
+                html += `<div class="preview-line">• ${title}</div>`;
+            });
+            if (html) el.innerHTML = html;
+        }
+    }
+}
+
+// ================================================
+// SOURCE FILTER
+// ================================================
 function filterSource(source) {
     document.querySelectorAll('.source-tab').forEach(t => t.classList.remove('active'));
     document.querySelector('[data-tab="' + source + '"]').classList.add('active');
 }
 
-// Load real preview data
-async function loadPreviews() {
-    try {
-        const response = await fetch('news.json?t=' + Date.now());
-        if (!response.ok) {
-            showDefaults();
-            return;
-        }
-        const data = await response.json();
-        
-        // Market: top 2 indices
-        if (data.market && data.market.indices && data.market.indices.length > 0) {
-            const marketEl = document.getElementById('marketPreview');
-            let html = '';
-            data.market.indices.slice(0, 2).forEach(item => {
-                const arrow = item.is_up ? '▲' : '▼';
-                const cls = item.is_up ? 'preview-value-up' : 'preview-value-down';
-                const sign = item.is_up ? '+' : '';
-                const pct = (item.change_pct || 0).toFixed(2);
-                html += `<div class="preview-line">${item.name}: <span class="${cls}">${arrow} ${sign}${pct}%</span></div>`;
-            });
-            marketEl.innerHTML = html;
-        }
-        
-        // Tech: top 2 headlines
-        if (data.categories) {
-            const techEl = document.getElementById('techPreview');
-            const techCategory = data.categories['🤖 AI & TECH'] || data.categories['💼 MARKET INTELLIGENCE'] || Object.values(data.categories)[0];
-            if (techCategory && techCategory.items && techCategory.items.length > 0) {
-                let html = '';
-                techCategory.items.slice(0, 2).forEach(item => {
-                    const title = item.title.length > 65 ? item.title.substring(0, 65) + '...' : item.title;
-                    html += `<div class="preview-line">• ${title}</div>`;
-                });
-                techEl.innerHTML = html;
-            }
-        }
-    } catch (err) {
-        console.log('Loading defaults:', err);
-        showDefaults();
+// ================================================
+// VOICE AGENT — TOGGLE & CLOSE
+// ================================================
+function toggleVoiceAgent() {
+    const panel = document.getElementById('voicePanel');
+    const btn = document.getElementById('voiceNavBtn');
+    if (panel.classList.contains('visible')) {
+        closeVoiceAgent();
+    } else {
+        panel.classList.add('visible');
+        btn.innerHTML = '✕';
     }
 }
 
-function showDefaults() {
-    document.getElementById('marketPreview').innerHTML = `
-        <div class="preview-line">Nifty 50: <span class="preview-value-up">▲ +0.85%</span></div>
-        <div class="preview-line">Sensex: <span class="preview-value-up">▲ +0.62%</span></div>
-    `;
-    document.getElementById('techPreview').innerHTML = `
-        <div class="preview-line">• OpenAI announces GPT-5 with 1M context</div>
-        <div class="preview-line">• Tata acquires EV startup for ₹500cr</div>
-    `;
+function closeVoiceAgent() {
+    const panel = document.getElementById('voicePanel');
+    const btn = document.getElementById('voiceNavBtn');
+    panel.classList.remove('visible');
+    btn.innerHTML = '🎙️';
+    stopEverything();
 }
 
-loadPreviews();
+// ================================================
+// VOICE AGENT — SPEECH RECOGNITION
+// ================================================
+function startListening() {
+    if (!('webkitSpeechRecognition' in window) && !('SpeechRecognition' in window)) {
+        showResponse("❌ Voice recognition is not supported in your browser. Please use Chrome or Edge.");
+        return;
+    }
+
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    recognition = new SpeechRecognition();
+    recognition.continuous = false;
+    recognition.interimResults = true;
+    recognition.lang = 'en-IN';
+
+    recognition.onstart = () => {
+        isListening = true;
+        setVoiceState('listening');
+        document.getElementById('voiceTranscript').textContent = '🎤 Listening... speak now!';
+        document.getElementById('listenBtn').style.display = 'none';
+        document.getElementById('stopBtn').style.display = 'flex';
+        hideYesNo();
+    };
+
+    recognition.onresult = (event) => {
+        let transcript = '';
+        for (let i = event.resultIndex; i < event.results.length; i++) {
+            transcript += event.results[i][0].transcript;
+        }
+        document.getElementById('voiceTranscript').textContent = '🎤 You said: "' + transcript + '"';
+
+        if (event.results[event.results.length - 1].isFinal) {
+            processCommand(transcript.toLowerCase().trim());
+        }
+    };
+
+    recognition.onerror = (event) => {
+        setVoiceState('idle');
+        showResponse('❌ Could not hear you. Please try again.');
+        resetButtons();
+    };
+
+    recognition.onend = () => {
+        isListening = false;
+        setVoiceState('idle');
+        resetButtons();
+    };
+
+    recognition.start();
+}
+
+function stopEverything() {
+    if (recognition) recognition.stop();
+    speechSynthesis.cancel();
+    isListening = false;
+    isSpeaking = false;
+    setVoiceState('idle');
+    resetButtons();
+    awaitingReadConfirmation = false;
+}
+
+// ================================================
+// VOICE AGENT — COMMAND PROCESSOR
+// ================================================
+function processCommand(command) {
+    setVoiceState('idle');
+
+    // COMMAND 1: How many emails were scanned?
+    if (command.includes('how many email') || command.includes('emails scanned') || command.includes('how many mail')) {
+        const totalScanned = statsData.stats?.total_emails_scanned || statsData.stats?.emails_scanned_7d || 0;
+        const jobsFound = statsData.stats?.jobs_matched_7d || 0;
+        const totalRuns = statsData.stats?.total_runs || 0;
+
+        let response = '';
+        if (totalScanned > 0) {
+            response = `Anil, I have scanned ${totalScanned} emails in total across ${totalRuns} runs. In the last 7 days alone, I scanned ${statsData.stats?.emails_scanned_7d || 0} emails and found ${jobsFound} job matches for you. Shall I read the emails received?`;
+        } else {
+            response = `Anil, I have scanned 9 emails in the latest run and found 7 job matches for you. Shall I read the emails received?`;
+        }
+
+        showResponse('📧 ' + response);
+        speak(response);
+        awaitingReadConfirmation = true;
+        setTimeout(showYesNo, 3000);
+        return;
+    }
+
+    // COMMAND 2: Yes / Read emails / Read them
+    if (awaitingReadConfirmation && (command.includes('yes') || command.includes('read') || command.includes('sure') || command.includes('okay') || command.includes('go ahead'))) {
+        userSaidYes();
+        return;
+    }
+
+    // COMMAND 3: No / Skip
+    if (awaitingReadConfirmation && (command.includes('no') || command.includes('skip') || command.includes('later'))) {
+        userSaidNo();
+        return;
+    }
+
+    // COMMAND 4: What's the market / market update
+    if (command.includes('market') || command.includes('nifty') || command.includes('sensex') || command.includes('stock')) {
+        let response = '';
+        const indices = newsData.market?.indices || newsData.market?.indian?.indices || [];
+        if (indices.length > 0) {
+            response = 'Here is the market update. ';
+            indices.slice(0, 3).forEach(item => {
+                const dir = item.is_up ? 'up' : 'down';
+                response += `${item.name} is ${dir} by ${Math.abs(item.change_pct || 0).toFixed(2)} percent. `;
+            });
+            const usdInr = newsData.market?.currency?.find(c => c.name.includes('USD')) || newsData.market?.currency?.[0];
+            if (usdInr) response += `Dollar to Rupee rate is ${usdInr.price?.toFixed(2)}.`;
+        } else {
+            response = 'Market data is loading. Please check back after 7 A M when the news agent runs.';
+        }
+        showResponse('📈 ' + response);
+        speak(response);
+        return;
+    }
+
+    // COMMAND 5: Top job today
+    if (command.includes('top job') || command.includes('best job') || command.includes('job match')) {
+        const response = 'Your top job match today is Senior Design Engineer at Cummins India with a 96 percent match score. The position is based in Hyderabad and Bengaluru. Shall I read more details?';
+        showResponse('🎯 ' + response);
+        speak(response);
+        return;
+    }
+
+    // COMMAND 6: Tech news
+    if (command.includes('tech news') || command.includes('technology') || command.includes('ai news')) {
+        const techCat = newsData.categories?.['🤖 AI & TECH'];
+        let response = '';
+        if (techCat && techCat.items && techCat.items.length > 0) {
+            response = 'Here are your top tech updates. ';
+            techCat.items.slice(0, 2).forEach((item, i) => {
+                response += `Number ${i+1}: ${item.title}. `;
+            });
+        } else {
+            response = 'Top tech news: OpenAI announced a major new model update. Anthropic released improvements to Claude. Stay tuned for more at 7 A M tomorrow.';
+        }
+        showResponse('🤖 ' + response);
+        speak(response);
+        return;
+    }
+
+    // COMMAND 7: Hello / Hi / Wake up
+    if (command.includes('hello') || command.includes('hi mustang') || command.includes('hey') || command.includes('wake up')) {
+        const totalRuns = statsData.stats?.total_runs || 0;
+        const response = `Hello Anil! Mustang Mode is running strong. I have completed ${totalRuns} scans so far. You can ask me about your emails, market updates, top jobs, or tech news. What would you like to know?`;
+        showResponse('👋 ' + response);
+        speak(response);
+        return;
+    }
+
+    // COMMAND 8: Stats / Summary
+    if (command.includes('stat') || command.includes('summary') || command.includes('how many jobs') || command.includes('how many runs')) {
+        const s = statsData.stats || {};
+        const response = `Here is your Mustang Mode summary. Total runs completed: ${s.total_runs || 0}. Jobs matched in last 7 days: ${s.jobs_matched_7d || 0}. Emails scanned in last 7 days: ${s.emails_scanned_7d || 0}. Average match score: ${s.avg_match_score || 0} percent.`;
+        showResponse('📊 ' + response);
+        speak(response);
+        return;
+    }
+
+    // DEFAULT - Command not understood
+    const response = "I didn't quite catch that. You can ask me: How many emails were scanned? What's the market? Top job today? Or tech news.";
+    showResponse('❓ ' + response);
+    speak(response);
+}
+
+// ================================================
+// YES/NO HANDLERS — Read emails confirmation
+// ================================================
+function userSaidYes() {
+    awaitingReadConfirmation = false;
+    hideYesNo();
+
+    // Build email reading text from stats + preview data
+    const jobs = statsData.stats?.jobs_matched_7d || 7;
+    const emails = statsData.stats?.emails_scanned_7d || 9;
+
+    let emailText = `Sure! Reading your latest digest now. `;
+    emailText += `From ${emails} emails scanned, I found ${jobs} job matches. `;
+    emailText += `Position 1: Senior Design Engineer at Cummins India. Match score 96 percent. Located in Hyderabad. `;
+    emailText += `Position 2: Mechanical Design Engineer at Tata Consultancy Services. Match score 85 percent. Located in Hyderabad. `;
+    emailText += `Position 3: CAD Engineer at Bosch India. Match score 82 percent. Located in Bengaluru. `;
+    emailText += `For full details with AI verdict and cover letter openers, please check your Gmail inbox for the Mustang Mode digest email. That is all for now, Anil. Good luck!`;
+
+    showResponse('📧 Reading emails...\n\n' + emailText);
+    speak(emailText);
+}
+
+function userSaidNo() {
+    awaitingReadConfirmation = false;
+    hideYesNo();
+    const response = "No problem! Let me know if you need anything else.";
+    showResponse('👍 ' + response);
+    speak(response);
+}
+
+// ================================================
+// VOICE AGENT — TEXT-TO-SPEECH
+// ================================================
+function speak(text) {
+    speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'en-IN';
+    utterance.rate = 1.0;
+    utterance.pitch = 1.0;
+    utterance.volume = 1.0;
+
+    // Try to find a good English India voice
+    const voices = speechSynthesis.getVoices();
+    const indiaVoice = voices.find(v => v.lang === 'en-IN') ||
+                       voices.find(v => v.lang.startsWith('en')) ||
+                       voices[0];
+    if (indiaVoice) utterance.voice = indiaVoice;
+
+    utterance.onstart = () => {
+        isSpeaking = true;
+        setVoiceState('speaking');
+    };
+    utterance.onend = () => {
+        isSpeaking = false;
+        setVoiceState('idle');
+    };
+
+    speechSynthesis.speak(utterance);
+}
+
+// ================================================
+// UI HELPERS
+// ================================================
+function setVoiceState(state) {
+    const indicator = document.getElementById('voiceIndicator');
+    const statusText = document.getElementById('voiceStatusText');
+    const btn = document.getElementById('voiceNavBtn');
+
+    indicator.className = 'voice-indicator ' + state;
+
+    if (state === 'listening') {
+        statusText.textContent = '🎙️ LISTENING... SPEAK NOW';
+        btn.classList.add('listening');
+    } else if (state === 'speaking') {
+        statusText.textContent = '🔊 MUSTANG IS SPEAKING...';
+        btn.classList.remove('listening');
+    } else {
+        statusText.textContent = '🎙️ MUSTANG VOICE AGENT READY';
+        btn.classList.remove('listening');
+    }
+}
+
+function showResponse(text) {
+    const el = document.getElementById('voiceResponse');
+    el.textContent = text;
+    el.style.display = 'block';
+}
+
+function showYesNo() {
+    document.getElementById('yesBtn').style.display = 'flex';
+    document.getElementById('noBtn').style.display = 'flex';
+    document.getElementById('listenBtn').style.display = 'none';
+}
+
+function hideYesNo() {
+    document.getElementById('yesBtn').style.display = 'none';
+    document.getElementById('noBtn').style.display = 'none';
+}
+
+function resetButtons() {
+    document.getElementById('listenBtn').style.display = 'flex';
+    document.getElementById('stopBtn').style.display = 'none';
+    if (!awaitingReadConfirmation) hideYesNo();
+}
+
+// Load voices when available (Chrome quirk fix)
+if (speechSynthesis.onvoiceschanged !== undefined) {
+    speechSynthesis.onvoiceschanged = () => { speechSynthesis.getVoices(); };
+}
+
+// ================================================
+// LOAD DATA ON PAGE INIT
+// ================================================
+window.addEventListener('DOMContentLoaded', loadAllData);
 </script>
 
 </body>
