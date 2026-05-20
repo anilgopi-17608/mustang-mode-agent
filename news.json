@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, May 19, 2026 at 05:59 PM IST",
-  "last_updated_iso": "2026-05-19T17:59:50.985755",
+  "last_updated": "Wednesday, May 20, 2026 at 05:36 PM IST",
+  "last_updated_iso": "2026-05-20T17:36:04.067663",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23618.0,
-        "change": -31.950000000000728,
-        "change_pct": -0.13509542303472408,
-        "is_up": false
+        "price": 23659.0,
+        "change": 41.0,
+        "change_pct": 0.17359640951816413,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 75200.85,
-        "change": -114.18999999998778,
-        "change_pct": -0.1516164633252373,
-        "is_up": false
+        "price": 75318.39,
+        "change": 117.5399999999936,
+        "change_pct": 0.15630142478441877,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 53409.15,
-        "change": -127.84999999999854,
-        "change_pct": -0.2388068065076462,
-        "is_up": false
+        "price": 53562.2,
+        "change": 153.04999999999563,
+        "change_pct": 0.2865613850810126,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Infosys",
-        "price": 1196.9,
-        "change": 54.40000000000009,
-        "change_pct": 4.761487964989067,
-        "is_up": true
-      },
-      {
-        "name": "TCS",
-        "price": 2327.1,
-        "change": 43.90000000000009,
-        "change_pct": 1.922740014015421,
+        "name": "Reliance",
+        "price": 1359.7,
+        "change": 37.0,
+        "change_pct": 2.7973085355711804,
         "is_up": true
       },
       {
         "name": "Wipro",
-        "price": 195.17,
-        "change": 3.0,
-        "change_pct": 1.5611177603163866,
+        "price": 197.12,
+        "change": 1.950000000000017,
+        "change_pct": 0.9991289644925025,
+        "is_up": true
+      },
+      {
+        "name": "Maruti",
+        "price": 13003.0,
+        "change": 47.0,
+        "change_pct": 0.36276628589070703,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Bharti Airtel",
-        "price": 1913.5,
-        "change": -24.59999999999991,
-        "change_pct": -1.2692843506526965,
+        "price": 1904.9,
+        "change": -8.599999999999909,
+        "change_pct": -0.4494382022471863,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1882.3,
-        "change": -23.5,
-        "change_pct": -1.2330779725049847,
+        "name": "HDFC Bank",
+        "price": 759.5,
+        "change": -2.9500000000000455,
+        "change_pct": -0.38691061708965113,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1322.7,
-        "change": -13.200000000000045,
-        "change_pct": -0.9880979115203267,
+        "name": "ICICI Bank",
+        "price": 1237.3,
+        "change": -3.5,
+        "change_pct": -0.2820760799484204,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.5325,
-        "change": 0.19750000000000512,
-        "change_pct": 0.20501375408730488,
+        "price": 96.81,
+        "change": 0.2879999999999967,
+        "change_pct": 0.2983775719525048,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4542.0,
-        "change": -16.0,
-        "change_pct": -0.35103115401491886,
+        "price": 4501.5,
+        "change": -9.699999999999818,
+        "change_pct": -0.21502039368681988,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
-          "summary": "Stilta announced Tuesday a $10 million seed round led by Andreessen Horowitz. Other investors in the round include YC and operators from companies like OpenAI, Legora, and Lovable....",
-          "link": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
+          "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
+          "summary": "Google is completely revamping its search experience, and that doesn't stop at YouTube....",
+          "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
           "source": "TechCrunch"
         },
         {
-          "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
-          "summary": "Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets....",
-          "link": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
+          "title": "Google just declared itself a contender in AI design at IO 2026",
+          "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners....",
+          "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
           "source": "TechCrunch"
         },
         {
-          "title": "Marshall brings ANC back to its smaller on-ear wireless headphones",
+          "title": "‘It’s in the air’: Apple TV’s hottest new shows explore different sides of OnlyFans",
           "summary": "",
-          "link": "https://www.theverge.com/tech/930787/marshall-milton-anc-active-noise-canceling-wireless-headphones",
+          "link": "https://www.theverge.com/tech/934078/apple-tv-onlyfans-margo-maximum-pleasure-guaranteed",
           "source": "The Verge"
         },
         {
-          "title": "These are the robot vacuum-mops I recommend for every type of home",
+          "title": "Android 17 is getting its own version of Apple&#8217;s Handoff",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/932425/best-robot-vacuum-mop-reviews-buying-guide",
+          "link": "https://www.theverge.com/tech/934457/android-17-continue-on-handoff",
           "source": "The Verge"
         },
         {
-          "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
-          "summary": "CDC is working to move the infected American and six others to Germany....",
-          "link": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
+          "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
+          "summary": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots....",
+          "link": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Gainers &amp; Losers: Vodafone and Coforge among 6 big movers on Tuesday",
-          "summary": "​Vodafone, Coforge and other stocks led market action on Tuesday as IT stocks rallied while HPCL gained on fuel price hikes and select midcaps saw sharp gains and losses post earni...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-vodafone-and-coforge-among-6-big-movers-on-tuesday/slideshow/131200272.cms",
+          "title": "Sell 100 grams of gold to help India; Feroze Azeez makes the case",
+          "summary": "Feroze Azeez urges Indian households to sell 2-4% of their idle gold, valued at $4 trillion, to curb excessive imports. He frames this as financial patriotism, highlighting that se...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/sell-100-grams-of-gold-to-help-india-feroze-azeez-makes-the-case/articleshow/131225820.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "NeoLiv to invest about Rs 500cr to build 76-acre housing project near Mumbai",
-          "summary": "The project, comprising of housing plots and villas, has an estimated saleable area of 13 lakh sq ft with a revenue potential of around Rs 800 crore....",
-          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/neoliv-to-invest-about-rs-500cr-to-build-76-acre-housing-project-near-mumbai/articleshow/131200162.cms",
+          "title": "FIIs won't return to Indian markets in a hurry; only 3 triggers may bring them back: Amar K Ambani",
+          "summary": "Foreign institutional investors (FIIs) are unlikely to return to Indian equities soon due to structural and cyclical forces, including modest dollar returns and the AI revolution f...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/fiis-wont-return-to-indian-markets-in-a-hurry-only-3-triggers-may-bring-them-back-amar-k-ambani/articleshow/131225509.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "PepsiCo India 2025 revenue up 8% as snacks growth offsets weak beverage sales",
-          "summary": "PepsiCo India reported higher revenue and profit for 2025, aided by double-digit growth in foods, even as unseasonal rains and intensifying competition weighed on beverages....",
-          "link": "https://www.livemint.com/companies/company-results/pepsico-india-2025-revenue-rises-snacks-growth-campa-cola-competition-beverages-11779189840929.html",
+          "title": "Alembic Pharma bets on branded drugs in the US",
+          "summary": "While the company hopes to push into branded speciality drugs, which offer a better value proposition in the US, its core generics business will continue to remain a priority...",
+          "link": "https://www.livemint.com/companies/alembic-pharma-branded-drugs-us-market-growth-strategy-pharmaceuticals-generic-drugs-11779267862663.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Philips introduces SmartIQ AI software for coronary imaging advancement",
-          "summary": "SmartIQ is specifically designed to address the trade-off between image quality and radiation dose levels in coronary imaging procedures. The post Philips introduces SmartIQ AI sof...",
-          "link": "https://www.medicaldevice-network.com/news/philips-introduces-smartiq-ai-software-for-coronary-imaging-advancement/",
+          "title": "Cagent Vascular raises $41m for dual-modality IVL platform advancement",
+          "summary": "Cagent will use the funds to complete a pivotal trial of its Serranator SONIC IVL system and support commercial necessitates for the platform. The post Cagent Vascular raises $41m ...",
+          "link": "https://www.medicaldevice-network.com/news/cagent-vascular-raises-41m-for-dual-modality-ivl-platform-advancement/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Numerize's bet on agentic OS for restaurants - The intelligence layer F&B always wanted!",
-          "summary": "Numerize has scaled from a spreadsheet fix to an AI intelligence layer trusted by 300+ restaurant groups across India. Co-founder and CEO Bharat Puppala says the industry's next OS...",
-          "link": "https://yourstory.com/2026/05/numerizes-agentic-os-restaurants-intelligence-layer",
+          "title": "Walter Elliot’s Rule for Staying Motivated Without Burning Out",
+          "summary": "Work and life today are defined by long, complex projects: learning new skills, managing teams, shipping products, or caring for a family....",
+          "link": "https://yourstory.com/2026/05/perseverance-short-races",
           "source": "YourStory"
         },
         {
-          "title": "Chtrbox aims to become the engine behind India's creator economy",
-          "summary": "From a startup solving influencer chaos to India’s only listed influencer marketing firm at scale, Chtrbox is building the infrastructure brands now need to win online....",
-          "link": "https://yourstory.com/2026/05/chtrbox-india-influencer-marketing-creator-economy",
+          "title": "Agnikul Successfully Test-Fires 4 Semi-Cryogenic Rocket Engines",
+          "summary": "India’s space startup Agnikul successfully test-fired 4 semi-cryogenic rocket engines in a single test, marking a major step toward future orbital launches....",
+          "link": "https://yourstory.com/2026/05/agnikul-four-semi-cryogenic-rocket-engines-cluster-test",
           "source": "YourStory"
         },
         {
-          "title": "Groww Promoters Sell Stake Worth ₹270 Cr",
-          "summary": "Stock broking firm Groww’s promoters have offloaded shares worth around ₹270 Cr over the past one week, according to disclosures&#8230;...",
-          "link": "https://inc42.com/buzz/groww-promoters-sell-stake-worth-%e2%82%b9270-cr/",
+          "title": "Exclusive: Anscer Robotics Bags ₹45 Cr To Automate Industrial Operations",
+          "summary": "Industrial robotics startup Anscer Robotics has raised ₹45 Cr (about $4.6 Mn) in its Series A round led by IAN&#8230;...",
+          "link": "https://inc42.com/buzz/exclusive-anscer-robotics-bags-5-4-mn-to-automate-industrial-operations/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "SKF summit to focus on industrial energy efficiency",
-          "summary": "SKF will host its annual virtual Tech &#38; Innovation Summit on June 18, bringing together industry representatives and technical experts to discuss technologies, products and sol...",
-          "link": "https://www.designworldonline.com/skf-summit-to-focus-on-industrial-energy-efficiency/",
+          "title": "AutomationDirect adds enclosures, solar shields, accessories",
+          "summary": "AutomationDirect has added Saginaw NEMA 1 wall‑mount enclosures which are designed for indoor use where economical, reliable protection is essential. Available in a wide range of s...",
+          "link": "https://www.designworldonline.com/automationdirect-adds-enclosures-solar-shields-accessories/",
           "source": "Design World"
         },
         {
-          "title": "ABB to supply power systems for Spanish Navy vessels",
-          "summary": "ABB secured a contract with Spanish state-owned shipbuilding and design company Navantia to supply two planned Spanish Navy coastal hydrographic vessels with a DC-based power distr...",
-          "link": "https://www.designworldonline.com/abb-to-supply-power-systems-for-spanish-navy-vessels/",
+          "title": "PI offers N-216 PiezoWalk actuator for high-force motion",
+          "summary": "PI offers a range of piezo ceramic linear actuators for applications with different size, speed and force requirements. Among them is the N-216 PiezoWalk Linear Actuator, a linear ...",
+          "link": "https://www.designworldonline.com/pi-offers-n-216-piezowalk-actuator-for-high-force-motion/",
           "source": "Design World"
         }
       ]
