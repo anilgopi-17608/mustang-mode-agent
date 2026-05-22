@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, May 21, 2026 at 06:04 PM IST",
-  "last_updated_iso": "2026-05-21T18:04:16.908272",
+  "last_updated": "Friday, May 22, 2026 at 05:32 PM IST",
+  "last_updated_iso": "2026-05-22T17:32:31.387545",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23654.7,
-        "change": -4.299999999999272,
-        "change_pct": -0.01817490172872595,
-        "is_up": false
+        "price": 23719.3,
+        "change": 64.59999999999854,
+        "change_pct": 0.2730958329634218,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 75183.36,
-        "change": -135.02999999999884,
-        "change_pct": -0.17927892510713364,
-        "is_up": false
+        "price": 75415.35,
+        "change": 231.99000000000524,
+        "change_pct": 0.3085656187752253,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 53439.4,
-        "change": -122.79999999999563,
-        "change_pct": -0.22926616158409407,
-        "is_up": false
+        "price": 54055.35,
+        "change": 615.9499999999971,
+        "change_pct": 1.1526139889295108,
+        "is_up": true
       }
     ],
     "gainers": [
       {
+        "name": "ICICI Bank",
+        "price": 1264.3,
+        "change": 21.5,
+        "change_pct": 1.729964596073383,
+        "is_up": true
+      },
+      {
         "name": "Wipro",
-        "price": 199.74,
-        "change": 2.6200000000000045,
-        "change_pct": 1.3291396103896127,
+        "price": 203.11,
+        "change": 3.3700000000000045,
+        "change_pct": 1.6871933513567658,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1891.3,
-        "change": 11.0,
-        "change_pct": 0.5850130298356645,
-        "is_up": true
-      },
-      {
-        "name": "L&T",
-        "price": 3928.5,
-        "change": 17.800000000000182,
-        "change_pct": 0.45516148004194096,
+        "name": "HDFC Bank",
+        "price": 766.8,
+        "change": 7.649999999999977,
+        "change_pct": 1.007705986959096,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1181.2,
-        "change": -12.5,
-        "change_pct": -1.0471642791321103,
+        "name": "Sun Pharma",
+        "price": 1844.6,
+        "change": -46.700000000000045,
+        "change_pct": -2.4692010786231715,
         "is_up": false
       },
       {
         "name": "Bharti Airtel",
-        "price": 1885.3,
-        "change": -19.600000000000136,
-        "change_pct": -1.0289254029082964,
+        "price": 1871.4,
+        "change": -13.899999999999864,
+        "change_pct": -0.737283191004077,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1349.6,
-        "change": -10.100000000000136,
-        "change_pct": -0.7428109141722539,
+        "name": "Infosys",
+        "price": 1174.5,
+        "change": -6.7000000000000455,
+        "change_pct": -0.56721977649848,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.19,
-        "change": -0.39000000000000057,
-        "change_pct": -0.40381031269414014,
+        "price": 95.69,
+        "change": -0.5,
+        "change_pct": -0.5198045534878886,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4509.9,
-        "change": -25.400000000000546,
-        "change_pct": -0.5600511542786705,
+        "price": 4523.6,
+        "change": -18.899999999999636,
+        "change_pct": -0.4160704457897553,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Scammers are abusing an internal Microsoft account to send spam links",
-          "summary": "The loophole allows spammers and scammers to send emails from a legitimate Microsoft email address typically used for sending genuine account alerts....",
-          "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+          "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+          "summary": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages...",
+          "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
           "source": "TechCrunch"
         },
         {
-          "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
-          "summary": "Beauty and wellness booking marketplace Fresha says it has raised $80 million investment from KKR’s Next Generation Technology Growth fund, KKR's growth equity arm....",
-          "link": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
+          "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+          "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads....",
+          "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
           "source": "TechCrunch"
         },
         {
-          "title": "NYC Mayor Zohran Mamdani is launching a Twitch series",
+          "title": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year",
           "summary": "",
-          "link": "https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people",
+          "link": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
           "source": "The Verge"
         },
         {
-          "title": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
+          "title": "Microsoft’s consumer marketing chief to leave next year",
           "summary": "",
-          "link": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
+          "link": "https://www.theverge.com/news/935982/microsoft-yusuf-mehdi-leaving",
           "source": "The Verge"
         },
         {
-          "title": "Famously secret about its finances, SpaceX opens its books for the first time",
-          "summary": "\"We believe we have identified the largest TAM in human history.\"...",
-          "link": "https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/",
+          "title": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
+          "summary": "Doctors are angry and alarmed that preventive care could go the way of vaccines....",
+          "link": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
           "source": "Ars Technica"
         }
       ]
@@ -130,27 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "LIC Q4 Results: Profit rises 23% YoY to Rs 23,467 crore; co declares Rs 10 per share dividend",
-          "summary": "LIC Q4 Results: State-owned Life ​Insurance Corp (LIC) reported ‌a ⁠23% year-on-year (YoY) growth ​in its consolidated net profit at Rs 23,467 crore in the fourth quarter of FY26, ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lic-q4-results-profit-rises-23-yoy-to-rs-23467-crore-co-declares-rs-10-per-share-dividend/articleshow/131246667.cms",
+          "title": "Eicher Motors Q4 Results: Cons profit grows 12% YoY to Rs 1,520 crore, revenue jumps 16%",
+          "summary": "The two-wheeler company posted a total revenue growth of 16% to Rs 6,080 crore in Q4FY26 versus Rs 5,241 crore posted by the company in the corresponding quarter of the previous fi...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/eicher-motors-q4-results-cons-profit-grows-12-yoy-to-rs-1520-crore-revenue-jumps-16/articleshow/131262844.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ITC announces final dividend of Rs 8/share. Check record date and other details",
-          "summary": "Excerpt: ITC Limited’s board has recommended a final dividend of Rs 8 per share for FY26, with May 27 set as the record date. Alongside an interim payout, total dividend stands at ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/itc-announces-final-dividend-of-rs-8/share-check-record-date-and-other-details/articleshow/131246758.cms",
+          "title": "Wipro fixes June 5 as record date for Rs 15,000 crore share buyback at Rs 250 apiece",
+          "summary": "Wipro Limited has set June 5, 2026, as the record date for its Rs 15,000 crore share buyback. The IT major's board and shareholders previously approved the repurchase of up to 60 c...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-fixes-june-5-as-record-date-for-rs-15000-crore-share-buyback-at-rs-250-apiece/articleshow/131262597.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "QSR chains brace for slower growth, margin pressure after weak FY26 demand",
-          "summary": "QSR chains are shifting focus from rapid expansion to profitability, emphasizing value meals and cost management in response to changing consumer spending habits....",
-          "link": "https://www.livemint.com/companies/company-results/qsr-chains-lpg-crisis-inflation-slower-growth-margin-pressure-fy26-earnings-fy27-outlook-11779345501294.html",
-          "source": "Livemint Companies"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Amazon India to add 100 beauty brands to its premium kitty as online competition increases",
-          "summary": "&amp;nbsp;The premium beauty segment is growing rapidly, with significant demand from tier-two and tier-three cities, and rising consumer spending projected to make India's beauty ...",
-          "link": "https://www.livemint.com/companies/news/amazon-india-100-beauty-brands-premium-kitty-online-competition-quick-commerce-dolce-gabbana-laura-mercier-11779354720360.html",
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "Delhi HC shields IndiGo from  ₹458-cr GST over engine compensation dispute",
+          "summary": "The case goes back to 2018-19 and 2019-20 when engine defects forced IndiGo to ground some aircraft. The airline lost flying hours and suffered business losses. To make up for thes...",
+          "link": "https://www.livemint.com/companies/indigo-gst-dispute-engine-compensation-delhi-high-court-11779444642864.html",
           "source": "Livemint Companies"
         }
       ]
@@ -171,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Jupiter Endovascular’s pulmonary embolectomy system hits primary endpoints in trial",
-          "summary": "Jupiter’s Vertex uses transforming fixation, a technology designed to improve catheter navigation through the right heart into the pulmonary arteries. The post Jupiter Endovascular...",
-          "link": "https://www.medicaldevice-network.com/news/jupiter-endovascular-pulmonary-embolectomy-system-hits-primary-endpoints-in-trial/",
+          "title": "BD launches Elyra thulium fiber laser system for kidney stone care",
+          "summary": "BD has launched the Elyra thulium fiber laser (TFL) system in the US, expanding its offerings for kidney stone care and urologic procedures. The post BD launches Elyra thulium fibe...",
+          "link": "https://www.medicaldevice-network.com/news/bd-elyra-thulium-fiber-laser-system/",
           "source": "Medical Device Network"
         }
       ]
@@ -182,21 +188,15 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Zepto plans to float Rs 11,000-Cr IPO in Jul",
-          "summary": "If the listing goes through, Zepto will join rivals Zomato and Swiggy, which are already listed on stock exchanges....",
-          "link": "https://yourstory.com/2026/05/zepto-plans-to-float-rs-11000-cr-ipo-in-jul",
-          "source": "YourStory"
+          "title": "ixigo Rallies 6% After Q4 Profit Doubles To ₹32 Cr",
+          "summary": "Update &#124; May 22, 2026, 14:56 IST Shares of ixigo ended today’s trading session 4.3% higher at ₹170.9 apiece on&#8230;...",
+          "link": "https://inc42.com/buzz/ixigo-rallies-6-after-q4-profit-doubles-to-%e2%82%b932-cr/",
+          "source": "Inc42"
         },
         {
-          "title": "AI stands for attention impairment",
-          "summary": "In an age of infinite information, deep thinking increasingly feels endangered. The quiet erosion of attention, the decline of deep reading, and the hidden cost of constant distrac...",
-          "link": "https://yourstory.com/2026/05/ai-stands-for-attention-impairment",
-          "source": "YourStory"
-        },
-        {
-          "title": "Shastra VC Launches $100 Mn Fund to Back Deeptech Startups",
-          "summary": "Bengaluru-based VC firm Shastra VC has launched its third fund with a corpus of $100 Mn (about ₹963 Cr) to&#8230;...",
-          "link": "https://inc42.com/buzz/shastra-vc-launches-100-mn-fund-to-back-deeptech-startups/",
+          "title": "Info Edge Q4: Profit Increases 12% To ₹756 Cr, Declares Dividend Of ₹3.60",
+          "summary": "Naukri parent Info Edge&#8217;s consolidated net profit for the fourth quarter of FY26 increased 12% to ₹755.7 Cr from ₹677.9&#8230;...",
+          "link": "https://inc42.com/buzz/info-edge-q4-profit-increases-12-to-%e2%82%b9756-cr-declares-dividend-of-%e2%82%b93-60/",
           "source": "Inc42"
         }
       ]
@@ -205,15 +205,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "MathWorks adds Renesas hardware support packages",
-          "summary": "MathWorks has announced new Hardware Support Packages for Renesas’ RH850/U2A microcontroller for automotive applications and the RA6T2 microcontroller for industrial controls. The ...",
-          "link": "https://www.designworldonline.com/mathworks-adds-renesas-hardware-support-packages/",
+          "title": "Columbus McKinnon to show automation at Automate 2026",
+          "summary": "Columbus McKinnon Corp. will showcase conveyance and automation technologies at Automate 2026 in Chicago from June 22-25. The company’s Booth No. 437 will feature live demonstratio...",
+          "link": "https://www.designworldonline.com/columbus-mckinnon-to-show-automation-at-automate-2026/",
           "source": "Design World"
         },
         {
-          "title": "Chip Trapper for coolant filtration and chip removal",
-          "summary": "EXAIR&#8217;s patented Chip Trapper is designed to remove chips, swarf and shavings from used coolant and other liquids. It vacuums debris-filled liquid into the included drum, whe...",
-          "link": "https://www.designworldonline.com/chip-trapper-for-coolant-filtration-and-chip-removal/",
+          "title": "New OLFLEX 190 control cable available from AutomationDirect",
+          "summary": "AutomationDirect has added Lapp OLFLEX 190 flexible control cable for industrial wiring applications. Designed for machinery, equipment and control panels, OLFLEX 190 features fine...",
+          "link": "https://www.designworldonline.com/new-olflex-190-control-cable-available-from-automationdirect/",
           "source": "Design World"
         }
       ]
@@ -229,11 +229,11 @@
           "thumbnail": "https://i3.ytimg.com/vi/VIE2Ri2DQJg/hqdefault.jpg"
         },
         {
-          "title": "NVIDIA New AI Is An Efficiency Monster",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2604.24954\nhttps://developer.nvidia.com/blo...",
-          "link": "https://www.youtube.com/watch?v=4wC8hnQawiA",
+          "title": "DeepSeek’s New AI Is A Game Changer",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://github.com/ailuntx/Thinking-with-Visual-Primitives\nhttps:...",
+          "link": "https://www.youtube.com/watch?v=LpXhy2iiaQE",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/4wC8hnQawiA/hqdefault.jpg"
+          "thumbnail": "https://i1.ytimg.com/vi/LpXhy2iiaQE/hqdefault.jpg"
         }
       ]
     }
