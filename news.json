@@ -1,82 +1,82 @@
 {
-  "last_updated": "Sunday, May 24, 2026 at 02:57 PM IST",
-  "last_updated_iso": "2026-05-24T14:57:33.090138",
+  "last_updated": "Monday, May 25, 2026 at 07:17 PM IST",
+  "last_updated_iso": "2026-05-25T19:17:30.414363",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23719.3,
-        "change": 64.59999999999854,
-        "change_pct": 0.2730958329634218,
+        "price": 24031.7,
+        "change": 312.40000000000146,
+        "change_pct": 1.3170709085006786,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 75415.35,
-        "change": 231.99000000000524,
-        "change_pct": 0.3085656187752253,
+        "price": 76488.96,
+        "change": 1073.6100000000006,
+        "change_pct": 1.4235961246616247,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 54055.35,
-        "change": 615.9499999999971,
-        "change_pct": 1.1526139889295108,
+        "price": 55293.65,
+        "change": 1238.300000000003,
+        "change_pct": 2.2908000780681337,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "ICICI Bank",
-        "price": 1264.3,
-        "change": 21.5,
-        "change_pct": 1.729964596073383,
-        "is_up": true
-      },
-      {
-        "name": "Wipro",
-        "price": 203.11,
-        "change": 3.3700000000000045,
-        "change_pct": 1.6871933513567658,
+        "name": "L&T",
+        "price": 4033.4,
+        "change": 106.80000000000018,
+        "change_pct": 2.719910355014521,
         "is_up": true
       },
       {
         "name": "HDFC Bank",
-        "price": 766.8,
-        "change": 7.649999999999977,
-        "change_pct": 1.007705986959096,
+        "price": 786.85,
+        "change": 20.050000000000068,
+        "change_pct": 2.614762649973927,
+        "is_up": true
+      },
+      {
+        "name": "ICICI Bank",
+        "price": 1291.8,
+        "change": 27.5,
+        "change_pct": 2.175116665348414,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Sun Pharma",
-        "price": 1844.6,
-        "change": -46.700000000000045,
-        "change_pct": -2.4692010786231715,
-        "is_up": false
-      },
-      {
-        "name": "Bharti Airtel",
-        "price": 1871.4,
-        "change": -13.899999999999864,
-        "change_pct": -0.737283191004077,
-        "is_up": false
-      },
-      {
         "name": "Infosys",
-        "price": 1174.5,
-        "change": -6.7000000000000455,
-        "change_pct": -0.56721977649848,
+        "price": 1168.5,
+        "change": -6.0,
+        "change_pct": -0.5108556832694764,
+        "is_up": false
+      },
+      {
+        "name": "TCS",
+        "price": 2308.2,
+        "change": -9.100000000000364,
+        "change_pct": -0.39269839899885056,
+        "is_up": false
+      },
+      {
+        "name": "Sun Pharma",
+        "price": 1840.6,
+        "change": -4.0,
+        "change_pct": -0.21684918139434026,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.68,
-        "change": -0.5099999999999909,
-        "change_pct": -0.5302006445576369,
+        "price": 95.22,
+        "change": -0.46000000000000796,
+        "change_pct": -0.48076923076923905,
         "is_up": false
       }
     ],
@@ -84,9 +84,9 @@
       {
         "name": "Gold (₹/10g)",
         "price": 4523.2,
-        "change": -19.300000000000182,
-        "change_pct": -0.42487616951018564,
-        "is_up": false
+        "change": 0.0,
+        "change_pct": 0.0,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
-          "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month....",
-          "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+          "title": "Everyone is navigating AI security in real time — even Google",
+          "summary": "We're in the transition period -- all of us....",
+          "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
           "source": "TechCrunch"
         },
         {
-          "title": "These special phone and app features can help protect you from spyware",
-          "summary": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to...",
-          "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+          "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+          "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point....",
+          "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
           "source": "TechCrunch"
         },
         {
-          "title": "Record Club is trying to be Letterboxd for music nerds",
+          "title": "The best Memorial Day sales you can shop this weekend",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+          "link": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
           "source": "The Verge"
         },
         {
-          "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
+          "title": "On Trails is a wandering tale that blends hiking, science, and history",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
+          "link": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
           "source": "The Verge"
         },
         {
-          "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
-          "summary": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit....",
-          "link": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
+          "title": "US's big bet on quantum computing may not be entirely legal",
+          "summary": "Deal also launched the first quantum foundry company, but is there a need for it?...",
+          "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "IPO calendar: 3 companies set to launch public offers this week; check details",
-          "summary": "This comes as markets continue to witness sharp downswings and muted recoveries, with oil prices remaining elevated amid the seesaw political game in the Middle East....",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-3-companies-set-to-launch-public-offers-this-week-check-details/articleshow/131290638.cms",
+          "title": "'Inflation and unholy mess:' Why Nithin Kamath thinks RBI may not stay soft on interest rates",
+          "summary": "Nithin Kamath warned that a weak monsoon caused by El Niño and rising global oil prices linked to the Iran conflict could sharply increase inflation in India. He said higher food a...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/inflation-and-unholy-mess-why-nithin-kamath-thinks-rbi-may-not-stay-soft-on-interest-rates/articleshow/131310601.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "​10 Sensex stocks with up to 40% upside potential — Are these in your portfolio?",
-          "summary": "​Analyst predictions point to significant opportunities in the Indian stock market. Several top Sensex companies are expected to deliver strong returns over the next twelve months....",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-sensex-stocks-with-up-to-40-upside-potential-are-these-in-your-portfolio/slideshow/131290363.cms",
+          "title": "Gainers &amp; Losers: LIC, Max Healthcare among 7 big movers on Monday",
+          "summary": "​Domestic equity markets extended gains for a third straight session. LIC, Vodafone Idea, Eicher Motors and Titagarh Rail Systems surged, while JSW Cement and Max Healthcare declin...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-lic-max-healthcare-among-7-big-movers-on-monday/slideshow/131310348.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "As smartwatch fears fade, Ethos expands deeper into luxury watches",
-          "summary": "Ethos says analogue watches are regaining relevance as aspiration-led purchases, prompting the retailer to expand stores, target younger buyers and push into luxury lifestyle categ...",
-          "link": "https://www.livemint.com/companies/news/ethos-luxury-watch-market-india-smartwatch-threat-fades-expansion-plans-11779595454909.html",
+          "title": "IRFC expands beyond Indian Railways with  ₹13,527-crore refinancing deal for Hyderabad Metro",
+          "summary": "The state-backed financier is leveraging its core strength in transportation finance to support urban mobility and help the Telangana government-owned project replace its high-cost...",
+          "link": "https://www.livemint.com/companies/news/irfc-indian-railways-hyderabad-metro-urban-infrastructure-l-t-transport-11779707337823.html",
           "source": "Livemint Companies"
         }
       ]
@@ -188,15 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "FIFA’s India Streaming Stalemate",
-          "summary": "The FIFA World Cup 2026 begins on June 11. But barely days before the tournament kicks off, Indian fans still&#8230;...",
-          "link": "https://inc42.com/features/fifas-india-streaming-stalemate/",
-          "source": "Inc42"
+          "title": "Frammer AI partners with Cineverse to scale AI-generated short-form video",
+          "summary": "Frammer AI and Cineverse partner to create AI-generated short-form videos, trailers and social content across a 71,000-title entertainment library....",
+          "link": "https://yourstory.com/2026/05/frammer-ai-cineverse-ai-short-form-video-partnership",
+          "source": "YourStory"
         },
         {
-          "title": "India Must Build Its Space Tech Companies The Way NASA Built SpaceX",
-          "summary": "SpaceX is expected to IPO at over $1.5 Tn later this year. The most consequential fact about the company’s origins&#8230;...",
-          "link": "https://inc42.com/resources/india-must-build-its-space-tech-companies-the-way-nasa-built-spacex/",
+          "title": "The psychology behind why we re-read certain books",
+          "summary": "Discover the psychology behind why we re-read certain books, from emotional comfort to deeper understanding and how stories evolve with us over time....",
+          "link": "https://yourstory.com/2026/05/psychology-behind-why-we-reread-books",
+          "source": "YourStory"
+        },
+        {
+          "title": "Pine Labs Posts ₹59 Cr Profit In Q4, Revenue Up 15% YoY",
+          "summary": "Fintech major Pine Labs turned profitable in the fourth quarter of FY26, posting a consolidated net profit of ₹59.4 Cr&#8230;...",
+          "link": "https://inc42.com/buzz/pine-labs-posts-%e2%82%b959-cr-profit-in-q4-revenue-up-15/",
           "source": "Inc42"
         }
       ]
