@@ -1,92 +1,92 @@
 {
-  "last_updated": "Monday, May 25, 2026 at 07:17 PM IST",
-  "last_updated_iso": "2026-05-25T19:17:30.414363",
+  "last_updated": "Wednesday, May 27, 2026 at 06:15 PM IST",
+  "last_updated_iso": "2026-05-27T18:15:40.004497",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24031.7,
-        "change": 312.40000000000146,
-        "change_pct": 1.3170709085006786,
-        "is_up": true
+        "price": 23907.15,
+        "change": -6.549999999999272,
+        "change_pct": -0.027390157106592757,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 76488.96,
-        "change": 1073.6100000000006,
-        "change_pct": 1.4235961246616247,
-        "is_up": true
+        "price": 75867.8,
+        "change": -141.89999999999418,
+        "change_pct": -0.18668669919759476,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 55293.65,
-        "change": 1238.300000000003,
-        "change_pct": 2.2908000780681337,
-        "is_up": true
+        "price": 54853.85,
+        "change": -239.0500000000029,
+        "change_pct": -0.43390346124455764,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "L&T",
-        "price": 4033.4,
-        "change": 106.80000000000018,
-        "change_pct": 2.719910355014521,
+        "name": "Maruti",
+        "price": 13364.0,
+        "change": 156.0,
+        "change_pct": 1.1811023622047243,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 786.85,
-        "change": 20.050000000000068,
-        "change_pct": 2.614762649973927,
+        "name": "TCS",
+        "price": 2284.2,
+        "change": 8.0,
+        "change_pct": 0.35146296459010634,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1291.8,
-        "change": 27.5,
-        "change_pct": 2.175116665348414,
+        "name": "Bharti Airtel",
+        "price": 1852.2,
+        "change": 5.2999999999999545,
+        "change_pct": 0.28696735069575796,
         "is_up": true
       }
     ],
     "losers": [
       {
+        "name": "HDFC Bank",
+        "price": 758.65,
+        "change": -20.25,
+        "change_pct": -2.599820259340095,
+        "is_up": false
+      },
+      {
+        "name": "Wipro",
+        "price": 201.58,
+        "change": -2.1499999999999773,
+        "change_pct": -1.0553183134540702,
+        "is_up": false
+      },
+      {
         "name": "Infosys",
-        "price": 1168.5,
-        "change": -6.0,
-        "change_pct": -0.5108556832694764,
-        "is_up": false
-      },
-      {
-        "name": "TCS",
-        "price": 2308.2,
-        "change": -9.100000000000364,
-        "change_pct": -0.39269839899885056,
-        "is_up": false
-      },
-      {
-        "name": "Sun Pharma",
-        "price": 1840.6,
-        "change": -4.0,
-        "change_pct": -0.21684918139434026,
+        "price": 1159.9,
+        "change": -7.7999999999999545,
+        "change_pct": -0.6679797893294471,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.22,
-        "change": -0.46000000000000796,
-        "change_pct": -0.48076923076923905,
-        "is_up": false
+        "price": 95.69,
+        "change": 0.01999999999999602,
+        "change_pct": 0.020905194940938662,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4523.2,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "is_up": true
+        "price": 4476.3,
+        "change": -58.69999999999982,
+        "change_pct": -1.2943770672546817,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Everyone is navigating AI security in real time — even Google",
-          "summary": "We're in the transition period -- all of us....",
-          "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+          "title": "Tech CEOs are apparently suffering from AI psychosis",
+          "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains....",
+          "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
           "source": "TechCrunch"
         },
         {
-          "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
-          "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point....",
-          "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+          "title": "Robinhood now lets your AI agents trade stocks",
+          "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade...",
+          "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
           "source": "TechCrunch"
         },
         {
-          "title": "The best Memorial Day sales you can shop this weekend",
+          "title": "The Witcher 3 is getting another expansion, more than a decade after launch",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+          "link": "https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion",
           "source": "The Verge"
         },
         {
-          "title": "On Trails is a wandering tale that blends hiking, science, and history",
+          "title": "Xreal’s budget AR glasses feature anti-shake tech and swappable frames",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
+          "link": "https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability",
           "source": "The Verge"
         },
         {
-          "title": "US's big bet on quantum computing may not be entirely legal",
-          "summary": "Deal also launched the first quantum foundry company, but is there a need for it?...",
-          "link": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+          "title": "Motorola's 2026 Razrs are almost worth buying just for their stunning looks… almost",
+          "summary": "Pretty little phones with pretty big price tags....",
+          "link": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "'Inflation and unholy mess:' Why Nithin Kamath thinks RBI may not stay soft on interest rates",
-          "summary": "Nithin Kamath warned that a weak monsoon caused by El Niño and rising global oil prices linked to the Iran conflict could sharply increase inflation in India. He said higher food a...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/inflation-and-unholy-mess-why-nithin-kamath-thinks-rbi-may-not-stay-soft-on-interest-rates/articleshow/131310601.cms",
+          "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures edge higher as AI rally, chip strength lift sentiment",
+          "summary": "",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-brent-crude-oil-fed-rates-tech-rally-ipo-semiconductors-ai-chip-tesla-nvidia-micron-stock-prices-today/liveblog/131350814.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Gainers &amp; Losers: LIC, Max Healthcare among 7 big movers on Monday",
-          "summary": "​Domestic equity markets extended gains for a third straight session. LIC, Vodafone Idea, Eicher Motors and Titagarh Rail Systems surged, while JSW Cement and Max Healthcare declin...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-lic-max-healthcare-among-7-big-movers-on-monday/slideshow/131310348.cms",
+          "title": "Eicher Motors Share Price Live Updates: Eicher Motors Market Update",
+          "summary": "",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-today-live-27-may-2026/liveblog/131349958.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "IRFC expands beyond Indian Railways with  ₹13,527-crore refinancing deal for Hyderabad Metro",
-          "summary": "The state-backed financier is leveraging its core strength in transportation finance to support urban mobility and help the Telangana government-owned project replace its high-cost...",
-          "link": "https://www.livemint.com/companies/news/irfc-indian-railways-hyderabad-metro-urban-infrastructure-l-t-transport-11779707337823.html",
+          "title": "Byju Raveendran directed to appear in Singapore court on 15 June after contempt case order: ‘Appeal options available’",
+          "summary": "Byju Raveendran is directed to appear in a Singapore court on 15 June in a contempt of court case. The entrepreneur received a six-month jail sentence over alleged failure to compl...",
+          "link": "https://www.livemint.com/companies/byjus-founder-raveendran-to-appear-in-singapore-court-on-june-15-as-he-faces-contempt-order-appeal-options-available-11779871349992.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Harnessing medtech market alliances, ŌURA sets IPO plans in motion",
-          "summary": "The Oura Ring creator’s plans to go public follow a $900m fundraise in October 2025 that put the company at an $11bn valuation. The post Harnessing medtech market alliances, ŌURA s...",
-          "link": "https://www.medicaldevice-network.com/news/harnessing-medtech-market-alliances-oura-sets-ipo-plans-in-motion/",
+          "title": "AiM Medical to integrate robotic neurosurgery system with Siemens’ MRI systems",
+          "summary": "AiM Medical Robotics is to develop an interface that will integrate its robotic neurosurgery platform with Siemens Healthineers’ MRI systems. The post AiM Medical to integrate robo...",
+          "link": "https://www.medicaldevice-network.com/news/aim-medical-robotic-neurosurgery-siemens-mri/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Frammer AI partners with Cineverse to scale AI-generated short-form video",
-          "summary": "Frammer AI and Cineverse partner to create AI-generated short-form videos, trailers and social content across a 71,000-title entertainment library....",
-          "link": "https://yourstory.com/2026/05/frammer-ai-cineverse-ai-short-form-video-partnership",
+          "title": "Red Balloon Aerospace launches stratospheric pressure balloon",
+          "summary": "Red Balloon Aerospace’s first high-altitude super pressure balloon carried payloads from seven national and international partners....",
+          "link": "https://yourstory.com/2026/05/red-balloon-aerospace-launches-stratospheric-pressure-balloon",
           "source": "YourStory"
         },
         {
-          "title": "The psychology behind why we re-read certain books",
-          "summary": "Discover the psychology behind why we re-read certain books, from emotional comfort to deeper understanding and how stories evolve with us over time....",
-          "link": "https://yourstory.com/2026/05/psychology-behind-why-we-reread-books",
+          "title": "Bharat Innovates 2026: From a Bengaluru Lab to Nice. Meet the Startup Bringing AI-Powered Diagnostics to Underserved India",
+          "summary": "India has fewer than one radiologist for every 100,000 people, and a Bengaluru startup founded by an NIT–IISc duo is closing that gap one scan at a time. 5C Network is among the ve...",
+          "link": "https://yourstory.com/2026/05/bharat-innovates-2026-ai-powered-diagnostics-to-underserved",
           "source": "YourStory"
         },
         {
-          "title": "Pine Labs Posts ₹59 Cr Profit In Q4, Revenue Up 15% YoY",
-          "summary": "Fintech major Pine Labs turned profitable in the fourth quarter of FY26, posting a consolidated net profit of ₹59.4 Cr&#8230;...",
-          "link": "https://inc42.com/buzz/pine-labs-posts-%e2%82%b959-cr-profit-in-q4-revenue-up-15/",
+          "title": "PhysicsWallah Q4: Loss Declines 76% YoY To ₹69 Cr, Revenue Up 51%",
+          "summary": "Edtech major PhysicsWallah narrowed its consolidated net loss for the March quarter (Q4 FY26) by 76% to ₹69.1 Cr from&#8230;...",
+          "link": "https://inc42.com/buzz/physicswallah-q4-loss-declines-76-yoy-to-%e2%82%b969-cr-revenue-up-51/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Some thoughts on digital integration of motion systems",
-          "summary": "In a recent conversation with colleagues, we touched on how manufacturing is undergoing a fundamental transformation with motion systems in these settings so core to integrated dig...",
-          "link": "https://www.designworldonline.com/some-thoughts-on-digital-integration-of-motion-systems/",
+          "title": "How to lower your conveyor systems’ cost",
+          "summary": "Conveyor systems are the backbone of heavy industries, enabling the movement of materials and keeping operations running smoothly. Yet, beneath their reliability, lies a significan...",
+          "link": "https://www.designworldonline.com/how-to-lower-your-conveyor-systems-cost/",
           "source": "Design World"
         },
         {
-          "title": "Seeing is believing: Generative AI for robotic vision",
-          "summary": "ABB has made a strategic investment to integrate LandingAI’s advanced vision AI technologies, including the LandingLens platform, into its robot AI vision applications. By leveragi...",
-          "link": "https://www.designworldonline.com/seeing-is-believing-generative-ai-for-robotic-vision/",
+          "title": "Some thoughts on digital integration of motion systems",
+          "summary": "In a recent conversation with colleagues, we touched on how manufacturing is undergoing a fundamental transformation with motion systems in these settings so core to integrated dig...",
+          "link": "https://www.designworldonline.com/some-thoughts-on-digital-integration-of-motion-systems/",
           "source": "Design World"
         }
       ]
@@ -228,18 +228,18 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "Why Fitbit Air Could Be Huge",
-          "summary": "Everyone's talking about the Fitbit Air...",
-          "link": "https://www.youtube.com/shorts/VIE2Ri2DQJg",
+          "title": "The Truth About the \"Whoop Killer\"",
+          "summary": "Is the Fitbit Air the true Whoop 5.0 killer?\n\nMKBHD Merch: http://shop.MKBHD.com\n\nAffiliate Links\nFitbit Air: https://geni.us/W24DGJY \nWhoop: https://geni.us/0vkguAL\n\nPlaylist of M...",
+          "link": "https://www.youtube.com/watch?v=9GSDvO0LFFE",
           "source": "MKBHD",
-          "thumbnail": "https://i3.ytimg.com/vi/VIE2Ri2DQJg/hqdefault.jpg"
+          "thumbnail": "https://i2.ytimg.com/vi/9GSDvO0LFFE/hqdefault.jpg"
         },
         {
-          "title": "DeepSeek’s New AI Is A Game Changer",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://github.com/ailuntx/Thinking-with-Visual-Primitives\nhttps:...",
-          "link": "https://www.youtube.com/watch?v=LpXhy2iiaQE",
+          "title": "Google DeepMind CEO Likes Hard Questions",
+          "summary": "Full video: https://youtu.be/huAwz_BR8WM\n#shorts...",
+          "link": "https://www.youtube.com/shorts/kIvvzCR5NjA",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/LpXhy2iiaQE/hqdefault.jpg"
+          "thumbnail": "https://i4.ytimg.com/vi/kIvvzCR5NjA/hqdefault.jpg"
         }
       ]
     }
