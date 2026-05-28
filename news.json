@@ -1,6 +1,6 @@
 {
-  "last_updated": "Wednesday, May 27, 2026 at 06:15 PM IST",
-  "last_updated_iso": "2026-05-27T18:15:40.004497",
+  "last_updated": "Thursday, May 28, 2026 at 08:20 PM IST",
+  "last_updated_iso": "2026-05-28T20:20:56.472782",
   "market": {
     "indices": [
       {
@@ -28,65 +28,65 @@
     "gainers": [
       {
         "name": "Maruti",
-        "price": 13364.0,
-        "change": 156.0,
-        "change_pct": 1.1811023622047243,
+        "price": 13395.0,
+        "change": 187.0,
+        "change_pct": 1.4158086008479709,
         "is_up": true
       },
       {
         "name": "TCS",
-        "price": 2284.2,
-        "change": 8.0,
-        "change_pct": 0.35146296459010634,
+        "price": 2289.9,
+        "change": 13.700000000000273,
+        "change_pct": 0.6018803268605691,
         "is_up": true
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1852.2,
-        "change": 5.2999999999999545,
-        "change_pct": 0.28696735069575796,
+        "name": "L&T",
+        "price": 4050.0,
+        "change": 12.199999999999818,
+        "change_pct": 0.30214473227994987,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "HDFC Bank",
-        "price": 758.65,
-        "change": -20.25,
-        "change_pct": -2.599820259340095,
+        "price": 759.15,
+        "change": -19.75,
+        "change_pct": -2.535627166516883,
         "is_up": false
       },
       {
         "name": "Wipro",
-        "price": 201.58,
-        "change": -2.1499999999999773,
-        "change_pct": -1.0553183134540702,
+        "price": 201.7,
+        "change": -2.030000000000001,
+        "change_pct": -0.9964168261915285,
         "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 1159.9,
-        "change": -7.7999999999999545,
-        "change_pct": -0.6679797893294471,
+        "name": "ICICI Bank",
+        "price": 1272.5,
+        "change": -6.599999999999909,
+        "change_pct": -0.5159878039246274,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.69,
-        "change": 0.01999999999999602,
-        "change_pct": 0.020905194940938662,
-        "is_up": true
+        "price": 95.68,
+        "change": -0.009999999999990905,
+        "change_pct": -0.010450412791295752,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4476.3,
-        "change": -58.69999999999982,
-        "change_pct": -1.2943770672546817,
-        "is_up": false
+        "price": 4496.1,
+        "change": 14.600000000000364,
+        "change_pct": 0.3257837777529926,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Tech CEOs are apparently suffering from AI psychosis",
-          "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains....",
-          "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+          "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+          "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app....",
+          "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
           "source": "TechCrunch"
         },
         {
-          "title": "Robinhood now lets your AI agents trade stocks",
-          "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade...",
-          "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+          "title": "Rivian under investigation over rear suspension failures on R1 models",
+          "summary": "At least two owners have lost control of their vehicles after a critical suspension component broke. In both cases, the vehicles had been previously serviced....",
+          "link": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
           "source": "TechCrunch"
         },
         {
-          "title": "The Witcher 3 is getting another expansion, more than a decade after launch",
+          "title": "These new iOS 27 renders hint at Siri’s big redesign",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion",
+          "link": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
           "source": "The Verge"
         },
         {
-          "title": "Xreal’s budget AR glasses feature anti-shake tech and swappable frames",
+          "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
           "source": "The Verge"
         },
         {
-          "title": "Motorola's 2026 Razrs are almost worth buying just for their stunning looks… almost",
-          "summary": "Pretty little phones with pretty big price tags....",
-          "link": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
+          "title": "Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial",
+          "summary": "The interim Phase I trial data was only from 35 people, but results look good so far....",
+          "link": "https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures edge higher as AI rally, chip strength lift sentiment",
-          "summary": "",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-brent-crude-oil-fed-rates-tech-rally-ipo-semiconductors-ai-chip-tesla-nvidia-micron-stock-prices-today/liveblog/131350814.cms",
+          "title": "Apex Service sells minority stake to Apollo at $10 billion valuation, source says",
+          "summary": "In a ‌statement on Thursday, Apex said it will use ​the funds to ​continue to expand its national footprint, deepen its multi-trade service ⁠offerings and advance its technology an...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apex-service-sells-minority-stake-to-apollo-at-10-billion-valuation-source-says/articleshow/131372103.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Eicher Motors Share Price Live Updates: Eicher Motors Market Update",
-          "summary": "",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-today-live-27-may-2026/liveblog/131349958.cms",
+          "title": "Fed's Williams: Productivity shifts hard to spot in real time",
+          "summary": "Williams did not comment on the near-term monetary ​policy and economic ​outlook in ⁠his prepared remarks....",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-productivity-shifts-hard-to-spot-in-real-time/articleshow/131372047.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Byju Raveendran directed to appear in Singapore court on 15 June after contempt case order: ‘Appeal options available’",
-          "summary": "Byju Raveendran is directed to appear in a Singapore court on 15 June in a contempt of court case. The entrepreneur received a six-month jail sentence over alleged failure to compl...",
-          "link": "https://www.livemint.com/companies/byjus-founder-raveendran-to-appear-in-singapore-court-on-june-15-as-he-faces-contempt-order-appeal-options-available-11779871349992.html",
+          "title": "Reliance’s luxury retail arm narrows losses, designer labels lag",
+          "summary": "Reliance Brands, Reliance Retail’s flagship premium and luxury fashion business, reported FY26 revenue of ₹3,494 crore, up 44.6% from a year earlier, while losses narrowed to ₹137 ...",
+          "link": "https://www.livemint.com/companies/news/reliance-retail-reliance-industries-luxury-retail-arm-designer-labels-india-11779970955625.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "AiM Medical to integrate robotic neurosurgery system with Siemens’ MRI systems",
-          "summary": "AiM Medical Robotics is to develop an interface that will integrate its robotic neurosurgery platform with Siemens Healthineers’ MRI systems. The post AiM Medical to integrate robo...",
-          "link": "https://www.medicaldevice-network.com/news/aim-medical-robotic-neurosurgery-siemens-mri/",
+          "title": "Abbott obtains CE mark for duo of glucose-ketone monitors",
+          "summary": "Abbott has secured a CE mark for two of its glucose-ketone sensing systems for diabetic patients. The post Abbott obtains CE mark for duo of glucose-ketone monitors appeared first ...",
+          "link": "https://www.medicaldevice-network.com/news/abbott-libre-duo-ce-mark-continuous-glucose-ketone-sensor/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Red Balloon Aerospace launches stratospheric pressure balloon",
-          "summary": "Red Balloon Aerospace’s first high-altitude super pressure balloon carried payloads from seven national and international partners....",
-          "link": "https://yourstory.com/2026/05/red-balloon-aerospace-launches-stratospheric-pressure-balloon",
-          "source": "YourStory"
-        },
-        {
           "title": "Bharat Innovates 2026: From a Bengaluru Lab to Nice. Meet the Startup Bringing AI-Powered Diagnostics to Underserved India",
           "summary": "India has fewer than one radiologist for every 100,000 people, and a Bengaluru startup founded by an NIT–IISc duo is closing that gap one scan at a time. 5C Network is among the ve...",
           "link": "https://yourstory.com/2026/05/bharat-innovates-2026-ai-powered-diagnostics-to-underserved",
           "source": "YourStory"
         },
         {
-          "title": "PhysicsWallah Q4: Loss Declines 76% YoY To ₹69 Cr, Revenue Up 51%",
-          "summary": "Edtech major PhysicsWallah narrowed its consolidated net loss for the March quarter (Q4 FY26) by 76% to ₹69.1 Cr from&#8230;...",
-          "link": "https://inc42.com/buzz/physicswallah-q4-loss-declines-76-yoy-to-%e2%82%b969-cr-revenue-up-51/",
+          "title": "Red Balloon Aerospace launches stratospheric pressure balloon",
+          "summary": "Red Balloon Aerospace’s first high-altitude super pressure balloon carried payloads from seven national and international partners....",
+          "link": "https://yourstory.com/2026/05/red-balloon-aerospace-launches-stratospheric-pressure-balloon",
+          "source": "YourStory"
+        },
+        {
+          "title": "Investors On Separating Real Innovation From AI Hype",
+          "summary": "India’s native AI startups have attracted $1.8 Bn+ in funding since 2020. But 86% of funding is concentrated in applications&#8230;...",
+          "link": "https://inc42.com/buzz/investors-on-separating-real-innovation-from-ai-hype/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "How to lower your conveyor systems’ cost",
-          "summary": "Conveyor systems are the backbone of heavy industries, enabling the movement of materials and keeping operations running smoothly. Yet, beneath their reliability, lies a significan...",
-          "link": "https://www.designworldonline.com/how-to-lower-your-conveyor-systems-cost/",
+          "title": "New DIN rail receptacles add USB and GFCI options",
+          "summary": "AutomationDirect has added new Gladiator GR series DIN rail-mounted duplex receptacles for temporary power inside electrical enclosures. The new models include the GR-REC2 with two...",
+          "link": "https://www.designworldonline.com/new-din-rail-receptacles-add-usb-and-gfci-options/",
           "source": "Design World"
         },
         {
-          "title": "Some thoughts on digital integration of motion systems",
-          "summary": "In a recent conversation with colleagues, we touched on how manufacturing is undergoing a fundamental transformation with motion systems in these settings so core to integrated dig...",
-          "link": "https://www.designworldonline.com/some-thoughts-on-digital-integration-of-motion-systems/",
+          "title": "Ethical Engineering: AI and its use in military and intelligence applications",
+          "summary": "The latest topic for Design World’s Ethical Engineering Panel involves AI and its use in military and intelligence applications. Recently, news outlets reported that OpenAI would o...",
+          "link": "https://www.designworldonline.com/ethical-engineering-ai-and-its-use-in-military-and-intelligence-applications/",
           "source": "Design World"
         }
       ]
@@ -235,7 +235,7 @@
           "thumbnail": "https://i2.ytimg.com/vi/9GSDvO0LFFE/hqdefault.jpg"
         },
         {
-          "title": "Google DeepMind CEO Likes Hard Questions",
+          "title": "Google DeepMind CEO Loves Hard Questions 🙂",
           "summary": "Full video: https://youtu.be/huAwz_BR8WM\n#shorts...",
           "link": "https://www.youtube.com/shorts/kIvvzCR5NjA",
           "source": "Two Minute Papers (AI)",
