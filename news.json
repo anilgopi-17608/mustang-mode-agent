@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, May 28, 2026 at 08:20 PM IST",
-  "last_updated_iso": "2026-05-28T20:20:56.472782",
+  "last_updated": "Friday, May 29, 2026 at 06:05 PM IST",
+  "last_updated_iso": "2026-05-29T18:05:59.413479",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23907.15,
-        "change": -6.549999999999272,
-        "change_pct": -0.027390157106592757,
+        "price": 23547.75,
+        "change": -359.40000000000146,
+        "change_pct": -1.5033159535954785,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 75867.8,
-        "change": -141.89999999999418,
-        "change_pct": -0.18668669919759476,
+        "price": 74775.74,
+        "change": -1092.0599999999977,
+        "change_pct": -1.439424894355705,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 54853.85,
-        "change": -239.0500000000029,
-        "change_pct": -0.43390346124455764,
+        "price": 54239.2,
+        "change": -614.6500000000015,
+        "change_pct": -1.1205229897263391,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Maruti",
-        "price": 13395.0,
-        "change": 187.0,
-        "change_pct": 1.4158086008479709,
-        "is_up": true
-      },
-      {
-        "name": "TCS",
-        "price": 2289.9,
-        "change": 13.700000000000273,
-        "change_pct": 0.6018803268605691,
+        "name": "Wipro",
+        "price": 204.25,
+        "change": 2.6699999999999875,
+        "change_pct": 1.324536164302008,
         "is_up": true
       },
       {
         "name": "L&T",
-        "price": 4050.0,
-        "change": 12.199999999999818,
-        "change_pct": 0.30214473227994987,
+        "price": 4076.5,
+        "change": 29.0,
+        "change_pct": 0.7164916615194565,
+        "is_up": true
+      },
+      {
+        "name": "Infosys",
+        "price": 1160.9,
+        "change": 1.0,
+        "change_pct": 0.08621432882145012,
         "is_up": true
       }
     ],
     "losers": [
       {
+        "name": "Sun Pharma",
+        "price": 1799.2,
+        "change": -45.09999999999991,
+        "change_pct": -2.445372227945557,
+        "is_up": false
+      },
+      {
+        "name": "Reliance",
+        "price": 1321.2,
+        "change": -29.299999999999955,
+        "change_pct": -2.1695668271010704,
+        "is_up": false
+      },
+      {
         "name": "HDFC Bank",
-        "price": 759.15,
-        "change": -19.75,
-        "change_pct": -2.535627166516883,
-        "is_up": false
-      },
-      {
-        "name": "Wipro",
-        "price": 201.7,
-        "change": -2.030000000000001,
-        "change_pct": -0.9964168261915285,
-        "is_up": false
-      },
-      {
-        "name": "ICICI Bank",
-        "price": 1272.5,
-        "change": -6.599999999999909,
-        "change_pct": -0.5159878039246274,
+        "price": 744.55,
+        "change": -14.100000000000023,
+        "change_pct": -1.8585645554603605,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.68,
-        "change": -0.009999999999990905,
-        "change_pct": -0.010450412791295752,
+        "price": 95.0,
+        "change": -0.6760000000000019,
+        "change_pct": -0.7065512772273108,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4496.1,
-        "change": 14.600000000000364,
-        "change_pct": 0.3257837777529926,
+        "price": 4552.3,
+        "change": 19.900000000000546,
+        "change_pct": 0.4390609831436004,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-          "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app....",
-          "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+          "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+          "summary": "South Korean chip startup Xcena is betting that AI's real bottleneck is not compute, but memory....",
+          "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
           "source": "TechCrunch"
         },
         {
-          "title": "Rivian under investigation over rear suspension failures on R1 models",
-          "summary": "At least two owners have lost control of their vehicles after a critical suspension component broke. In both cases, the vehicles had been previously serviced....",
-          "link": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
+          "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
+          "summary": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX....",
+          "link": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
           "source": "TechCrunch"
         },
         {
-          "title": "These new iOS 27 renders hint at Siri’s big redesign",
+          "title": "Trump Mobile’s website still says the T1 Phone is ‘American-made’",
           "summary": "",
-          "link": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+          "link": "https://www.theverge.com/tech/939108/trump-mobile-t1-phone-website-american-made",
           "source": "The Verge"
         },
         {
-          "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+          "title": "Jony Ive’s funky Ferrari",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+          "link": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
           "source": "The Verge"
         },
         {
-          "title": "Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial",
-          "summary": "The interim Phase I trial data was only from 35 people, but results look good so far....",
-          "link": "https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/",
+          "title": "These researchers would be in Africa fighting ebola—but Trump cut their funding",
+          "summary": "US Infectious diseases centers launched during COVID have lost their funding under Trump....",
+          "link": "https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Apex Service sells minority stake to Apollo at $10 billion valuation, source says",
-          "summary": "In a ‌statement on Thursday, Apex said it will use ​the funds to ​continue to expand its national footprint, deepen its multi-trade service ⁠offerings and advance its technology an...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apex-service-sells-minority-stake-to-apollo-at-10-billion-valuation-source-says/articleshow/131372103.cms",
+          "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US stocks future steady as investors await Mideast deal updates; Dell soars",
+          "summary": "",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-ceasefire-brent-oil-hormuz-inflation-fed-rate-outlook-dell-hpe-smci-netapp-okta-gap-ai-rally-tech-earnings-ai-chip-stocks-news/liveblog/131390427.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Fed's Williams: Productivity shifts hard to spot in real time",
-          "summary": "Williams did not comment on the near-term monetary ​policy and economic ​outlook in ⁠his prepared remarks....",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-williams-productivity-shifts-hard-to-spot-in-real-time/articleshow/131372047.cms",
+          "title": "As Jio IPO timeline nears, Ambani weighs on broadening stakeholder participation",
+          "summary": "Ambani, in RIL's annual report published on Thursday, said the company is taking deliberate steps to strengthen Jio's institutional framework, enhance transparency and prepare it f...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/as-jio-ipo-timeline-nears-ambani-weighs-on-broadening-stakeholder-participation/articleshow/131389289.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Reliance’s luxury retail arm narrows losses, designer labels lag",
-          "summary": "Reliance Brands, Reliance Retail’s flagship premium and luxury fashion business, reported FY26 revenue of ₹3,494 crore, up 44.6% from a year earlier, while losses narrowed to ₹137 ...",
-          "link": "https://www.livemint.com/companies/news/reliance-retail-reliance-industries-luxury-retail-arm-designer-labels-india-11779970955625.html",
+          "title": "AvenuesAI plans minority investment in scaled new-age NBFC Ratnaafin Capital to drive AI-led embedded lending",
+          "summary": "AvenuesAI Limited is planning a minority investment of up to 2.5% in Ratnaafin Capital, a scaled new-age NBFC as part of its strategy to build an AI-led embedded finance. Details h...",
+          "link": "https://www.livemint.com/companies/news/avenuesai-plans-minority-investment-in-scaled-new-age-nbfc-ratnaafin-capital-to-drive-ai-led-embedded-lending-11780056046369.html",
           "source": "Livemint Companies"
         }
       ]
@@ -165,21 +165,21 @@
       "color": "#16a34a",
       "items": [
         {
-          "title": "Hamilton Medical selects PTC Codebeamer ALM",
-          "summary": "NEWS RELEASE: PTC Codebeamer replaces legacy system at Hamilton Medical Collaboration agreement formed to advance market-specific ALM-PLM solutions Codebeamer ALM solution selected...",
-          "link": "https://www.medicaldesignandoutsourcing.com/hamilton-medical-selects-ptc-codebeamer-alm/",
+          "title": "LEMO launches REDEL P disposable connectors for medical use",
+          "summary": "NEWS RELEASE: LEMO launches REDEL P disposable plastic series engineered for high-volume medical applications LEMO introduces the REDEL P Disposable Plastic Connectors, engineered ...",
+          "link": "https://www.medicaldesignandoutsourcing.com/lemo-launches-redel-p-disposable-connectors-for-medical-use/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "What’s next for cervical spine tech and startup Synergy Spine Solutions",
-          "summary": "Synergy Spine Solutions designed its Synergy Disc cervical implant like a ball and socket hip joint to improve alignment while preserving range of motion for patients with degenera...",
-          "link": "https://www.medicaldesignandoutsourcing.com/synergy-spine-cervical-disc-ceo-josh-butters-advice/",
+          "title": "MTD Micro Molding appoints Chad Nikel as CEO",
+          "summary": "NEWS RELEASE: MTD Micro Molding appoints Chad Nikel as chief executive officer Former MedTech CDMO CEO and Haemonetics executive brings specialized medical device CDMO leadership t...",
+          "link": "https://www.medicaldesignandoutsourcing.com/mtd-micro-molding-appoints-chad-nikel-as-ceo/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Abbott obtains CE mark for duo of glucose-ketone monitors",
-          "summary": "Abbott has secured a CE mark for two of its glucose-ketone sensing systems for diabetic patients. The post Abbott obtains CE mark for duo of glucose-ketone monitors appeared first ...",
-          "link": "https://www.medicaldevice-network.com/news/abbott-libre-duo-ce-mark-continuous-glucose-ketone-sensor/",
+          "title": "The 2026 MedTech Forum: innovation and regulation lead the agenda",
+          "summary": "Participants at the MedTech Forum in Sweden focused on the EMA’s newly launched innovative device pilot and the EU’s IVDR regulation. The post The 2026 MedTech Forum: innovation an...",
+          "link": "https://www.medicaldevice-network.com/features/the-2026-medtech-forum-innovation-and-regulation-lead-the-agenda/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Bharat Innovates 2026: From a Bengaluru Lab to Nice. Meet the Startup Bringing AI-Powered Diagnostics to Underserved India",
-          "summary": "India has fewer than one radiologist for every 100,000 people, and a Bengaluru startup founded by an NIT–IISc duo is closing that gap one scan at a time. 5C Network is among the ve...",
-          "link": "https://yourstory.com/2026/05/bharat-innovates-2026-ai-powered-diagnostics-to-underserved",
+          "title": "IISc launches Wadhwani Innovation Centre in Bengaluru to boost quantum and deeptech ecosystem",
+          "summary": "IISc has launched the Wadhwani-IISc Innovation Centre and a new quantum startup accelerator to boost India’s deeptech innovation and research commercialisation ecosystem....",
+          "link": "https://yourstory.com/2026/05/iisc-wadhwani-innovation-centre-bengaluru-quantum-deeptech-ecosystem",
           "source": "YourStory"
         },
         {
-          "title": "Red Balloon Aerospace launches stratospheric pressure balloon",
-          "summary": "Red Balloon Aerospace’s first high-altitude super pressure balloon carried payloads from seven national and international partners....",
-          "link": "https://yourstory.com/2026/05/red-balloon-aerospace-launches-stratospheric-pressure-balloon",
+          "title": "Snabbit bets on quick salon-at-home services; Byju gets jail term",
+          "summary": "The quick home services startup is now betting on beauty as a high-frequency category. Industry experts believe this could unlock impulse-driven demand, but training, trust, and se...",
+          "link": "https://yourstory.com/2026/05/snabbit-salon-at-home-services-byju-gets-jail-term",
           "source": "YourStory"
         },
         {
-          "title": "Investors On Separating Real Innovation From AI Hype",
-          "summary": "India’s native AI startups have attracted $1.8 Bn+ in funding since 2020. But 86% of funding is concentrated in applications&#8230;...",
-          "link": "https://inc42.com/buzz/investors-on-separating-real-innovation-from-ai-hype/",
+          "title": "Blinkit Commands 50% Of Indian Quick Commerce Market: Deepinder Goyal",
+          "summary": "Former Eternal CEO Deepinder Goyal said Blinkit holds a dominant position in India’s quick commerce market, accounting for nearly a&#8230;...",
+          "link": "https://inc42.com/buzz/blinkit-commands-50-of-indian-quick-commerce-market-deepinder-goyal/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "New DIN rail receptacles add USB and GFCI options",
-          "summary": "AutomationDirect has added new Gladiator GR series DIN rail-mounted duplex receptacles for temporary power inside electrical enclosures. The new models include the GR-REC2 with two...",
-          "link": "https://www.designworldonline.com/new-din-rail-receptacles-add-usb-and-gfci-options/",
+          "title": "DigiKey receives 29 supplier awards at 2026 EDS Summit",
+          "summary": "DigiKey has announced that it received 29 awards from its supplier partners during the 2026 EDS Leadership Summit, held May 18–22 in Las Vegas. The awards recognized DigiKey’s perf...",
+          "link": "https://www.designworldonline.com/digikey-receives-29-supplier-awards-at-2026-eds-summit/",
           "source": "Design World"
         },
         {
-          "title": "Ethical Engineering: AI and its use in military and intelligence applications",
-          "summary": "The latest topic for Design World’s Ethical Engineering Panel involves AI and its use in military and intelligence applications. Recently, news outlets reported that OpenAI would o...",
-          "link": "https://www.designworldonline.com/ethical-engineering-ai-and-its-use-in-military-and-intelligence-applications/",
+          "title": "Carlo Gavazzi expands EM600 with Wi-Fi analyzers",
+          "summary": "Carlo Gavazzi has introduced the EM630 W and EM640 W, Wi-Fi-enabled versions of the EM600 Series of three-phase energy analyzers. Based on the EM600 B (Ethernet) range, the EM600 W...",
+          "link": "https://www.designworldonline.com/carlo-gavazzi-expands-em600-with-wi-fi-analyzers/",
           "source": "Design World"
         }
       ]
@@ -228,11 +228,11 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "The Truth About the \"Whoop Killer\"",
-          "summary": "Is the Fitbit Air the true Whoop 5.0 killer?\n\nMKBHD Merch: http://shop.MKBHD.com\n\nAffiliate Links\nFitbit Air: https://geni.us/W24DGJY \nWhoop: https://geni.us/0vkguAL\n\nPlaylist of M...",
-          "link": "https://www.youtube.com/watch?v=9GSDvO0LFFE",
+          "title": "The Hidden Tech Behind an NBA Broadcast!",
+          "summary": "Every camera, microphone and piece of gear behind an NBA NBC playoff broadcast in 2026\n\nThat shirt: http://shop.MKBHD.com\n\nDallas Taylor on all of the microphones: https://youtu.be...",
+          "link": "https://www.youtube.com/watch?v=mk_wdHePbtQ",
           "source": "MKBHD",
-          "thumbnail": "https://i2.ytimg.com/vi/9GSDvO0LFFE/hqdefault.jpg"
+          "thumbnail": "https://i2.ytimg.com/vi/mk_wdHePbtQ/hqdefault.jpg"
         },
         {
           "title": "Google DeepMind CEO Loves Hard Questions 🙂",
