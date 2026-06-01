@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, May 31, 2026 at 03:33 PM IST",
-  "last_updated_iso": "2026-05-31T15:33:54.000172",
+  "last_updated": "Tuesday, June 02, 2026 at 01:28 AM IST",
+  "last_updated_iso": "2026-06-02T01:28:50.294587",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23547.75,
-        "change": -359.40000000000146,
-        "change_pct": -1.5033159535954785,
+        "price": 23382.6,
+        "change": -165.15000000000146,
+        "change_pct": -0.7013408924419593,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 74775.74,
-        "change": -1092.0599999999977,
-        "change_pct": -1.439424894355705,
+        "price": 74267.34,
+        "change": -508.40000000000873,
+        "change_pct": -0.6798996572952788,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 54239.2,
-        "change": -614.6500000000015,
-        "change_pct": -1.1205229897263391,
+        "price": 53643.1,
+        "change": -596.0999999999985,
+        "change_pct": -1.0990206345226305,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Wipro",
-        "price": 204.25,
-        "change": 2.6699999999999875,
-        "change_pct": 1.324536164302008,
-        "is_up": true
-      },
-      {
-        "name": "L&T",
-        "price": 4076.5,
-        "change": 29.0,
-        "change_pct": 0.7164916615194565,
-        "is_up": true
-      },
-      {
         "name": "Infosys",
-        "price": 1160.9,
-        "change": 1.0,
-        "change_pct": 0.08621432882145012,
+        "price": 1202.5,
+        "change": 41.59999999999991,
+        "change_pct": 3.583426651735714,
+        "is_up": true
+      },
+      {
+        "name": "TCS",
+        "price": 2297.4,
+        "change": 38.5,
+        "change_pct": 1.7043693833281686,
+        "is_up": true
+      },
+      {
+        "name": "Wipro",
+        "price": 206.41,
+        "change": 2.1599999999999966,
+        "change_pct": 1.0575275397796802,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Sun Pharma",
-        "price": 1799.2,
-        "change": -45.09999999999991,
-        "change_pct": -2.445372227945557,
+        "name": "L&T",
+        "price": 4010.8,
+        "change": -65.69999999999982,
+        "change_pct": -1.6116766834294078,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1321.2,
-        "change": -29.299999999999955,
-        "change_pct": -2.1695668271010704,
+        "name": "Maruti",
+        "price": 12946.0,
+        "change": -181.0,
+        "change_pct": -1.3788375104745942,
         "is_up": false
       },
       {
-        "name": "HDFC Bank",
-        "price": 744.55,
-        "change": -14.100000000000023,
-        "change_pct": -1.8585645554603605,
+        "name": "ICICI Bank",
+        "price": 1239.7,
+        "change": -16.700000000000045,
+        "change_pct": -1.3291945240369343,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.99,
-        "change": -0.686000000000007,
-        "change_pct": -0.7170032191981344,
+        "price": 94.98,
+        "change": -0.009999999999990905,
+        "change_pct": -0.010527423939352463,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4593.0,
-        "change": 60.600000000000364,
-        "change_pct": 1.337039978819177,
-        "is_up": true
+        "price": 4513.7,
+        "change": -79.30000000000018,
+        "change_pct": -1.7265403875462701,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-          "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity....",
-          "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+          "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+          "summary": "Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts....",
+          "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
           "source": "TechCrunch"
         },
         {
-          "title": "This weekend’s two biggest movies were both directed by YouTubers",
-          "summary": "The YouTube-to-prestige-horror pipeline is looking very strong....",
-          "link": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+          "title": "Water access is now a risk factor in SpaceX’s IPO",
+          "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge....",
+          "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
           "source": "TechCrunch"
         },
         {
-          "title": "Backrooms is a certified blockbuster with a $38 million opening day",
+          "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening",
+          "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
           "source": "The Verge"
         },
         {
-          "title": "Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves",
+          "title": "Casey Neistat’s guide to posting every day",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves",
+          "link": "https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast",
           "source": "The Verge"
         },
         {
-          "title": "Grifters, cynics, and true believers: The family tree of vaccine opponents",
-          "summary": "A new book looks into the long history of people who have opposed vaccines....",
-          "link": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
+          "title": "Doctors blast Trump for doubling down on vaccine policy modeled after Denmark",
+          "summary": "Even Danish researchers think it's bizarre....",
+          "link": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
           "source": "Ars Technica"
         }
       ]
@@ -130,27 +130,27 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
-          "summary": "Indian equity markets ended sharply lower on May 29 amid broad-based selling, MSCI-driven flows and rising volatility. Technical indicators suggest a bearish bias with key support ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/131421251.cms",
+          "title": "SpaceX reserves up to 5% of IPO stock for staff and friends",
+          "summary": "SpaceX has reserved up to 5% of its upcoming IPO shares for employees and friends of executives, with strict lock-in rules covering most stock including Elon Musk’s holdings. The f...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-reserves-up-to-5-of-ipo-stock-for-staff-and-friends/articleshow/131447453.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Market Trading Guide: YES Bank among two stock picks for Monday with up to 10% upside scope",
-          "summary": "Equity markets saw broad-based selling pressure after weak monsoon forecasts raised concerns over food inflation, though falling crude oil prices and easing bond yields helped limi...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-yes-bank-among-two-stock-picks-for-monday-with-up-to-10-upside-scope/articleshow/131421232.cms",
+          "title": "AI giant Anthropic confidentially files for US IPO",
+          "summary": "Anthropic has confidentially filed for a US IPO, marking a major step in the AI sector’s expansion on Wall Street. The move highlights strong investor interest in artificial intell...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-giant-anthropic-confidentially-files-for-us-ipo/articleshow/131446257.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Lloyds turns to copper to cut iron ore reliance, targets $1.3 billion business over 5 years",
-          "summary": "The miner's Congo copper assets and Papua New Guinea ambitions are central to a strategy aimed at reducing reliance on a single commodity and geography, with the business expected ...",
-          "link": "https://www.livemint.com/companies/news/lloyds-turns-to-copper-to-cut-iron-ore-reliance-targets-1-3-billion-business-over-5-years-11779906019268.html",
+          "title": "For Goldman’s Top Bankers, It’s All AI Data Centers All the Time",
+          "summary": "For leveraged finance practitioners, artificial intelligence is the only game in town — especially in the absence of more debt deals to finance mergers and acquisitions....",
+          "link": "https://www.livemint.com/companies/for-goldman-s-top-bankers-it-s-all-ai-data-centers-all-the-time-11780340852398.html",
           "source": "Livemint Companies"
         },
         {
-          "title": "SpaceX, OpenAI fundraising sparks investor hunt for Asia’s next AI winners beyond chipmaking giants",
-          "summary": "Fresh fundraising and potential IPOs by OpenAI, SpaceX and Anthropic are driving investors to seek new AI opportunities across Asia. Bloomberg reported that firms involved in compo...",
-          "link": "https://www.livemint.com/companies/news/spacex-openai-fundraising-sparks-investor-hunt-for-asia-s-next-ai-winners-beyond-chipmaking-giants-11780199679564.html",
+          "title": "Govt to sell up to 6 pc in NHPC; OFS opens on Tuesday",
+          "summary": "The government plans to sell up to 6% stake in NHPC at ₹71 per share starting Tuesday. The offer includes a 3% base and an additional 3% Green Shoe Option. This sale could generate...",
+          "link": "https://www.livemint.com/companies/news/govt-to-sell-up-to-6-pc-in-nhpc-ofs-opens-on-tuesday-11780335457307.html",
           "source": "Livemint Companies"
         }
       ]
@@ -171,9 +171,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "When SSRIs fail: the neuromodulation pathway",
-          "summary": "Device-based neuromodulation therapies may offer a viable alternative for patients with depression who do not achieve adequate response to SSRIs. The post When SSRIs fail: the neur...",
-          "link": "https://www.medicaldevice-network.com/features/when-ssris-fail-the-neuromodulation-pathway/",
+          "title": "Veritas Aortic Solutions raises $12m for aortic disease treatment advance",
+          "summary": "Veritas’ technology is being developed to eliminate the need for open heart surgery to address acute pathologies of the aortic root and ascending aorta. The post Veritas Aortic Sol...",
+          "link": "https://www.medicaldevice-network.com/news/veritas-aortic-solutions-raises-12m-for-aortic-disease-treatment-advance/",
           "source": "Medical Device Network"
         }
       ]
@@ -182,21 +182,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "India’s mid-market firms lead in AI adoption but face rising complexity costs: Freshworks Report",
-          "summary": "The report estimates that Indian AI firms are losing Rs 33,000 crore in wasted AI spending annually....",
-          "link": "https://yourstory.com/2026/05/indias-mid-market-firms-lead-ai-adoption-face-rising-complexity-costs-freshworks-report",
+          "title": "Why VGU’s student founders are building from Rajasthan, not leaving it",
+          "summary": "From agritech and service innovation to heritage-led consumer brands, VGU’s student founders are building startups rooted in Rajasthan’s realities and designed for larger markets....",
+          "link": "https://yourstory.com/2026/06/vgus-student-founders-building-from-rajasthan",
           "source": "YourStory"
         },
         {
-          "title": "IISc launches Wadhwani Innovation Centre in Bengaluru to boost quantum and deeptech ecosystem",
-          "summary": "IISc has launched the Wadhwani-IISc Innovation Centre and a new quantum startup accelerator to boost India’s deeptech innovation and research commercialisation ecosystem....",
-          "link": "https://yourstory.com/2026/05/iisc-wadhwani-innovation-centre-bengaluru-quantum-deeptech-ecosystem",
+          "title": "Memory and medium: how Satish Gujral’s art showcases Indian modernism",
+          "summary": "In this photo essay, we feature highlights from an art exhibition at Bikaner House, curated by Raseel Gujral Ansal....",
+          "link": "https://yourstory.com/2026/05/satish-gujral-art-exhibition-creativity-photography",
           "source": "YourStory"
         },
         {
-          "title": "Real Money Gaming’s GST Soup: Beating A Dead Horse",
-          "summary": "Death by a thousand cuts. That’s perhaps the most fitting way to describe the state of India&#8217;s real-money gaming (RMG)&#8230;...",
-          "link": "https://inc42.com/features/real-money-gamings-gst-soup-beating-a-dead-horse/",
+          "title": "Ola Electric Opens QIP, Sets Floor Price Of ₹37.74 Floor Price",
+          "summary": "Ola Electric has launched its qualified institutional placement (QIP) to bolster its position in the E2W market. The company has&#8230;...",
+          "link": "https://inc42.com/buzz/ola-electric-opens-qip-sets-floor-price-of-%e2%82%b937-74-floor-price/",
           "source": "Inc42"
         }
       ]
@@ -205,15 +205,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "SMA edge-mount connector supports signals through 26.5 GHz",
-          "summary": "The 26.5 GHz SMA edge-mount board connector from Samtec is a 50 Ohm RF board connector that terminates directly to the PCB edge, providing a compact launch intended to reduce disco...",
-          "link": "https://www.designworldonline.com/sma-edge-mount-connector-supports-signals-through-26-5-ghz/",
+          "title": "Video: From plastic waste to high-performance building materials",
+          "summary": "In this interview, Design World Managing Editor Mike Santora sits down with Supersede CEO and co-founder Sean Petterson to explore the company’s mission and the thinking behind its...",
+          "link": "https://www.designworldonline.com/video-from-plastic-waste-to-high-performance-building-materials/",
           "source": "Design World"
         },
         {
-          "title": "How sensing technologies improve EV connector and contactor safety",
-          "summary": "Electric vehicle (EV) connectors, contactors, and charging interfaces operate under continuous electrical stress, mechanical loading, and elevated temperatures. With battery voltag...",
-          "link": "https://www.designworldonline.com/how-sensing-technologies-improve-ev-connector-and-contactor-safety/",
+          "title": "Travel for Engineers, Episode 5: Navigation on a modern cruise ship",
+          "summary": "So much goes into navigating a modern cruise shift safely and comfortably for its passengers — and the amount of engineering thought (and equipment) that goes into this goal is tru...",
+          "link": "https://www.designworldonline.com/travel-for-engineers-episode-5-navigation-on-a-modern-cruise-ship/",
           "source": "Design World"
         }
       ]
@@ -229,11 +229,11 @@
           "thumbnail": "https://i2.ytimg.com/vi/ImRy_PiXstI/hqdefault.jpg"
         },
         {
-          "title": "Google DeepMind CEO Loves Hard Questions 🙂",
-          "summary": "Full video: https://youtu.be/huAwz_BR8WM\n#shorts...",
-          "link": "https://www.youtube.com/shorts/kIvvzCR5NjA",
+          "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
+          "summary": "Thank you to Google for the invite! 🙏\n\n❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n🙏 We would like to thank our generous Patreon supporters ...",
+          "link": "https://www.youtube.com/watch?v=yz6I23VRbdg",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i4.ytimg.com/vi/kIvvzCR5NjA/hqdefault.jpg"
+          "thumbnail": "https://i2.ytimg.com/vi/yz6I23VRbdg/hqdefault.jpg"
         }
       ]
     }
