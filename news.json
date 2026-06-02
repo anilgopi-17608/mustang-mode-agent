@@ -1,92 +1,92 @@
 {
-  "last_updated": "Tuesday, June 02, 2026 at 01:28 AM IST",
-  "last_updated_iso": "2026-06-02T01:28:50.294587",
+  "last_updated": "Tuesday, June 02, 2026 at 11:25 PM IST",
+  "last_updated_iso": "2026-06-02T23:25:00.196519",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23382.6,
-        "change": -165.15000000000146,
-        "change_pct": -0.7013408924419593,
-        "is_up": false
+        "price": 23483.55,
+        "change": 100.95000000000073,
+        "change_pct": 0.43173128736753286,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 74267.34,
-        "change": -508.40000000000873,
-        "change_pct": -0.6798996572952788,
-        "is_up": false
+        "price": 74649.84,
+        "change": 382.5,
+        "change_pct": 0.5150312371494656,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 53643.1,
-        "change": -596.0999999999985,
-        "change_pct": -1.0990206345226305,
-        "is_up": false
+        "price": 53714.65,
+        "change": 71.55000000000291,
+        "change_pct": 0.1333815532659427,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Infosys",
-        "price": 1202.5,
-        "change": 41.59999999999991,
-        "change_pct": 3.583426651735714,
+        "name": "TCS",
+        "price": 2446.9,
+        "change": 149.5,
+        "change_pct": 6.507356141725429,
         "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2297.4,
-        "change": 38.5,
-        "change_pct": 1.7043693833281686,
+        "name": "Infosys",
+        "price": 1270.8,
+        "change": 68.29999999999995,
+        "change_pct": 5.679833679833676,
         "is_up": true
       },
       {
         "name": "Wipro",
-        "price": 206.41,
-        "change": 2.1599999999999966,
-        "change_pct": 1.0575275397796802,
+        "price": 209.84,
+        "change": 3.430000000000007,
+        "change_pct": 1.661741194709562,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "L&T",
-        "price": 4010.8,
-        "change": -65.69999999999982,
-        "change_pct": -1.6116766834294078,
-        "is_up": false
-      },
-      {
-        "name": "Maruti",
-        "price": 12946.0,
-        "change": -181.0,
-        "change_pct": -1.3788375104745942,
-        "is_up": false
-      },
-      {
         "name": "ICICI Bank",
-        "price": 1239.7,
-        "change": -16.700000000000045,
-        "change_pct": -1.3291945240369343,
+        "price": 1226.6,
+        "change": -13.100000000000136,
+        "change_pct": -1.056707267887403,
+        "is_up": false
+      },
+      {
+        "name": "Reliance",
+        "price": 1314.6,
+        "change": -5.400000000000091,
+        "change_pct": -0.409090909090916,
+        "is_up": false
+      },
+      {
+        "name": "Sun Pharma",
+        "price": 1789.9,
+        "change": -6.599999999999909,
+        "change_pct": -0.36738101864736483,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.98,
-        "change": -0.009999999999990905,
-        "change_pct": -0.010527423939352463,
-        "is_up": false
+        "price": 95.255,
+        "change": 0.2749999999999915,
+        "change_pct": 0.28953463887133235,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4513.7,
-        "change": -79.30000000000018,
-        "change_pct": -1.7265403875462701,
-        "is_up": false
+        "price": 4514.1,
+        "change": 7.800000000000182,
+        "change_pct": 0.1730910059250423,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
-          "summary": "Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts....",
-          "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+          "title": "Amazon faces class action lawsuit over Ring facial recognition feature",
+          "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent....",
+          "link": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
           "source": "TechCrunch"
         },
         {
-          "title": "Water access is now a risk factor in SpaceX’s IPO",
-          "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge....",
-          "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+          "title": "Focused Energy raises whopping $240M Series A for laser-powered fusion tech",
+          "summary": "Another fusion startup has raised another a massive round to make this type of power a reality....",
+          "link": "https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+          "title": "I tested a bunch of Switch 2 screen protectors, and these are the best",
           "summary": "",
-          "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+          "link": "https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte",
           "source": "The Verge"
         },
         {
-          "title": "Casey Neistat’s guide to posting every day",
+          "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
           "summary": "",
-          "link": "https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast",
+          "link": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
           "source": "The Verge"
         },
         {
-          "title": "Doctors blast Trump for doubling down on vaccine policy modeled after Denmark",
-          "summary": "Even Danish researchers think it's bizarre....",
-          "link": "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
+          "title": "Blue Origin has set a very aggressive return-to-flight timeline",
+          "summary": "\"The propellant farm, oxygen, liquid hydrogen, and LNG tanks are all in good shape.\"...",
+          "link": "https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/",
           "source": "Ars Technica"
         }
       ]
@@ -130,27 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "SpaceX reserves up to 5% of IPO stock for staff and friends",
-          "summary": "SpaceX has reserved up to 5% of its upcoming IPO shares for employees and friends of executives, with strict lock-in rules covering most stock including Elon Musk’s holdings. The f...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-reserves-up-to-5-of-ipo-stock-for-staff-and-friends/articleshow/131447453.cms",
+          "title": "Alkem Labs sees Rs 930 crore block deal as promoter family entities pare stake; Goldman, Morgan Stanley among key buyers",
+          "summary": "Alkem Laboratories shares experienced significant block deals totaling Rs 930 crore. Promoter family entities divested shares to a group of domestic mutual funds and foreign instit...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/alkem-laboratories-promoters-sell-1-5-stake-for-rs-930-crore/articleshow/131467327.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "AI giant Anthropic confidentially files for US IPO",
-          "summary": "Anthropic has confidentially filed for a US IPO, marking a major step in the AI sector’s expansion on Wall Street. The move highlights strong investor interest in artificial intell...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-giant-anthropic-confidentially-files-for-us-ipo/articleshow/131446257.cms",
+          "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+          "summary": "Indian benchmark indices ended higher after a volatile session, with late buying in heavyweight IT stocks lifting sentiment. Sensex gained 382 points and Nifty closed above 23,480,...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131466696.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "For Goldman’s Top Bankers, It’s All AI Data Centers All the Time",
-          "summary": "For leveraged finance practitioners, artificial intelligence is the only game in town — especially in the absence of more debt deals to finance mergers and acquisitions....",
-          "link": "https://www.livemint.com/companies/for-goldman-s-top-bankers-it-s-all-ai-data-centers-all-the-time-11780340852398.html",
-          "source": "Livemint Companies"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Govt to sell up to 6 pc in NHPC; OFS opens on Tuesday",
-          "summary": "The government plans to sell up to 6% stake in NHPC at ₹71 per share starting Tuesday. The offer includes a 3% base and an additional 3% Green Shoe Option. This sale could generate...",
-          "link": "https://www.livemint.com/companies/news/govt-to-sell-up-to-6-pc-in-nhpc-ofs-opens-on-tuesday-11780335457307.html",
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "IndiGo suspends Manchester flights, cites unfavourable costs and operational challenges",
+          "summary": "IndiGo will temporarily suspend flights to Manchester from 31 August 2026, citing high operational costs. However, it will continue other long-haul flights as scheduled....",
+          "link": "https://www.livemint.com/companies/news/indigo-suspends-manchester-flights-cites-unfavourable-cost-and-operational-environment-as-key-reasons-11780418869752.html",
           "source": "Livemint Companies"
         }
       ]
@@ -171,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Veritas Aortic Solutions raises $12m for aortic disease treatment advance",
-          "summary": "Veritas’ technology is being developed to eliminate the need for open heart surgery to address acute pathologies of the aortic root and ascending aorta. The post Veritas Aortic Sol...",
-          "link": "https://www.medicaldevice-network.com/news/veritas-aortic-solutions-raises-12m-for-aortic-disease-treatment-advance/",
+          "title": "Podcast: Assessing the EMA’s new innovative medical device pathway pilot",
+          "summary": "A key component of the EMA's innovative device pathway is to offer expert support to manufacturers of breakthrough medical devices. The post Podcast: Assessing the EMA&#8217;s new ...",
+          "link": "https://www.medicaldevice-network.com/features/podcast-assessing-the-ema-new-innovative-medical-device-pathway-pilot/",
           "source": "Medical Device Network"
         }
       ]
@@ -182,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Why VGU’s student founders are building from Rajasthan, not leaving it",
-          "summary": "From agritech and service innovation to heritage-led consumer brands, VGU’s student founders are building startups rooted in Rajasthan’s realities and designed for larger markets....",
-          "link": "https://yourstory.com/2026/06/vgus-student-founders-building-from-rajasthan",
+          "title": "The end of one-view appraisals: Making the case for 360-degree performance feedback",
+          "summary": "Organizations need to move beyond traditional top-down appraisals and adopt 360-degree performance feedback systems to build more self-aware, accountable and effective managers. Tr...",
+          "link": "https://yourstory.com/2026/05/end-one-view-appraisals-making-case-360-degree-performance-feedback",
           "source": "YourStory"
         },
         {
-          "title": "Memory and medium: how Satish Gujral’s art showcases Indian modernism",
-          "summary": "In this photo essay, we feature highlights from an art exhibition at Bikaner House, curated by Raseel Gujral Ansal....",
-          "link": "https://yourstory.com/2026/05/satish-gujral-art-exhibition-creativity-photography",
+          "title": "From a Koramangala 2BHK to Rs 100 Cr ARR: How 3 CAs built RegisterKaro",
+          "summary": "Started during the second wave of COVID-19, RegisterKaro has grown from a small WhatsApp-led operation into a 500-member legaltech platform incorporating more than 2,500 companies ...",
+          "link": "https://yourstory.com/2026/05/from-koramangala-2bhk-100-cr-arr-how-3-cas-built-registerkaro",
           "source": "YourStory"
         },
         {
-          "title": "Ola Electric Opens QIP, Sets Floor Price Of ₹37.74 Floor Price",
-          "summary": "Ola Electric has launched its qualified institutional placement (QIP) to bolster its position in the E2W market. The company has&#8230;...",
-          "link": "https://inc42.com/buzz/ola-electric-opens-qip-sets-floor-price-of-%e2%82%b937-74-floor-price/",
+          "title": "Exclusive: Sarvam AI To Open Voice AI Agents Platform For Public Use",
+          "summary": "Indian AI startup Sarvam AI is planning to open up access for its voice AI agents platform to the general&#8230;...",
+          "link": "https://inc42.com/buzz/exclusive-sarvam-ai-to-open-voice-ai-agents-platform-for-public-use/",
           "source": "Inc42"
         }
       ]
@@ -205,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Video: From plastic waste to high-performance building materials",
-          "summary": "In this interview, Design World Managing Editor Mike Santora sits down with Supersede CEO and co-founder Sean Petterson to explore the company’s mission and the thinking behind its...",
-          "link": "https://www.designworldonline.com/video-from-plastic-waste-to-high-performance-building-materials/",
+          "title": "Royal Opera House gets a new cable-management system",
+          "summary": "A recent upgrade to the Royal Opera House included customized plastic cable management to support modern LED lighting. Live theater performances depend on engineering, including th...",
+          "link": "https://www.designworldonline.com/royal-opera-house-gets-a-new-cable-management-system/",
           "source": "Design World"
         },
         {
-          "title": "Travel for Engineers, Episode 5: Navigation on a modern cruise ship",
-          "summary": "So much goes into navigating a modern cruise shift safely and comfortably for its passengers — and the amount of engineering thought (and equipment) that goes into this goal is tru...",
-          "link": "https://www.designworldonline.com/travel-for-engineers-episode-5-navigation-on-a-modern-cruise-ship/",
+          "title": "Thomson linear components help Elara Aerospace rocket launch",
+          "summary": "Regal Rexnord brand Thomson supplied Elara Aerospace with precision linear-motion technology for its liquid-fueled Methalox rocket. Elara Aerospace is an academically led initiativ...",
+          "link": "https://www.designworldonline.com/thomson-in-elara-aerospace-rocket-launch/",
           "source": "Design World"
         }
       ]
@@ -229,11 +235,11 @@
           "thumbnail": "https://i2.ytimg.com/vi/ImRy_PiXstI/hqdefault.jpg"
         },
         {
-          "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
-          "summary": "Thank you to Google for the invite! 🙏\n\n❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n🙏 We would like to thank our generous Patreon supporters ...",
-          "link": "https://www.youtube.com/watch?v=yz6I23VRbdg",
+          "title": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
+          "summary": "Check the pinned comment for the link to the full interview. We're discussing whether a \"second order Nobel\" prize is on the horizon for AI-driven science. With over 3 million rese...",
+          "link": "https://www.youtube.com/shorts/MOviZKtFeHM",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/yz6I23VRbdg/hqdefault.jpg"
+          "thumbnail": "https://i2.ytimg.com/vi/MOviZKtFeHM/hqdefault.jpg"
         }
       ]
     }
