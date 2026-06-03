@@ -1,92 +1,92 @@
 {
-  "last_updated": "Tuesday, June 02, 2026 at 11:25 PM IST",
-  "last_updated_iso": "2026-06-02T23:25:00.196519",
+  "last_updated": "Thursday, June 04, 2026 at 12:02 AM IST",
+  "last_updated_iso": "2026-06-04T00:02:00.974167",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23483.55,
-        "change": 100.95000000000073,
-        "change_pct": 0.43173128736753286,
-        "is_up": true
+        "price": 23405.6,
+        "change": -77.95000000000073,
+        "change_pct": -0.3319344817968354,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 74649.84,
-        "change": 382.5,
-        "change_pct": 0.5150312371494656,
-        "is_up": true
+        "price": 74346.17,
+        "change": -303.66999999999825,
+        "change_pct": -0.40679256646765527,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 53714.65,
-        "change": 71.55000000000291,
-        "change_pct": 0.1333815532659427,
+        "price": 54185.95,
+        "change": 471.29999999999563,
+        "change_pct": 0.8774142622170964,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "TCS",
-        "price": 2446.9,
-        "change": 149.5,
-        "change_pct": 6.507356141725429,
+        "name": "ICICI Bank",
+        "price": 1242.0,
+        "change": 15.400000000000091,
+        "change_pct": 1.2555030164682937,
         "is_up": true
       },
       {
-        "name": "Infosys",
-        "price": 1270.8,
-        "change": 68.29999999999995,
-        "change_pct": 5.679833679833676,
+        "name": "HDFC Bank",
+        "price": 753.65,
+        "change": 5.399999999999977,
+        "change_pct": 0.7216839291680557,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 209.84,
-        "change": 3.430000000000007,
-        "change_pct": 1.661741194709562,
+        "name": "Bharti Airtel",
+        "price": 1824.1,
+        "change": 9.899999999999864,
+        "change_pct": 0.5456950722081283,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "ICICI Bank",
-        "price": 1226.6,
-        "change": -13.100000000000136,
-        "change_pct": -1.056707267887403,
+        "name": "TCS",
+        "price": 2241.7,
+        "change": -205.20000000000027,
+        "change_pct": -8.386121214598074,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1314.6,
-        "change": -5.400000000000091,
-        "change_pct": -0.409090909090916,
+        "name": "Infosys",
+        "price": 1222.6,
+        "change": -48.200000000000045,
+        "change_pct": -3.792886370790057,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1789.9,
-        "change": -6.599999999999909,
-        "change_pct": -0.36738101864736483,
+        "name": "Wipro",
+        "price": 204.1,
+        "change": -5.740000000000009,
+        "change_pct": -2.735417460922612,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.255,
-        "change": 0.2749999999999915,
-        "change_pct": 0.28953463887133235,
+        "price": 95.695,
+        "change": 0.4399999999999977,
+        "change_pct": 0.461918009553302,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4514.1,
-        "change": 7.800000000000182,
-        "change_pct": 0.1730910059250423,
-        "is_up": true
+        "price": 4465.8,
+        "change": -54.099999999999454,
+        "change_pct": -1.196929135600333,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Amazon faces class action lawsuit over Ring facial recognition feature",
-          "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent....",
-          "link": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+          "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
+          "summary": "The breach at wearable ring maker Ultrahuman stemmed from credentials stolen from a malware-infected employee laptop....",
+          "link": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
           "source": "TechCrunch"
         },
         {
-          "title": "Focused Energy raises whopping $240M Series A for laser-powered fusion tech",
-          "summary": "Another fusion startup has raised another a massive round to make this type of power a reality....",
-          "link": "https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/",
+          "title": "Carvana ties up with Bezos-backed Slate Auto as it plans new car sales",
+          "summary": "Carvana was granted a warrant to buy shares in Slate last year, according to documents obtained by TechCrunch. Guggenheim Partners CEO Mark Walter is heavily invested in both compa...",
+          "link": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/",
           "source": "TechCrunch"
         },
         {
-          "title": "I tested a bunch of Switch 2 screen protectors, and these are the best",
+          "title": "The best Qi2 batteries for iPhone and Pixel",
           "summary": "",
-          "link": "https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte",
+          "link": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
           "source": "The Verge"
         },
         {
-          "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
+          "title": "As AI gets better, it reveals an empty promise",
           "summary": "",
-          "link": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
           "source": "The Verge"
         },
         {
-          "title": "Blue Origin has set a very aggressive return-to-flight timeline",
-          "summary": "\"The propellant farm, oxygen, liquid hydrogen, and LNG tanks are all in good shape.\"...",
-          "link": "https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/",
+          "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
+          "summary": "When they're being eaten, bean plants release chemicals that draw in parasitic wasps....",
+          "link": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
           "source": "Ars Technica"
         }
       ]
@@ -130,33 +130,27 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Alkem Labs sees Rs 930 crore block deal as promoter family entities pare stake; Goldman, Morgan Stanley among key buyers",
-          "summary": "Alkem Laboratories shares experienced significant block deals totaling Rs 930 crore. Promoter family entities divested shares to a group of domestic mutual funds and foreign instit...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/alkem-laboratories-promoters-sell-1-5-stake-for-rs-930-crore/articleshow/131467327.cms",
+          "title": "GQG Partners sells 1.8% stake in GMR Airports for Rs 1,906 crore; Fidelity buys holding",
+          "summary": "US investment firm GQG Partners has sold a 1.8 per cent stake in GMR Airports to Fidelity International. The deal, valued at Rs 1,906 crore, saw GQG Partners offload 19.50 crore sh...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gqg-partners-sells-1-8-stake-in-gmr-airports-for-rs-1906-crore-fidelity-buys-holding/articleshow/131488382.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-          "summary": "Indian benchmark indices ended higher after a volatile session, with late buying in heavyweight IT stocks lifting sentiment. Sensex gained 382 points and Nifty closed above 23,480,...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131466696.cms",
+          "title": "Market Trading Guide: Ather Energy among 2 stock recommendations for Thursday",
+          "summary": "Domestic markets rebounded from early losses despite rising Iran-US tensions, supported by strong gains in banking stocks. Analysts have recommended Ather Energy and J&amp;K Bank f...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ather-energy-among-2-stock-recommendations-for-thursday/articleshow/131487881.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
+          "title": "Bata India bets on improving inventory reduction through efficiency steps, omni-channel strategy",
+          "summary": "Bata India emphasizes inventory reduction through efficiency, with a 13% decrease in gross inventory in the latest quarter. The company's omni-channel strategy and product expansio...",
+          "link": "https://www.livemint.com/companies/news/bata-india-efficiency-steps-inventory-reduction-new-designs-online-sales-raw-material-costs-omni-channel-strategy-11780491583769.html",
+          "source": "Livemint Companies"
         },
         {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "IndiGo suspends Manchester flights, cites unfavourable costs and operational challenges",
-          "summary": "IndiGo will temporarily suspend flights to Manchester from 31 August 2026, citing high operational costs. However, it will continue other long-haul flights as scheduled....",
-          "link": "https://www.livemint.com/companies/news/indigo-suspends-manchester-flights-cites-unfavourable-cost-and-operational-environment-as-key-reasons-11780418869752.html",
+          "title": "Why FirstCry excelled at selling diapers but hasn’t quite cracked the pre-school code",
+          "summary": "Parents buy diapers online, but choose preschools offline. FirstCry thought its vast baby product experience and ecosystem would help it crack the adjacency of preschools. Six year...",
+          "link": "https://www.livemint.com/companies/whyfirstcrys1000preschoolambitionisstillaworkinprogress-11780492866656.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +171,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Podcast: Assessing the EMA’s new innovative medical device pathway pilot",
-          "summary": "A key component of the EMA's innovative device pathway is to offer expert support to manufacturers of breakthrough medical devices. The post Podcast: Assessing the EMA&#8217;s new ...",
-          "link": "https://www.medicaldevice-network.com/features/podcast-assessing-the-ema-new-innovative-medical-device-pathway-pilot/",
+          "title": "Medtronic reports strongest annual revenue growth in a decade",
+          "summary": "Medtronic said its growth was driven by ongoing strength in its core business lines and rising momentum within evolving areas. The post Medtronic reports strongest annual revenue g...",
+          "link": "https://www.medicaldevice-network.com/news/medtronic-reports-strongest-annual-revenue-growth-in-a-decade/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +182,21 @@
       "color": "#ff6b00",
       "items": [
         {
+          "title": "5 Books that feel like rainy evenings for slow and cozy evenings",
+          "summary": "Discover 5 cozy books that feel like rainy evenings, perfect for slow days, warm drinks, and comforting stories that stay with you....",
+          "link": "https://yourstory.com/2026/05/cozy-books-for-rainy-evenings",
+          "source": "YourStory"
+        },
+        {
           "title": "The end of one-view appraisals: Making the case for 360-degree performance feedback",
           "summary": "Organizations need to move beyond traditional top-down appraisals and adopt 360-degree performance feedback systems to build more self-aware, accountable and effective managers. Tr...",
           "link": "https://yourstory.com/2026/05/end-one-view-appraisals-making-case-360-degree-performance-feedback",
           "source": "YourStory"
         },
         {
-          "title": "From a Koramangala 2BHK to Rs 100 Cr ARR: How 3 CAs built RegisterKaro",
-          "summary": "Started during the second wave of COVID-19, RegisterKaro has grown from a small WhatsApp-led operation into a 500-member legaltech platform incorporating more than 2,500 companies ...",
-          "link": "https://yourstory.com/2026/05/from-koramangala-2bhk-100-cr-arr-how-3-cas-built-registerkaro",
-          "source": "YourStory"
-        },
-        {
-          "title": "Exclusive: Sarvam AI To Open Voice AI Agents Platform For Public Use",
-          "summary": "Indian AI startup Sarvam AI is planning to open up access for its voice AI agents platform to the general&#8230;...",
-          "link": "https://inc42.com/buzz/exclusive-sarvam-ai-to-open-voice-ai-agents-platform-for-public-use/",
+          "title": "ideaForge’s Board Greenlights Plans To Raise ₹500 Cr",
+          "summary": "Dronetech company ideaForge&#8217;s board has approved a proposal to raise up to ₹500 Cr in its meeting held today (June&#8230;...",
+          "link": "https://inc42.com/buzz/ideaforges-board-greenlights-plans-to-raise-%e2%82%b9500-cr/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +205,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Royal Opera House gets a new cable-management system",
-          "summary": "A recent upgrade to the Royal Opera House included customized plastic cable management to support modern LED lighting. Live theater performances depend on engineering, including th...",
-          "link": "https://www.designworldonline.com/royal-opera-house-gets-a-new-cable-management-system/",
+          "title": "Spectrum Controls receives Rockwell innovation award",
+          "summary": "Allient Inc. announced that Spectrum Controls, also known as Allient Bellevue, was named the 2026 Rockwell Automation PartnerNetwork Innovation Award winner during the 2026 Partner...",
+          "link": "https://www.designworldonline.com/spectrum-controls-receives-rockwell-innovation-award/",
           "source": "Design World"
         },
         {
-          "title": "Thomson linear components help Elara Aerospace rocket launch",
-          "summary": "Regal Rexnord brand Thomson supplied Elara Aerospace with precision linear-motion technology for its liquid-fueled Methalox rocket. Elara Aerospace is an academically led initiativ...",
-          "link": "https://www.designworldonline.com/thomson-in-elara-aerospace-rocket-launch/",
+          "title": "Altech adds 85-A hinge-type ring lug terminal block",
+          "summary": "Altech Corporation has added the STH5, an 85-A hinge-type ring lug terminal block designed for DIN rail mounting. In power distribution and other heavy-duty applications, vibration...",
+          "link": "https://www.designworldonline.com/altech-adds-85-a-hinge-type-ring-lug-terminal-block/",
           "source": "Design World"
         }
       ]
@@ -235,11 +229,11 @@
           "thumbnail": "https://i2.ytimg.com/vi/ImRy_PiXstI/hqdefault.jpg"
         },
         {
-          "title": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
-          "summary": "Check the pinned comment for the link to the full interview. We're discussing whether a \"second order Nobel\" prize is on the horizon for AI-driven science. With over 3 million rese...",
-          "link": "https://www.youtube.com/shorts/MOviZKtFeHM",
+          "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
+          "summary": "",
+          "link": "https://www.youtube.com/shorts/iz7elwbqZVI",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/MOviZKtFeHM/hqdefault.jpg"
+          "thumbnail": "https://i2.ytimg.com/vi/iz7elwbqZVI/hqdefault.jpg"
         }
       ]
     }
