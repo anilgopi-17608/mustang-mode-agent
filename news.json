@@ -1,92 +1,92 @@
 {
-  "last_updated": "Thursday, June 04, 2026 at 12:02 AM IST",
-  "last_updated_iso": "2026-06-04T00:02:00.974167",
+  "last_updated": "Thursday, June 04, 2026 at 06:03 PM IST",
+  "last_updated_iso": "2026-06-04T18:03:09.270197",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23405.6,
-        "change": -77.95000000000073,
-        "change_pct": -0.3319344817968354,
-        "is_up": false
+        "price": 23416.55,
+        "change": 10.950000000000728,
+        "change_pct": 0.046783675701544625,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 74346.17,
-        "change": -303.66999999999825,
-        "change_pct": -0.40679256646765527,
-        "is_up": false
+        "price": 74360.01,
+        "change": 13.839999999996508,
+        "change_pct": 0.01861561933855706,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 54185.95,
-        "change": 471.29999999999563,
-        "change_pct": 0.8774142622170964,
+        "price": 54307.85,
+        "change": 121.90000000000146,
+        "change_pct": 0.22496606592668664,
         "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "ICICI Bank",
-        "price": 1242.0,
-        "change": 15.400000000000091,
-        "change_pct": 1.2555030164682937,
+        "price": 1251.7,
+        "change": 9.700000000000045,
+        "change_pct": 0.7809983896940456,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 753.65,
-        "change": 5.399999999999977,
-        "change_pct": 0.7216839291680557,
+        "name": "Maruti",
+        "price": 13064.0,
+        "change": 20.0,
+        "change_pct": 0.1533272002453235,
         "is_up": true
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1824.1,
-        "change": 9.899999999999864,
-        "change_pct": 0.5456950722081283,
+        "name": "Wipro",
+        "price": 204.32,
+        "change": 0.21999999999999886,
+        "change_pct": 0.10779029887310086,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "TCS",
-        "price": 2241.7,
-        "change": -205.20000000000027,
-        "change_pct": -8.386121214598074,
-        "is_up": false
-      },
-      {
         "name": "Infosys",
-        "price": 1222.6,
-        "change": -48.200000000000045,
-        "change_pct": -3.792886370790057,
+        "price": 1201.3,
+        "change": -21.299999999999955,
+        "change_pct": -1.7421887780140648,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 204.1,
-        "change": -5.740000000000009,
-        "change_pct": -2.735417460922612,
+        "name": "Reliance",
+        "price": 1303.7,
+        "change": -9.5,
+        "change_pct": -0.7234236978373438,
+        "is_up": false
+      },
+      {
+        "name": "Sun Pharma",
+        "price": 1780.1,
+        "change": -8.400000000000091,
+        "change_pct": -0.46966731898239256,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.695,
-        "change": 0.4399999999999977,
-        "change_pct": 0.461918009553302,
+        "price": 95.775,
+        "change": 0.0800000000000125,
+        "change_pct": 0.08359893411360313,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4465.8,
-        "change": -54.099999999999454,
-        "change_pct": -1.196929135600333,
-        "is_up": false
+        "price": 4525.7,
+        "change": 58.80000000000018,
+        "change_pct": 1.3163491459401415,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
-          "summary": "The breach at wearable ring maker Ultrahuman stemmed from credentials stolen from a malware-infected employee laptop....",
-          "link": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
+          "title": "Oura Ring 5 review: Thinner, lighter, better",
+          "summary": "The Ring 5, which Oura describes as the world’s smallest smart ring, is 40% smaller than its predecessor and starts at $399....",
+          "link": "https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/",
           "source": "TechCrunch"
         },
         {
-          "title": "Carvana ties up with Bezos-backed Slate Auto as it plans new car sales",
-          "summary": "Carvana was granted a warrant to buy shares in Slate last year, according to documents obtained by TechCrunch. Guggenheim Partners CEO Mark Walter is heavily invested in both compa...",
-          "link": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/",
+          "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
+          "summary": "The legendary abandons its more than 20 year tradition of keeping its funds to about $425 million....",
+          "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
           "source": "TechCrunch"
         },
         {
-          "title": "The best Qi2 batteries for iPhone and Pixel",
+          "title": "Let us filter AI slop, you cowards",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
           "source": "The Verge"
         },
         {
-          "title": "As AI gets better, it reveals an empty promise",
+          "title": "AI leaders call for tougher protections against AI-aided bioweapons",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
           "source": "The Verge"
         },
         {
-          "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
-          "summary": "When they're being eaten, bean plants release chemicals that draw in parasitic wasps....",
-          "link": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
+          "title": "Used Waymo robotaxi batteries become backup storage for power grids",
+          "summary": "Used Waymo batteries will bolster California and Texas energy storage projects....",
+          "link": "https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/",
           "source": "Ars Technica"
         }
       ]
@@ -130,27 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "GQG Partners sells 1.8% stake in GMR Airports for Rs 1,906 crore; Fidelity buys holding",
-          "summary": "US investment firm GQG Partners has sold a 1.8 per cent stake in GMR Airports to Fidelity International. The deal, valued at Rs 1,906 crore, saw GQG Partners offload 19.50 crore sh...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/gqg-partners-sells-1-8-stake-in-gmr-airports-for-rs-1906-crore-fidelity-buys-holding/articleshow/131488382.cms",
+          "title": "Vodafone Idea among 4 stocks hit a 52-week high, rally up to 45% in a month",
+          "summary": "The Great Wealth Shift: Where India’s Next Fortunes Will Be MadeVodafone Idea, Polycab India, CG Power and Federal Bank hit fresh 52-week highs, with Vodafone Idea leading the pack...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-among-4-stocks-hit-a-52-week-high-rally-up-to-45-in-a-month/slideshow/131506446.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Market Trading Guide: Ather Energy among 2 stock recommendations for Thursday",
-          "summary": "Domestic markets rebounded from early losses despite rising Iran-US tensions, supported by strong gains in banking stocks. Analysts have recommended Ather Energy and J&amp;K Bank f...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ather-energy-among-2-stock-recommendations-for-thursday/articleshow/131487881.cms",
+          "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq futures lead declines after Broadcom results disappoint",
+          "summary": "",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-fed-warsh-rate-hike-earnings-forecast-spacex-ipo-broadcomm-amd-chip-stock-price-news-4th-june-2026/liveblog/131506111.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Bata India bets on improving inventory reduction through efficiency steps, omni-channel strategy",
-          "summary": "Bata India emphasizes inventory reduction through efficiency, with a 13% decrease in gross inventory in the latest quarter. The company's omni-channel strategy and product expansio...",
-          "link": "https://www.livemint.com/companies/news/bata-india-efficiency-steps-inventory-reduction-new-designs-online-sales-raw-material-costs-omni-channel-strategy-11780491583769.html",
-          "source": "Livemint Companies"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Why FirstCry excelled at selling diapers but hasn’t quite cracked the pre-school code",
-          "summary": "Parents buy diapers online, but choose preschools offline. FirstCry thought its vast baby product experience and ecosystem would help it crack the adjacency of preschools. Six year...",
-          "link": "https://www.livemint.com/companies/whyfirstcrys1000preschoolambitionisstillaworkinprogress-11780492866656.html",
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "Trent looks beyond apparel to focus on beauty, footwear",
+          "summary": "The growing importance of these categories comes as some of Trent's international ventures face challenges....",
+          "link": "https://www.livemint.com/companies/news/trent-tata-group-westside-zudio-studiowest-retail-sector-beauty-11780564078124.html",
           "source": "Livemint Companies"
         }
       ]
@@ -171,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Medtronic reports strongest annual revenue growth in a decade",
-          "summary": "Medtronic said its growth was driven by ongoing strength in its core business lines and rising momentum within evolving areas. The post Medtronic reports strongest annual revenue g...",
-          "link": "https://www.medicaldevice-network.com/news/medtronic-reports-strongest-annual-revenue-growth-in-a-decade/",
+          "title": "ResMed completes $340m Noctrix Health acquisition",
+          "summary": "Noctrix Health’s lead product, Nidra, targets the peroneal nerves to address the symptoms of restless leg syndrome. The post ResMed completes $340m Noctrix Health acquisition appea...",
+          "link": "https://www.medicaldevice-network.com/news/resmed-completes-340m-noctrix-health-acquisition/",
           "source": "Medical Device Network"
         }
       ]
@@ -182,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "5 Books that feel like rainy evenings for slow and cozy evenings",
-          "summary": "Discover 5 cozy books that feel like rainy evenings, perfect for slow days, warm drinks, and comforting stories that stay with you....",
-          "link": "https://yourstory.com/2026/05/cozy-books-for-rainy-evenings",
+          "title": "The accidental matchmaker: how a PhD in hydrodynamics built an elite matrimonial service",
+          "summary": "Anil Kumar spent over a decade and a half in American academia and consulting before his own bruising search for love convinced him that Indian matchmaking was broken. Seventeen ye...",
+          "link": "https://yourstory.com/2026/06/the-accidental-matchmaker-phd-hydrodynamics-matrimonial-service",
           "source": "YourStory"
         },
         {
-          "title": "The end of one-view appraisals: Making the case for 360-degree performance feedback",
-          "summary": "Organizations need to move beyond traditional top-down appraisals and adopt 360-degree performance feedback systems to build more self-aware, accountable and effective managers. Tr...",
-          "link": "https://yourstory.com/2026/05/end-one-view-appraisals-making-case-360-degree-performance-feedback",
+          "title": "AI and the new productivity curve for developers",
+          "summary": "AI is transforming software engineering from end to end, enabling faster development, smarter workflows, and higher productivity across enterprises. As adoption accelerates, organi...",
+          "link": "https://yourstory.com/2026/06/ai-and-the-new-productivity-curve-for-developers",
           "source": "YourStory"
         },
         {
-          "title": "ideaForge’s Board Greenlights Plans To Raise ₹500 Cr",
-          "summary": "Dronetech company ideaForge&#8217;s board has approved a proposal to raise up to ₹500 Cr in its meeting held today (June&#8230;...",
-          "link": "https://inc42.com/buzz/ideaforges-board-greenlights-plans-to-raise-%e2%82%b9500-cr/",
+          "title": "Ex Microsoft APAC President Launches kAIgentic With $10 Mn Funding To Build AI For Global Enterprises",
+          "summary": "Former Microsoft Asia Pacific (APAC) president, Ahmed Mazhari, has launched agentic AI startup kAIgentic in strategic partnership with $10 Mn &#8230;...",
+          "link": "https://inc42.com/buzz/ex-microsoft-apac-president-launches-kaigentic-with-10-mn-funding-to-build-ai-for-global-enterprises/",
           "source": "Inc42"
         }
       ]
@@ -205,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Spectrum Controls receives Rockwell innovation award",
-          "summary": "Allient Inc. announced that Spectrum Controls, also known as Allient Bellevue, was named the 2026 Rockwell Automation PartnerNetwork Innovation Award winner during the 2026 Partner...",
-          "link": "https://www.designworldonline.com/spectrum-controls-receives-rockwell-innovation-award/",
+          "title": "NORD outlines drive solutions for wastewater treatment",
+          "summary": "NORD DRIVESYSTEMS provides drive solutions for different stages of wastewater treatment, with systems designed for reliability, performance and configuration flexibility based on a...",
+          "link": "https://www.designworldonline.com/nord-outlines-drive-solutions-for-wastewater-treatment/",
           "source": "Design World"
         },
         {
-          "title": "Altech adds 85-A hinge-type ring lug terminal block",
-          "summary": "Altech Corporation has added the STH5, an 85-A hinge-type ring lug terminal block designed for DIN rail mounting. In power distribution and other heavy-duty applications, vibration...",
-          "link": "https://www.designworldonline.com/altech-adds-85-a-hinge-type-ring-lug-terminal-block/",
+          "title": "AutomationDirect adds Continental NFPA hydraulic valves",
+          "summary": "AutomationDirect now offers Continental hydraulic valves which provide rugged, high‑performance control for industrial hydraulic systems built around NFPA standards. Available in D...",
+          "link": "https://www.designworldonline.com/automationdirect-adds-continental-nfpa-hydraulic-valves/",
           "source": "Design World"
         }
       ]
