@@ -1,92 +1,92 @@
 {
-  "last_updated": "Thursday, June 04, 2026 at 06:03 PM IST",
-  "last_updated_iso": "2026-06-04T18:03:09.270197",
+  "last_updated": "Friday, June 05, 2026 at 05:54 PM IST",
+  "last_updated_iso": "2026-06-05T17:54:02.425537",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23416.55,
-        "change": 10.950000000000728,
-        "change_pct": 0.046783675701544625,
-        "is_up": true
+        "price": 23366.7,
+        "change": -49.849999999998545,
+        "change_pct": -0.21288362290772359,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 74360.01,
-        "change": 13.839999999996508,
-        "change_pct": 0.01861561933855706,
-        "is_up": true
+        "price": 74243.34,
+        "change": -116.66999999999825,
+        "change_pct": -0.15689884926050746,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 54307.85,
-        "change": 121.90000000000146,
-        "change_pct": 0.22496606592668664,
+        "price": 54496.25,
+        "change": 188.40000000000146,
+        "change_pct": 0.3469111739831377,
         "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "ICICI Bank",
-        "price": 1251.7,
-        "change": 9.700000000000045,
-        "change_pct": 0.7809983896940456,
+        "price": 1262.1,
+        "change": 10.399999999999864,
+        "change_pct": 0.8308700167771721,
         "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 13064.0,
-        "change": 20.0,
-        "change_pct": 0.1533272002453235,
+        "name": "L&T",
+        "price": 3953.2,
+        "change": 11.099999999999909,
+        "change_pct": 0.2815758098475409,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 204.32,
-        "change": 0.21999999999999886,
-        "change_pct": 0.10779029887310086,
+        "name": "Sun Pharma",
+        "price": 1782.2,
+        "change": 2.1000000000001364,
+        "change_pct": 0.11797090051121491,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1201.3,
-        "change": -21.299999999999955,
-        "change_pct": -1.7421887780140648,
+        "name": "Wipro",
+        "price": 198.37,
+        "change": -5.949999999999989,
+        "change_pct": -2.9120986687548887,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1303.7,
-        "change": -9.5,
-        "change_pct": -0.7234236978373438,
+        "name": "TCS",
+        "price": 2198.9,
+        "change": -42.09999999999991,
+        "change_pct": -1.8786256135653683,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1780.1,
-        "change": -8.400000000000091,
-        "change_pct": -0.46966731898239256,
+        "name": "Bharti Airtel",
+        "price": 1798.2,
+        "change": -20.700000000000045,
+        "change_pct": -1.138050470064327,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.775,
-        "change": 0.0800000000000125,
-        "change_pct": 0.08359893411360313,
-        "is_up": true
+        "price": 94.935,
+        "change": -0.8400000000000034,
+        "change_pct": -0.8770555990603011,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4525.7,
-        "change": 58.80000000000018,
-        "change_pct": 1.3163491459401415,
-        "is_up": true
+        "price": 4496.0,
+        "change": -9.0,
+        "change_pct": -0.19977802441731413,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Oura Ring 5 review: Thinner, lighter, better",
-          "summary": "The Ring 5, which Oura describes as the world’s smallest smart ring, is 40% smaller than its predecessor and starts at $399....",
-          "link": "https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/",
+          "title": "Mira Murati steps back into the spotlight, carefully",
+          "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist....",
+          "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
           "source": "TechCrunch"
         },
         {
-          "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
-          "summary": "The legendary abandons its more than 20 year tradition of keeping its funds to about $425 million....",
-          "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
+          "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+          "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries....",
+          "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
           "source": "TechCrunch"
         },
         {
-          "title": "Let us filter AI slop, you cowards",
+          "title": "I customized a MacBook Neo with colorful spare parts",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+          "link": "https://www.theverge.com/tech/942839/macbook-neo-customization-color-mods-official-parts-frankenlaptop",
           "source": "The Verge"
         },
         {
-          "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+          "title": "Porsche’s Cayenne Coupe Turbo will even make 911 owners nervous",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+          "link": "https://www.theverge.com/transportation/943004/porsche-cayenne-coupe-turbo-review-specs-price",
           "source": "The Verge"
         },
         {
-          "title": "Used Waymo robotaxi batteries become backup storage for power grids",
-          "summary": "Used Waymo batteries will bolster California and Texas energy storage projects....",
-          "link": "https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/",
+          "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+          "summary": "Robot demonstrations can distort public perceptions of robotic capabilities....",
+          "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Vodafone Idea among 4 stocks hit a 52-week high, rally up to 45% in a month",
-          "summary": "The Great Wealth Shift: Where India’s Next Fortunes Will Be MadeVodafone Idea, Polycab India, CG Power and Federal Bank hit fresh 52-week highs, with Vodafone Idea leading the pack...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-among-4-stocks-hit-a-52-week-high-rally-up-to-45-in-a-month/slideshow/131506446.cms",
+          "title": "Stable rates, steady demand: Why real estate players see RBI's pause as a confidence booster",
+          "summary": "With retail inflation easing to 3.48% in April and remaining below the RBI's 4% target, industry stakeholders see little immediate pressure on interest rates, creating a favourable...",
+          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/stable-rates-steady-demand-why-real-estate-players-see-rbis-pause-as-a-confidence-booster/articleshow/131531604.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq futures lead declines after Broadcom results disappoint",
+          "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq, S&amp;P futures decline as semiconductors slip; payrolls in focus",
           "summary": "",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-fed-warsh-rate-hike-earnings-forecast-spacex-ipo-broadcomm-amd-chip-stock-price-news-4th-june-2026/liveblog/131506111.cms",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-amd-broadcom-intel-stock-price-news-5th-june-2026/liveblog/131531600.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Trent looks beyond apparel to focus on beauty, footwear",
-          "summary": "The growing importance of these categories comes as some of Trent's international ventures face challenges....",
-          "link": "https://www.livemint.com/companies/news/trent-tata-group-westside-zudio-studiowest-retail-sector-beauty-11780564078124.html",
+          "title": "Blackstone, CPPIB-backed AirTrunk to invest over $30 bn in India's data centres by 2030",
+          "summary": "Hyperscale data centre operator AirTrunk has announced plans to invest over $30 billion in India by 2030, making it one of the country's largest-ever digital infrastructure commitm...",
+          "link": "https://www.livemint.com/companies/blackstone-cppib-backed-airtrunk-to-invest-over-30-bn-in-indias-data-centres-by-2030-ai-11780655124983.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "ResMed completes $340m Noctrix Health acquisition",
-          "summary": "Noctrix Health’s lead product, Nidra, targets the peroneal nerves to address the symptoms of restless leg syndrome. The post ResMed completes $340m Noctrix Health acquisition appea...",
-          "link": "https://www.medicaldevice-network.com/news/resmed-completes-340m-noctrix-health-acquisition/",
+          "title": "Roche develops RUO PCR assay to detect rare Ebola Bundibugyo virus",
+          "summary": "Roche has announced the rapid development of a RUO molecular PCR test to detect the rare Ebola Bundibugyo virus. The post Roche develops RUO PCR assay to detect rare Ebola Bundibug...",
+          "link": "https://www.medicaldevice-network.com/news/roche-ruo-pcr-assay-ebola-bundibugyo/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "The accidental matchmaker: how a PhD in hydrodynamics built an elite matrimonial service",
-          "summary": "Anil Kumar spent over a decade and a half in American academia and consulting before his own bruising search for love convinced him that Indian matchmaking was broken. Seventeen ye...",
-          "link": "https://yourstory.com/2026/06/the-accidental-matchmaker-phd-hydrodynamics-matrimonial-service",
+          "title": "Inside the quiet rise of India’s women entrepreneurs",
+          "summary": "From tailoring units and pickle businesses to local canteens, women across India are building sustainable enterprises through digital access, mentorship, and community-driven suppo...",
+          "link": "https://yourstory.com/2026/05/indias-women-entrepreneurs",
           "source": "YourStory"
         },
         {
-          "title": "AI and the new productivity curve for developers",
-          "summary": "AI is transforming software engineering from end to end, enabling faster development, smarter workflows, and higher productivity across enterprises. As adoption accelerates, organi...",
-          "link": "https://yourstory.com/2026/06/ai-and-the-new-productivity-curve-for-developers",
+          "title": "Kae Capital’s Sunitha Viswanathan on what’s driving consumer bets in India",
+          "summary": "Fashion commerce is ready for disruption, while beauty & personal care will make room for more sub-verticals, says Sunitha Viswanathan, Partner at early-stage VC firm Kae Capital. ...",
+          "link": "https://yourstory.com/2026/06/kae-capital-sunitha-viswanathan-on-whats-driving-consumer-bets-in-india",
           "source": "YourStory"
         },
         {
-          "title": "Ex Microsoft APAC President Launches kAIgentic With $10 Mn Funding To Build AI For Global Enterprises",
-          "summary": "Former Microsoft Asia Pacific (APAC) president, Ahmed Mazhari, has launched agentic AI startup kAIgentic in strategic partnership with $10 Mn &#8230;...",
-          "link": "https://inc42.com/buzz/ex-microsoft-apac-president-launches-kaigentic-with-10-mn-funding-to-build-ai-for-global-enterprises/",
+          "title": "Cybersecurity Startup Innefu Labs Raises $30 Mn From Panthera Growth Partners",
+          "summary": "AI-powered cybersecurity startup Innefu Labs has raised $30 Mn (about ₹285.2 Cr) in its Series B funding round led by&#8230;...",
+          "link": "https://inc42.com/buzz/cybersecurity-startup-innefu-labs-raises-30-mn-from-panthera-growth-partners/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "NORD outlines drive solutions for wastewater treatment",
-          "summary": "NORD DRIVESYSTEMS provides drive solutions for different stages of wastewater treatment, with systems designed for reliability, performance and configuration flexibility based on a...",
-          "link": "https://www.designworldonline.com/nord-outlines-drive-solutions-for-wastewater-treatment/",
+          "title": "SCHNEEBERGER names Sean Feyrer sales marketing VP",
+          "summary": "SCHNEEBERGER North America has appointed Sean Feyrer vice president of sales and marketing. Feyrer has more than 30 years of experience in industrial automation, linear motion tech...",
+          "link": "https://www.designworldonline.com/schneeberger-names-sean-feyrer-sales-marketing-vp/",
           "source": "Design World"
         },
         {
-          "title": "AutomationDirect adds Continental NFPA hydraulic valves",
-          "summary": "AutomationDirect now offers Continental hydraulic valves which provide rugged, high‑performance control for industrial hydraulic systems built around NFPA standards. Available in D...",
-          "link": "https://www.designworldonline.com/automationdirect-adds-continental-nfpa-hydraulic-valves/",
+          "title": "NORD outlines drive solutions for wastewater treatment",
+          "summary": "NORD DRIVESYSTEMS provides drive solutions for different stages of wastewater treatment, with systems designed for reliability, performance and configuration flexibility based on a...",
+          "link": "https://www.designworldonline.com/nord-outlines-drive-solutions-for-wastewater-treatment/",
           "source": "Design World"
         }
       ]
@@ -228,11 +228,11 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "Lewis Hamilton Explains F1 Tire Strategy",
-          "summary": "You have $100 to spend in the tires...",
-          "link": "https://www.youtube.com/shorts/ImRy_PiXstI",
+          "title": "Apple Products That DON'T Exist",
+          "summary": "yet...",
+          "link": "https://www.youtube.com/shorts/n3V3LZh_r40",
           "source": "MKBHD",
-          "thumbnail": "https://i2.ytimg.com/vi/ImRy_PiXstI/hqdefault.jpg"
+          "thumbnail": "https://i3.ytimg.com/vi/n3V3LZh_r40/hqdefault.jpg"
         },
         {
           "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
