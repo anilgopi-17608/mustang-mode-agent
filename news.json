@@ -1,6 +1,6 @@
 {
-  "last_updated": "Friday, June 05, 2026 at 05:54 PM IST",
-  "last_updated_iso": "2026-06-05T17:54:02.425537",
+  "last_updated": "Saturday, June 06, 2026 at 03:03 PM IST",
+  "last_updated_iso": "2026-06-06T15:03:33.500739",
   "market": {
     "indices": [
       {
@@ -74,18 +74,18 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.935,
-        "change": -0.8400000000000034,
-        "change_pct": -0.8770555990603011,
+        "price": 94.95,
+        "change": -0.8250000000000028,
+        "change_pct": -0.8613938919342238,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4496.0,
-        "change": -9.0,
-        "change_pct": -0.19977802441731413,
+        "price": 4365.3,
+        "change": -139.69999999999982,
+        "change_pct": -3.1009988901220824,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Mira Murati steps back into the spotlight, carefully",
-          "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist....",
-          "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+          "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+          "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus....",
+          "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
           "source": "TechCrunch"
         },
         {
-          "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
-          "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries....",
-          "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+          "title": "Founders share VC horror stories, and some are naming names",
+          "summary": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating....",
+          "link": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
           "source": "TechCrunch"
         },
         {
-          "title": "I customized a MacBook Neo with colorful spare parts",
+          "title": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
           "summary": "",
-          "link": "https://www.theverge.com/tech/942839/macbook-neo-customization-color-mods-official-parts-frankenlaptop",
+          "link": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
           "source": "The Verge"
         },
         {
-          "title": "Porsche’s Cayenne Coupe Turbo will even make 911 owners nervous",
+          "title": "Grand Theft Auto VI is warping the video game release calendar",
           "summary": "",
-          "link": "https://www.theverge.com/transportation/943004/porsche-cayenne-coupe-turbo-review-specs-price",
+          "link": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
           "source": "The Verge"
         },
         {
-          "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
-          "summary": "Robot demonstrations can distort public perceptions of robotic capabilities....",
-          "link": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+          "title": "Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it",
+          "summary": "In the end, the three companies involved all point the finger at each other....",
+          "link": "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Stable rates, steady demand: Why real estate players see RBI's pause as a confidence booster",
-          "summary": "With retail inflation easing to 3.48% in April and remaining below the RBI's 4% target, industry stakeholders see little immediate pressure on interest rates, creating a favourable...",
-          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/stable-rates-steady-demand-why-real-estate-players-see-rbis-pause-as-a-confidence-booster/articleshow/131531604.cms",
+          "title": "Macquarie initiates 'Underperform' rating on Meesho, sees 25% downside. Here's why",
+          "summary": "Macquarie has initiated coverage on Meesho with an ‘Underperform’ rating and a target price of Rs 125, implying nearly 25% downside. The brokerage believes declining average order ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/macquarie-initiates-underperform-rating-on-meesho-sees-25-downside-heres-why/articleshow/131548084.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq, S&amp;P futures decline as semiconductors slip; payrolls in focus",
-          "summary": "",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-amd-broadcom-intel-stock-price-news-5th-june-2026/liveblog/131531600.cms",
+          "title": "James Montier’s Formula for Investment Success: Master Your Mind Before the Market",
+          "summary": "Behavioural finance expert James Montier argues that investment success depends more on controlling emotions than predicting markets. By avoiding common biases, focusing on facts, ...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/james-montiers-formula-for-investment-success-master-your-mind-before-the-market/articleshow/131547763.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Blackstone, CPPIB-backed AirTrunk to invest over $30 bn in India's data centres by 2030",
-          "summary": "Hyperscale data centre operator AirTrunk has announced plans to invest over $30 billion in India by 2030, making it one of the country's largest-ever digital infrastructure commitm...",
-          "link": "https://www.livemint.com/companies/blackstone-cppib-backed-airtrunk-to-invest-over-30-bn-in-indias-data-centres-by-2030-ai-11780655124983.html",
+          "title": "KPMG forensic review says IDFC First Bank Chandigarh fraud an isolated incident",
+          "summary": "The KPMG forensic review found collusion among IDFC First Bank's branch staff, customer representatives and third parties, while confirming the ₹646 crore loss previously disclosed...",
+          "link": "https://www.livemint.com/companies/news/kpmg-forensic-review-says-idfc-first-bank-chandigarh-fraud-an-isolated-incident-11780731428126.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Roche develops RUO PCR assay to detect rare Ebola Bundibugyo virus",
-          "summary": "Roche has announced the rapid development of a RUO molecular PCR test to detect the rare Ebola Bundibugyo virus. The post Roche develops RUO PCR assay to detect rare Ebola Bundibug...",
-          "link": "https://www.medicaldevice-network.com/news/roche-ruo-pcr-assay-ebola-bundibugyo/",
+          "title": "Zepto Life Technology’s mould infection panel obtains FDA breakthrough designation",
+          "summary": "Zepto Life’s FungiFlex mould panel is designed to identify 14 clinically important mould species based on cell free fungal DNA detected in plasma. The post Zepto Life Technology’s ...",
+          "link": "https://www.medicaldevice-network.com/news/zepto-life-technology-mould-infection-panel-obtains-fda-breakthrough-designation/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,9 +188,9 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Inside the quiet rise of India’s women entrepreneurs",
-          "summary": "From tailoring units and pickle businesses to local canteens, women across India are building sustainable enterprises through digital access, mentorship, and community-driven suppo...",
-          "link": "https://yourstory.com/2026/05/indias-women-entrepreneurs",
+          "title": "From wishlists to trusted recommendations: How Rippl is building a new social discovery platform",
+          "summary": "A new platform is reimagining creator-led discovery by turning trust, credibility, and genuine recommendations into the foundation of digital commerce....",
+          "link": "https://yourstory.com/2026/06/rippl-building-new-social-discovery-platform",
           "source": "YourStory"
         },
         {
@@ -200,9 +200,9 @@
           "source": "YourStory"
         },
         {
-          "title": "Cybersecurity Startup Innefu Labs Raises $30 Mn From Panthera Growth Partners",
-          "summary": "AI-powered cybersecurity startup Innefu Labs has raised $30 Mn (about ₹285.2 Cr) in its Series B funding round led by&#8230;...",
-          "link": "https://inc42.com/buzz/cybersecurity-startup-innefu-labs-raises-30-mn-from-panthera-growth-partners/",
+          "title": "From FirstClub To Innefu— Indian Startups Raised $187 Mn This Week",
+          "summary": "Indian startup funding trends saw a recovery in the first week of June. During the past week, Indian startups cumulatively&#8230;...",
+          "link": "https://inc42.com/buzz/from-firstclub-to-innefu-indian-startups-raised-187-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "SCHNEEBERGER names Sean Feyrer sales marketing VP",
-          "summary": "SCHNEEBERGER North America has appointed Sean Feyrer vice president of sales and marketing. Feyrer has more than 30 years of experience in industrial automation, linear motion tech...",
-          "link": "https://www.designworldonline.com/schneeberger-names-sean-feyrer-sales-marketing-vp/",
+          "title": "Technical thinking: The most interesting man in the world?",
+          "summary": "By Mark Jones Doug Irwin’s death was in the news recently, as was the $11.56 million paid for a guitar he made. I’d never heard of Doug Irwin, who was Jerry Garcia’s luthier. I’ve ...",
+          "link": "https://www.designworldonline.com/technical-thinking-the-most-interesting-man-in-the-world/",
           "source": "Design World"
         },
         {
-          "title": "NORD outlines drive solutions for wastewater treatment",
-          "summary": "NORD DRIVESYSTEMS provides drive solutions for different stages of wastewater treatment, with systems designed for reliability, performance and configuration flexibility based on a...",
-          "link": "https://www.designworldonline.com/nord-outlines-drive-solutions-for-wastewater-treatment/",
+          "title": "MasterSil 981-LO targets low outgassing applications",
+          "summary": "Master Bond MasterSil 981-LO is a two-component, addition-cured silicone system for bonding, sealing, coating and encapsulating. It meets NASA low outgassing specifications and has...",
+          "link": "https://www.designworldonline.com/mastersil-981-lo-targets-low-outgassing-applications/",
           "source": "Design World"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i3.ytimg.com/vi/n3V3LZh_r40/hqdefault.jpg"
         },
         {
-          "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
-          "summary": "",
-          "link": "https://www.youtube.com/shorts/iz7elwbqZVI",
+          "title": "AI Agents as \"Games Masters\"? 🎮🔥",
+          "summary": "Check the pinned comment for the link to the full interview. Could AI agents eventually become the \"Games Master\" driving your gaming storylines? We explore the concept of AI assis...",
+          "link": "https://www.youtube.com/shorts/82m7YqosdgU",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/iz7elwbqZVI/hqdefault.jpg"
+          "thumbnail": "https://i1.ytimg.com/vi/82m7YqosdgU/hqdefault.jpg"
         }
       ]
     }
