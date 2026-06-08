@@ -1,91 +1,91 @@
 {
-  "last_updated": "Sunday, June 07, 2026 at 04:06 PM IST",
-  "last_updated_iso": "2026-06-07T16:06:52.133844",
+  "last_updated": "Monday, June 08, 2026 at 08:26 PM IST",
+  "last_updated_iso": "2026-06-08T20:26:28.640144",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23366.7,
-        "change": -49.849999999998545,
-        "change_pct": -0.21288362290772359,
+        "price": 23123.0,
+        "change": -243.70000000000073,
+        "change_pct": -1.0429371712736533,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 74243.34,
-        "change": -116.66999999999825,
-        "change_pct": -0.15689884926050746,
+        "price": 73524.26,
+        "change": -719.0800000000017,
+        "change_pct": -0.9685447879904133,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 54496.25,
-        "change": 188.40000000000146,
-        "change_pct": 0.3469111739831377,
-        "is_up": true
+        "price": 54063.75,
+        "change": -432.5,
+        "change_pct": -0.793632589398353,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "ICICI Bank",
-        "price": 1262.1,
-        "change": 10.399999999999864,
-        "change_pct": 0.8308700167771721,
-        "is_up": true
-      },
-      {
-        "name": "L&T",
-        "price": 3953.2,
-        "change": 11.099999999999909,
-        "change_pct": 0.2815758098475409,
+        "name": "Bharti Airtel",
+        "price": 1813.3,
+        "change": 15.099999999999909,
+        "change_pct": 0.8397286175063902,
         "is_up": true
       },
       {
         "name": "Sun Pharma",
-        "price": 1782.2,
-        "change": 2.1000000000001364,
-        "change_pct": 0.11797090051121491,
+        "price": 1788.8,
+        "change": 6.599999999999909,
+        "change_pct": 0.37032880709235266,
         "is_up": true
+      },
+      {
+        "name": "Infosys",
+        "price": 1187.6,
+        "change": -9.900000000000091,
+        "change_pct": -0.8267223382046005,
+        "is_up": false
       }
     ],
     "losers": [
       {
         "name": "Wipro",
-        "price": 198.37,
-        "change": -5.949999999999989,
-        "change_pct": -2.9120986687548887,
+        "price": 181.76,
+        "change": -16.610000000000014,
+        "change_pct": -8.373241921661547,
         "is_up": false
       },
       {
         "name": "TCS",
-        "price": 2198.9,
-        "change": -42.09999999999991,
-        "change_pct": -1.8786256135653683,
+        "price": 2151.4,
+        "change": -47.5,
+        "change_pct": -2.1601709945882033,
         "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1798.2,
-        "change": -20.700000000000045,
-        "change_pct": -1.138050470064327,
+        "name": "Reliance",
+        "price": 1263.3,
+        "change": -27.700000000000045,
+        "change_pct": -2.145623547637494,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.95,
-        "change": -0.8250000000000028,
-        "change_pct": -0.8613938919342238,
-        "is_up": false
+        "price": 95.698,
+        "change": 0.762999999999991,
+        "change_pct": 0.8037078000737252,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4365.3,
-        "change": -139.69999999999982,
-        "change_pct": -3.1009988901220824,
+        "price": 4350.2,
+        "change": -15.100000000000364,
+        "change_pct": -0.3459097885597866,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-          "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process....",
-          "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+          "title": "Eventbrite and Vimeo owner Bending Spoons files to go public",
+          "summary": "Bending Spoons say its app caters to a user base of over 500 million monthly active users....",
+          "link": "https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/",
           "source": "TechCrunch"
         },
         {
-          "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-          "summary": "Apple's WWDC nears: Here's what you can look forward to....",
-          "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+          "title": "Massachusetts votes to pass new privacy rights bill that bans sale of precise location data",
+          "summary": "The bill is expected to blanket ban companies and startups from selling people's precise location data across the state....",
+          "link": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
           "source": "TechCrunch"
         },
         {
-          "title": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
+          "title": "Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot",
           "summary": "",
-          "link": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
+          "link": "https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts",
           "source": "The Verge"
         },
         {
-          "title": "The first Story-Rich showcase was packed with narrative-driven games",
+          "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
           "summary": "",
-          "link": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
+          "link": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
           "source": "The Verge"
         },
         {
-          "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-          "summary": "Those ousted included ADA journal editor-in-chief Steven Kahn and former ADA president Desmond Schatz...",
-          "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+          "title": "The weather and climate science AI revolution isn’t revolutionary",
+          "summary": "Machine learning has its limits—how is it being used?...",
+          "link": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Smart money move: Why Groww MF's equity chief is betting on multicap strategies",
-          "summary": "Anupam Tiwari of Groww Mutual Fund warns of a potential oil shock. He believes a multicap strategy combined with bottom-up investing is suitable for current market conditions. Valu...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/smart-money-move-why-groww-mfs-equity-chief-is-betting-on-multicap-strategies/articleshow/131564842.cms",
+          "title": "US stocks: Lilly shares rise on hopes that next-gen drug will extend lead in weight-loss market",
+          "summary": "Lilly presented full data from two retatrutide trials, one in treatment naive type 2 diabetes patients and another in patients ‌with obesity, ⁠at the ⁠American Diabetes Association...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/lilly-shares-rise-on-hopes-that-next-gen-drug-will-extend-lead-in-weight-loss-market/articleshow/131590978.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
-          "summary": "Indian benchmark indices ended marginally lower on Friday as investors assessed the RBI’s decision to keep rates unchanged while raising inflation and lowering growth forecasts. We...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/131564578.cms",
+          "title": "Government to sell 3% stake in NLC India through OFS, sets floor price at Rs 303",
+          "summary": "The government has launched a two-day offer for sale in NLC India, aiming to divest up to 3% stake through a base offer and greenshoe option. The issue, priced at a discount to the...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/government-to-sell-3-stake-in-nlc-india-through-ofs-sets-floor-price-at-rs-303/articleshow/131590726.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Canara Bank says Rajesh Exports exposure poses no risks, recoveries underway",
-          "summary": "MD and CEO Brajesh Kumar Singh said Canara Bank is comfortably placed on its Rajesh Exports exposure, with provisions and recoveries limiting the risk of any material financial imp...",
-          "link": "https://www.livemint.com/companies/news/canara-bank-says-rajesh-exports-exposure-fully-provided-recoveries-underway-fy27-outlook-11780822390451.html",
+          "title": "Rajesh Exports’ PLI-ACC future to be decided this week",
+          "summary": "There is a clause in the 2021 scheme's request for proposal to set up battery capacity that allows the ministry of heavy industries to disqualify a company....",
+          "link": "https://www.livemint.com/companies/rajesh-exports-sebi-pli-acc-heavy-industries-ministry-hd-kumaraswamy-11780922648137.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Zepto Life Technology’s mould infection panel obtains FDA breakthrough designation",
-          "summary": "Zepto Life’s FungiFlex mould panel is designed to identify 14 clinically important mould species based on cell free fungal DNA detected in plasma. The post Zepto Life Technology’s ...",
-          "link": "https://www.medicaldevice-network.com/news/zepto-life-technology-mould-infection-panel-obtains-fda-breakthrough-designation/",
+          "title": "FDA issues early alert for GE HealthCare’s infant resuscitation systems",
+          "summary": "The alert relates to a potential issue with certain blenders that mix air and oxygen to deliver controlled oxygen concentration. The post FDA issues early alert for GE HealthCare’s...",
+          "link": "https://www.medicaldevice-network.com/news/fda-issues-early-alert-for-ge-healthcare-infant-resuscitation-systems/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "How Clan Shoes is driving India’s shift to urban riding shoes",
-          "summary": "Clan Shoes is helping shape a new category for India’s growing riding community, one where protection, comfort, and streetwear-inspired design can coexist....",
-          "link": "https://yourstory.com/2026/06/clan-shoes-driving-indias-shift-urban-riding-shoes",
+          "title": "Bharat Innovates 2026: How an IIT Madras incubator helped build the world's first 3D-printed rocket engine",
+          "summary": "Agnikul Cosmos is building India's most flexible launch system using 3D-printed engines, modular rockets, and the country's first private launchpad. The Chennai startup, incubated ...",
+          "link": "https://yourstory.com/2026/06/bharat-innovates-2026-iit-madras-incubator-build-worlds-first-3d-printed-rocket-engine",
           "source": "YourStory"
         },
         {
-          "title": "Awestruck: the world's first AI for your free time",
-          "summary": "Awestruck: the world's first AI for your free time Awestruck is the world's first AI for your free time, a new way to discover and book the best of what is happening around you. It...",
-          "link": "https://yourstory.com/2026/06/awestruck-the-worlds-first-ai-for-your-free-time",
+          "title": "Bharat Innovates 2026: From an IISc lab to orbit, meet the startup powering India's satellite economy",
+          "summary": "From water-powered thrusters and green propulsion systems to orbital transfer vehicles, Bengaluru-based Bellatrix Aerospace is making satellite operations cleaner, more efficient, ...",
+          "link": "https://yourstory.com/2026/06/bharat-innovates-2026-startup-powering-indias-satellite-economy",
           "source": "YourStory"
         },
         {
-          "title": "Ola Consumer’s Race Against Time",
-          "summary": "In the summer of 2021, Bhavish Aggarwal was arguably India&#8217;s most audacious tech entrepreneur. Ola Cabs (now Ola Consumer), the&#8230;...",
-          "link": "https://inc42.com/features/ola-consumers-race-against-time/",
+          "title": "Aye Finance To Raise $15 Mn In Debt Funding",
+          "summary": "Recently listed NBFC Aye Finance’s WALCO (working committee of asset and liabilities committee of board of directors) has approved the&#8230;...",
+          "link": "https://inc42.com/buzz/aye-finance-to-raise-15-mn-in-debt-funding/",
           "source": "Inc42"
         }
       ]
