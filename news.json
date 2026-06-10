@@ -1,92 +1,92 @@
 {
-  "last_updated": "Tuesday, June 09, 2026 at 05:53 PM IST",
-  "last_updated_iso": "2026-06-09T17:53:42.667233",
+  "last_updated": "Wednesday, June 10, 2026 at 11:31 AM IST",
+  "last_updated_iso": "2026-06-10T11:31:20.420503",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23242.1,
-        "change": 119.09999999999854,
-        "change_pct": 0.515071573757724,
+        "price": 23390.05,
+        "change": 147.95000000000073,
+        "change_pct": 0.6365603796558862,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 73918.76,
-        "change": 394.5,
-        "change_pct": 0.536557593371222,
+        "price": 74442.97,
+        "change": 524.2100000000064,
+        "change_pct": 0.7091704460410407,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 55194.5,
-        "change": 1130.75,
-        "change_pct": 2.091512334974914,
+        "price": 55418.65,
+        "change": 224.15000000000146,
+        "change_pct": 0.40610930436909737,
         "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "ICICI Bank",
-        "price": 1275.0,
-        "change": 24.799999999999955,
-        "change_pct": 1.9836826107822711,
-        "is_up": true
-      },
-      {
-        "name": "Maruti",
-        "price": 13120.0,
-        "change": 208.0,
-        "change_pct": 1.6109045848822798,
+        "price": 1302.0,
+        "change": 27.0,
+        "change_pct": 2.1176470588235294,
         "is_up": true
       },
       {
         "name": "L&T",
-        "price": 3900.6,
-        "change": 25.09999999999991,
-        "change_pct": 0.6476583666623639,
+        "price": 3938.8,
+        "change": 38.20000000000027,
+        "change_pct": 0.9793365123314431,
+        "is_up": true
+      },
+      {
+        "name": "Reliance",
+        "price": 1279.6,
+        "change": 10.399999999999864,
+        "change_pct": 0.8194138039709945,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1799.0,
-        "change": -14.299999999999955,
-        "change_pct": -0.7886174378205457,
-        "is_up": false
-      },
-      {
         "name": "Infosys",
-        "price": 1180.3,
-        "change": -7.2999999999999545,
-        "change_pct": -0.6146850791512256,
+        "price": 1155.0,
+        "change": -25.299999999999955,
+        "change_pct": -2.1435228331780016,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1779.0,
-        "change": -9.799999999999955,
-        "change_pct": -0.5478533094812139,
+        "name": "Bharti Airtel",
+        "price": 1794.0,
+        "change": -5.0,
+        "change_pct": -0.27793218454697055,
+        "is_up": false
+      },
+      {
+        "name": "Wipro",
+        "price": 181.28,
+        "change": -0.38999999999998636,
+        "change_pct": -0.2146749600924679,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.34,
-        "change": -0.3579999999999899,
-        "change_pct": -0.3740935024765303,
+        "price": 95.257,
+        "change": -0.08299999999999841,
+        "change_pct": -0.08705684917138495,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4367.8,
-        "change": 4.400000000000546,
-        "change_pct": 0.10083879543476522,
-        "is_up": true
+        "price": 4225.7,
+        "change": -60.69999999999982,
+        "change_pct": -1.4161067562523288,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "How an e-scooter founder raised $5 million to build space data centers",
-          "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers....",
-          "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+          "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup",
+          "summary": "The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned....",
+          "link": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
           "source": "TechCrunch"
         },
         {
-          "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
-          "summary": "The startup is one of many entering the RV space, but it's banking on a hybrid power system that can go far beyond campsites....",
-          "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+          "title": "Google just fired a warning shot in the AI subscription price wars",
+          "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier....",
+          "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
           "source": "TechCrunch"
         },
         {
-          "title": "Marshall’s Stockwell speaker gets a replaceable battery that runs twice as long",
+          "title": "I tried Siri AI, and so far it actually works",
           "summary": "",
-          "link": "https://www.theverge.com/tech/945623/marshalls-stockwell-speaker-gets-a-replaceable-battery-that-runs-twice-as-long",
+          "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
           "source": "The Verge"
         },
         {
-          "title": "Hue’s SpatialAware finally made me appreciate color-changing lights",
+          "title": "Congress just gave DHS another $70 billion",
           "summary": "",
-          "link": "https://www.theverge.com/tech/945624/philips-hue-bridge-pro-review-spatialaware-motionaware",
+          "link": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
           "source": "The Verge"
         },
         {
-          "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
-          "summary": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"...",
-          "link": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
+          "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
+          "summary": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10....",
+          "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "India 10-year bond logs best close in 7 weeks as oil prices ease",
-          "summary": "The Indian bond market celebrated a notable milestone, achieving its highest closing point in seven weeks, primarily thanks to the recent drop in crude oil prices that has elevated...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-logs-best-close-in-7-weeks-as-oil-prices-ease/articleshow/131610630.cms",
+          "title": "'When you zoom out, things look very good;\" Vikas Khemani on the India story every investor needs to hear now",
+          "summary": "India has built a strong foundation for growth over the past decade, according to Vikas Khemani of Carnelian Asset Management. He highlighted robust digital and physical infrastruc...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/when-you-zoom-out-things-look-very-good-vikas-khemani-on-the-india-story-every-investor-needs-to-hear-now/articleshow/131625903.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Wadhwa Group leases 33K sq ft office space in Mumbai for Rs 44 cr rental in 9-yr period",
-          "summary": "The Wadhwa Group has successfully signed a contract with Morningstar, leasing 33,000 square feet of office space. With a staggering rental cost of Rs 44 crore over a nine-year peri...",
-          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/wadhwa-group-leases-33k-sq-ft-office-space-in-mumbai-for-rs-44-cr-rental-in-9-yr-period/articleshow/131610602.cms",
+          "title": "Wipro's Rs 15,000 crore buyback opens tomorrow: 10 key things to know before tendering shares",
+          "summary": "Wipro's substantial Rs 15,000 crore share buyback commences tomorrow, June 11, closing on June 17. Investors can tender shares at Rs 250 each, offering a significant premium. Small...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/wipros-rs-15000-crore-buyback-opens-tomorrow-10-key-things-to-know-before-tendering-shares/slideshow/131625831.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Flipkart faces fresh insolvency petition as NCLT seeks response over  ₹1.7 crore dues",
-          "summary": "Applabs Media Pvt Ltd said the e-commerce company owes it almost ₹1.7 crore for advertising campaigns....",
-          "link": "https://www.livemint.com/companies/news/flipkart-fresh-insolvency-petition-nclt-applabs-media-advertising-campaigns-11781003713345.html",
+          "title": "Hyundai's Creta production disrupted after fire hits component supplier's plant in Chennai",
+          "summary": "Hyundai Motor India is sourcing alternatives and plans to return to normal production within two weeks while managing dealer supplies to avoid sales impacts....",
+          "link": "https://www.livemint.com/companies/news/hyundai-creta-production-supplier-plant-chennai-dealer-inventory-fire-11781066906813.html",
           "source": "Livemint Companies"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Bharat Innovates 2026: How an IIT Madras incubator helped build the world's first 3D-printed rocket engine",
-          "summary": "Agnikul Cosmos is building India's most flexible launch system using 3D-printed engines, modular rockets, and the country's first private launchpad. The Chennai startup, incubated ...",
-          "link": "https://yourstory.com/2026/06/bharat-innovates-2026-iit-madras-incubator-build-worlds-first-3d-printed-rocket-engine",
+          "title": "Startup news and updates: Daily roundup (June 9, 2026)",
+          "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, June 9, 2026...",
+          "link": "https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-9-2026",
           "source": "YourStory"
         },
         {
-          "title": "Why Persistence Outperforms Power: Lessons from a River’s Path",
-          "summary": "What James N. Watkins’ line about rivers and rock teaches us about building habits, learning effectively, and making durable progress in modern life....",
-          "link": "https://yourstory.com/2026/06/river-cuts-rock-persistence-james-watkins",
+          "title": "Zepto files updated IPO papers, plans to raise Rs 8,010 Cr through fresh issue",
+          "summary": "The quick-commerce unicorn plans to use the proceeds of the proposed IPO towards expanding its dark stores network, technology, marketing, and acquisitions....",
+          "link": "https://yourstory.com/2026/06/zepto-updated-ipo-papers-plans-to-raise-rs-8010-crore-fresh-issue",
           "source": "YourStory"
         },
         {
-          "title": "Ex-Mirae Asset CEO Ashish Dave Floats ₹1,000 Cr Fund For Growth Stage Startups",
-          "summary": "Nearly a year after stepping down from the role of the CEO of Mirae Asset Venture Investments (India), Ashish Dave&#8230;...",
-          "link": "https://inc42.com/buzz/ex-mirae-asset-ceo-ashish-dave-floats-%e2%82%b91000-cr-fund-for-growth-stage-startups/",
+          "title": "Google Cloud Faces Network Disruptions In India After Fire At Third-Party Data Centre",
+          "summary": "Google Cloud said some customers in India experienced intermittent network disruptions after a fire at a third-party data centre facility&#8230;...",
+          "link": "https://inc42.com/buzz/google-cloud-faces-network-disruptions-in-india-after-fire-at-third-party-data-centre/",
           "source": "Inc42"
         }
       ]
@@ -211,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "ABB launches modular synchronous condenser package for AI",
+          "summary": "ABB has launched a pre-engineered modular synchronous condenser package for AI data centers and other power-intensive applications that place added demands on grid stability. The p...",
+          "link": "https://www.designworldonline.com/abb-launches-modular-synchronous-condenser-package-for-ai/",
+          "source": "Design World"
+        },
+        {
           "title": "Advantech expands collaboration with NVIDIA for factory AI systems",
           "summary": "Advantech has announced an expanded collaboration with NVIDIA focused on an AI-based factory architecture for agentic AI and physical AI applications. The architecture uses NVIDIA ...",
           "link": "https://www.designworldonline.com/advantech-expands-collaboration-with-nvidia-for-factory-ai-systems/",
           "source": "Design World"
-        },
-        {
-          "title": "AutomationDirect expands METEcon multi-wire connectors",
-          "summary": "AutomationDirect has added METEcon multi-wire connectors that simplify complex industrial wiring while improving long-term reliability. The expanded offering includes additional in...",
-          "link": "https://www.designworldonline.com/automationdirect-expands-metecon-multi-wire-connectors/",
-          "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "WWDC 2026 Impressions: Yeah, That's About Right",
-          "summary": "Everything you need to know about the new Siri AI and iOS 27\n\nGet up to 40% off at https://ridge.com/MKBHD for Father’s Day! Ends June 21st!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPl...",
-          "link": "https://www.youtube.com/watch?v=_gCXmKjDecU",
-          "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/_gCXmKjDecU/hqdefault.jpg"
-        },
-        {
-          "title": "AI Agents as \"Games Masters\"? 🎮🔥",
-          "summary": "Check the pinned comment for the link to the full interview. Could AI agents eventually become the \"Games Master\" driving your gaming storylines? We explore the concept of AI assis...",
-          "link": "https://www.youtube.com/shorts/82m7YqosdgU",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/82m7YqosdgU/hqdefault.jpg"
         }
       ]
     }
