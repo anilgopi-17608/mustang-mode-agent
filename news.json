@@ -1,91 +1,91 @@
 {
-  "last_updated": "Wednesday, June 10, 2026 at 11:31 AM IST",
-  "last_updated_iso": "2026-06-10T11:31:20.420503",
+  "last_updated": "Thursday, June 11, 2026 at 11:48 AM IST",
+  "last_updated_iso": "2026-06-11T11:48:54.753684",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23390.05,
-        "change": 147.95000000000073,
-        "change_pct": 0.6365603796558862,
+        "price": 23265.45,
+        "change": 50.5,
+        "change_pct": 0.21753223676984013,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 74442.97,
-        "change": 524.2100000000064,
-        "change_pct": 0.7091704460410407,
+        "price": 74061.18,
+        "change": 78.0,
+        "change_pct": 0.10542936921608399,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 55418.65,
-        "change": 224.15000000000146,
-        "change_pct": 0.40610930436909737,
+        "price": 55346.95,
+        "change": 246.64999999999418,
+        "change_pct": 0.4476382161258544,
         "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "ICICI Bank",
-        "price": 1302.0,
-        "change": 27.0,
-        "change_pct": 2.1176470588235294,
+        "price": 1326.1,
+        "change": 32.799999999999955,
+        "change_pct": 2.536147838861823,
         "is_up": true
       },
       {
-        "name": "L&T",
-        "price": 3938.8,
-        "change": 38.20000000000027,
-        "change_pct": 0.9793365123314431,
+        "name": "Bharti Airtel",
+        "price": 1792.5,
+        "change": 17.299999999999955,
+        "change_pct": 0.9745380802163109,
         "is_up": true
       },
       {
         "name": "Reliance",
-        "price": 1279.6,
-        "change": 10.399999999999864,
-        "change_pct": 0.8194138039709945,
+        "price": 1270.0,
+        "change": 11.200000000000045,
+        "change_pct": 0.8897362567524664,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Infosys",
-        "price": 1155.0,
-        "change": -25.299999999999955,
-        "change_pct": -2.1435228331780016,
+        "price": 1121.9,
+        "change": -23.399999999999864,
+        "change_pct": -2.0431328036322243,
         "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1794.0,
-        "change": -5.0,
-        "change_pct": -0.27793218454697055,
+        "name": "L&T",
+        "price": 3877.0,
+        "change": -40.5,
+        "change_pct": -1.0338225909380983,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 181.28,
-        "change": -0.38999999999998636,
-        "change_pct": -0.2146749600924679,
+        "name": "TCS",
+        "price": 2139.6,
+        "change": -14.300000000000182,
+        "change_pct": -0.6639119736292391,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.257,
-        "change": -0.08299999999999841,
-        "change_pct": -0.08705684917138495,
-        "is_up": false
+        "price": 95.7175,
+        "change": 0.4625000000000057,
+        "change_pct": 0.4855388168600133,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4225.7,
-        "change": -60.69999999999982,
-        "change_pct": -1.4161067562523288,
+        "price": 4101.8,
+        "change": -31.5,
+        "change_pct": -0.7621029201848402,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup",
-          "summary": "The exec, Emad Dlala, has left just a few months after being promoted to SVP of engineering and digital, TechCrunch has learned....",
-          "link": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
+          "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+          "summary": "The decision comes as India emerges as the world’s largest GCC market....",
+          "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
           "source": "TechCrunch"
         },
         {
-          "title": "Google just fired a warning shot in the AI subscription price wars",
-          "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier....",
-          "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+          "title": "Anthropic’s Dario Amodei has just one direct report",
+          "summary": "If you doubted his genius, doubt no more....",
+          "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
           "source": "TechCrunch"
         },
         {
-          "title": "I tried Siri AI, and so far it actually works",
+          "title": "Bluesky is getting ‘communities’",
           "summary": "",
-          "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+          "link": "https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit",
           "source": "The Verge"
         },
         {
-          "title": "Congress just gave DHS another $70 billion",
+          "title": "Framework delays its first Laptop 13 Pro shipments by a month",
           "summary": "",
-          "link": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
+          "link": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
           "source": "The Verge"
         },
         {
-          "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases",
-          "summary": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10....",
-          "link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
+          "title": "Diabetes org apologizes for ejecting scientists over criticism of Trump",
+          "summary": "For days after the stunning incident, the ADA had doubled-down on the choice....",
+          "link": "https://arstechnica.com/health/2026/06/diabetes-org-apologizes-for-ejecting-scientists-over-criticism-of-trump/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "'When you zoom out, things look very good;\" Vikas Khemani on the India story every investor needs to hear now",
-          "summary": "India has built a strong foundation for growth over the past decade, according to Vikas Khemani of Carnelian Asset Management. He highlighted robust digital and physical infrastruc...",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/when-you-zoom-out-things-look-very-good-vikas-khemani-on-the-india-story-every-investor-needs-to-hear-now/articleshow/131625903.cms",
+          "title": "SpaceX IPO: Know date, price, valuation, how to buy and other important details",
+          "summary": "SpaceX is preparing for a massive IPO. The rocket and satellite company plans to raise $75 billion at a $1.75 trillion valuation. Shares are expected to begin trading on Nasdaq on ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/spacex-ipo-know-date-price-valuation-how-to-buy-and-other-important-details/slideshow/131650396.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Wipro's Rs 15,000 crore buyback opens tomorrow: 10 key things to know before tendering shares",
-          "summary": "Wipro's substantial Rs 15,000 crore share buyback commences tomorrow, June 11, closing on June 17. Investors can tender shares at Rs 250 each, offering a significant premium. Small...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/wipros-rs-15000-crore-buyback-opens-tomorrow-10-key-things-to-know-before-tendering-shares/slideshow/131625831.cms",
+          "title": "India bond demand wanes as US-Iran tensions lift oil",
+          "summary": "Indian government bonds saw reduced demand on Thursday. Renewed U.S.-Iran strikes pushed oil prices higher. This development raises concerns about India's economy, the world's thir...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bond-demand-wanes-as-us-iran-tensions-lift-oil/articleshow/131650142.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Hyundai's Creta production disrupted after fire hits component supplier's plant in Chennai",
-          "summary": "Hyundai Motor India is sourcing alternatives and plans to return to normal production within two weeks while managing dealer supplies to avoid sales impacts....",
-          "link": "https://www.livemint.com/companies/news/hyundai-creta-production-supplier-plant-chennai-dealer-inventory-fire-11781066906813.html",
+          "title": "TCS reconsiders plan to open offices in smaller towns after Nashik workplace harassment case",
+          "summary": "Apart from the difficulty of maintaining similar HR practices and culture across micro-offices, the rise of automation tools is driving the consolidation of workspaces....",
+          "link": "https://www.livemint.com/companies/tcs-rethinks-small-town-office-expansion-after-nashik-harassment-case-11781148031692.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA clears Xenix Medical’s Lux fusion system",
-          "summary": "Designed for spinal fusion surgery, Lux is designed to increase the chances of procedural success and provide greater flexibility once implants are fitted. The post FDA clears Xeni...",
-          "link": "https://www.medicaldevice-network.com/news/fda-clears-xenix-medical-lux-fusion-system/",
+          "title": "FDA grants IDE to SpinaFX for study of Triojection",
+          "summary": "SpinaFX Medical has received the US FDA investigational device exemption (IDE) to study its Triojection therapy. The post FDA grants IDE to SpinaFX for study of Triojection appeare...",
+          "link": "https://www.medicaldevice-network.com/news/fda-grants-ide-spinafx-study-triojection/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Startup news and updates: Daily roundup (June 9, 2026)",
-          "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, June 9, 2026...",
-          "link": "https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-9-2026",
+          "title": "From a college dorm room to aerospace manufacturing, the RVCE duo is building India's precision future",
+          "summary": "Ethereal Machines builds India's precision manufacturing future — designing its own five-axis CNC machines and offering them as an on-demand service for aerospace, defence, healthc...",
+          "link": "https://yourstory.com/2026/06/aerospace-manufacturing-rvce-duo-building-indias-precision-future",
           "source": "YourStory"
         },
         {
-          "title": "Zepto files updated IPO papers, plans to raise Rs 8,010 Cr through fresh issue",
-          "summary": "The quick-commerce unicorn plans to use the proceeds of the proposed IPO towards expanding its dark stores network, technology, marketing, and acquisitions....",
-          "link": "https://yourstory.com/2026/06/zepto-updated-ipo-papers-plans-to-raise-rs-8010-crore-fresh-issue",
+          "title": "Hoola Health secures $5M funding led by Peak XV’s Surge",
+          "summary": "Hoola Health said the new capital will be used to expand into new markets, strengthen its technology stack and scale its integrated care model....",
+          "link": "https://yourstory.com/2026/06/hoola-health-5-million-funding-peak-xv-surge",
           "source": "YourStory"
         },
         {
-          "title": "Google Cloud Faces Network Disruptions In India After Fire At Third-Party Data Centre",
-          "summary": "Google Cloud said some customers in India experienced intermittent network disruptions after a fire at a third-party data centre facility&#8230;...",
-          "link": "https://inc42.com/buzz/google-cloud-faces-network-disruptions-in-india-after-fire-at-third-party-data-centre/",
+          "title": "Ethereal Machines Raises $28.5 Mn To Expand Precision Manufacturing Capacity",
+          "summary": "Deeptech manufacturing startup Ethereal Machines has raised $28.5 Mn (about ₹272 Cr) in its Series B funding round led by&#8230;...",
+          "link": "https://inc42.com/buzz/ethereal-machines-raises-28-5-mn-to-expand-precision-manufacturing-capacity/",
           "source": "Inc42"
         }
       ]
@@ -211,14 +211,14 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "ABB launches modular synchronous condenser package for AI",
-          "summary": "ABB has launched a pre-engineered modular synchronous condenser package for AI data centers and other power-intensive applications that place added demands on grid stability. The p...",
-          "link": "https://www.designworldonline.com/abb-launches-modular-synchronous-condenser-package-for-ai/",
+          "title": "Pepperl+Fuchs introduces rugged Tab-IND tablets",
+          "summary": "The Tab-IND series from Pepperl+Fuchs includes rugged tablets for intralogistics, manufacturing, automotive and outdoor applications. The devices are built to MIL-STD-810H standard...",
+          "link": "https://www.designworldonline.com/pepperlfuchs-introduces-rugged-tab-ind-tablets/",
           "source": "Design World"
         },
         {
           "title": "Advantech expands collaboration with NVIDIA for factory AI systems",
-          "summary": "Advantech has announced an expanded collaboration with NVIDIA focused on an AI-based factory architecture for agentic AI and physical AI applications. The architecture uses NVIDIA ...",
+          "summary": "Advantech has announced an expanded collaboration with NVIDIA to introduce an AI-based factory architecture for agentic AI and physical AI applications. Built with NVIDIA NemoClaw,...",
           "link": "https://www.designworldonline.com/advantech-expands-collaboration-with-nvidia-for-factory-ai-systems/",
           "source": "Design World"
         }
