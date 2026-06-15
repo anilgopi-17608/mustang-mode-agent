@@ -1,91 +1,91 @@
 {
-  "last_updated": "Sunday, June 14, 2026 at 11:47 AM IST",
-  "last_updated_iso": "2026-06-14T11:47:01.399354",
+  "last_updated": "Monday, June 15, 2026 at 12:27 PM IST",
+  "last_updated_iso": "2026-06-15T12:27:47.278648",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23622.9,
-        "change": 461.3000000000029,
-        "change_pct": 1.9916586073501095,
+        "price": 23908.15,
+        "change": 285.25,
+        "change_pct": 1.2075147420511452,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 75527.95,
-        "change": 1695.3999999999942,
-        "change_pct": 2.2962771839791447,
+        "price": 76557.02,
+        "change": 1029.070000000007,
+        "change_pct": 1.36250222599714,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 56814.8,
-        "change": 1638.050000000003,
-        "change_pct": 2.968732301195708,
+        "price": 57296.4,
+        "change": 481.59999999999854,
+        "change_pct": 0.8476664531072863,
         "is_up": true
       }
     ],
     "gainers": [
       {
+        "name": "Maruti",
+        "price": 13932.0,
+        "change": 566.0,
+        "change_pct": 4.2346251683375735,
+        "is_up": true
+      },
+      {
         "name": "L&T",
-        "price": 4049.3,
-        "change": 187.30000000000018,
-        "change_pct": 4.849818746763339,
+        "price": 4183.4,
+        "change": 134.09999999999945,
+        "change_pct": 3.3116835008519856,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 772.45,
-        "change": 27.850000000000023,
-        "change_pct": 3.7402632285791055,
-        "is_up": true
-      },
-      {
-        "name": "Reliance",
-        "price": 1293.0,
-        "change": 30.0,
-        "change_pct": 2.375296912114014,
+        "name": "Infosys",
+        "price": 1136.8,
+        "change": 20.399999999999864,
+        "change_pct": 1.8273020422787407,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1116.4,
-        "change": 1.800000000000182,
-        "change_pct": 0.161492912255534,
-        "is_up": true
+        "name": "Sun Pharma",
+        "price": 1804.5,
+        "change": -3.2000000000000455,
+        "change_pct": -0.17702052331692456,
+        "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1807.7,
-        "change": 13.5,
-        "change_pct": 0.7524244788763794,
-        "is_up": true
+        "name": "ICICI Bank",
+        "price": 1338.7,
+        "change": -2.099999999999909,
+        "change_pct": -0.15662291169450396,
+        "is_up": false
       },
       {
         "name": "TCS",
-        "price": 2161.4,
-        "change": 25.800000000000182,
-        "change_pct": 1.2080914028844438,
+        "price": 2168.7,
+        "change": 7.299999999999727,
+        "change_pct": 0.33774405477929703,
         "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.1,
-        "change": -0.6500000000000057,
-        "change_pct": -0.6788511749347318,
+        "price": 94.7175,
+        "change": -0.3824999999999932,
+        "change_pct": -0.4022082018927373,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4238.8,
-        "change": 124.80000000000018,
-        "change_pct": 3.0335439961108457,
+        "price": 4325.8,
+        "change": 87.0,
+        "change_pct": 2.052467679531943,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "As Anthropic suspends access to new models, India debates its AI future",
-          "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions....",
-          "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+          "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+          "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital....",
+          "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-          "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed....",
-          "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+          "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+          "summary": "JPMorgan can't be pleased by any of this....",
+          "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
           "source": "TechCrunch"
         },
         {
-          "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+          "title": "The FBI built a small town to simulate cyberattacks",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+          "link": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
           "source": "The Verge"
         },
         {
-          "title": "X-Men ’97 has what Master of the Universe is missing",
+          "title": "China may have accessed Mythos",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
           "source": "The Verge"
         },
         {
-          "title": "Review: Disclosure Day is big on action, light on ideas",
-          "summary": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors....",
-          "link": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
+          "title": "Did a medieval flying monk spot Halley's comet, twice? It's complicated",
+          "summary": "University of Leicester historian thinks Eilmer of Malmesbury saw two different comets: in 1018 and 1066...",
+          "link": "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "South Korea’s world-beating stock market eyes its MSCI moment",
-          "summary": "Now investors are awaiting MSCI Inc.’s annual market-classification review on June 23, when the index provider will decide whether Korea finally earns a place on the watchlist for ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/south-koreas-world-beating-stock-market-eyes-its-msci-moment/articleshow/131716179.cms",
+          "title": "Vedanta listing: How billionaire Anil Agarwal's 'Fantastic 5' unlocked Rs 63,500 crore value with mega demerger",
+          "summary": "Vedanta’s long-awaited demerger culminated with the listing of four newly spun-off businesses, triggering a sharp market re-rating and unlocking about Rs 63,500 crore in shareholde...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-listing-how-billionaire-anil-agarwals-fantastic-5-unlocked-rs-63500-crore-value-with-mega-demerger/articleshow/131735356.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "FPI exodus continues, Rs 62,800 cr pulled out from equities in first fortnight of June",
-          "summary": "Foreign investors continue to sell Indian shares. They have withdrawn over Rs 62,853 crore in early June. This follows significant outflows in previous months. Geopolitical tension...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-exodus-continues-rs-62800-cr-pulled-out-from-equities-in-first-fortnight-of-june/articleshow/131715971.cms",
+          "title": "Focus on structural trends, ignore market noise: Hiren Ved",
+          "summary": "Markets react quickly to news, but Hiren Ved of Alchemy Capital Management advises focusing on reality over narratives. He highlights a global capital expenditure supercycle and In...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/focus-on-structural-trends-ignore-market-noise-hiren-ved/articleshow/131735245.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Who is Luana Lopes Lara, Kalshi CEO who turned Kylie Jenner gossip into a $22 billion prediction marketplace",
-          "summary": "At 30, she is now one of the world’s youngest female self-made billionaires, with a net worth of $2.6 billion....",
-          "link": "https://www.livemint.com/companies/who-is-luana-lopes-lara-kalshi-ceo-who-turned-kylie-jenner-gossip-into-a-22-billion-prediction-marketplace-11781411934855.html",
+          "title": "Britain’s banks see fraud cases spike after refund rules take effect",
+          "summary": "BRITAIN-BANKS/FRAUD:Britain’s banks see fraud cases spike after refund rules take effect...",
+          "link": "https://www.livemint.com/companies/britains-banks-see-fraud-cases-spike-after-refund-rules-take-effect-11781478139934.html",
           "source": "Livemint Companies"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "From small towns to global impact: India’s MSMEs are powering the next wave of entrepreneurship",
-          "summary": "From small towns to global impact: India’s MSMEs are powering the next wave of entrepreneurship As India continues to work toward becoming a global innovation and entrepreneurship ...",
-          "link": "https://yourstory.com/2026/06/indias-msmes-powering-next-wave-entrepreneurship",
+          "title": "How BIRAC is shaping India’s biotech startup ecosystem",
+          "summary": "The multipronged approach of Biotechnology Industry Research Assistance Council (BIRAC) encompassing funding, infrastructure, networks, market reach has led to expansion of biotech...",
+          "link": "https://yourstory.com/2026/06/how-birac-is-shaping-indias-biotech-startup-ecosystem",
           "source": "YourStory"
         },
         {
-          "title": "Innovating for India’s Rightful Place in the World",
-          "summary": "This Rigvedic invocation has guided India’s civilisational openness to knowledge. Today, it finds urgent expression in innovation....",
-          "link": "https://yourstory.com/2026/06/indias-next-innovation-decade-n-chandrasekaran-deep-tech-sovereignty",
+          "title": "From the Ocean to the World: Bharat Innovates India’s Blue Economy Moment",
+          "summary": "India will take its top 120 deep-tech ventures to Nice, France, for Bharat Innovates 2026, an initiative of the Ministry of Education of India....",
+          "link": "https://yourstory.com/2026/04/bharat-innovates-2026-iit-madras-india-blue-economy-france",
           "source": "YourStory"
         },
         {
-          "title": "Zepto’s Battle Beyond Speed",
-          "summary": "For Blinkit, Zepto and Swiggy Instamart, much of the post-pandemic era was spent persuading urban Indians to prioritise convenience over&#8230;...",
-          "link": "https://inc42.com/features/zeptos-battle-beyond-speed/",
+          "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In June",
+          "summary": "India’s tech story is entering a nuanced phase, with AI pushing deeper into filmmaking, cybersecurity, enterprise workflows and education. Recently,&#8230;...",
+          "link": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-june/",
           "source": "Inc42"
         }
       ]
@@ -211,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "Conversation with Wago engineering about lean managed switches",
+          "summary": "Updated 2026 • Recall from basic networking that managed switches need some configuration before operation to expand network availability &#8230; For example, where vibration or ha...",
+          "link": "https://www.designworldonline.com/conversation-with-wago-engineering-about-lean-managed-switches/",
+          "source": "Design World"
+        },
+        {
           "title": "Teradyne Robotics to show AI automation at Automate",
           "summary": "Teradyne Robotics, which includes Universal Robots and Mobile Industrial Robots, will demonstrate industrial automation applications using physical AI at Automate 2026 in Chicago f...",
           "link": "https://www.designworldonline.com/teradyne-robotics-to-show-ai-automation-at-automate/",
           "source": "Design World"
-        },
-        {
-          "title": "Live Emergent Vision Technology demonstrations at Automate",
-          "summary": "Emergent Vision Technologies will present live machine vision demonstrations at Automate 2026 in South Hall, Booth 977, where it will show new 100GigE cameras for industrial and se...",
-          "link": "https://www.designworldonline.com/live-emergent-vision-technology-demonstrations-at-automate/",
-          "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "WWDC 2026 Impressions: Yeah, That's About Right",
-          "summary": "Everything you need to know about the new Siri AI and iOS 27\n\nGet up to 40% off at https://ridge.com/MKBHD for Father’s Day! Ends June 21st!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPl...",
-          "link": "https://www.youtube.com/watch?v=_gCXmKjDecU",
-          "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/_gCXmKjDecU/hqdefault.jpg"
-        },
-        {
-          "title": "AI Agents as \"Games Masters\"? 🎮🔥",
-          "summary": "Check the pinned comment for the link to the full interview. Could AI agents eventually become the \"Games Master\" driving your gaming storylines? We explore the concept of AI assis...",
-          "link": "https://www.youtube.com/shorts/82m7YqosdgU",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/82m7YqosdgU/hqdefault.jpg"
         }
       ]
     }
