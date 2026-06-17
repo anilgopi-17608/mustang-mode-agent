@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, June 16, 2026 at 12:32 PM IST",
-  "last_updated_iso": "2026-06-16T12:32:26.956757",
+  "last_updated": "Wednesday, June 17, 2026 at 12:09 PM IST",
+  "last_updated_iso": "2026-06-17T12:09:03.318277",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23936.1,
-        "change": 82.19999999999709,
-        "change_pct": 0.3445977387345343,
+        "price": 24060.85,
+        "change": 71.69999999999709,
+        "change_pct": 0.298885120981765,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 76580.36,
-        "change": 316.02999999999884,
-        "change_pct": 0.41438769605659526,
+        "price": 77109.91,
+        "change": 301.43000000000757,
+        "change_pct": 0.3924436468473371,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57144.8,
-        "change": -54.0,
-        "change_pct": -0.09440757498409057,
-        "is_up": false
+        "price": 57595.05,
+        "change": 297.90000000000146,
+        "change_pct": 0.5199211479105007,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Reliance",
-        "price": 1329.9,
-        "change": 22.90000000000009,
-        "change_pct": 1.7521040550879947,
+        "name": "Infosys",
+        "price": 1155.1,
+        "change": 11.5,
+        "change_pct": 1.0055963623644633,
+        "is_up": true
+      },
+      {
+        "name": "Wipro",
+        "price": 184.35,
+        "change": 1.6800000000000068,
+        "change_pct": 0.9196912465101039,
         "is_up": true
       },
       {
         "name": "TCS",
-        "price": 2184.6,
-        "change": 22.59999999999991,
-        "change_pct": 1.045328399629968,
-        "is_up": true
-      },
-      {
-        "name": "HDFC Bank",
-        "price": 784.2,
-        "change": 6.850000000000023,
-        "change_pct": 0.8811989451341123,
+        "price": 2217.5,
+        "change": 18.5,
+        "change_pct": 0.8412914961346065,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Maruti",
-        "price": 13705.0,
-        "change": -100.0,
-        "change_pct": -0.7243752263672582,
+        "price": 13683.0,
+        "change": -8.0,
+        "change_pct": -0.05843254692863925,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1798.5,
-        "change": -7.5,
-        "change_pct": -0.41528239202657813,
-        "is_up": false
+        "name": "Reliance",
+        "price": 1329.6,
+        "change": 0.7999999999999545,
+        "change_pct": 0.06020469596628195,
+        "is_up": true
       },
       {
         "name": "Bharti Airtel",
-        "price": 1842.8,
-        "change": 1.599999999999909,
-        "change_pct": 0.08689984792526119,
+        "price": 1856.0,
+        "change": 3.0,
+        "change_pct": 0.16189962223421478,
         "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.64,
-        "change": -0.060000000000002274,
-        "change_pct": -0.06335797254488096,
+        "price": 94.425,
+        "change": -0.18000000000000682,
+        "change_pct": -0.19026478515935397,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4340.7,
-        "change": -10.900000000000546,
-        "change_pct": -0.2504825811196007,
+        "price": 4345.0,
+        "change": -9.399999999999636,
+        "change_pct": -0.21587359911812506,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-          "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat....",
-          "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+          "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+          "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests....",
+          "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
           "source": "TechCrunch"
         },
         {
-          "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-          "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts....",
-          "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+          "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+          "summary": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain....",
+          "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
           "source": "TechCrunch"
         },
         {
-          "title": "Inside the fight over Claude Mythos 5",
+          "title": "The Complete Calvin and Hobbes is a great last-minute Father’s Day gift",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+          "link": "https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale",
           "source": "The Verge"
         },
         {
-          "title": "Facebook’s new AI Mode search gets its info from public posts",
+          "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
           "summary": "",
-          "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+          "link": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
           "source": "The Verge"
         },
         {
-          "title": "Key mission for Europe's commercial space enterprise scrubbed again",
-          "summary": "Isar Aerospace is not hurting for money, but it is sorely lacking in the currency of flight experience....",
-          "link": "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
+          "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+          "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center....",
+          "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
           "source": "Ars Technica"
         }
       ]
@@ -130,33 +130,27 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "IFCI shares rally 30% in 3 days, hit fresh record high amid buzz around NSE filing IPO papers by Thursday",
-          "summary": "Vedanta’s Rs 2 lakh crore demerger has sparked renewed interest in its aluminium and power businesses, prompting investors to reassess value creation opportunities. Market focus is...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-rally-30-in-3-days-hit-fresh-record-high-amid-buzz-around-nse-filing-ipo-papers-by-thursday/articleshow/131761910.cms",
+          "title": "Cyient shares crash 6% as stock turns ex-record date for Rs 720 crore share buyback. What's ahead?",
+          "summary": "Cyient shares fell sharply on Wednesday after the stock turned ex-record date for its Rs 720 crore share buyback at Rs 1,125 per share. Investors purchasing shares after the record...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cyient-shares-crash-6-as-stock-turns-ex-record-date-for-rs-720-crore-share-buyback-whats-ahead/articleshow/131788379.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "FY27 earnings recovery key to next leg of market upmove: Rajeev Agrawal",
-          "summary": "Global markets are cautiously optimistic about a potential US-Iran agreement easing geopolitical risks and crude oil volatility. However, Indian equities remain restrained, with ma...",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/fy27-earnings-recovery-key-to-next-leg-of-market-upmove-rajeev-agrawal/articleshow/131761688.cms",
+          "title": "US Stock Market: ETF issuers rush to capitalise on AI-focused ‘MANGOS’ theme after SpaceX IPO",
+          "summary": "Two asset managers are seeking regulatory approval for new ETFs tied to the \"MANGOS\" acronym, a basket of leading AI-focused companies including Meta, Nvidia, Google, SpaceX, Anthr...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-etf-issuers-rush-to-capitalise-on-ai-focused-mangos-theme-after-spacex-ipo/articleshow/131787745.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
+          "title": "Beyond ground handling: AISATS charts cargo-led growth with  ₹600 crore capex",
+          "summary": "AISATS plans ₹600 crore FY27 capex and targets ₹3,000-3,500 crore revenue over five years, banking on cargo, warehousing and logistics to reduce dependence on ground handling....",
+          "link": "https://www.livemint.com/companies/air-india-sats-rs-600-crore-investment-noida-airport-cargo-expansion-11781663455213.html",
+          "source": "Livemint Companies"
         },
         {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Lighthouse, Multiples, Motilal PE eye minority stake in safety gear maker Karam",
-          "summary": "Karam is in talks to raise $70-100 million from private equity investors at a valuation of up to $600 million, as interest grows in profitable manufacturing businesses....",
-          "link": "https://www.livemint.com/companies/karam-private-equity-lighthouse-funds-multiples-motilal-oswal-alternates-ey-industrial-safety-gear-ppe-11781576490132.html",
+          "title": "DS Group boosts FY27 hotel investment by 50% to  ₹1,500 crore amid hospitality boom",
+          "summary": "The FMCG-to-hospitality player is targeting 10-12 hotels by FY29, expands through acquisitions and new projects as demand outpaces supply...",
+          "link": "https://www.livemint.com/companies/news/ds-group-raises-hotel-investment-to-rs-1500-crore-amid-hospitality-boom-11781666511718.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +171,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "J&J outlays $1bn to strengthen Floridian contact lens manufacturing provision",
-          "summary": "The investment is anticipated to enhance J&J’s supply chain resilience regarding production of its ACUVUE contact lenses. The post J&amp;J outlays $1bn to strengthen Floridian cont...",
-          "link": "https://www.medicaldevice-network.com/news/jj-outlays-1bn-to-strengthen-floridian-contact-lens-manufacturing-provision/",
+          "title": "FDA clears SurGenTec’s facet fixation system for degenerative disc disease treatment",
+          "summary": "Cleared by the FDA based on data from an IRB-approved study, SurGenTec’s ION-L facet provides a less invasive approach to spinal fixation. The post FDA clears SurGenTec’s facet fix...",
+          "link": "https://www.medicaldevice-network.com/news/fda-clears-surgentec-facet-fixation-system-for-degenerative-disc-disease-treatment/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +182,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "5 books that help you disconnect from social media chaos",
-          "summary": "Discover 5 powerful books that help you disconnect from social media chaos, regain focus, reduce overwhelm, and reconnect with real life....",
-          "link": "https://yourstory.com/2026/05/books-to-disconnect-from-social-media-chaos",
+          "title": "Transforming desert livelihoods in Rajasthan; Cosentus’ India centre: A pillar of growth",
+          "summary": "Aakriti Srivastava's Bahula Naturals works with over 4,000 pastoralist households in Rajasthan, turning camel milk and desert produce into premium food products while ensuring wome...",
+          "link": "https://yourstory.com/2026/06/transforming-desert-livelihoods-rajasthan-cosentus-india-centre-pillar-of-growth",
           "source": "YourStory"
         },
         {
-          "title": "India is ready to design for the world, says Dassault Systèmes' Sudarshan Mogasale",
-          "summary": "Sudarshan Mogasale, CEO of Dassault Systèmes Solutions Lab (India), on why deep tech in India is at an inflection point, the power of virtual twins, and the road to Bharat Innovate...",
-          "link": "https://yourstory.com/2026/06/bharat-innovates-2026-dassault-sudarshan-mogasale-india-deep-tech",
+          "title": "Token costs are climbing. Developers can help fix that",
+          "summary": "At DevSparks 2026 in Bengaluru, NVIDIA's Jigar Halani made the case that every model choice and agent a developer ships has a direct cost implication, and that understanding tokeco...",
+          "link": "https://yourstory.com/2026/06/tokeconomics-ai-token-cost-jigar-halani-nvidia-devsparks-2026",
           "source": "YourStory"
         },
         {
-          "title": "Centre Restricts Telegram Access Till June 22 Ahead Of NEET Re-Exam",
-          "summary": "The MeitY has issued a temporary restriction on access to the messaging platform Telegram in India until June 22, 2026,&#8230;...",
-          "link": "https://inc42.com/buzz/centre-restricts-telegram-access-till-june-22-ahead-of-neet-re-exam/",
+          "title": "Karnataka HC Orders ‘Immediate Release’ Of Gameskraft Cofounders",
+          "summary": "The Karnataka High Court (HC) has ordered the immediate release of Gameskraft cofounders Vikas Taneja, Deepak Singh and Prithviraj Singh,&#8230;...",
+          "link": "https://inc42.com/buzz/karnataka-hc-orders-immediate-release-of-gameskraft-cofounders/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +205,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "AutomationDirect updates C-more CM5 HMI software to v9",
-          "summary": "AutomationDirect has released version 9.00 of its C-more CM5 series programming software for HMI development. The update includes screen performance improvements of up to 250% comp...",
-          "link": "https://www.designworldonline.com/automationdirect-updates-c-more-cm5-hmi-software-to-v9/",
+          "title": "Carlo Gavazzi RSBS soft starters add A2L compliance",
+          "summary": "Carlo Gavazzi has updated its RSBS Series soft starters with certifications for use in systems with flammable refrigerants. The series is intended for starting single-phase compres...",
+          "link": "https://www.designworldonline.com/carlo-gavazzi-rsbs-soft-starters-add-a2l-compliance/",
           "source": "Design World"
         },
         {
-          "title": "How do position encoders improve gimbal performance?",
-          "summary": "Gimbals are often used in systems that require the rotation of an object or sub-system about one or more axes. Applications of gimbals include camera stabilization for aerial photo...",
-          "link": "https://www.designworldonline.com/how-do-position-encoders-improve-gimbal-performance/",
+          "title": "Bell-Everman to demonstrate gantry robots at Automate 2026",
+          "summary": "Bell-Everman will exhibit its motion control systems at Automate 2026, taking place June 22–25 at McCormick Place in Chicago. The company will be located at Booth 34036 and will fe...",
+          "link": "https://www.designworldonline.com/bell-everman-to-demonstrate-gantry-robots-at-automate-2026/",
           "source": "Design World"
         }
       ]
@@ -228,18 +222,11 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "WWDC 2026 Impressions: Yeah, That's About Right",
-          "summary": "Everything you need to know about the new Siri AI and iOS 27\n\nGet up to 40% off at https://ridge.com/MKBHD for Father’s Day! Ends June 21st!\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPl...",
-          "link": "https://www.youtube.com/watch?v=_gCXmKjDecU",
+          "title": "The Most Interesting Displays In The World!",
+          "summary": "From touchscreen Macbooks to holograms\n\nGet 40% the Chef iQ Mini Oven and more by using code MKBHD at https://chefiq.com/discount/MKBHD\n\nMagic screen: https://www.kickstarter.com/p...",
+          "link": "https://www.youtube.com/watch?v=WOzcFkld6_g",
           "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/_gCXmKjDecU/hqdefault.jpg"
-        },
-        {
-          "title": "NVIDIA's New Free AI - A Gift To Humanity",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Nemotron 3 Ultra paper is available here:\nhttps://research.nvidia.com/labs/nemotron/Nemotr...",
-          "link": "https://www.youtube.com/watch?v=zJvN8PDX1is",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i3.ytimg.com/vi/zJvN8PDX1is/hqdefault.jpg"
+          "thumbnail": "https://i4.ytimg.com/vi/WOzcFkld6_g/hqdefault.jpg"
         }
       ]
     }
