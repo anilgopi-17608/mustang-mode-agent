@@ -1,91 +1,91 @@
 {
-  "last_updated": "Wednesday, June 17, 2026 at 12:09 PM IST",
-  "last_updated_iso": "2026-06-17T12:09:03.318277",
+  "last_updated": "Thursday, June 18, 2026 at 11:52 AM IST",
+  "last_updated_iso": "2026-06-18T11:52:13.494164",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24060.85,
-        "change": 71.69999999999709,
-        "change_pct": 0.298885120981765,
-        "is_up": true
+        "price": 24060.2,
+        "change": -25.5,
+        "change_pct": -0.10587194891574668,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 77109.91,
-        "change": 301.43000000000757,
-        "change_pct": 0.3924436468473371,
-        "is_up": true
+        "price": 77053.71,
+        "change": -101.90999999998894,
+        "change_pct": -0.1320837030406715,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57595.05,
-        "change": 297.90000000000146,
-        "change_pct": 0.5199211479105007,
+        "price": 57805.05,
+        "change": 220.0,
+        "change_pct": 0.38204360333107285,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Infosys",
-        "price": 1155.1,
-        "change": 11.5,
-        "change_pct": 1.0055963623644633,
+        "name": "HDFC Bank",
+        "price": 795.3,
+        "change": 8.199999999999932,
+        "change_pct": 1.0417990090204463,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 184.35,
-        "change": 1.6800000000000068,
-        "change_pct": 0.9196912465101039,
+        "name": "ICICI Bank",
+        "price": 1337.9,
+        "change": 1.1000000000001364,
+        "change_pct": 0.08228605625375049,
         "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2217.5,
-        "change": 18.5,
-        "change_pct": 0.8412914961346065,
-        "is_up": true
+        "name": "Sun Pharma",
+        "price": 1815.5,
+        "change": -4.900000000000091,
+        "change_pct": -0.26917161063503026,
+        "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 13683.0,
-        "change": -8.0,
-        "change_pct": -0.05843254692863925,
+        "name": "Infosys",
+        "price": 1132.1,
+        "change": -25.600000000000136,
+        "change_pct": -2.2112809881662034,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1329.6,
-        "change": 0.7999999999999545,
-        "change_pct": 0.06020469596628195,
-        "is_up": true
+        "name": "TCS",
+        "price": 2183.5,
+        "change": -39.5,
+        "change_pct": -1.7768780926675665,
+        "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1856.0,
-        "change": 3.0,
-        "change_pct": 0.16189962223421478,
-        "is_up": true
+        "name": "Maruti",
+        "price": 13446.0,
+        "change": -184.0,
+        "change_pct": -1.3499633162142333,
+        "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.425,
-        "change": -0.18000000000000682,
-        "change_pct": -0.19026478515935397,
+        "price": 94.3,
+        "change": -0.2150000000000034,
+        "change_pct": -0.22747712003386064,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4345.0,
-        "change": -9.399999999999636,
-        "change_pct": -0.21587359911812506,
+        "price": 4320.3,
+        "change": -61.099999999999454,
+        "change_pct": -1.3945314283105734,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-          "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests....",
-          "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+          "title": "How to turn off AI in your Google Docs",
+          "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away....",
+          "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
-          "summary": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain....",
-          "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+          "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+          "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"...",
+          "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
           "source": "TechCrunch"
         },
         {
-          "title": "The Complete Calvin and Hobbes is a great last-minute Father’s Day gift",
+          "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/950958/calvin-and-hobbes-fathers-day-gift-idea-deal-sale",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
           "source": "The Verge"
         },
         {
-          "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
+          "title": "Tim Cook says RAM expenses are &#8216;unsustainable&#8217; and Apple is going to raise prices",
           "summary": "",
-          "link": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
+          "link": "https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram",
           "source": "The Verge"
         },
         {
-          "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
-          "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center....",
-          "link": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+          "title": "Second carcass-eating fly species cleared by FDA for maggot wound therapy",
+          "summary": "Maggot therapy lacks robust data, but it has fans and a fail-safe \"bacon therapy.\"...",
+          "link": "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
           "source": "Ars Technica"
         }
       ]
@@ -130,27 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Cyient shares crash 6% as stock turns ex-record date for Rs 720 crore share buyback. What's ahead?",
-          "summary": "Cyient shares fell sharply on Wednesday after the stock turned ex-record date for its Rs 720 crore share buyback at Rs 1,125 per share. Investors purchasing shares after the record...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cyient-shares-crash-6-as-stock-turns-ex-record-date-for-rs-720-crore-share-buyback-whats-ahead/articleshow/131788379.cms",
+          "title": "Vedanta Aluminium vs Power vs Oil &amp; Gas vs Iron &amp; Steel: Which stock should you buy?",
+          "summary": "Four Vedanta Group companies debuted on the market, with aluminium, iron &amp; steel, and oil &amp; gas shares tumbling while power stocks rose. Analysts advise patience, focusing ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-vs-power-vs-oil-gas-vs-iron-steel-which-stock-should-you-buy/articleshow/131818940.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "US Stock Market: ETF issuers rush to capitalise on AI-focused ‘MANGOS’ theme after SpaceX IPO",
-          "summary": "Two asset managers are seeking regulatory approval for new ETFs tied to the \"MANGOS\" acronym, a basket of leading AI-focused companies including Meta, Nvidia, Google, SpaceX, Anthr...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-etf-issuers-rush-to-capitalise-on-ai-focused-mangos-theme-after-spacex-ipo/articleshow/131787745.cms",
+          "title": "US Stock Market: Trump backs Fed Chair Warsh after rate hold, softens tone on monetary policy",
+          "summary": "US President Donald Trump expressed confidence in Federal Reserve Chairman Kevin Warsh, a departure from his past criticisms of the central bank. While the Fed kept rates steady, w...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-trump-backs-fed-chair-warsh-after-rate-hold-softens-tone-on-monetary-policy/articleshow/131818875.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Beyond ground handling: AISATS charts cargo-led growth with  ₹600 crore capex",
-          "summary": "AISATS plans ₹600 crore FY27 capex and targets ₹3,000-3,500 crore revenue over five years, banking on cargo, warehousing and logistics to reduce dependence on ground handling....",
-          "link": "https://www.livemint.com/companies/air-india-sats-rs-600-crore-investment-noida-airport-cargo-expansion-11781663455213.html",
-          "source": "Livemint Companies"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "DS Group boosts FY27 hotel investment by 50% to  ₹1,500 crore amid hospitality boom",
-          "summary": "The FMCG-to-hospitality player is targeting 10-12 hotels by FY29, expands through acquisitions and new projects as demand outpaces supply...",
-          "link": "https://www.livemint.com/companies/news/ds-group-raises-hotel-investment-to-rs-1500-crore-amid-hospitality-boom-11781666511718.html",
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "A year in, Cyient CEO reshapes leadership to revive growth",
+          "summary": "CEO Sukamal Banerjee has brought in at least eight senior executives as the family-led IT firm seeks larger deals, better margins and a turnaround after falling behind peers Coforg...",
+          "link": "https://www.livemint.com/companies/news/cyient-ceo-sukamal-banerjee-leadership-overhaul-deals-margins-growth-strategy-11781695903297.html",
           "source": "Livemint Companies"
         }
       ]
@@ -171,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA clears SurGenTec’s facet fixation system for degenerative disc disease treatment",
-          "summary": "Cleared by the FDA based on data from an IRB-approved study, SurGenTec’s ION-L facet provides a less invasive approach to spinal fixation. The post FDA clears SurGenTec’s facet fix...",
-          "link": "https://www.medicaldevice-network.com/news/fda-clears-surgentec-facet-fixation-system-for-degenerative-disc-disease-treatment/",
+          "title": "NHS Confed 2026: what drives successful AI implementation in the NHS?",
+          "summary": "Coherent leadership and careful implementation of AI in the NHS were key talking points at the 2026 NHS Confed Expo. The post NHS Confed 2026: what drives successful AI implementat...",
+          "link": "https://www.medicaldevice-network.com/features/nhs-confed-2026-what-drives-successful-ai-implementation-in-the-nhs/",
           "source": "Medical Device Network"
         }
       ]
@@ -182,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Transforming desert livelihoods in Rajasthan; Cosentus’ India centre: A pillar of growth",
-          "summary": "Aakriti Srivastava's Bahula Naturals works with over 4,000 pastoralist households in Rajasthan, turning camel milk and desert produce into premium food products while ensuring wome...",
-          "link": "https://yourstory.com/2026/06/transforming-desert-livelihoods-rajasthan-cosentus-india-centre-pillar-of-growth",
+          "title": "5 teachings from the happiness trap for overthinking less",
+          "summary": "Discover 5 powerful teachings from The Happiness Trap that can help you overthink less, manage anxious thoughts, and find mental clarity....",
+          "link": "https://yourstory.com/2026/05/happiness-trap-teachings-for-overthinking-less",
           "source": "YourStory"
         },
         {
-          "title": "Token costs are climbing. Developers can help fix that",
-          "summary": "At DevSparks 2026 in Bengaluru, NVIDIA's Jigar Halani made the case that every model choice and agent a developer ships has a direct cost implication, and that understanding tokeco...",
-          "link": "https://yourstory.com/2026/06/tokeconomics-ai-token-cost-jigar-halani-nvidia-devsparks-2026",
+          "title": "IIM Bangalore’s new undergraduate campus gets grant from Tata Trusts",
+          "summary": "IIMB's School of Undergraduate Studies will offer courses in economics and data science....",
+          "link": "https://yourstory.com/2026/06/iim-bangalores-new-undergraduate-campus-gets-grant-from-tata-trusts",
           "source": "YourStory"
         },
         {
-          "title": "Karnataka HC Orders ‘Immediate Release’ Of Gameskraft Cofounders",
-          "summary": "The Karnataka High Court (HC) has ordered the immediate release of Gameskraft cofounders Vikas Taneja, Deepak Singh and Prithviraj Singh,&#8230;...",
-          "link": "https://inc42.com/buzz/karnataka-hc-orders-immediate-release-of-gameskraft-cofounders/",
+          "title": "Reliance Jio Rejects Telegram Founder’s GBP Hijacking Allegations",
+          "summary": "IPO-bound Reliance Jio has rejected the allegations that it is intentionally blocking access to online messaging platform Telegram even for&#8230;...",
+          "link": "https://inc42.com/buzz/reliance-jio-rejects-telegram-founders-gbp-hijacking-allegations/",
           "source": "Inc42"
         }
       ]
@@ -205,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Carlo Gavazzi RSBS soft starters add A2L compliance",
-          "summary": "Carlo Gavazzi has updated its RSBS Series soft starters with certifications for use in systems with flammable refrigerants. The series is intended for starting single-phase compres...",
-          "link": "https://www.designworldonline.com/carlo-gavazzi-rsbs-soft-starters-add-a2l-compliance/",
+          "title": "Advantech hosts World Partner Conference during COMPUTEX",
+          "summary": "Advantech Co. Ltd. hosted its World Partner Conference (WPC) this month at the Advantech AIoT Co-Creation Campus. This year marked the first time Advantech deeply integrated WPC wi...",
+          "link": "https://www.designworldonline.com/advantech-hosts-world-partner-conference-during-computex/",
           "source": "Design World"
         },
         {
-          "title": "Bell-Everman to demonstrate gantry robots at Automate 2026",
-          "summary": "Bell-Everman will exhibit its motion control systems at Automate 2026, taking place June 22–25 at McCormick Place in Chicago. The company will be located at Booth 34036 and will fe...",
-          "link": "https://www.designworldonline.com/bell-everman-to-demonstrate-gantry-robots-at-automate-2026/",
+          "title": "Regal Rexnord to show automation products at Automate",
+          "summary": "Regal Rexnord Corp. will exhibit robotics and factory automation products at Automate 2026, scheduled for June 22-25 in Chicago. The company will present products from Thomson, Kol...",
+          "link": "https://www.designworldonline.com/regal-rexnord-to-show-automation-products-at-automate/",
           "source": "Design World"
         }
       ]
@@ -222,11 +228,11 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "The Most Interesting Displays In The World!",
-          "summary": "From touchscreen Macbooks to holograms\n\nGet 40% the Chef iQ Mini Oven and more by using code MKBHD at https://chefiq.com/discount/MKBHD\n\nMagic screen: https://www.kickstarter.com/p...",
-          "link": "https://www.youtube.com/watch?v=WOzcFkld6_g",
-          "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/WOzcFkld6_g/hqdefault.jpg"
+          "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/natural-language-autoencoders\n...",
+          "link": "https://www.youtube.com/watch?v=l72ufA-4SzE",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i1.ytimg.com/vi/l72ufA-4SzE/hqdefault.jpg"
         }
       ]
     }
