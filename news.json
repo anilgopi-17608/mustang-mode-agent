@@ -1,91 +1,91 @@
 {
-  "last_updated": "Friday, June 19, 2026 at 12:12 PM IST",
-  "last_updated_iso": "2026-06-19T12:12:06.902900",
+  "last_updated": "Saturday, June 20, 2026 at 11:25 AM IST",
+  "last_updated_iso": "2026-06-20T11:25:59.506207",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23954.6,
-        "change": -213.40000000000146,
-        "change_pct": -0.8829857663025548,
+        "price": 24013.1,
+        "change": -154.90000000000146,
+        "change_pct": -0.6409301555776293,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 76593.12,
-        "change": -816.8600000000006,
-        "change_pct": -1.0552386139358267,
+        "price": 76802.9,
+        "change": -607.0800000000017,
+        "change_pct": -0.7842399649244216,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57555.25,
-        "change": -408.5500000000029,
-        "change_pct": -0.7048364668983105,
+        "price": 57685.75,
+        "change": -278.0500000000029,
+        "change_pct": -0.4796959481607536,
         "is_up": false
       }
     ],
     "gainers": [
       {
         "name": "Bharti Airtel",
-        "price": 1888.5,
-        "change": 13.700000000000045,
-        "change_pct": 0.7307446127586967,
+        "price": 1910.8,
+        "change": 36.0,
+        "change_pct": 1.920204821847664,
         "is_up": true
       },
       {
         "name": "Sun Pharma",
-        "price": 1833.8,
-        "change": 9.0,
-        "change_pct": 0.49320473476545373,
+        "price": 1838.3,
+        "change": 13.5,
+        "change_pct": 0.7398071021481807,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1348.1,
-        "change": 5.7999999999999545,
-        "change_pct": 0.4320941667287458,
+        "name": "L&T",
+        "price": 4209.4,
+        "change": 19.399999999999636,
+        "change_pct": 0.4630071599045259,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Infosys",
-        "price": 1042.0,
-        "change": -85.5,
-        "change_pct": -7.583148558758316,
+        "price": 1051.4,
+        "change": -76.09999999999991,
+        "change_pct": -6.749445676274937,
         "is_up": false
       },
       {
         "name": "TCS",
-        "price": 2079.0,
-        "change": -124.30000000000018,
-        "change_pct": -5.641537693459818,
+        "price": 2125.0,
+        "change": -78.30000000000018,
+        "change_pct": -3.5537602686878853,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 177.69,
-        "change": -5.150000000000006,
-        "change_pct": -2.816670312841832,
+        "name": "HDFC Bank",
+        "price": 779.8,
+        "change": -19.200000000000045,
+        "change_pct": -2.4030037546933727,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.4675,
-        "change": 0.14450000000000784,
-        "change_pct": 0.1531969933102296,
-        "is_up": true
+        "price": 94.31,
+        "change": -0.012999999999991019,
+        "change_pct": -0.013782428463885818,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4157.2,
-        "change": -88.69999999999982,
-        "change_pct": -2.089074165665697,
+        "price": 4172.9,
+        "change": -73.0,
+        "change_pct": -1.7193056831296076,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
-          "summary": "Telegram argues India should block specific content, not an entire platform used by millions....",
-          "link": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+          "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
+          "summary": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time....",
+          "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
           "source": "TechCrunch"
         },
         {
-          "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-          "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago....",
-          "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+          "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+          "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Myt...",
+          "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
           "source": "TechCrunch"
         },
         {
-          "title": "Barret Zoph is out at OpenAI again after just five months",
+          "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+          "link": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
           "source": "The Verge"
         },
         {
-          "title": "Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027",
+          "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
           "summary": "",
-          "link": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
+          "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
           "source": "The Verge"
         },
         {
-          "title": "A bold satellite rescue mission came together in record time, but will it work?",
-          "summary": "\"I consider this a success already, just from the fact that we're even going to try this.\"...",
-          "link": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+          "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+          "summary": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue....",
+          "link": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
           "source": "Ars Technica"
         }
       ]
@@ -130,27 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Accenture's weak bookings raise AI fears, but Indian IT may weather the storm: Sandip Agarwal",
-          "summary": "Accenture's recent earnings reveal a sharp decline in new bookings and a reduced guidance, sparking concerns about AI's impact on the IT services industry. While AI isn't officiall...",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/accentures-weak-bookings-raise-ai-fears-but-indian-it-may-weather-the-storm-sandip-agarwal/articleshow/131848794.cms",
+          "title": "India's IT sector facing a growth crisis; Daljeet Kohli says he's already walked away",
+          "summary": "India's IT sector faces uncertainty as global slowdown and AI fears spook investors. Market expert Daljeet Kohli advises caution, citing a lack of growth and difficulty in identify...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/indias-it-sector-facing-a-growth-crisis-daljeet-kohli-says-hes-already-walked-away/articleshow/131871029.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Vedanta Aluminium, other demerged stocks surge up to 5%. Which has been the best performed since market debut?",
-          "summary": "Vedanta’s newly listed demerged entities outperformed the broader market on Friday, with shares of Vedanta Aluminium Metal, Vedanta Iron and Steel, Vedanta Power and Vedanta Oil an...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-other-demerged-stocks-surge-up-to-5-which-has-been-the-best-performed-since-market-debut/articleshow/131848713.cms",
+          "title": "53 crore users, satellites in space, sovereign AI: Kshitiz Mahajan on why Jio IPO could rewrite India's tech playbook",
+          "summary": "Jio Platforms is gearing up for a significant IPO, aiming to redefine itself beyond mobile services. The company's ambitious vision includes developing sovereign AI, satellite broa...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/jio-platforms-ipo-indias-biggest-telecom-bet-going-public-with-ai-and-satellite-ambitions-kshitiz-mahajan/articleshow/131870632.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Reliance AGM report card: Company missed these key targets set over the last five years",
-          "summary": "The announcements made at Reliance’s annual general meetings have a significant bearing on the company’s stock price, making a report card of how the company fared on its past targ...",
-          "link": "https://www.livemint.com/companies/news/reliance-agm-reliance-share-price-jio-ipo-mukesh-ambani-ril-gigafactories-india-11781845318977.html",
-          "source": "Livemint Companies"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Telegram case: Delhi high court rejects plea challenging Centre's temporary ban on platform",
-          "summary": "Telegram had moved the Delhi high court requesting for an urgent hearing of the matter after the Centre blocked Telegram until 22 June under Section 69A of the Information Technolo...",
-          "link": "https://www.livemint.com/companies/news/telegram-case-delhi-high-court-plea-centres-temporary-ban-messaging-platform-neetug-11781841381936.html",
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "Tata Consumer targets 17% Ebitda margin in 3 years via overhaul of distribution model",
+          "summary": "Tata Consumer Products is strategizing to improve margins, currently at 13.9%, by enhancing distribution channels and leveraging quick commerce growth. Recent acquisitions have boo...",
+          "link": "https://www.livemint.com/companies/news/tata-consumer-products-ebitda-margin-distribution-overhaul-fmcg-quick-commerce-general-trade-11781851429170.html",
           "source": "Livemint Companies"
         }
       ]
@@ -159,21 +165,21 @@
       "color": "#16a34a",
       "items": [
         {
-          "title": "Solventum executive pay disclosure includes $11M severance for ex-MedSurg leader",
-          "summary": "Solventum recently reported compensation for its top executives and median employee for its first full year as a standalone company. The business formerly known as 3M Health Care s...",
-          "link": "https://www.medicaldesignandoutsourcing.com/solventum-ceo-pay-executive-compensation-severance-median-employee/",
+          "title": "ERIKS opens technology hub in Alkmaar for high-tech OEMs",
+          "summary": "NEWS RELEASE: ERIKS accelerates high-tech growth with launch of technology hub in the Netherlands ERIKS is strengthening its position in high-tech industries with the launch of a d...",
+          "link": "https://www.medicaldesignandoutsourcing.com/eriks-opens-technology-hub-in-alkmaar-for-high-tech-oems/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Cordica Medical acquires RapidWerks micro-molding capability",
-          "summary": "NEWS RELEASE: Cordica Medical acquires RapidWerks micro-molding Expanding Cordica Medical&#8217;s precision capabilities for the miniaturization of next-generation medical devices ...",
-          "link": "https://www.medicaldesignandoutsourcing.com/cordica-medical-acquires-rapidwerks-micro-molding-capability/",
+          "title": "What Butterfly’s saying about Midjourney’s ultrasonic CT plans",
+          "summary": "Generative artificial intelligence company Midjourney says it will open its first AI-powered medical imaging spa offering rapid whole-body, ultrasonic CT scans in 2027. &#8220;Ther...",
+          "link": "https://www.medicaldesignandoutsourcing.com/midjourney-ultrasonic-ct-butterfly-network/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Sonire Therapeutics awarded $13m from Japanese government-backed innovation agency",
-          "summary": "The post Sonire Therapeutics awarded $13m from Japanese government-backed innovation agency appeared first on Medical Device Network ....",
-          "link": "https://www.medicaldevice-network.com/news/sonire-therapeutics-awarded-13m-from-japanese-government-backed-innovation-agency/",
+          "title": "Podcast: Why vascular care in England needs reformation",
+          "summary": "A recent vascular care reform whitepaper for England highlighted gaps in care and issues that cause avoidable harm to patients. The post Podcast: Why vascular care in England needs...",
+          "link": "https://www.medicaldevice-network.com/features/podcast-why-vascular-care-in-england-needs-reformation/",
           "source": "Medical Device Network"
         }
       ]
@@ -182,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
+          "title": "Rusk Media bags Rs 100 Cr funding to expand content play",
+          "summary": "Mumbai-headquartered Rusk Media plans to expand content franchises, grow Alright! TV, build AI production tools and pursue international audiences....",
+          "link": "https://yourstory.com/2026/06/rusk-media-bags-100-crore-funding-to-expand-content-play",
+          "source": "YourStory"
+        },
+        {
           "title": "Bengaluru startup Phygital Studio is rebuilding how brands sell physical spaces",
           "summary": "Phygital Studio unites design, hardware, software, and storytelling on its platform, called Beto, helping brands like Adani and Deloitte build immersive spaces to actively drive sa...",
           "link": "https://yourstory.com/2026/06/phygital-studio-beto-immersive-brand-experiences",
           "source": "YourStory"
         },
         {
-          "title": "From chatbots to autonomous agents: How Hostinger built AI into its core business",
-          "summary": "At DevSparks 2026 Bengaluru, Hostinger's AI Tech Lead Mantas Lukauskas traced the company's journey from early chatbot experiments to Kodee, an agentic system that now handles most...",
-          "link": "https://yourstory.com/2026/05/chatbots-autonomous-agents-hostinger-built-ai-core-business",
-          "source": "YourStory"
-        },
-        {
-          "title": "Delhi HC Upholds Centre’s DecisionTo Restrict Telegram Till June 22",
-          "summary": "The Delhi High Court (HC) has reportedly upheld the central government&#8217;s decision to restrict public access to the Telegram till&#8230;...",
-          "link": "https://inc42.com/buzz/delhi-hc-upholds-centres-decisionto-restrict-telegram-till-june-22/",
+          "title": "From Sarvam To INFLUISH — Indian Startups Raised $426 Mn This Week",
+          "summary": "Indian startups cumulatively raised $426 Mn across 19 deals between June 15 and June 19, marking a significant jump from&#8230;...",
+          "link": "https://inc42.com/buzz/from-sarvam-to-influish-indian-startups-raised-426-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -205,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Accelerating edge AI — for the robot’s sake",
-          "summary": "At the recent Advantech Edge AI Conference in Taipei, attendees heard about plenty of positive trends for the future. Miller Chang, President of Embedded Sector, Advantech, noted t...",
-          "link": "https://www.designworldonline.com/accelerating-edge-ai-for-the-robots-sake/",
+          "title": "EXAIR webinar to cover compressed air system issues",
+          "summary": "Compressed air systems are widely used in manufacturing, but their performance depends on system design, maintenance and operating conditions. Managing system efficiency while limi...",
+          "link": "https://www.designworldonline.com/exair-webinar-to-cover-compressed-air-system-issues/",
           "source": "Design World"
         },
         {
-          "title": "RealSense unveils D585 Pro depth camera at Automate 2026",
-          "summary": "At Automate 2026, RealSense is introducing the RealSense D585 Pro, a depth camera that combines depth sensing, edge AI processing and a software-defined platform that can be update...",
-          "link": "https://www.designworldonline.com/realsense-unveils-d585-pro-depth-camera-at-automate-2026/",
+          "title": "Mind over Machine: Tormach on what AI does well and where it has a lot to learn",
+          "summary": "This episode of Mind Over Machine is hosted by Mike Santora, managing editor of Design World, and features a conversation with Amanda Lucas, technical writer at Tormach, and Kimber...",
+          "link": "https://www.designworldonline.com/mind-over-machine-tormach-on-what-ai-does-well-and-where-it-has-a-lot-to-learn/",
           "source": "Design World"
         }
       ]
@@ -229,11 +235,11 @@
           "thumbnail": "https://i4.ytimg.com/vi/WOzcFkld6_g/hqdefault.jpg"
         },
         {
-          "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/natural-language-autoencoders\n...",
-          "link": "https://www.youtube.com/watch?v=l72ufA-4SzE",
+          "title": "Scientists Found A Better Language For AI Agents",
+          "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper  is available here:\nhttps://recursivemas.github.io/\nhttps://github.com/Recursiv...",
+          "link": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/l72ufA-4SzE/hqdefault.jpg"
+          "thumbnail": "https://i1.ytimg.com/vi/dUmT0OIGoqE/hqdefault.jpg"
         }
       ]
     }
