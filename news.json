@@ -1,91 +1,91 @@
 {
-  "last_updated": "Monday, June 22, 2026 at 12:30 PM IST",
-  "last_updated_iso": "2026-06-22T12:30:09.614244",
+  "last_updated": "Tuesday, June 23, 2026 at 11:14 AM IST",
+  "last_updated_iso": "2026-06-23T11:14:27.623164",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24119.25,
-        "change": 106.15000000000146,
-        "change_pct": 0.44205038083380094,
+        "price": 24113.95,
+        "change": 11.049999999999272,
+        "change_pct": 0.045845105775650534,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77154.58,
-        "change": 351.68000000000757,
-        "change_pct": 0.45789937619543997,
-        "is_up": true
+        "price": 77088.38,
+        "change": -5.690000000002328,
+        "change_pct": -0.0073805936046732615,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57891.6,
-        "change": 205.84999999999854,
-        "change_pct": 0.3568472283016144,
-        "is_up": true
+        "price": 57900.15,
+        "change": -35.44999999999709,
+        "change_pct": -0.061188630134143926,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Reliance",
-        "price": 1330.2,
-        "change": 20.700000000000045,
-        "change_pct": 1.580756013745708,
+        "name": "Sun Pharma",
+        "price": 1893.7,
+        "change": 30.799999999999955,
+        "change_pct": 1.6533361962531512,
         "is_up": true
       },
       {
-        "name": "Infosys",
-        "price": 1066.5,
-        "change": 15.099999999999909,
-        "change_pct": 1.4361803309872463,
+        "name": "ICICI Bank",
+        "price": 1368.0,
+        "change": 15.599999999999909,
+        "change_pct": 1.153504880212948,
         "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2145.5,
-        "change": 20.5,
-        "change_pct": 0.9647058823529411,
+        "name": "L&T",
+        "price": 4237.6,
+        "change": 36.30000000000018,
+        "change_pct": 0.8640182800561774,
         "is_up": true
       }
     ],
     "losers": [
       {
+        "name": "Infosys",
+        "price": 1035.1,
+        "change": -30.300000000000182,
+        "change_pct": -2.8440022526750686,
+        "is_up": false
+      },
+      {
+        "name": "TCS",
+        "price": 2071.8,
+        "change": -56.0,
+        "change_pct": -2.631826299464235,
+        "is_up": false
+      },
+      {
         "name": "Wipro",
-        "price": 180.38,
-        "change": -0.4200000000000159,
-        "change_pct": -0.232300884955761,
+        "price": 176.71,
+        "change": -3.469999999999999,
+        "change_pct": -1.9258519258519253,
         "is_up": false
-      },
-      {
-        "name": "L&T",
-        "price": 4200.0,
-        "change": -9.399999999999636,
-        "change_pct": -0.22330973535419862,
-        "is_up": false
-      },
-      {
-        "name": "Bharti Airtel",
-        "price": 1918.0,
-        "change": 7.2000000000000455,
-        "change_pct": 0.3768055264810574,
-        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.5525,
-        "change": 0.2424999999999926,
-        "change_pct": 0.2571307390520545,
-        "is_up": true
+        "price": 94.658,
+        "change": -0.010000000000005116,
+        "change_pct": -0.010563231503787041,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4222.0,
-        "change": -23.899999999999636,
-        "change_pct": -0.5628959702300959,
+        "price": 4142.2,
+        "change": -60.5,
+        "change_pct": -1.4395507649844148,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Ethan Thornton is trying to do everything all at once",
-          "summary": "Mach's approach differs sharply from some of its peers....",
-          "link": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
+          "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor....",
+          "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
           "source": "TechCrunch"
         },
         {
-          "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
-          "summary": "Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69....",
-          "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
+          "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+          "summary": "OpenAI is attempting to tackle the security issues of the open source software community....",
+          "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
           "source": "TechCrunch"
         },
         {
-          "title": "Bose thinks it can be a media company for some reason",
+          "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company",
+          "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
           "source": "The Verge"
         },
         {
-          "title": "Cold Court’s debut EP is an infectious, glitchy genre mashup",
+          "title": "Valve describes just how brutal RAM negotiations are in 2026",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
+          "link": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
           "source": "The Verge"
         },
         {
-          "title": "Trump admin’s coal investments assist plants with repeated violations",
-          "summary": "At least three coal plants have been repeatedly cited for violating environmental regulations....",
-          "link": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
+          "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+          "summary": "US autoworkers union warns of robot automation as dark factory future looms....",
+          "link": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
           "source": "Ars Technica"
         }
       ]
@@ -130,33 +130,27 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Jio Platforms IPO likely by October-November; AI and ARPU growth in focus: Piyush Pandey",
-          "summary": "Reliance Industries' Jio Platforms IPO is anticipated by October-November, with strong investor interest expected due to a small fresh equity offering. Analysts foresee a holding c...",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/jio-platforms-ipo-likely-by-october-november-ai-and-arpu-growth-in-focus-piyush-pandey/articleshow/131902890.cms",
+          "title": "Madhusudan Kela-backed firm picks stake in SME stock Yash Highvoltage via preferential issue",
+          "summary": "Yash Highvoltage shares surged after ace investor Madhusudan Kela's firm bought nearly 14,000 shares. The company's board approved a preferential issue of up to Rs 151 crore to fun...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-backed-firm-picks-stake-in-sme-stock-yash-highvoltage-via-preferential-issue/articleshow/131926586.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Cipla shares jump 4% as Citi puts stock on 90-day catalyst watch. What's driving the optimism?",
-          "summary": "Cipla's stock surged following Citi's 'Buy' rating and a 90-day Positive Catalyst Watch. The brokerage anticipates growth from potential US approvals like gFlovent and gVentolin, a...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cipla-shares-jump-4-as-citi-puts-stock-on-90-day-catalyst-watch-whats-driving-the-optimism/articleshow/131902881.cms",
+          "title": "Oil may stay above pre-conflict levels; OMCs and gas stocks could see further upside: Probal Sen",
+          "summary": "Geopolitical easing may cool crude oil prices, but a return to pre-conflict levels remains unlikely soon. Experts suggest shipping disruptions and elevated insurance costs will kee...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/oil-may-stay-above-pre-conflict-levels-omcs-and-gas-stocks-could-see-further-upside-probal-sen/articleshow/131926363.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
+          "title": "India among EQT Asia's strongest exit markets, says co-head Hari Gopalakrishnan",
+          "summary": "Fresh off raising Asia-Pacific’s largest PE fund, EQT sees India as a key growth market, driven by underpenetrated buyouts, family-business transitions and long-term economic tailw...",
+          "link": "https://www.livemint.com/companies/eqt-asia-hari-gopalakrishnan-on-india-growth-ai-and-private-equity-opportunities-11782184146432.html",
+          "source": "Livemint Companies"
         },
         {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Zypp Electric gears up for $200 million IPO, appoints bankers",
-          "summary": "EV logistics startup Zypp Electric is preparing for a $150-200 million IPO and has appointed bankers, even as it closes a pre-IPO funding round aimed at boosting valuation....",
-          "link": "https://www.livemint.com/companies/zypp-electric-ipo-ev-logistics-electric-vehicles-axis-capital-sbi-capital-markets-dam-capital-pre-ipo-funding-11782104481548.html",
+          "title": "JSW to flex its own tech for e-buses in fierce race for govt orders",
+          "summary": "JSW Group is developing its own electric bus platform, vehicle control unit and battery packs to gain a cost and technology edge in India's competitive e-bus market. The move suppo...",
+          "link": "https://www.livemint.com/companies/jsw-electric-bus-in-house-technology-govt-tender-automobile-11782116068129.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +171,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Podcast: Why vascular care in England needs reformation",
-          "summary": "A recent vascular care reform whitepaper for England highlighted gaps in care and issues that cause avoidable harm to patients. The post Podcast: Why vascular care in England needs...",
-          "link": "https://www.medicaldevice-network.com/features/podcast-why-vascular-care-in-england-needs-reformation/",
+          "title": "HLTH Europe 2026: enriching the patient journey with health technologies",
+          "summary": "Experts at HLTH Europe 2026 note that patient adherence-focused health technologies should be flexible, engaging, adaptable and affordable. The post HLTH Europe 2026: enriching the...",
+          "link": "https://www.medicaldevice-network.com/news/hlth-europe-2026-health-technologies-patient-adherence/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,9 +182,9 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "AI, health, security: test your business creativity with Edition 237 of our weekly quiz!",
-          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 237th quiz. Ready?...",
-          "link": "https://yourstory.com/2026/06/ai-health-security-entrepreneur-creativity-quiz-education",
+          "title": "Why the definition of a successful startup has changed in VC",
+          "summary": "Between 2015 and 2021, India produced over 100 unicorns. Capital was abundant, and the prevailing logic of growing the user base and worrying about monetisation later reflected a g...",
+          "link": "https://yourstory.com/2026/06/why-the-definition-of-a-successful-startup-has-changed-in-vc-",
           "source": "YourStory"
         },
         {
@@ -200,9 +194,9 @@
           "source": "YourStory"
         },
         {
-          "title": "CCPA Slaps Fine On Storia Over Misleading ‘100%’ Claims",
-          "summary": "The Central Consumer Protection Authority (CCPA) has imposed a penalty of ₹1 Lakh on beverages brand Storia Foods for allegedly&#8230;...",
-          "link": "https://inc42.com/buzz/ccpa-slaps-fine-on-storia-over-misleading-100-claims/",
+          "title": "The Battle For India’s Kirana Stores Has Begun",
+          "summary": "India’s kirana stores are suddenly in demand. Over the past few months, Meesho acquired Kirana Club; Udaan acquired ShopKirana; and &#8230;...",
+          "link": "https://inc42.com/features/the-battle-for-indias-kirana-stores-has-begun/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +205,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "EXAIR webinar to cover compressed air system issues",
-          "summary": "Compressed air systems are widely used in manufacturing, but their performance depends on system design, maintenance and operating conditions. Managing system efficiency while limi...",
-          "link": "https://www.designworldonline.com/exair-webinar-to-cover-compressed-air-system-issues/",
+          "title": "AdapSkin stretchable sensor improves AI-driven prosthetic control",
+          "summary": "Michigan State University recently released news on its AdapSkin wearable sensor platform, which collects biological data more accurately to improve responsive assistive devices. S...",
+          "link": "https://www.designworldonline.com/adapskin-stretchable-sensor-improves-ai-driven-prosthetic-control/",
           "source": "Design World"
         },
         {
-          "title": "Mind over Machine: Tormach on what AI does well and where it has a lot to learn",
-          "summary": "This episode of Mind Over Machine is hosted by Mike Santora, managing editor of Design World, and features a conversation with Amanda Lucas, technical writer at Tormach, and Kimber...",
-          "link": "https://www.designworldonline.com/mind-over-machine-tormach-on-what-ai-does-well-and-where-it-has-a-lot-to-learn/",
+          "title": "Rockwell launches FactoryTalk Orchestration software",
+          "summary": "Rockwell Automation, Inc. has announced FactoryTalk Orchestration software, a solution designed to coordinate material flow and production processes from end to end. Rockwell will ...",
+          "link": "https://www.designworldonline.com/rockwell-launches-factorytalk-orchestration-software/",
           "source": "Design World"
         }
       ]
@@ -235,11 +229,11 @@
           "thumbnail": "https://i4.ytimg.com/vi/WOzcFkld6_g/hqdefault.jpg"
         },
         {
-          "title": "Scientists Found A Better Language For AI Agents",
-          "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper  is available here:\nhttps://recursivemas.github.io/\nhttps://github.com/Recursiv...",
-          "link": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
+          "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2602.21548\n\n🙏 We would like to thank our ge...",
+          "link": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/dUmT0OIGoqE/hqdefault.jpg"
+          "thumbnail": "https://i2.ytimg.com/vi/mG4SmhWyeFA/hqdefault.jpg"
         }
       ]
     }
