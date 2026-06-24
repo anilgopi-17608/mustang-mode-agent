@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, June 23, 2026 at 11:14 AM IST",
-  "last_updated_iso": "2026-06-23T11:14:27.623164",
+  "last_updated": "Wednesday, June 24, 2026 at 11:12 AM IST",
+  "last_updated_iso": "2026-06-24T11:12:20.993073",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24113.95,
-        "change": 11.049999999999272,
-        "change_pct": 0.045845105775650534,
+        "price": 23978.3,
+        "change": 154.20000000000073,
+        "change_pct": 0.6472437573717401,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77088.38,
-        "change": -5.690000000002328,
-        "change_pct": -0.0073805936046732615,
-        "is_up": false
+        "price": 76697.88,
+        "change": 497.20000000001164,
+        "change_pct": 0.6524876155960966,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57900.15,
-        "change": -35.44999999999709,
-        "change_pct": -0.061188630134143926,
-        "is_up": false
+        "price": 57855.15,
+        "change": 671.4000000000015,
+        "change_pct": 1.1741097776903429,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Sun Pharma",
-        "price": 1893.7,
-        "change": 30.799999999999955,
-        "change_pct": 1.6533361962531512,
-        "is_up": true
-      },
-      {
         "name": "ICICI Bank",
-        "price": 1368.0,
-        "change": 15.599999999999909,
-        "change_pct": 1.153504880212948,
+        "price": 1372.2,
+        "change": 33.90000000000009,
+        "change_pct": 2.533064335350825,
         "is_up": true
       },
       {
-        "name": "L&T",
-        "price": 4237.6,
-        "change": 36.30000000000018,
-        "change_pct": 0.8640182800561774,
+        "name": "HDFC Bank",
+        "price": 788.95,
+        "change": 14.300000000000068,
+        "change_pct": 1.845994965468285,
+        "is_up": true
+      },
+      {
+        "name": "Infosys",
+        "price": 1046.0,
+        "change": 16.700000000000045,
+        "change_pct": 1.622461867288453,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1035.1,
-        "change": -30.300000000000182,
-        "change_pct": -2.8440022526750686,
-        "is_up": false
-      },
-      {
-        "name": "TCS",
-        "price": 2071.8,
-        "change": -56.0,
-        "change_pct": -2.631826299464235,
+        "name": "Maruti",
+        "price": 13262.0,
+        "change": -189.0,
+        "change_pct": -1.4050999925656085,
         "is_up": false
       },
       {
         "name": "Wipro",
-        "price": 176.71,
-        "change": -3.469999999999999,
-        "change_pct": -1.9258519258519253,
+        "price": 172.87,
+        "change": -1.6200000000000045,
+        "change_pct": -0.9284199667602754,
+        "is_up": false
+      },
+      {
+        "name": "Bharti Airtel",
+        "price": 1889.0,
+        "change": -12.599999999999909,
+        "change_pct": -0.6625999158603234,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.658,
-        "change": -0.010000000000005116,
-        "change_pct": -0.010563231503787041,
+        "price": 94.685,
+        "change": -0.03999999999999204,
+        "change_pct": -0.0422275006597963,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4142.2,
-        "change": -60.5,
-        "change_pct": -1.4395507649844148,
+        "price": 4095.6,
+        "change": -53.79999999999973,
+        "change_pct": -1.2965729985058017,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor....",
-          "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+          "summary": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India....",
+          "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-          "summary": "OpenAI is attempting to tackle the security issues of the open source software community....",
-          "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+          "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+          "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers....",
+          "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
           "source": "TechCrunch"
         },
         {
-          "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+          "title": "The best robot vacuum deals available during Prime Day",
           "summary": "",
-          "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+          "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
           "source": "The Verge"
         },
         {
-          "title": "Valve describes just how brutal RAM negotiations are in 2026",
+          "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
           "summary": "",
-          "link": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
+          "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
           "source": "The Verge"
         },
         {
-          "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
-          "summary": "US autoworkers union warns of robot automation as dark factory future looms....",
-          "link": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+          "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+          "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time....",
+          "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
           "source": "Ars Technica"
         }
       ]
@@ -130,27 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Madhusudan Kela-backed firm picks stake in SME stock Yash Highvoltage via preferential issue",
-          "summary": "Yash Highvoltage shares surged after ace investor Madhusudan Kela's firm bought nearly 14,000 shares. The company's board approved a preferential issue of up to Rs 151 crore to fun...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-backed-firm-picks-stake-in-sme-stock-yash-highvoltage-via-preferential-issue/articleshow/131926586.cms",
+          "title": "Korea's AI crackdown may trigger healthy correction, India could benefit: Rahul Chadha",
+          "summary": "South Korean regulatory actions are prompting a reassessment of AI semiconductor valuations, though experts see this as a healthy correction rather than an end to the rally. Concer...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-ai-crackdown-may-trigger-healthy-correction-india-could-benefit-rahul-chadha/articleshow/131956212.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Oil may stay above pre-conflict levels; OMCs and gas stocks could see further upside: Probal Sen",
-          "summary": "Geopolitical easing may cool crude oil prices, but a return to pre-conflict levels remains unlikely soon. Experts suggest shipping disruptions and elevated insurance costs will kee...",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/oil-may-stay-above-pre-conflict-levels-omcs-and-gas-stocks-could-see-further-upside-probal-sen/articleshow/131926363.cms",
+          "title": "Cerebras' first earnings test: Revenue soars, profitability remains the challenge",
+          "summary": "Cerebras posted strong first earnings as a public company, with revenue nearly doubling to $193.4 million and losses narrowing, but shares fell after weaker gross margin guidance r...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cerebras-first-earnings-test-revenue-soars-profitability-remains-the-challenge/slideshow/131956192.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "India among EQT Asia's strongest exit markets, says co-head Hari Gopalakrishnan",
-          "summary": "Fresh off raising Asia-Pacific’s largest PE fund, EQT sees India as a key growth market, driven by underpenetrated buyouts, family-business transitions and long-term economic tailw...",
-          "link": "https://www.livemint.com/companies/eqt-asia-hari-gopalakrishnan-on-india-growth-ai-and-private-equity-opportunities-11782184146432.html",
-          "source": "Livemint Companies"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "JSW to flex its own tech for e-buses in fierce race for govt orders",
-          "summary": "JSW Group is developing its own electric bus platform, vehicle control unit and battery packs to gain a cost and technology edge in India's competitive e-bus market. The move suppo...",
-          "link": "https://www.livemint.com/companies/jsw-electric-bus-in-house-technology-govt-tender-automobile-11782116068129.html",
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "Cold call to dinner with Mark Zuckerberg, how Kunal Shah clinched the top job at WhatsApp",
+          "summary": "Over a three-month hiring process for Kunal Shah, CPO Chris Cox developed a keen sense that Meta Platforms would benefit from someone who lives with WhatsApp in a way that few in t...",
+          "link": "https://www.livemint.com/companies/news/cold-call-to-dinner-with-mark-zuckerberg-how-kunal-shah-clinched-the-top-job-at-whatsapp-11782275207559.html",
           "source": "Livemint Companies"
         }
       ]
@@ -171,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "HLTH Europe 2026: enriching the patient journey with health technologies",
-          "summary": "Experts at HLTH Europe 2026 note that patient adherence-focused health technologies should be flexible, engaging, adaptable and affordable. The post HLTH Europe 2026: enriching the...",
-          "link": "https://www.medicaldevice-network.com/news/hlth-europe-2026-health-technologies-patient-adherence/",
+          "title": "PorTal Access secures FDA clearance for vascular access ports",
+          "summary": "PorTal Access' FLEXI-PORT family of vascular access devices are designed to be flexible and versatile to improve the patient experience. The post PorTal Access secures FDA clearanc...",
+          "link": "https://www.medicaldevice-network.com/news/portal-acess-fda-clearance-vascular-ports/",
           "source": "Medical Device Network"
         }
       ]
@@ -182,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
+          "title": "Startup news and updates: daily roundup (June 23, 2026)",
+          "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, June 23, 2026...",
+          "link": "https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-23-2026",
+          "source": "YourStory"
+        },
+        {
           "title": "Why the definition of a successful startup has changed in VC",
           "summary": "Between 2015 and 2021, India produced over 100 unicorns. Capital was abundant, and the prevailing logic of growing the user base and worrying about monetisation later reflected a g...",
           "link": "https://yourstory.com/2026/06/why-the-definition-of-a-successful-startup-has-changed-in-vc-",
           "source": "YourStory"
         },
         {
-          "title": "NORI is building luggage around how women actually travel",
-          "summary": "Bengaluru-based travel gear brand Nori is rethinking suitcases, bags, and organisers based on a simple but overlooked idea: women pack differently for different needs, carry more, ...",
-          "link": "https://yourstory.com/2026/03/nori-is-building-luggage-around-how-women-actually-travel",
-          "source": "YourStory"
-        },
-        {
-          "title": "The Battle For India’s Kirana Stores Has Begun",
-          "summary": "India’s kirana stores are suddenly in demand. Over the past few months, Meesho acquired Kirana Club; Udaan acquired ShopKirana; and &#8230;...",
-          "link": "https://inc42.com/features/the-battle-for-indias-kirana-stores-has-begun/",
+          "title": "India Wants Its AI Talent Back; But What’s The Incentive?",
+          "summary": "For decades, India has exported some of its brightest minds to the world&#8217;s leading research labs. Researchers of Indian origin&#8230;...",
+          "link": "https://inc42.com/features/india-wants-its-ai-talent-back-but-whats-the-incentive/",
           "source": "Inc42"
         }
       ]
@@ -215,25 +221,6 @@
           "summary": "Rockwell Automation, Inc. has announced FactoryTalk Orchestration software, a solution designed to coordinate material flow and production processes from end to end. Rockwell will ...",
           "link": "https://www.designworldonline.com/rockwell-launches-factorytalk-orchestration-software/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "The Most Interesting Displays In The World!",
-          "summary": "From touchscreen Macbooks to holograms\n\nGet 40% the Chef iQ Mini Oven and more by using code MKBHD at https://chefiq.com/discount/MKBHD\n\nMagic screen: https://www.kickstarter.com/p...",
-          "link": "https://www.youtube.com/watch?v=WOzcFkld6_g",
-          "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/WOzcFkld6_g/hqdefault.jpg"
-        },
-        {
-          "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2602.21548\n\n🙏 We would like to thank our ge...",
-          "link": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/mG4SmhWyeFA/hqdefault.jpg"
         }
       ]
     }
