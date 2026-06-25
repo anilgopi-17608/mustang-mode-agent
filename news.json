@@ -1,91 +1,91 @@
 {
-  "last_updated": "Wednesday, June 24, 2026 at 11:12 AM IST",
-  "last_updated_iso": "2026-06-24T11:12:20.993073",
+  "last_updated": "Thursday, June 25, 2026 at 11:14 AM IST",
+  "last_updated_iso": "2026-06-25T11:14:20.304390",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23978.3,
-        "change": 154.20000000000073,
-        "change_pct": 0.6472437573717401,
+        "price": 24195.9,
+        "change": 174.25,
+        "change_pct": 0.7253873068669304,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 76697.88,
-        "change": 497.20000000001164,
-        "change_pct": 0.6524876155960966,
+        "price": 77552.92,
+        "change": 561.6999999999971,
+        "change_pct": 0.7295637086930133,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57855.15,
-        "change": 671.4000000000015,
-        "change_pct": 1.1741097776903429,
+        "price": 58453.45,
+        "change": 303.09999999999854,
+        "change_pct": 0.5212350398578831,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "ICICI Bank",
-        "price": 1372.2,
-        "change": 33.90000000000009,
-        "change_pct": 2.533064335350825,
+        "name": "Maruti",
+        "price": 13832.0,
+        "change": 584.0,
+        "change_pct": 4.408212560386474,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 788.95,
-        "change": 14.300000000000068,
-        "change_pct": 1.845994965468285,
+        "name": "L&T",
+        "price": 4229.0,
+        "change": 47.30000000000018,
+        "change_pct": 1.1311189229260872,
         "is_up": true
       },
       {
-        "name": "Infosys",
-        "price": 1046.0,
-        "change": 16.700000000000045,
-        "change_pct": 1.622461867288453,
+        "name": "TCS",
+        "price": 2132.0,
+        "change": 23.0,
+        "change_pct": 1.0905642484589853,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 13262.0,
-        "change": -189.0,
-        "change_pct": -1.4050999925656085,
+        "name": "Bharti Airtel",
+        "price": 1867.7,
+        "change": -9.599999999999909,
+        "change_pct": -0.5113727161348698,
+        "is_up": false
+      },
+      {
+        "name": "Infosys",
+        "price": 1054.0,
+        "change": -2.599999999999909,
+        "change_pct": -0.24607230740108926,
         "is_up": false
       },
       {
         "name": "Wipro",
-        "price": 172.87,
-        "change": -1.6200000000000045,
-        "change_pct": -0.9284199667602754,
-        "is_up": false
-      },
-      {
-        "name": "Bharti Airtel",
-        "price": 1889.0,
-        "change": -12.599999999999909,
-        "change_pct": -0.6625999158603234,
-        "is_up": false
+        "price": 174.7,
+        "change": 0.21999999999999886,
+        "change_pct": 0.1260889500229246,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.685,
-        "change": -0.03999999999999204,
-        "change_pct": -0.0422275006597963,
+        "price": 94.4225,
+        "change": -0.2325000000000017,
+        "change_pct": -0.24562886271195572,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4095.6,
-        "change": -53.79999999999973,
-        "change_pct": -1.2965729985058017,
+        "price": 4007.2,
+        "change": -1.6000000000003638,
+        "change_pct": -0.039912193175024036,
         "is_up": false
       }
     ]
@@ -95,21 +95,21 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
-          "summary": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India....",
-          "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+          "title": "Europe is pushing back on Washington’s chip war",
+          "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same m...",
+          "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
           "source": "TechCrunch"
         },
         {
-          "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-          "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers....",
-          "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+          "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+          "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI....",
+          "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
           "source": "TechCrunch"
         },
         {
-          "title": "The best robot vacuum deals available during Prime Day",
+          "title": "The top tech Prime Day deals to shop on day two",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+          "link": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
           "source": "The Verge"
         },
         {
@@ -119,9 +119,9 @@
           "source": "The Verge"
         },
         {
-          "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
-          "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time....",
-          "link": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+          "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
+          "summary": "GTA6 might be an outlier, though—at least for now....",
+          "link": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Korea's AI crackdown may trigger healthy correction, India could benefit: Rahul Chadha",
-          "summary": "South Korean regulatory actions are prompting a reassessment of AI semiconductor valuations, though experts see this as a healthy correction rather than an end to the rally. Concer...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-ai-crackdown-may-trigger-healthy-correction-india-could-benefit-rahul-chadha/articleshow/131956212.cms",
+          "title": "Areion Assets Management launches $60 million AIF to tap India's special situations market",
+          "summary": "Areion Assets Management has launched a $60 million Category III AIF from GIFT City targeting India’s special situations market. The fund will invest in distressed assets, structur...",
+          "link": "https://economictimes.indiatimes.com/markets/aif-pms/areion-assets-management-launches-60-million-aif-to-tap-indias-special-situations-market/articleshow/131983401.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Cerebras' first earnings test: Revenue soars, profitability remains the challenge",
-          "summary": "Cerebras posted strong first earnings as a public company, with revenue nearly doubling to $193.4 million and losses narrowing, but shares fell after weaker gross margin guidance r...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cerebras-first-earnings-test-revenue-soars-profitability-remains-the-challenge/slideshow/131956192.cms",
+          "title": "Buy the dip, stay invested: Matt Orton sees more upside for global markets",
+          "summary": "Global markets are gaining traction as geopolitical worries ease and AI companies report strong earnings. Matt Orton of Raymond James highlights that receding oil prices and sustai...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/buy-the-dip-stay-invested-matt-orton-sees-more-upside-for-global-markets/articleshow/131983074.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Cold call to dinner with Mark Zuckerberg, how Kunal Shah clinched the top job at WhatsApp",
-          "summary": "Over a three-month hiring process for Kunal Shah, CPO Chris Cox developed a keen sense that Meta Platforms would benefit from someone who lives with WhatsApp in a way that few in t...",
-          "link": "https://www.livemint.com/companies/news/cold-call-to-dinner-with-mark-zuckerberg-how-kunal-shah-clinched-the-top-job-at-whatsapp-11782275207559.html",
+          "title": "JSW Ventures eyes  ₹400-500 crore third fund, plans larger startup bets",
+          "summary": "The early-stage investor is looking to back 14-16 companies while increasing cheque sizes and expanding its focus on fintech, AI and sustainability....",
+          "link": "https://www.livemint.com/companies/news/jsw-ventures-third-fund-rs-400-500-crore-startup-investments-11782353300318.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "PorTal Access secures FDA clearance for vascular access ports",
-          "summary": "PorTal Access' FLEXI-PORT family of vascular access devices are designed to be flexible and versatile to improve the patient experience. The post PorTal Access secures FDA clearanc...",
-          "link": "https://www.medicaldevice-network.com/news/portal-acess-fda-clearance-vascular-ports/",
+          "title": "UF Health Cancer develops prostate cancer urine test",
+          "summary": "Researchers from the UF Health Cancer Institute in the US are developing a rapid, non-invasive urine test aimed at diagnosing prostate cancer and distinguishing it from other prost...",
+          "link": "https://www.medicaldevice-network.com/news/uf-health-cancer-prostate-urine-test/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Startup news and updates: daily roundup (June 23, 2026)",
-          "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, June 23, 2026...",
-          "link": "https://yourstory.com/2026/06/startup-news-and-updates-daily-roundup-june-23-2026",
+          "title": "Meet the app where every influencer is an AI — and anyone can build one in two minutes",
+          "summary": "Rishi Chadha, Utkarsh Goyal, and Saikat Das are building YRAL, a short-form AI video platform where every influencer is an AI agent, and any user can create and monetize one under ...",
+          "link": "https://yourstory.com/2026/05/app-influencer-ai-anyone-can-build",
           "source": "YourStory"
         },
         {
-          "title": "Why the definition of a successful startup has changed in VC",
-          "summary": "Between 2015 and 2021, India produced over 100 unicorns. Capital was abundant, and the prevailing logic of growing the user base and worrying about monetisation later reflected a g...",
-          "link": "https://yourstory.com/2026/06/why-the-definition-of-a-successful-startup-has-changed-in-vc-",
+          "title": "The next phase of fraud prevention in India’s fintech ecosystem",
+          "summary": "Doing a VAPT (Vulnerability Assessment and Penetration Testing) twice a year just doesn't cut it anymore. A compliance audit only tells you if you were secure last Tuesday. The att...",
+          "link": "https://yourstory.com/2026/06/the-next-phase-of-fraud-prevention-in-indias-fintech-ecosystem",
           "source": "YourStory"
         },
         {
-          "title": "India Wants Its AI Talent Back; But What’s The Incentive?",
-          "summary": "For decades, India has exported some of its brightest minds to the world&#8217;s leading research labs. Researchers of Indian origin&#8230;...",
-          "link": "https://inc42.com/features/india-wants-its-ai-talent-back-but-whats-the-incentive/",
+          "title": "After Alpha Wave & Nexus, SoftBank Pares Stake In Delhivery To 7.61%",
+          "summary": "Logistics company Delhivery’s early investors continue to pare their stakes and book profits. After Alpha Wave Ventures and Nexus Venture&#8230;...",
+          "link": "https://inc42.com/buzz/after-alpha-wave-nexus-softbank-pares-stake-in-delhivery-to-7-61/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "AdapSkin stretchable sensor improves AI-driven prosthetic control",
-          "summary": "Michigan State University recently released news on its AdapSkin wearable sensor platform, which collects biological data more accurately to improve responsive assistive devices. S...",
-          "link": "https://www.designworldonline.com/adapskin-stretchable-sensor-improves-ai-driven-prosthetic-control/",
+          "title": "Handling the cost of AI expansion",
+          "summary": "Manufacturing companies around the world are facing growing pressure to balance operational efficiency with sustainability, energy demands, and increasingly strict environmental re...",
+          "link": "https://www.designworldonline.com/handling-the-cost-of-ai-expansion/",
           "source": "Design World"
         },
         {
-          "title": "Rockwell launches FactoryTalk Orchestration software",
-          "summary": "Rockwell Automation, Inc. has announced FactoryTalk Orchestration software, a solution designed to coordinate material flow and production processes from end to end. Rockwell will ...",
-          "link": "https://www.designworldonline.com/rockwell-launches-factorytalk-orchestration-software/",
+          "title": "Engineer Gary Labadie explains Destaco palletizing gripper for heavy bag handling",
+          "summary": "At the Automate Show 2026, we caught up with Destaco global product director Gary Labadie to chat about end-effecting technologies. Labadie detailed the Destaco Palletizing Solutio...",
+          "link": "https://www.designworldonline.com/engineer-gary-labadie-explains-destaco-palletizing-gripper-for-heavy-bag-handling/",
           "source": "Design World"
         }
       ]
