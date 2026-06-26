@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, June 25, 2026 at 11:14 AM IST",
-  "last_updated_iso": "2026-06-25T11:14:20.304390",
+  "last_updated": "Friday, June 26, 2026 at 11:19 AM IST",
+  "last_updated_iso": "2026-06-26T11:19:55.858561",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24195.9,
-        "change": 174.25,
-        "change_pct": 0.7253873068669304,
+        "price": 24056.0,
+        "change": 34.349999999998545,
+        "change_pct": 0.14299600568653087,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77552.92,
-        "change": 561.6999999999971,
-        "change_pct": 0.7295637086930133,
+        "price": 77100.47,
+        "change": 109.25,
+        "change_pct": 0.14189929708868101,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 58453.45,
-        "change": 303.09999999999854,
-        "change_pct": 0.5212350398578831,
+        "price": 58177.05,
+        "change": 26.700000000004366,
+        "change_pct": 0.045915458806360346,
         "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "Maruti",
-        "price": 13832.0,
-        "change": 584.0,
-        "change_pct": 4.408212560386474,
+        "price": 13753.0,
+        "change": 505.0,
+        "change_pct": 3.811896135265701,
+        "is_up": true
+      },
+      {
+        "name": "ICICI Bank",
+        "price": 1387.0,
+        "change": 13.400000000000091,
+        "change_pct": 0.9755387303436293,
         "is_up": true
       },
       {
         "name": "L&T",
-        "price": 4229.0,
-        "change": 47.30000000000018,
-        "change_pct": 1.1311189229260872,
-        "is_up": true
-      },
-      {
-        "name": "TCS",
-        "price": 2132.0,
-        "change": 23.0,
-        "change_pct": 1.0905642484589853,
+        "price": 4202.1,
+        "change": 20.400000000000546,
+        "change_pct": 0.4878398737355752,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Bharti Airtel",
-        "price": 1867.7,
-        "change": -9.599999999999909,
-        "change_pct": -0.5113727161348698,
+        "price": 1849.9,
+        "change": -27.399999999999864,
+        "change_pct": -1.4595429606349473,
         "is_up": false
       },
       {
         "name": "Infosys",
-        "price": 1054.0,
-        "change": -2.599999999999909,
-        "change_pct": -0.24607230740108926,
+        "price": 1042.9,
+        "change": -13.699999999999818,
+        "change_pct": -1.2966117736134601,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 174.7,
-        "change": 0.21999999999999886,
-        "change_pct": 0.1260889500229246,
-        "is_up": true
+        "name": "Sun Pharma",
+        "price": 1861.5,
+        "change": -12.900000000000091,
+        "change_pct": -0.6882202304737564,
+        "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.4225,
-        "change": -0.2325000000000017,
-        "change_pct": -0.24562886271195572,
-        "is_up": false
+        "price": 94.385,
+        "change": 0.0,
+        "change_pct": 0.0,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4007.2,
-        "change": -1.6000000000003638,
-        "change_pct": -0.039912193175024036,
+        "price": 4029.5,
+        "change": -18.09999999999991,
+        "change_pct": -0.4471785749579976,
         "is_up": false
       }
     ]
@@ -95,22 +95,16 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Europe is pushing back on Washington’s chip war",
-          "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same m...",
-          "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+          "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+          "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to....",
+          "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
           "source": "TechCrunch"
         },
         {
-          "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-          "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI....",
-          "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+          "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+          "summary": "YouTube Shorts is getting a makeover....",
+          "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
           "source": "TechCrunch"
-        },
-        {
-          "title": "The top tech Prime Day deals to shop on day two",
-          "summary": "",
-          "link": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
-          "source": "The Verge"
         },
         {
           "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
@@ -119,9 +113,15 @@
           "source": "The Verge"
         },
         {
-          "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
-          "summary": "GTA6 might be an outlier, though—at least for now....",
-          "link": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
+          "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun",
+          "summary": "",
+          "link": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+          "source": "The Verge"
+        },
+        {
+          "title": "Microsoft adds another year to Windows 10 extended update program",
+          "summary": "About a quarter of PCs are still running Microsoft's previous operating system....",
+          "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
           "source": "Ars Technica"
         }
       ]
@@ -130,33 +130,27 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Areion Assets Management launches $60 million AIF to tap India's special situations market",
-          "summary": "Areion Assets Management has launched a $60 million Category III AIF from GIFT City targeting India’s special situations market. The fund will invest in distressed assets, structur...",
-          "link": "https://economictimes.indiatimes.com/markets/aif-pms/areion-assets-management-launches-60-million-aif-to-tap-indias-special-situations-market/articleshow/131983401.cms",
+          "title": "Japan's 10-year bond yield reverses course to fall on portfolio rebalancing need",
+          "summary": "Japanese government bond yields dipped on Friday as investors adjusted portfolios following a significant surge in the nation's stock market. The benchmark 10-year yield saw a nota...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/japans-10-year-bond-yield-reverses-course-to-fall-on-portfolio-rebalancing-need/articleshow/132008044.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Buy the dip, stay invested: Matt Orton sees more upside for global markets",
-          "summary": "Global markets are gaining traction as geopolitical worries ease and AI companies report strong earnings. Matt Orton of Raymond James highlights that receding oil prices and sustai...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/buy-the-dip-stay-invested-matt-orton-sees-more-upside-for-global-markets/articleshow/131983074.cms",
+          "title": "Tata Motors CV acquisition delay won't dent long-term gains: Sudip Bandyopadhyay",
+          "summary": "Tata Motors' acquisition of Iveco's commercial vehicle business is delayed until September 2026, a move market expert Sudip Bandyopadhyay finds \"disappointing\" but still sees as a ...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/tata-motors-cv-acquisition-delay-wont-dent-long-term-gains-sudip-bandyopadhyay/articleshow/132007823.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
+          "title": "US grows anxious over AI, orders Sam Altman to delay GPT 5.6 rollout: Report",
+          "summary": "OpenAI has postponed the GPT 5.6 AI model rollout, complying with a US government request for a limited launch to trusted partners...",
+          "link": "https://www.livemint.com/companies/news/us-grows-anxious-over-ai-orders-sam-altman-to-delay-gpt-5-6-rollout-report-11782444878547.html",
+          "source": "Livemint Companies"
         },
         {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "JSW Ventures eyes  ₹400-500 crore third fund, plans larger startup bets",
-          "summary": "The early-stage investor is looking to back 14-16 companies while increasing cheque sizes and expanding its focus on fintech, AI and sustainability....",
-          "link": "https://www.livemint.com/companies/news/jsw-ventures-third-fund-rs-400-500-crore-startup-investments-11782353300318.html",
+          "title": "Zombie unicorns are haunting Silicon Valley",
+          "summary": "Years of frothy valuations have created a nightmare...",
+          "link": "https://www.livemint.com/companies/start-ups/zombie-unicorns-are-haunting-silicon-valley-11782435694730.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +171,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "UF Health Cancer develops prostate cancer urine test",
-          "summary": "Researchers from the UF Health Cancer Institute in the US are developing a rapid, non-invasive urine test aimed at diagnosing prostate cancer and distinguishing it from other prost...",
-          "link": "https://www.medicaldevice-network.com/news/uf-health-cancer-prostate-urine-test/",
+          "title": "Advanced Medical Solutions mulls £715m HB Fuller takeover bid",
+          "summary": "HB Fuller says the AMS acquisition would expand its TAM by $15bn, while bringing in around $300m in extra annual revenue. The post Advanced Medical Solutions mulls £715m HB Fuller ...",
+          "link": "https://www.medicaldevice-network.com/news/hb-fuller-advanced-medical-solutions-715m-takeover-bid/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +182,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Meet the app where every influencer is an AI — and anyone can build one in two minutes",
-          "summary": "Rishi Chadha, Utkarsh Goyal, and Saikat Das are building YRAL, a short-form AI video platform where every influencer is an AI agent, and any user can create and monetize one under ...",
-          "link": "https://yourstory.com/2026/05/app-influencer-ai-anyone-can-build",
+          "title": "Opening a demat account has never been easier. Here's why",
+          "summary": "From Aadhaar-based eSign to video verification, digital onboarding has transformed how Indians start their investing journey, eliminating paperwork, branch visits, and long waiting...",
+          "link": "https://yourstory.com/2026/06/opening-demat-account-has-never-been-easier-here-why",
           "source": "YourStory"
         },
         {
-          "title": "The next phase of fraud prevention in India’s fintech ecosystem",
-          "summary": "Doing a VAPT (Vulnerability Assessment and Penetration Testing) twice a year just doesn't cut it anymore. A compliance audit only tells you if you were secure last Tuesday. The att...",
-          "link": "https://yourstory.com/2026/06/the-next-phase-of-fraud-prevention-in-indias-fintech-ecosystem",
+          "title": "From crop insurance to conversational analytics: Inside the winning ideas from the AI for Bharat Hackathon",
+          "summary": "Backed by AWS, Hack2Skill, and YourStory, the AI for Bharat Hackathon saw nearly 96,000 registrations and more than 1,400 working prototypes as developers built AI solutions for he...",
+          "link": "https://yourstory.com/2026/06/crop-insurance-conversational-analytics-ai-for-bharat-hackathon",
           "source": "YourStory"
         },
         {
-          "title": "After Alpha Wave & Nexus, SoftBank Pares Stake In Delhivery To 7.61%",
-          "summary": "Logistics company Delhivery’s early investors continue to pare their stakes and book profits. After Alpha Wave Ventures and Nexus Venture&#8230;...",
-          "link": "https://inc42.com/buzz/after-alpha-wave-nexus-softbank-pares-stake-in-delhivery-to-7-61/",
+          "title": "Amazon’s India Blitz, IRDAI’s Overhaul & More",
+          "summary": "Amazon India’s $13 Bn Power Play The ecommerce giant is deepening its presence in India with a fresh $13 Bn&#8230;...",
+          "link": "https://inc42.com/buzz/amazons-india-blitz-irdais-overhaul-more/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +205,28 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Handling the cost of AI expansion",
-          "summary": "Manufacturing companies around the world are facing growing pressure to balance operational efficiency with sustainability, energy demands, and increasingly strict environmental re...",
-          "link": "https://www.designworldonline.com/handling-the-cost-of-ai-expansion/",
+          "title": "A glue that lets go: D-Glue’s debondable adhesive changes how engineers think about end-of-life",
+          "summary": "Kristoffer Stokes and Philip Costanzo of Geisys Ventures created a patented technology platform called D-Glue to simplify manufacturing and disassembly. “The circular economy is a ...",
+          "link": "https://www.designworldonline.com/a-glue-that-lets-go-d-glues-debondable-adhesive-changes-how-engineers-think-about-end-of-life/",
           "source": "Design World"
         },
         {
-          "title": "Engineer Gary Labadie explains Destaco palletizing gripper for heavy bag handling",
-          "summary": "At the Automate Show 2026, we caught up with Destaco global product director Gary Labadie to chat about end-effecting technologies. Labadie detailed the Destaco Palletizing Solutio...",
-          "link": "https://www.designworldonline.com/engineer-gary-labadie-explains-destaco-palletizing-gripper-for-heavy-bag-handling/",
+          "title": "Direct ToF module reaches 9 m range",
+          "summary": "STMicroelectronics has introduced the ST FlightSense&#x2122; VL53L9, a direct Time-of-Flight 3D LiDAR module for robotics, industrial automation, smart buildings, AR/VR and healthc...",
+          "link": "https://www.designworldonline.com/direct-tof-module-reaches-9-m-range/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "Apple's Big Price Hike",
+          "summary": "New prices across the board for everything....",
+          "link": "https://www.youtube.com/shorts/oYAnEH0JoqI",
+          "source": "MKBHD",
+          "thumbnail": "https://i4.ytimg.com/vi/oYAnEH0JoqI/hqdefault.jpg"
         }
       ]
     }
