@@ -1,6 +1,6 @@
 {
-  "last_updated": "Friday, June 26, 2026 at 11:19 AM IST",
-  "last_updated_iso": "2026-06-26T11:19:55.858561",
+  "last_updated": "Saturday, June 27, 2026 at 11:00 AM IST",
+  "last_updated_iso": "2026-06-27T11:00:09.186608",
   "market": {
     "indices": [
       {
@@ -74,19 +74,19 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.385,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "is_up": true
+        "price": 94.3,
+        "change": -0.08500000000000796,
+        "change_pct": -0.0900566827356126,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4029.5,
-        "change": -18.09999999999991,
-        "change_pct": -0.4471785749579976,
-        "is_up": false
+        "price": 4096.3,
+        "change": 48.70000000000027,
+        "change_pct": 1.2031821326218073,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-          "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to....",
-          "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+          "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+          "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees....",
+          "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
           "source": "TechCrunch"
         },
         {
-          "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
-          "summary": "YouTube Shorts is getting a makeover....",
-          "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+          "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+          "summary": "Mesh came out of stealth in February with a $50 million Series A....",
+          "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
           "source": "TechCrunch"
         },
         {
-          "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
+          "title": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
           "summary": "",
           "link": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
           "source": "The Verge"
         },
         {
-          "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun",
+          "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
           "summary": "",
-          "link": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+          "link": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
           "source": "The Verge"
         },
         {
-          "title": "Microsoft adds another year to Windows 10 extended update program",
-          "summary": "About a quarter of PCs are still running Microsoft's previous operating system....",
-          "link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+          "title": "South Korea plans to train entire military as \"drone warriors\"",
+          "summary": "Half-million strong military will train on drones as “universal combat tool.”...",
+          "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
           "source": "Ars Technica"
         }
       ]
@@ -130,27 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Japan's 10-year bond yield reverses course to fall on portfolio rebalancing need",
-          "summary": "Japanese government bond yields dipped on Friday as investors adjusted portfolios following a significant surge in the nation's stock market. The benchmark 10-year yield saw a nota...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/japans-10-year-bond-yield-reverses-course-to-fall-on-portfolio-rebalancing-need/articleshow/132008044.cms",
+          "title": "F&amp;O Talk: Nifty to remain rangebound, says Sudeep Shah; picks 8 stocks for next week",
+          "summary": "Indian stock markets concluded the week with modest gains, as Sensex and Nifty erased earlier surges on monthly expiry day. Analysts observe Nifty's consolidation, with key support...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-to-remain-rangebound-says-sudeep-shah-picks-8-stocks-for-next-week/articleshow/132028803.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Tata Motors CV acquisition delay won't dent long-term gains: Sudip Bandyopadhyay",
-          "summary": "Tata Motors' acquisition of Iveco's commercial vehicle business is delayed until September 2026, a move market expert Sudip Bandyopadhyay finds \"disappointing\" but still sees as a ...",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/tata-motors-cv-acquisition-delay-wont-dent-long-term-gains-sudip-bandyopadhyay/articleshow/132007823.cms",
+          "title": "AI rout exposes Wall Street's $270 billion speculation machine",
+          "summary": "A recent tech sell-off exposed how modern speculation amplifies both rallies and reversals. Retail investors' enthusiasm for leveraged products tied to AI chips and SpaceX, alongsi...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-rout-exposes-wall-streets-270-billion-speculation-machine/articleshow/132028641.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "US grows anxious over AI, orders Sam Altman to delay GPT 5.6 rollout: Report",
-          "summary": "OpenAI has postponed the GPT 5.6 AI model rollout, complying with a US government request for a limited launch to trusted partners...",
-          "link": "https://www.livemint.com/companies/news/us-grows-anxious-over-ai-orders-sam-altman-to-delay-gpt-5-6-rollout-report-11782444878547.html",
-          "source": "Livemint Companies"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Zombie unicorns are haunting Silicon Valley",
-          "summary": "Years of frothy valuations have created a nightmare...",
-          "link": "https://www.livemint.com/companies/start-ups/zombie-unicorns-are-haunting-silicon-valley-11782435694730.html",
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "Atanu Chakraborty terms HDFC Bank's legal review superfluous",
+          "summary": "Appointing external law firms, including an American one, was just a compliance exercise, says Atanu Chakraborty, who resigned as HDFC Bank chairman in March....",
+          "link": "https://www.livemint.com/companies/news/atanu-chakraborty-hdfc-bank-legal-review-report-sashidhar-jagdishan-11782534635153.html",
           "source": "Livemint Companies"
         }
       ]
@@ -171,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Advanced Medical Solutions mulls £715m HB Fuller takeover bid",
-          "summary": "HB Fuller says the AMS acquisition would expand its TAM by $15bn, while bringing in around $300m in extra annual revenue. The post Advanced Medical Solutions mulls £715m HB Fuller ...",
-          "link": "https://www.medicaldevice-network.com/news/hb-fuller-advanced-medical-solutions-715m-takeover-bid/",
+          "title": "FDA grants breakthrough status to Aidoc’s AI radiology report system",
+          "summary": "The FDA has granted breakthrough device designation to Aidoc’s First Read, an AI system that produces preliminary radiology report text based on chest radiograph analysis. The post...",
+          "link": "https://www.medicaldevice-network.com/news/fda-status-aidoc-ai-radiology-report-system/",
           "source": "Medical Device Network"
         }
       ]
@@ -182,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Opening a demat account has never been easier. Here's why",
-          "summary": "From Aadhaar-based eSign to video verification, digital onboarding has transformed how Indians start their investing journey, eliminating paperwork, branch visits, and long waiting...",
-          "link": "https://yourstory.com/2026/06/opening-demat-account-has-never-been-easier-here-why",
+          "title": "Why value fashion is becoming India’s dominant retail story",
+          "summary": "Indian consumers are not merely seeking cheaper clothes. They are seeking fashionable, trend-relevant apparel at prices that feel justified by the value delivered. The demand is no...",
+          "link": "https://yourstory.com/2026/06/why-value-fashion-is-becoming-indias-dominant-retail-story",
           "source": "YourStory"
         },
         {
-          "title": "From crop insurance to conversational analytics: Inside the winning ideas from the AI for Bharat Hackathon",
-          "summary": "Backed by AWS, Hack2Skill, and YourStory, the AI for Bharat Hackathon saw nearly 96,000 registrations and more than 1,400 working prototypes as developers built AI solutions for he...",
-          "link": "https://yourstory.com/2026/06/crop-insurance-conversational-analytics-ai-for-bharat-hackathon",
+          "title": "Meet the app where every influencer is an AI — and anyone can build one in two minutes",
+          "summary": "Rishi Chadha, Utkarsh Goyal, and Saikat Das are building YRAL, a short-form AI video platform where every influencer is an AI agent, and any user can create and monetize one under ...",
+          "link": "https://yourstory.com/2026/05/app-influencer-ai-anyone-can-build",
           "source": "YourStory"
         },
         {
-          "title": "Amazon’s India Blitz, IRDAI’s Overhaul & More",
-          "summary": "Amazon India’s $13 Bn Power Play The ecommerce giant is deepening its presence in India with a fresh $13 Bn&#8230;...",
-          "link": "https://inc42.com/buzz/amazons-india-blitz-irdais-overhaul-more/",
+          "title": "From CRED To Square Yards — Indian Startups Raised $1.1 Bn This Week",
+          "summary": "Indian startups cumulatively raised more than $1.1 Bn across 16 deals between June 21 and June 26, a massive 2.5X &#8230;...",
+          "link": "https://inc42.com/buzz/from-cred-to-square-yards-indian-startups-raised-1-1-bn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -205,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "A glue that lets go: D-Glue’s debondable adhesive changes how engineers think about end-of-life",
-          "summary": "Kristoffer Stokes and Philip Costanzo of Geisys Ventures created a patented technology platform called D-Glue to simplify manufacturing and disassembly. “The circular economy is a ...",
-          "link": "https://www.designworldonline.com/a-glue-that-lets-go-d-glues-debondable-adhesive-changes-how-engineers-think-about-end-of-life/",
+          "title": "Mind over Machine: The engineering problem AI couldn’t solve",
+          "summary": "In this episode of Mind Over Machine, Mike Santora speaks with Ship &#38; Shore Environmental President and CEO Anoosheh Oskouian about the role of human experience in engineering ...",
+          "link": "https://www.designworldonline.com/mind-over-machine-the-engineering-problem-ai-couldnt-solve/",
           "source": "Design World"
         },
         {
-          "title": "Direct ToF module reaches 9 m range",
-          "summary": "STMicroelectronics has introduced the ST FlightSense&#x2122; VL53L9, a direct Time-of-Flight 3D LiDAR module for robotics, industrial automation, smart buildings, AR/VR and healthc...",
-          "link": "https://www.designworldonline.com/direct-tof-module-reaches-9-m-range/",
+          "title": "Make it custom: Why custom compounding matters and what it enables",
+          "summary": "Caio Beraldo, technical manager at Trelleborg Sealing Solutions, shares insights on custom compounding for manufacturing and why it can be a valuable solution for original equipmen...",
+          "link": "https://www.designworldonline.com/make-it-custom-why-custom-compounding-matters-and-what-it-enables/",
           "source": "Design World"
         }
       ]
@@ -227,6 +233,13 @@
           "link": "https://www.youtube.com/shorts/oYAnEH0JoqI",
           "source": "MKBHD",
           "thumbnail": "https://i4.ytimg.com/vi/oYAnEH0JoqI/hqdefault.jpg"
+        },
+        {
+          "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2602.21548\n\n🙏 We would like to thank our ge...",
+          "link": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i2.ytimg.com/vi/mG4SmhWyeFA/hqdefault.jpg"
         }
       ]
     }
