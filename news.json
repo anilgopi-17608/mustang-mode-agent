@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, June 28, 2026 at 11:26 AM IST",
-  "last_updated_iso": "2026-06-28T11:26:05.490447",
+  "last_updated": "Monday, June 29, 2026 at 11:48 AM IST",
+  "last_updated_iso": "2026-06-29T11:48:17.051463",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24056.0,
-        "change": 34.349999999998545,
-        "change_pct": 0.14299600568653087,
-        "is_up": true
+        "price": 24034.95,
+        "change": -21.049999999999272,
+        "change_pct": -0.0875041569670738,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 77100.47,
-        "change": 109.25,
-        "change_pct": 0.14189929708868101,
-        "is_up": true
+        "price": 76999.06,
+        "change": -101.41000000000349,
+        "change_pct": -0.13152967809405505,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 58177.05,
-        "change": 26.700000000004366,
-        "change_pct": 0.045915458806360346,
-        "is_up": true
+        "price": 57985.0,
+        "change": -192.0500000000029,
+        "change_pct": -0.3301129912912444,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Maruti",
-        "price": 13753.0,
-        "change": 505.0,
-        "change_pct": 3.811896135265701,
+        "name": "Sun Pharma",
+        "price": 1891.5,
+        "change": 28.700000000000045,
+        "change_pct": 1.5406914322525256,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1387.0,
-        "change": 13.400000000000091,
-        "change_pct": 0.9755387303436293,
+        "name": "Wipro",
+        "price": 176.35,
+        "change": 1.3499999999999943,
+        "change_pct": 0.7714285714285682,
         "is_up": true
       },
       {
-        "name": "L&T",
-        "price": 4202.1,
-        "change": 20.400000000000546,
-        "change_pct": 0.4878398737355752,
+        "name": "HDFC Bank",
+        "price": 800.8,
+        "change": 4.5,
+        "change_pct": 0.5651136506341832,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1849.9,
-        "change": -27.399999999999864,
-        "change_pct": -1.4595429606349473,
+        "name": "Maruti",
+        "price": 13580.0,
+        "change": -165.0,
+        "change_pct": -1.2004365223717717,
+        "is_up": false
+      },
+      {
+        "name": "Reliance",
+        "price": 1305.6,
+        "change": -12.5,
+        "change_pct": -0.9483347242242623,
         "is_up": false
       },
       {
         "name": "Infosys",
-        "price": 1042.9,
-        "change": -13.699999999999818,
-        "change_pct": -1.2966117736134601,
-        "is_up": false
-      },
-      {
-        "name": "Sun Pharma",
-        "price": 1861.5,
-        "change": -12.900000000000091,
-        "change_pct": -0.6882202304737564,
+        "price": 1032.5,
+        "change": -8.700000000000045,
+        "change_pct": -0.8355743373031163,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.3,
-        "change": -0.08500000000000796,
-        "change_pct": -0.0900566827356126,
-        "is_up": false
+        "price": 94.35,
+        "change": 0.04999999999999716,
+        "change_pct": 0.053022269353125304,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4096.3,
-        "change": 48.70000000000027,
-        "change_pct": 1.2031821326218073,
-        "is_up": true
+        "price": 4077.3,
+        "change": -19.0,
+        "change_pct": -0.4638332153406733,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-          "summary": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model...",
-          "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+          "title": "California law targeting loud streaming ads takes effect on July 1",
+          "summary": "Streaming ads might be getting a lot quieter....",
+          "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
           "source": "TechCrunch"
         },
         {
-          "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
-          "summary": "Instagram users could soon see more ways to tune their content....",
-          "link": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+          "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+          "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”...",
+          "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
           "source": "TechCrunch"
         },
         {
-          "title": "Teenage Engineering adds lo-fi mode, USB audio, and more to its KO II sampler",
+          "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
           "source": "The Verge"
         },
         {
-          "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+          "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
           "source": "The Verge"
         },
         {
-          "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
-          "summary": "The Amble One is a street-legal $25,000 electric buggy designed for luxury resorts....",
-          "link": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
+          "title": "Why did this journal retract two 1940s papers by Max Planck?",
+          "summary": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”...",
+          "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "When to book profits and when to sit tight: Timeless investing lessons from Jesse Livermore",
-          "summary": "Jesse Livermore’s timeless investing principles offer clarity on one of the toughest market decisions, when to book profits and when to hold on. His approach emphasises patience in...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/when-to-book-profits-and-when-to-sit-tight-timeless-investing-lessons-from-jesse-livermore/articleshow/132046055.cms",
+          "title": "US Stock Market: Warsh faces crucial week with court ruling, global debut in focus",
+          "summary": "Federal Reserve Chair Kevin Warsh faces a crucial week. The Supreme Court's decision on Governor Lisa Cook's removal will test the central bank's independence. Simultaneously, Wars...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-warsh-faces-crucial-week-with-court-ruling-global-debut-in-focus/articleshow/132064200.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Funding the 'mother of all cycles': Chris Wood cuts Indian stocks to double down on South Korean chip giants",
-          "summary": "Christopher Wood has cut select Indian equities to increase exposure to South Korean chipmakers like SK Hynix and Samsung Electronics, betting on the AI-driven capex cycle. He view...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/funding-the-mother-of-all-cycles-chris-wood-cuts-indian-stocks-to-double-down-on-south-korean-chip-giants/articleshow/132045664.cms",
+          "title": "Hexaware Technologies shares jump 8% after securing Anthropic authorised reseller status for Amazon Bedrock",
+          "summary": "Hexaware Technologies shares rose sharply on Monday after the IT services company became an Anthropic Authorised Reseller for Amazon Bedrock. The designation allows Hexaware to sel...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hexaware-technologies-shares-jump-8-after-securing-anthropic-authorised-reseller-status-for-amazon-bedrock/articleshow/132064151.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Asian Paints is still searching for that perfect finish in home decor",
-          "summary": "In the last four years, Asian Paints' bath fittings, kitchens and lighting business has either declined or stagnated in revenue....",
-          "link": "https://www.livemint.com/companies/news/asian-paints-home-decor-bet-yet-to-pay-off-11782463682386.html",
+          "title": "Mindgrove's vision chip moves closer to market with Prama MoU",
+          "summary": "The MoU facilitates joint development efforts, allowing both firms to tailor the product before its commercial launch....",
+          "link": "https://www.livemint.com/companies/news/mindgrove-inks-prama-mou-vision-chip-commercial-deployment-11782653500360.html",
           "source": "Livemint Companies"
         }
       ]
@@ -188,22 +188,16 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "How Shashi Kumar built Akshayakalpa into a Rs 700 Cr enterprise with just 2,800 farmers",
-          "summary": "In this episode of the Prime Venture Partners Podcast, Shashi Kumar, Founder & CEO of Akshayakalpa, speaks about building a profitable Rs 60-crore-a-month business working with 2,8...",
-          "link": "https://yourstory.com/2026/06/shashi-kumar-akshayakalpa-700-crore-enterprise-2800-farmers",
+          "title": "Why value fashion is becoming India’s dominant retail story",
+          "summary": "Indian consumers are not merely seeking cheaper clothes. They are seeking fashionable, trend-relevant apparel at prices that feel justified by the value delivered. The demand is no...",
+          "link": "https://yourstory.com/2026/06/why-value-fashion-is-becoming-indias-dominant-retail-story",
           "source": "YourStory"
         },
         {
-          "title": "Meet Arjun Shetty, the fitness entrepreneur training clients across the world",
-          "summary": "After his cricketing career, Arjun Shetty channelled his passion for sport into fitness and founded Ace with Arjun, an online fitness training platform focused on overseas clients....",
-          "link": "https://yourstory.com/2026/06/arjun-shetty-fitness-entrepreneur-training-clients-across-the-world",
+          "title": "CRED fundraise helps VC inflow to cross $1B",
+          "summary": "Venture capital funding into Indian startups crossed the $1-billion mark on a weekly basis for the first time since 2023 and this was primarily due to $900 million fund raise of CR...",
+          "link": "https://yourstory.com/2026/06/cred-fundraise-helps-vc-inflow-to-cross-1b",
           "source": "YourStory"
-        },
-        {
-          "title": "Kunal Shah & The WhatsApp Acid Test",
-          "summary": "“Kunal Shah represents the very best of India’s startup ecosystem: bold thinking, intellectual curiosity, relentless execution and the ability to&#8230;...",
-          "link": "https://inc42.com/features/kunal-shah-the-whatsapp-acid-test/",
-          "source": "Inc42"
         }
       ]
     },
