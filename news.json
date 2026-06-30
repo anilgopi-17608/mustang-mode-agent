@@ -1,91 +1,91 @@
 {
-  "last_updated": "Monday, June 29, 2026 at 11:48 AM IST",
-  "last_updated_iso": "2026-06-29T11:48:17.051463",
+  "last_updated": "Tuesday, June 30, 2026 at 11:17 AM IST",
+  "last_updated_iso": "2026-06-30T11:17:27.521670",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24034.95,
-        "change": -21.049999999999272,
-        "change_pct": -0.0875041569670738,
+        "price": 23933.3,
+        "change": -12.950000000000728,
+        "change_pct": -0.054079448765467365,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 76999.06,
-        "change": -101.41000000000349,
-        "change_pct": -0.13152967809405505,
+        "price": 76567.39,
+        "change": -160.97999999999593,
+        "change_pct": -0.20980505646085787,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57985.0,
-        "change": -192.0500000000029,
-        "change_pct": -0.3301129912912444,
-        "is_up": false
+        "price": 57794.0,
+        "change": 66.65000000000146,
+        "change_pct": 0.11545653836526612,
+        "is_up": true
       }
     ],
     "gainers": [
       {
+        "name": "Maruti",
+        "price": 13935.0,
+        "change": 523.0,
+        "change_pct": 3.899492991351029,
+        "is_up": true
+      },
+      {
+        "name": "Bharti Airtel",
+        "price": 1871.3,
+        "change": 30.200000000000045,
+        "change_pct": 1.6403237195155094,
+        "is_up": true
+      },
+      {
         "name": "Sun Pharma",
-        "price": 1891.5,
-        "change": 28.700000000000045,
-        "change_pct": 1.5406914322525256,
-        "is_up": true
-      },
-      {
-        "name": "Wipro",
-        "price": 176.35,
-        "change": 1.3499999999999943,
-        "change_pct": 0.7714285714285682,
-        "is_up": true
-      },
-      {
-        "name": "HDFC Bank",
-        "price": 800.8,
-        "change": 4.5,
-        "change_pct": 0.5651136506341832,
+        "price": 1882.4,
+        "change": 7.600000000000136,
+        "change_pct": 0.4053765735011807,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 13580.0,
-        "change": -165.0,
-        "change_pct": -1.2004365223717717,
-        "is_up": false
-      },
-      {
-        "name": "Reliance",
-        "price": 1305.6,
-        "change": -12.5,
-        "change_pct": -0.9483347242242623,
+        "name": "Wipro",
+        "price": 171.22,
+        "change": -4.259999999999991,
+        "change_pct": -2.427627080009113,
         "is_up": false
       },
       {
         "name": "Infosys",
-        "price": 1032.5,
-        "change": -8.700000000000045,
-        "change_pct": -0.8355743373031163,
+        "price": 1013.9,
+        "change": -22.800000000000068,
+        "change_pct": -2.199286196585325,
+        "is_up": false
+      },
+      {
+        "name": "TCS",
+        "price": 2053.9,
+        "change": -44.0,
+        "change_pct": -2.097335430668764,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.35,
-        "change": 0.04999999999999716,
-        "change_pct": 0.053022269353125304,
+        "price": 94.565,
+        "change": 0.03499999999999659,
+        "change_pct": 0.037025282978944876,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4077.3,
-        "change": -19.0,
-        "change_pct": -0.4638332153406733,
+        "price": 3993.6,
+        "change": -45.30000000000018,
+        "change_pct": -1.1215925128128992,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "California law targeting loud streaming ads takes effect on July 1",
-          "summary": "Streaming ads might be getting a lot quieter....",
-          "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+          "title": "The AI jobs debate just got messier",
+          "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior...",
+          "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
           "source": "TechCrunch"
         },
         {
-          "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-          "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”...",
-          "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+          "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+          "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models....",
+          "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
           "source": "TechCrunch"
         },
         {
-          "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+          "title": "T-Mobile is booting customers from its oldest plans",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+          "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
           "source": "The Verge"
         },
         {
-          "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+          "title": "After a great start, DC’s new cinematic universe is already slowing down",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+          "link": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
           "source": "The Verge"
         },
         {
-          "title": "Why did this journal retract two 1940s papers by Max Planck?",
-          "summary": "Clicking on the links now reveals blank pages and empty PDFs. \"Intellectually, it’s not acceptable.”...",
-          "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+          "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+          "summary": "Operation by two Russia-state groups has been ongoing since at least March....",
+          "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "US Stock Market: Warsh faces crucial week with court ruling, global debut in focus",
-          "summary": "Federal Reserve Chair Kevin Warsh faces a crucial week. The Supreme Court's decision on Governor Lisa Cook's removal will test the central bank's independence. Simultaneously, Wars...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-warsh-faces-crucial-week-with-court-ruling-global-debut-in-focus/articleshow/132064200.cms",
+          "title": "Delayed monsoon may weigh on auto demand, but long-term outlook stays strong: Aditya Shah",
+          "summary": "A delayed monsoon poses a temporary challenge to rural auto demand, particularly for tractors and two-wheelers, but the sector's long-term outlook remains robust. Experts highlight...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/delayed-monsoon-may-weigh-on-auto-demand-but-long-term-outlook-stays-strong-aditya-shah/articleshow/132084569.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Hexaware Technologies shares jump 8% after securing Anthropic authorised reseller status for Amazon Bedrock",
-          "summary": "Hexaware Technologies shares rose sharply on Monday after the IT services company became an Anthropic Authorised Reseller for Amazon Bedrock. The designation allows Hexaware to sel...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hexaware-technologies-shares-jump-8-after-securing-anthropic-authorised-reseller-status-for-amazon-bedrock/articleshow/132064151.cms",
+          "title": "KEC International shares climb 7% on Rs 1,754 crore order win",
+          "summary": "KEC International shares rose nearly 7% on Tuesday after the infrastructure EPC firm announced fresh orders worth Rs 1,754 crore across its Transmission &amp; Distribution and Cabl...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kec-international-shares-climb-7-on-rs-1754-crore-order-win/articleshow/132084583.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Mindgrove's vision chip moves closer to market with Prama MoU",
-          "summary": "The MoU facilitates joint development efforts, allowing both firms to tailor the product before its commercial launch....",
-          "link": "https://www.livemint.com/companies/news/mindgrove-inks-prama-mou-vision-chip-commercial-deployment-11782653500360.html",
+          "title": "Vedanta Oil is investing to double output. Can it reverse a decade of decline?",
+          "summary": "The company aims to produce more than 150,000 barrels of oil equivalent per day (boepd) by FY29, up from 87,000 barrels in FY26, according to an analyst who attended the demerged c...",
+          "link": "https://www.livemint.com/companies/vedanta-oil-gas-production-target-fy29-capex-700-million-aging-fields-11782755867884.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA grants breakthrough status to Aidoc’s AI radiology report system",
-          "summary": "The FDA has granted breakthrough device designation to Aidoc’s First Read, an AI system that produces preliminary radiology report text based on chest radiograph analysis. The post...",
-          "link": "https://www.medicaldevice-network.com/news/fda-status-aidoc-ai-radiology-report-system/",
+          "title": "Hanyang University creates microneedle patch for diabetic wounds",
+          "summary": "Researchers at Hanyang University in South Korea have developed an AI-guided microneedle patch that changes shape at body temperature to support healing in chronic diabetic wounds....",
+          "link": "https://www.medicaldevice-network.com/news/hanyang-university-microneedle-patch-diabetic-wounds/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,16 +188,22 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Why value fashion is becoming India’s dominant retail story",
-          "summary": "Indian consumers are not merely seeking cheaper clothes. They are seeking fashionable, trend-relevant apparel at prices that feel justified by the value delivered. The demand is no...",
-          "link": "https://yourstory.com/2026/06/why-value-fashion-is-becoming-indias-dominant-retail-story",
+          "title": "Klook India’s new campaign with Farah Khan is about the trips you didn’t plan for",
+          "summary": "With Farah Khan and her longtime cook Dilip exploring Singapore together, Klook India’s latest digital-first campaign taps into a growing shift in travel: moving beyond checklist t...",
+          "link": "https://yourstory.com/2026/06/klook-campaign-farah-khan-trips-didnt-plan",
           "source": "YourStory"
         },
         {
-          "title": "CRED fundraise helps VC inflow to cross $1B",
-          "summary": "Venture capital funding into Indian startups crossed the $1-billion mark on a weekly basis for the first time since 2023 and this was primarily due to $900 million fund raise of CR...",
-          "link": "https://yourstory.com/2026/06/cred-fundraise-helps-vc-inflow-to-cross-1b",
+          "title": "5 Quotes from the diary of a CEO that will change your mindset",
+          "summary": "Discover 5 powerful quotes from The Diary of a CEO by Steven Bartlett that can shift your mindset on success, growth, discipline, and life....",
+          "link": "https://yourstory.com/2026/05/diary-of-a-ceo-mindset-quotes",
           "source": "YourStory"
+        },
+        {
+          "title": "D2C’s New Media Playbook",
+          "summary": "Everybody wants to own the media, and the country’s fastest-growing new-age consumer brands are no exception. Faced with rising customer&#8230;...",
+          "link": "https://inc42.com/features/d2cs-new-media-playbook/",
+          "source": "Inc42"
         }
       ]
     },
@@ -205,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Mind over Machine: The engineering problem AI couldn’t solve",
-          "summary": "In this episode of Mind Over Machine, Mike Santora speaks with Ship &#38; Shore Environmental President and CEO Anoosheh Oskouian about the role of human experience in engineering ...",
-          "link": "https://www.designworldonline.com/mind-over-machine-the-engineering-problem-ai-couldnt-solve/",
+          "title": "Travel for Engineers, Episode 6: Taipei 101’s mass damper",
+          "summary": "Engineering is so often purposefully hidden behind walls, ceilings, or concrete — but at Taipei 101&#8217;s observation deck, one of the skyscraper&#8217;s most impressively engine...",
+          "link": "https://www.designworldonline.com/travel-for-engineers-episode-6-taipei-101s-mass-damper/",
           "source": "Design World"
         },
         {
-          "title": "Make it custom: Why custom compounding matters and what it enables",
-          "summary": "Caio Beraldo, technical manager at Trelleborg Sealing Solutions, shares insights on custom compounding for manufacturing and why it can be a valuable solution for original equipmen...",
-          "link": "https://www.designworldonline.com/make-it-custom-why-custom-compounding-matters-and-what-it-enables/",
+          "title": "Wachendorff encoders support IP67 and IP69K washdown use",
+          "summary": "AutomationDirect now offers Wachendorff 58V and 36J series encoders with IP67 and IP69K ratings for washdown environments involving high pressure and high temperature. The 58V mode...",
+          "link": "https://www.designworldonline.com/wachendorff-encoders-support-ip67-and-ip69k-washdown-use/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "Apple's Big Price Hike",
-          "summary": "New prices across the board for everything....",
-          "link": "https://www.youtube.com/shorts/oYAnEH0JoqI",
-          "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/oYAnEH0JoqI/hqdefault.jpg"
-        },
-        {
-          "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2602.21548\n\n🙏 We would like to thank our ge...",
-          "link": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/mG4SmhWyeFA/hqdefault.jpg"
         }
       ]
     }
