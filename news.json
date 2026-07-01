@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, June 30, 2026 at 11:17 AM IST",
-  "last_updated_iso": "2026-06-30T11:17:27.521670",
+  "last_updated": "Wednesday, July 01, 2026 at 11:36 AM IST",
+  "last_updated_iso": "2026-07-01T11:36:25.727511",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23933.3,
-        "change": -12.950000000000728,
-        "change_pct": -0.054079448765467365,
-        "is_up": false
+        "price": 23989.4,
+        "change": 123.65000000000146,
+        "change_pct": 0.518106491520281,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 76567.39,
-        "change": -160.97999999999593,
-        "change_pct": -0.20980505646085787,
-        "is_up": false
+        "price": 76994.65,
+        "change": 515.9799999999959,
+        "change_pct": 0.6746717744960731,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57794.0,
-        "change": 66.65000000000146,
-        "change_pct": 0.11545653836526612,
+        "price": 57825.35,
+        "change": 282.4499999999971,
+        "change_pct": 0.490851173646092,
         "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "Maruti",
-        "price": 13935.0,
-        "change": 523.0,
-        "change_pct": 3.899492991351029,
+        "price": 14351.0,
+        "change": 236.0,
+        "change_pct": 1.6719801629472193,
         "is_up": true
       },
       {
         "name": "Bharti Airtel",
-        "price": 1871.3,
-        "change": 30.200000000000045,
-        "change_pct": 1.6403237195155094,
+        "price": 1873.8,
+        "change": 21.799999999999955,
+        "change_pct": 1.1771058315334748,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1882.4,
-        "change": 7.600000000000136,
-        "change_pct": 0.4053765735011807,
+        "name": "Reliance",
+        "price": 1308.3,
+        "change": 14.399999999999864,
+        "change_pct": 1.112914444702053,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Wipro",
-        "price": 171.22,
-        "change": -4.259999999999991,
-        "change_pct": -2.427627080009113,
+        "name": "L&T",
+        "price": 4099.9,
+        "change": -43.5,
+        "change_pct": -1.049862431819279,
         "is_up": false
       },
       {
         "name": "Infosys",
-        "price": 1013.9,
-        "change": -22.800000000000068,
-        "change_pct": -2.199286196585325,
+        "price": 996.8,
+        "change": -3.6000000000000227,
+        "change_pct": -0.35985605757697153,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2053.9,
-        "change": -44.0,
-        "change_pct": -2.097335430668764,
+        "name": "HDFC Bank",
+        "price": 797.25,
+        "change": -0.7000000000000455,
+        "change_pct": -0.08772479478664647,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.565,
-        "change": 0.03499999999999659,
-        "change_pct": 0.037025282978944876,
+        "price": 94.725,
+        "change": 0.07499999999998863,
+        "change_pct": 0.07923930269412427,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3993.6,
-        "change": -45.30000000000018,
-        "change_pct": -1.1215925128128992,
+        "price": 3988.5,
+        "change": -50.0,
+        "change_pct": -1.238083446824316,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "The AI jobs debate just got messier",
-          "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior...",
-          "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+          "title": "The ‘Father of the Internet’ is finally retiring",
+          "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week....",
+          "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
           "source": "TechCrunch"
         },
         {
-          "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-          "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models....",
-          "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+          "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+          "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases....",
+          "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
           "source": "TechCrunch"
         },
         {
-          "title": "T-Mobile is booting customers from its oldest plans",
+          "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
           "summary": "",
-          "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+          "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
           "source": "The Verge"
         },
         {
-          "title": "After a great start, DC’s new cinematic universe is already slowing down",
+          "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
           "source": "The Verge"
         },
         {
-          "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-          "summary": "Operation by two Russia-state groups has been ongoing since at least March....",
-          "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+          "title": "June research roundup: 6 cool science stories we almost missed",
+          "summary": "Also, the science of poop's distinctive shape, boron buckyballs, and the secret to a soccer feint....",
+          "link": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Delayed monsoon may weigh on auto demand, but long-term outlook stays strong: Aditya Shah",
-          "summary": "A delayed monsoon poses a temporary challenge to rural auto demand, particularly for tractors and two-wheelers, but the sector's long-term outlook remains robust. Experts highlight...",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/delayed-monsoon-may-weigh-on-auto-demand-but-long-term-outlook-stays-strong-aditya-shah/articleshow/132084569.cms",
+          "title": "India bonds rise as index-entry hopes counter rise in US yields",
+          "summary": "Indian government bonds saw gains as anticipation of Bloomberg index inclusion and improved liquidity bolstered prices. Despite higher U.S. yields and rising oil due to geopolitica...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-as-index-entry-hopes-counter-rise-in-us-yields/articleshow/132107374.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "KEC International shares climb 7% on Rs 1,754 crore order win",
-          "summary": "KEC International shares rose nearly 7% on Tuesday after the infrastructure EPC firm announced fresh orders worth Rs 1,754 crore across its Transmission &amp; Distribution and Cabl...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kec-international-shares-climb-7-on-rs-1754-crore-order-win/articleshow/132084583.cms",
+          "title": "Only 1/5th the size of NSE? Why Jefferies predicts 27% upside for this near-monopoly stock",
+          "summary": "Jefferies has initiated coverage on MCX with a Buy rating and a target price of Rs 3,600, implying 27% upside. The brokerage expects strong earnings growth, driven by rising retail...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/only-1/5th-the-size-of-nse-why-jefferies-predicts-27-upside-for-this-near-monopoly-stock/articleshow/132107361.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Vedanta Oil is investing to double output. Can it reverse a decade of decline?",
-          "summary": "The company aims to produce more than 150,000 barrels of oil equivalent per day (boepd) by FY29, up from 87,000 barrels in FY26, according to an analyst who attended the demerged c...",
-          "link": "https://www.livemint.com/companies/vedanta-oil-gas-production-target-fy29-capex-700-million-aging-fields-11782755867884.html",
+          "title": "India’s cruise industry finds sea legs as younger travellers, easier access drive demand",
+          "summary": "Cruise travel is gaining popularity among younger and tier-II travelers in India. Companies such as Cordelia Cruises and Antara Cruises report strong growth, and industry experts a...",
+          "link": "https://www.livemint.com/companies/news/india-cruise-tourism-boom-domestic-international-cruises-11782797362789.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Hanyang University creates microneedle patch for diabetic wounds",
-          "summary": "Researchers at Hanyang University in South Korea have developed an AI-guided microneedle patch that changes shape at body temperature to support healing in chronic diabetic wounds....",
-          "link": "https://www.medicaldevice-network.com/news/hanyang-university-microneedle-patch-diabetic-wounds/",
+          "title": "GE HealthCare introduces upgrade pathways for interventional suite modernisation",
+          "summary": "The initiative is designed to simplify the ability for GE HealthCare customers with existing interventional suites to access new technologies. The post GE HealthCare introduces upg...",
+          "link": "https://www.medicaldevice-network.com/news/ge-healthcare-introduces-upgrade-pathways-for-interventional-suite-modernisation/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Klook India’s new campaign with Farah Khan is about the trips you didn’t plan for",
-          "summary": "With Farah Khan and her longtime cook Dilip exploring Singapore together, Klook India’s latest digital-first campaign taps into a growing shift in travel: moving beyond checklist t...",
-          "link": "https://yourstory.com/2026/06/klook-campaign-farah-khan-trips-didnt-plan",
+          "title": "At Pearl Academy, global icons champion a future built on AI and human ingenuity",
+          "summary": "At Pearl Academy's Global Icons Series, Rahul Mishra, Masaba Gupta and Jayanti Reddy explored how AI is transforming creative careers—and the skills students will need to stay ahea...",
+          "link": "https://yourstory.com/2026/06/at-pearl-academy-global-icons-champion-a-future-built-on-ai-and-human-ingenuity",
           "source": "YourStory"
         },
         {
-          "title": "5 Quotes from the diary of a CEO that will change your mindset",
-          "summary": "Discover 5 powerful quotes from The Diary of a CEO by Steven Bartlett that can shift your mindset on success, growth, discipline, and life....",
-          "link": "https://yourstory.com/2026/05/diary-of-a-ceo-mindset-quotes",
+          "title": "Maithri Aquatech draws DP World's backing in a sign of Indian climate tech coming of age",
+          "summary": "Hyderabad startup Maithri Aquatech, whose Meghdoot technology makes drinking water from air, has secured a strategic stake from DP World, a marker of maturing Indian climate tech....",
+          "link": "https://yourstory.com/2026/06/dp-world-maithri-aquatech-water-air-climate-tech-investment",
           "source": "YourStory"
         },
         {
-          "title": "D2C’s New Media Playbook",
-          "summary": "Everybody wants to own the media, and the country’s fastest-growing new-age consumer brands are no exception. Faced with rising customer&#8230;...",
-          "link": "https://inc42.com/features/d2cs-new-media-playbook/",
+          "title": "India Trains The World’s Robots, But At What Cost?",
+          "summary": "In the 1990s, American hospitals began routing physician dictations to transcriptionists in Bangalore and Chennai. It was unglamorous work, but&#8230;...",
+          "link": "https://inc42.com/features/india-trains-the-worlds-robots-but-at-what-cost/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Travel for Engineers, Episode 6: Taipei 101’s mass damper",
-          "summary": "Engineering is so often purposefully hidden behind walls, ceilings, or concrete — but at Taipei 101&#8217;s observation deck, one of the skyscraper&#8217;s most impressively engine...",
-          "link": "https://www.designworldonline.com/travel-for-engineers-episode-6-taipei-101s-mass-damper/",
+          "title": "Exair cabinet coolers protect hazardous enclosures",
+          "summary": "EXAIR’s Dual Hazardous Location Cabinet Cooler Systems are designed to cool large electrical enclosures in hazardous environments. The systems are rated for Class I Div. 1, Groups ...",
+          "link": "https://www.designworldonline.com/exair-cabinet-coolers-protect-hazardous-enclosures/",
           "source": "Design World"
         },
         {
-          "title": "Wachendorff encoders support IP67 and IP69K washdown use",
-          "summary": "AutomationDirect now offers Wachendorff 58V and 36J series encoders with IP67 and IP69K ratings for washdown environments involving high pressure and high temperature. The 58V mode...",
-          "link": "https://www.designworldonline.com/wachendorff-encoders-support-ip67-and-ip69k-washdown-use/",
+          "title": "Ethical Engineering: Sustainability vs. profit",
+          "summary": "This is part of our regular series where our ethics panel of experts weigh in on some topic or question of concern to working engineers. For this edition, the problem is one that w...",
+          "link": "https://www.designworldonline.com/ethical-engineering-sustainability-vs-profit/",
           "source": "Design World"
         }
       ]
