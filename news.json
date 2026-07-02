@@ -1,91 +1,91 @@
 {
-  "last_updated": "Wednesday, July 01, 2026 at 11:36 AM IST",
-  "last_updated_iso": "2026-07-01T11:36:25.727511",
+  "last_updated": "Thursday, July 02, 2026 at 11:04 AM IST",
+  "last_updated_iso": "2026-07-02T11:04:01.552476",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23989.4,
-        "change": 123.65000000000146,
-        "change_pct": 0.518106491520281,
+        "price": 24112.15,
+        "change": 106.30000000000291,
+        "change_pct": 0.4428087320382445,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 76994.65,
-        "change": 515.9799999999959,
-        "change_pct": 0.6746717744960731,
+        "price": 77238.29,
+        "change": 315.6499999999942,
+        "change_pct": 0.41034733077283125,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57825.35,
-        "change": 282.4499999999971,
-        "change_pct": 0.490851173646092,
+        "price": 58098.9,
+        "change": 65.84999999999854,
+        "change_pct": 0.11346982452240324,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Maruti",
-        "price": 14351.0,
-        "change": 236.0,
-        "change_pct": 1.6719801629472193,
+        "name": "Infosys",
+        "price": 1035.7,
+        "change": 50.40000000000009,
+        "change_pct": 5.11519334212931,
         "is_up": true
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1873.8,
-        "change": 21.799999999999955,
-        "change_pct": 1.1771058315334748,
+        "name": "TCS",
+        "price": 2046.5,
+        "change": 63.90000000000009,
+        "change_pct": 3.223040451931811,
         "is_up": true
       },
       {
-        "name": "Reliance",
-        "price": 1308.3,
-        "change": 14.399999999999864,
-        "change_pct": 1.112914444702053,
+        "name": "Wipro",
+        "price": 173.85,
+        "change": 3.719999999999999,
+        "change_pct": 2.186563216363956,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "L&T",
-        "price": 4099.9,
-        "change": -43.5,
-        "change_pct": -1.049862431819279,
+        "price": 4045.0,
+        "change": -47.59999999999991,
+        "change_pct": -1.1630748179641281,
         "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 996.8,
-        "change": -3.6000000000000227,
-        "change_pct": -0.35985605757697153,
+        "name": "Bharti Airtel",
+        "price": 1858.3,
+        "change": -12.700000000000045,
+        "change_pct": -0.6787814003206866,
         "is_up": false
       },
       {
-        "name": "HDFC Bank",
-        "price": 797.25,
-        "change": -0.7000000000000455,
-        "change_pct": -0.08772479478664647,
+        "name": "Reliance",
+        "price": 1303.9,
+        "change": -4.099999999999909,
+        "change_pct": -0.3134556574923478,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.725,
-        "change": 0.07499999999998863,
-        "change_pct": 0.07923930269412427,
-        "is_up": true
+        "price": 94.97,
+        "change": -0.2680000000000007,
+        "change_pct": -0.2814002814002821,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3988.5,
-        "change": -50.0,
-        "change_pct": -1.238083446824316,
+        "price": 4071.8,
+        "change": -10.599999999999909,
+        "change_pct": -0.25965118557710926,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "The ‘Father of the Internet’ is finally retiring",
-          "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week....",
-          "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+          "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+          "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI....",
+          "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
           "source": "TechCrunch"
         },
         {
-          "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-          "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases....",
-          "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+          "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+          "summary": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest....",
+          "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
+          "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+          "link": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
           "source": "The Verge"
         },
         {
-          "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+          "title": "The funeral for PlayStation discs has begun",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+          "link": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
           "source": "The Verge"
         },
         {
-          "title": "June research roundup: 6 cool science stories we almost missed",
-          "summary": "Also, the science of poop's distinctive shape, boron buckyballs, and the secret to a soccer feint....",
-          "link": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
+          "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+          "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses....",
+          "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "India bonds rise as index-entry hopes counter rise in US yields",
-          "summary": "Indian government bonds saw gains as anticipation of Bloomberg index inclusion and improved liquidity bolstered prices. Despite higher U.S. yields and rising oil due to geopolitica...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-as-index-entry-hopes-counter-rise-in-us-yields/articleshow/132107374.cms",
+          "title": "India's textile stocks become market standouts on trade deals",
+          "summary": "Indian textile exporters are experiencing a significant stock market surge, outperforming the broader market. New trade deals with the UK, EU, and potential US agreements are boost...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-textile-stocks-become-market-standouts-on-trade-deals/articleshow/132129389.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Only 1/5th the size of NSE? Why Jefferies predicts 27% upside for this near-monopoly stock",
-          "summary": "Jefferies has initiated coverage on MCX with a Buy rating and a target price of Rs 3,600, implying 27% upside. The brokerage expects strong earnings growth, driven by rising retail...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/only-1/5th-the-size-of-nse-why-jefferies-predicts-27-upside-for-this-near-monopoly-stock/articleshow/132107361.cms",
+          "title": "Coca-Cola eyes $1 billion IPO for Indian bottling unit",
+          "summary": "Coca-Cola has invited investment banks to pitch for roles in the planned IPO of its Indian bottling arm, Hindustan Coca-Cola Beverages, in a deal that could raise around $1 billion...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/coca-cola-eyes-1-billion-ipo-for-indian-bottling-unit/articleshow/132129348.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "India’s cruise industry finds sea legs as younger travellers, easier access drive demand",
-          "summary": "Cruise travel is gaining popularity among younger and tier-II travelers in India. Companies such as Cordelia Cruises and Antara Cruises report strong growth, and industry experts a...",
-          "link": "https://www.livemint.com/companies/news/india-cruise-tourism-boom-domestic-international-cruises-11782797362789.html",
+          "title": "Regulatory cloud lifts, Vedanta readies Bokaro capacity doubling",
+          "summary": "The project was delayed by pending statutory approvals, including environmental clearances and consent-related approvals from regulators...",
+          "link": "https://www.livemint.com/companies/vedanta-iron-steel-vedanta-anil-agarwal-bokaro-steel-plant-steel-capacity-expansion-esl-steel-bokaro-11782919317947.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "GE HealthCare introduces upgrade pathways for interventional suite modernisation",
-          "summary": "The initiative is designed to simplify the ability for GE HealthCare customers with existing interventional suites to access new technologies. The post GE HealthCare introduces upg...",
-          "link": "https://www.medicaldevice-network.com/news/ge-healthcare-introduces-upgrade-pathways-for-interventional-suite-modernisation/",
+          "title": "Nitinol has become central to innovation in ablation therapies",
+          "summary": "Explore growth in the EP ablation catheter market as pulsed field ablation (PFA) gains momentum, and how nitinol enables precision steering. The post Nitinol has become central to ...",
+          "link": "https://www.medicaldevice-network.com/sponsored/nitinol-has-become-central-to-innovation-in-ablation-therapies/",
           "source": "Medical Device Network"
         }
       ]
@@ -194,15 +194,15 @@
           "source": "YourStory"
         },
         {
-          "title": "Maithri Aquatech draws DP World's backing in a sign of Indian climate tech coming of age",
-          "summary": "Hyderabad startup Maithri Aquatech, whose Meghdoot technology makes drinking water from air, has secured a strategic stake from DP World, a marker of maturing Indian climate tech....",
-          "link": "https://yourstory.com/2026/06/dp-world-maithri-aquatech-water-air-climate-tech-investment",
+          "title": "Agnikul, ICEYE partnership to explore India-built radar satellite capability",
+          "summary": "Under the proposed partnership, ICEYE would explore manufacturing SAR satellites in India, while Agnikul would provide indigenous launch services....",
+          "link": "https://yourstory.com/2026/07/agnikul-iceye-partnership-explore-india-built-radar-satellite-capability",
           "source": "YourStory"
         },
         {
-          "title": "India Trains The World’s Robots, But At What Cost?",
-          "summary": "In the 1990s, American hospitals began routing physician dictations to transcriptionists in Bangalore and Chennai. It was unglamorous work, but&#8230;...",
-          "link": "https://inc42.com/features/india-trains-the-worlds-robots-but-at-what-cost/",
+          "title": "Bike Bazaar’s Debt Spiral, Dream11 Shuts Fintech Arm & More",
+          "summary": "Crisis At Bike Bazaar Bike Bazaar’s lending engine appears to have stalled. With disbursements frozen, ratings cut and securitised pools&#8230;...",
+          "link": "https://inc42.com/buzz/bike-bazaars-debt-spiral-dream11-shuts-fintech-arm-more/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +211,35 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "Sager Electronics named OMRON distributor of the year",
+          "summary": "Sager Electronics was named OMRON Electronic Components’ 2025 Distributor of the Year. The award was presented at the EDS Leadership Summit in Las Vegas. Sager Electronics, a wholl...",
+          "link": "https://www.designworldonline.com/sager-electronics-named-omron-distributor-of-the-year/",
+          "source": "Design World"
+        },
+        {
           "title": "Exair cabinet coolers protect hazardous enclosures",
           "summary": "EXAIR’s Dual Hazardous Location Cabinet Cooler Systems are designed to cool large electrical enclosures in hazardous environments. The systems are rated for Class I Div. 1, Groups ...",
           "link": "https://www.designworldonline.com/exair-cabinet-coolers-protect-hazardous-enclosures/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "Antigravity A1: A New Take on Drones!",
+          "summary": "Thanks Antigravity for sponsoring this video! Get 25% off the A1 at https://geni.us/lQlFcj for a limited time, and get 20% off accessories during Prime Day! Also, the first 25 peop...",
+          "link": "https://www.youtube.com/watch?v=ZpF6IE0rdxA",
+          "source": "MKBHD",
+          "thumbnail": "https://i3.ytimg.com/vi/ZpF6IE0rdxA/hqdefault.jpg"
         },
         {
-          "title": "Ethical Engineering: Sustainability vs. profit",
-          "summary": "This is part of our regular series where our ethics panel of experts weigh in on some topic or question of concern to working engineers. For this edition, the problem is one that w...",
-          "link": "https://www.designworldonline.com/ethical-engineering-sustainability-vs-profit/",
-          "source": "Design World"
+          "title": "AI Just Entered A New Era",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nGLM 5.2: https://z.ai/blog/glm-5.2\n\n🙏 We would like to thank our generous Patreon supporters who...",
+          "link": "https://www.youtube.com/watch?v=qks6dGQFd_c",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i2.ytimg.com/vi/qks6dGQFd_c/hqdefault.jpg"
         }
       ]
     }
