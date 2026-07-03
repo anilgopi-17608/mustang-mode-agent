@@ -1,92 +1,92 @@
 {
-  "last_updated": "Thursday, July 02, 2026 at 11:04 AM IST",
-  "last_updated_iso": "2026-07-02T11:04:01.552476",
+  "last_updated": "Friday, July 03, 2026 at 11:00 AM IST",
+  "last_updated_iso": "2026-07-03T11:00:10.670204",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24112.15,
-        "change": 106.30000000000291,
-        "change_pct": 0.4428087320382445,
+        "price": 24340.35,
+        "change": 164.64999999999782,
+        "change_pct": 0.6810557708773596,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77238.29,
-        "change": 315.6499999999942,
-        "change_pct": 0.41034733077283125,
+        "price": 78011.28,
+        "change": 509.1600000000035,
+        "change_pct": 0.6569626740533079,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 58098.9,
-        "change": 65.84999999999854,
-        "change_pct": 0.11346982452240324,
-        "is_up": true
+        "price": 58026.05,
+        "change": -5.599999999998545,
+        "change_pct": -0.009649906559607636,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Infosys",
-        "price": 1035.7,
-        "change": 50.40000000000009,
-        "change_pct": 5.11519334212931,
-        "is_up": true
-      },
-      {
-        "name": "TCS",
-        "price": 2046.5,
-        "change": 63.90000000000009,
-        "change_pct": 3.223040451931811,
+        "name": "Sun Pharma",
+        "price": 1915.0,
+        "change": 44.0,
+        "change_pct": 2.351683591662213,
         "is_up": true
       },
       {
         "name": "Wipro",
-        "price": 173.85,
-        "change": 3.719999999999999,
-        "change_pct": 2.186563216363956,
+        "price": 177.39,
+        "change": 3.3899999999999864,
+        "change_pct": 1.9482758620689575,
+        "is_up": true
+      },
+      {
+        "name": "TCS",
+        "price": 2098.7,
+        "change": 30.59999999999991,
+        "change_pct": 1.4796189739374261,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "L&T",
-        "price": 4045.0,
-        "change": -47.59999999999991,
-        "change_pct": -1.1630748179641281,
-        "is_up": false
-      },
-      {
-        "name": "Bharti Airtel",
-        "price": 1858.3,
-        "change": -12.700000000000045,
-        "change_pct": -0.6787814003206866,
+        "price": 4051.8,
+        "change": -7.599999999999909,
+        "change_pct": -0.1872197861752946,
         "is_up": false
       },
       {
         "name": "Reliance",
-        "price": 1303.9,
-        "change": -4.099999999999909,
-        "change_pct": -0.3134556574923478,
-        "is_up": false
+        "price": 1303.5,
+        "change": 0.0,
+        "change_pct": 0.0,
+        "is_up": true
+      },
+      {
+        "name": "Maruti",
+        "price": 14477.0,
+        "change": 129.0,
+        "change_pct": 0.89908001115138,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.97,
-        "change": -0.2680000000000007,
-        "change_pct": -0.2814002814002821,
+        "price": 95.28,
+        "change": -0.10200000000000387,
+        "change_pct": -0.10693841605334743,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4071.8,
-        "change": -10.599999999999909,
-        "change_pct": -0.25965118557710926,
-        "is_up": false
+        "price": 4191.4,
+        "change": 65.69999999999982,
+        "change_pct": 1.592457037593616,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-          "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI....",
-          "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+          "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+          "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with in...",
+          "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-          "summary": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest....",
-          "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+          "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+          "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone....",
+          "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
+          "title": "Sony’s PlayStation disc factory is already being repurposed",
           "summary": "",
-          "link": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
+          "link": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
           "source": "The Verge"
         },
         {
-          "title": "The funeral for PlayStation discs has begun",
+          "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
           "summary": "",
-          "link": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
+          "link": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
           "source": "The Verge"
         },
         {
-          "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-          "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses....",
-          "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+          "title": "Newly discovered PamStealer isn't your typical macOS malware",
+          "summary": "The discovery underscores the increased effort being poured into Mac infostealers....",
+          "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "India's textile stocks become market standouts on trade deals",
-          "summary": "Indian textile exporters are experiencing a significant stock market surge, outperforming the broader market. New trade deals with the UK, EU, and potential US agreements are boost...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-textile-stocks-become-market-standouts-on-trade-deals/articleshow/132129389.cms",
+          "title": "Bajaj Housing Finance shares rally 5% as Q1 AUM climbs 24% YoY",
+          "summary": "Bajaj Housing Finance shares rose sharply on Friday after the company reported a 24% year-on-year rise in assets under management (AUM) to Rs 1.5 lakh crore for Q1FY27. Gross disbu...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-housing-finance-shares-rally-5-as-q1-aum-climbs-24-yoy/articleshow/132152873.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Coca-Cola eyes $1 billion IPO for Indian bottling unit",
-          "summary": "Coca-Cola has invited investment banks to pitch for roles in the planned IPO of its Indian bottling arm, Hindustan Coca-Cola Beverages, in a deal that could raise around $1 billion...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/coca-cola-eyes-1-billion-ipo-for-indian-bottling-unit/articleshow/132129348.cms",
+          "title": "Holiday Halt: S&amp;P 500, Nasdaq to remain closed today for Independence Day holiday",
+          "summary": "US financial markets observed a closure on Friday, July 3, in commemoration of Independence Day, as the holiday fell on a Saturday. Trading in both equities and bonds resumed on Mo...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/holiday-halt-sp-500-nasdaq-to-remain-closed-today-for-independence-day-holiday/articleshow/132152818.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Regulatory cloud lifts, Vedanta readies Bokaro capacity doubling",
-          "summary": "The project was delayed by pending statutory approvals, including environmental clearances and consent-related approvals from regulators...",
-          "link": "https://www.livemint.com/companies/vedanta-iron-steel-vedanta-anil-agarwal-bokaro-steel-plant-steel-capacity-expansion-esl-steel-bokaro-11782919317947.html",
+          "title": "Tata Agratas increases loan to more than £1 billion, pushes back repayment deadline as battery project accelerates",
+          "summary": "Tata Group's UK battery unit Agratas will draw £1.15 billion in loans, a 53% increase, with lenders extending the repayment deadline to September 2027 as the Somerset gigafactory n...",
+          "link": "https://www.livemint.com/companies/tata-group-agratas-loan-debt-jaguar-land-rover-jlr-batteries-uk-government-energy-11782989055376.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Nitinol has become central to innovation in ablation therapies",
-          "summary": "Explore growth in the EP ablation catheter market as pulsed field ablation (PFA) gains momentum, and how nitinol enables precision steering. The post Nitinol has become central to ...",
-          "link": "https://www.medicaldevice-network.com/sponsored/nitinol-has-become-central-to-innovation-in-ablation-therapies/",
+          "title": "Materna Medical raises $5m for women’s health device portfolio",
+          "summary": "Funds will support Materna’s completion of a pivotal trial evaluating its system for reducing pelvic floor muscle injury during childbirth, as well as other commercial activities. ...",
+          "link": "https://www.medicaldevice-network.com/news/materna-medical-raises-5m-for-women-health-device-portfolio/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "At Pearl Academy, global icons champion a future built on AI and human ingenuity",
-          "summary": "At Pearl Academy's Global Icons Series, Rahul Mishra, Masaba Gupta and Jayanti Reddy explored how AI is transforming creative careers—and the skills students will need to stay ahea...",
-          "link": "https://yourstory.com/2026/06/at-pearl-academy-global-icons-champion-a-future-built-on-ai-and-human-ingenuity",
+          "title": "Rebound in venture capital inflow; How Addverb built an intralogistics biz",
+          "summary": "VC funding into Indian startups for the first six months of the year touched $6.9 billion, raising hopes that capital inflow will surpass 2025 levels by the end of the year. Meanwh...",
+          "link": "https://yourstory.com/2026/07/rebound-in-venture-capital-inflow-how-addverb-built-an-intralogistics-biz",
           "source": "YourStory"
         },
         {
-          "title": "Agnikul, ICEYE partnership to explore India-built radar satellite capability",
-          "summary": "Under the proposed partnership, ICEYE would explore manufacturing SAR satellites in India, while Agnikul would provide indigenous launch services....",
-          "link": "https://yourstory.com/2026/07/agnikul-iceye-partnership-explore-india-built-radar-satellite-capability",
+          "title": "100 years strong: How Narasu’s built a Rs 641 Cr coffee business without external funding",
+          "summary": "Salem-based Narasu’s, known for its pure filter coffee powder, took bold bets with chicory blends and instant coffee at a time when not many gave it a chance. Today, Narasu’s is a ...",
+          "link": "https://yourstory.com/2026/07/100-years-strong-how-narasus-built-a-rs-641-cr-coffee-business",
           "source": "YourStory"
         },
         {
-          "title": "Bike Bazaar’s Debt Spiral, Dream11 Shuts Fintech Arm & More",
-          "summary": "Crisis At Bike Bazaar Bike Bazaar’s lending engine appears to have stalled. With disbursements frozen, ratings cut and securitised pools&#8230;...",
-          "link": "https://inc42.com/buzz/bike-bazaars-debt-spiral-dream11-shuts-fintech-arm-more/",
+          "title": "Udaan In Fresh Crisis, Mega Deal Slump In H1 & More",
+          "summary": "Udaan’s Insolvency Crisis Udaan has run into a fresh crisis. Overseas creditors have initiated insolvency proceedings against the B2B ecommerce&#8230;...",
+          "link": "https://inc42.com/buzz/udaan-in-fresh-crisis-mega-deal-slump-in-h1-more/",
           "source": "Inc42"
         }
       ]
@@ -228,11 +228,11 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "Antigravity A1: A New Take on Drones!",
-          "summary": "Thanks Antigravity for sponsoring this video! Get 25% off the A1 at https://geni.us/lQlFcj for a limited time, and get 20% off accessories during Prime Day! Also, the first 25 peop...",
-          "link": "https://www.youtube.com/watch?v=ZpF6IE0rdxA",
+          "title": "The Best Car I've Ever Driven: McLaren W1",
+          "summary": "I may never see this car again. But it's incredible.\n\nFor car videos: http://youtube.com/Autofocus\n\nRimac Nevera: https://youtu.be/sF9xYtouZjY?si=ChdSpLzC6TcR4Wdz\n\nMKBHD Merch: htt...",
+          "link": "https://www.youtube.com/watch?v=7KRabLH7jcE",
           "source": "MKBHD",
-          "thumbnail": "https://i3.ytimg.com/vi/ZpF6IE0rdxA/hqdefault.jpg"
+          "thumbnail": "https://i4.ytimg.com/vi/7KRabLH7jcE/hqdefault.jpg"
         },
         {
           "title": "AI Just Entered A New Era",
