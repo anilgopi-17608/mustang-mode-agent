@@ -1,91 +1,91 @@
 {
-  "last_updated": "Friday, July 03, 2026 at 11:00 AM IST",
-  "last_updated_iso": "2026-07-03T11:00:10.670204",
+  "last_updated": "Saturday, July 04, 2026 at 10:42 AM IST",
+  "last_updated_iso": "2026-07-04T10:42:45.217523",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24340.35,
-        "change": 164.64999999999782,
-        "change_pct": 0.6810557708773596,
+        "price": 24270.85,
+        "change": 95.14999999999782,
+        "change_pct": 0.39357702155469254,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 78011.28,
-        "change": 509.1600000000035,
-        "change_pct": 0.6569626740533079,
+        "price": 77763.91,
+        "change": 261.79000000000815,
+        "change_pct": 0.3377843083518337,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 58026.05,
-        "change": -5.599999999998545,
-        "change_pct": -0.009649906559607636,
+        "price": 57938.5,
+        "change": -93.15000000000146,
+        "change_pct": -0.16051585643351768,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Sun Pharma",
-        "price": 1915.0,
-        "change": 44.0,
-        "change_pct": 2.351683591662213,
+        "name": "Bharti Airtel",
+        "price": 1910.4,
+        "change": 35.40000000000009,
+        "change_pct": 1.888000000000005,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 177.39,
-        "change": 3.3899999999999864,
-        "change_pct": 1.9482758620689575,
+        "name": "Sun Pharma",
+        "price": 1904.8,
+        "change": 33.799999999999955,
+        "change_pct": 1.8065205772314246,
         "is_up": true
       },
       {
         "name": "TCS",
-        "price": 2098.7,
-        "change": 30.59999999999991,
-        "change_pct": 1.4796189739374261,
+        "price": 2093.5,
+        "change": 25.40000000000009,
+        "change_pct": 1.2281804554905513,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "L&T",
-        "price": 4051.8,
-        "change": -7.599999999999909,
-        "change_pct": -0.1872197861752946,
+        "price": 4026.6,
+        "change": -32.80000000000018,
+        "change_pct": -0.8080011824407592,
         "is_up": false
       },
       {
         "name": "Reliance",
-        "price": 1303.5,
-        "change": 0.0,
-        "change_pct": 0.0,
+        "price": 1304.0,
+        "change": 0.5,
+        "change_pct": 0.038358266206367474,
         "is_up": true
       },
       {
         "name": "Maruti",
-        "price": 14477.0,
-        "change": 129.0,
-        "change_pct": 0.89908001115138,
+        "price": 14366.0,
+        "change": 18.0,
+        "change_pct": 0.12545302481182047,
         "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.28,
-        "change": -0.10200000000000387,
-        "change_pct": -0.10693841605334743,
+        "price": 95.2,
+        "change": -0.18200000000000216,
+        "change_pct": -0.190811683546164,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4191.4,
-        "change": 65.69999999999982,
-        "change_pct": 1.592457037593616,
+        "price": 4187.3,
+        "change": 61.600000000000364,
+        "change_pct": 1.4930799621882436,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-          "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with in...",
-          "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+          "title": "The only AI glossary you’ll need this year",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....",
+          "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
           "source": "TechCrunch"
         },
         {
-          "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-          "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone....",
-          "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+          "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+          "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....",
+          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
           "source": "TechCrunch"
         },
         {
-          "title": "Sony’s PlayStation disc factory is already being repurposed",
+          "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
           "summary": "",
-          "link": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
+          "link": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
           "source": "The Verge"
         },
         {
-          "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+          "title": "While you’re watching the World Cup, the feds may be watching you",
           "summary": "",
-          "link": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+          "link": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
           "source": "The Verge"
         },
         {
-          "title": "Newly discovered PamStealer isn't your typical macOS malware",
-          "summary": "The discovery underscores the increased effort being poured into Mac infostealers....",
-          "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+          "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+          "summary": "NASA awarded Rocket Lab deals for three dedicated launches using the company's Electron rocket....",
+          "link": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Bajaj Housing Finance shares rally 5% as Q1 AUM climbs 24% YoY",
-          "summary": "Bajaj Housing Finance shares rose sharply on Friday after the company reported a 24% year-on-year rise in assets under management (AUM) to Rs 1.5 lakh crore for Q1FY27. Gross disbu...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-housing-finance-shares-rally-5-as-q1-aum-climbs-24-yoy/articleshow/132152873.cms",
+          "title": "Explained: How India's bond market became more accessible over the last 10 years",
+          "summary": "India's bond market has grown significantly over the past decade, driven by regulatory reforms, digital platforms and rising retail participation. While market depth and innovation...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/explained-how-indias-bond-market-became-more-accessible-over-the-last-10-years/articleshow/132175043.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Holiday Halt: S&amp;P 500, Nasdaq to remain closed today for Independence Day holiday",
-          "summary": "US financial markets observed a closure on Friday, July 3, in commemoration of Independence Day, as the holiday fell on a Saturday. Trading in both equities and bonds resumed on Mo...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/holiday-halt-sp-500-nasdaq-to-remain-closed-today-for-independence-day-holiday/articleshow/132152818.cms",
+          "title": "SBI Funds Management seeks Rs 2,000 crore in pre-IPO round",
+          "summary": "SBI Funds Management, India's largest mutual fund, is planning a significant IPO, potentially raising up to ₹2,000 crore through a pre-IPO placement. This move precedes a larger ₹1...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-seeks-rs-2000-crore-in-pre-ipo-round/articleshow/132174836.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Tata Agratas increases loan to more than £1 billion, pushes back repayment deadline as battery project accelerates",
-          "summary": "Tata Group's UK battery unit Agratas will draw £1.15 billion in loans, a 53% increase, with lenders extending the repayment deadline to September 2027 as the Somerset gigafactory n...",
-          "link": "https://www.livemint.com/companies/tata-group-agratas-loan-debt-jaguar-land-rover-jlr-batteries-uk-government-energy-11782989055376.html",
+          "title": "Why is Bank of Baroda paying $600 million to settle a case?",
+          "summary": "While the bank has asserted that the settlement was reached without any admission of liability, it has revived allegations by NMC founder B.R. Shetty, who has long accused senior B...",
+          "link": "https://www.livemint.com/companies/news/why-is-bank-of-baroda-paying-600-million-to-settle-a-case-nmc-health-11783080779016.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Materna Medical raises $5m for women’s health device portfolio",
-          "summary": "Funds will support Materna’s completion of a pivotal trial evaluating its system for reducing pelvic floor muscle injury during childbirth, as well as other commercial activities. ...",
-          "link": "https://www.medicaldevice-network.com/news/materna-medical-raises-5m-for-women-health-device-portfolio/",
+          "title": "FDA clears Visby Medical’s at-home Covid-19 and Influenza PCR test",
+          "summary": "Visby's multi-viral Medical Flu and Covid-19 test yields results in 30 minutes. The post FDA clears Visby Medical’s at-home Covid-19 and Influenza PCR test appeared first on Medica...",
+          "link": "https://www.medicaldevice-network.com/news/fda-clears-visby-medical-at-home-covid-19-and-influenza-pcr-test/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Rebound in venture capital inflow; How Addverb built an intralogistics biz",
-          "summary": "VC funding into Indian startups for the first six months of the year touched $6.9 billion, raising hopes that capital inflow will surpass 2025 levels by the end of the year. Meanwh...",
-          "link": "https://yourstory.com/2026/07/rebound-in-venture-capital-inflow-how-addverb-built-an-intralogistics-biz",
-          "source": "YourStory"
-        },
-        {
           "title": "100 years strong: How Narasu’s built a Rs 641 Cr coffee business without external funding",
           "summary": "Salem-based Narasu’s, known for its pure filter coffee powder, took bold bets with chicory blends and instant coffee at a time when not many gave it a chance. Today, Narasu’s is a ...",
           "link": "https://yourstory.com/2026/07/100-years-strong-how-narasus-built-a-rs-641-cr-coffee-business",
           "source": "YourStory"
         },
         {
-          "title": "Udaan In Fresh Crisis, Mega Deal Slump In H1 & More",
-          "summary": "Udaan’s Insolvency Crisis Udaan has run into a fresh crisis. Overseas creditors have initiated insolvency proceedings against the B2B ecommerce&#8230;...",
-          "link": "https://inc42.com/buzz/udaan-in-fresh-crisis-mega-deal-slump-in-h1-more/",
+          "title": "India's EV transition to build sustainable industrial ecosystem: Minister",
+          "summary": "Environment Minister Bhupender Yadav said India's shift to electric mobility is about building a sustainable industrial ecosystem that boosts manufacturing, creates green jobs and ...",
+          "link": "https://yourstory.com/2026/07/india-ev-transition-build-sustainable-industrial-ecosystem-minister",
+          "source": "YourStory"
+        },
+        {
+          "title": "From The Indus Valley To Incuspaze — Indian Startups Raised $105 Mn This Week",
+          "summary": "Indian startup funding plummeted in the final week of June after a sizable uptick last week. Between June 28 and&#8230;...",
+          "link": "https://inc42.com/buzz/from-the-indus-valley-to-incuspaze-indian-startups-raised-105-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i4.ytimg.com/vi/7KRabLH7jcE/hqdefault.jpg"
         },
         {
-          "title": "AI Just Entered A New Era",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nGLM 5.2: https://z.ai/blog/glm-5.2\n\n🙏 We would like to thank our generous Patreon supporters who...",
-          "link": "https://www.youtube.com/watch?v=qks6dGQFd_c",
+          "title": "They Said This Will Never Run In Real Time",
+          "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2506.06494\n\nSources:\nhttps://www.youtu...",
+          "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/qks6dGQFd_c/hqdefault.jpg"
+          "thumbnail": "https://i2.ytimg.com/vi/uO5cvkzh3P0/hqdefault.jpg"
         }
       ]
     }
