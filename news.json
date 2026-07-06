@@ -1,91 +1,91 @@
 {
-  "last_updated": "Sunday, July 05, 2026 at 11:11 AM IST",
-  "last_updated_iso": "2026-07-05T11:11:12.343903",
+  "last_updated": "Monday, July 06, 2026 at 11:32 AM IST",
+  "last_updated_iso": "2026-07-06T11:32:06.348006",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24270.85,
-        "change": 95.14999999999782,
-        "change_pct": 0.39357702155469254,
+        "price": 24417.9,
+        "change": 147.0500000000029,
+        "change_pct": 0.6058708285865675,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77763.91,
-        "change": 261.79000000000815,
-        "change_pct": 0.3377843083518337,
+        "price": 78207.12,
+        "change": 443.20999999999185,
+        "change_pct": 0.5699430494171291,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57938.5,
-        "change": -93.15000000000146,
-        "change_pct": -0.16051585643351768,
-        "is_up": false
+        "price": 58317.9,
+        "change": 379.40000000000146,
+        "change_pct": 0.6548322790545172,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1910.4,
-        "change": 35.40000000000009,
-        "change_pct": 1.888000000000005,
+        "name": "HDFC Bank",
+        "price": 824.0,
+        "change": 22.950000000000045,
+        "change_pct": 2.8649897010174206,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1904.8,
-        "change": 33.799999999999955,
-        "change_pct": 1.8065205772314246,
+        "name": "Reliance",
+        "price": 1322.6,
+        "change": 18.59999999999991,
+        "change_pct": 1.4263803680981524,
         "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2093.5,
-        "change": 25.40000000000009,
-        "change_pct": 1.2281804554905513,
+        "name": "ICICI Bank",
+        "price": 1425.8,
+        "change": 14.399999999999864,
+        "change_pct": 1.0202635680884131,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "L&T",
-        "price": 4026.6,
-        "change": -32.80000000000018,
-        "change_pct": -0.8080011824407592,
+        "name": "TCS",
+        "price": 2060.8,
+        "change": -32.69999999999982,
+        "change_pct": -1.5619775495581476,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1304.0,
-        "change": 0.5,
-        "change_pct": 0.038358266206367474,
-        "is_up": true
+        "name": "Infosys",
+        "price": 1035.0,
+        "change": -12.200000000000045,
+        "change_pct": -1.1650114591291105,
+        "is_up": false
       },
       {
-        "name": "Maruti",
-        "price": 14366.0,
-        "change": 18.0,
-        "change_pct": 0.12545302481182047,
-        "is_up": true
+        "name": "Wipro",
+        "price": 174.11,
+        "change": -1.9699999999999989,
+        "change_pct": -1.1188096319854604,
+        "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.2,
-        "change": -0.18200000000000216,
-        "change_pct": -0.190811683546164,
-        "is_up": false
+        "price": 95.4125,
+        "change": 0.21249999999999147,
+        "change_pct": 0.22321428571427676,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4187.3,
-        "change": 61.600000000000364,
-        "change_pct": 1.4930799621882436,
+        "price": 4167.7,
+        "change": 42.0,
+        "change_pct": 1.018009065128342,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-          "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?...",
-          "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+          "title": "Uber’s European expansion plans may have hit a speed bump",
+          "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold....",
+          "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
           "source": "TechCrunch"
         },
         {
-          "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-          "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves....",
-          "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+          "summary": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million....",
+          "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
           "source": "TechCrunch"
         },
         {
-          "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+          "title": "Some of the nation’s rich are letting AI teach their kids",
           "summary": "",
-          "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
           "source": "The Verge"
         },
         {
-          "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
+          "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
           "summary": "",
-          "link": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
+          "link": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
           "source": "The Verge"
         },
         {
-          "title": "Review: Supergirl is not the disaster its low box office suggests",
-          "summary": "It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market....",
-          "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+          "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
+          "summary": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years....",
+          "link": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
           "source": "Ars Technica"
         }
       ]
@@ -130,27 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Vedanta, TCS among 5 stocks with the highest dividend yield. Check details",
-          "summary": "Investors seeking high returns are eyeing stocks with impressive dividend yields. Vedanta leads the pack with a remarkable 12% yield, followed by Gujarat Pipavav Port at 6.7% and O...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-tcs-among-5-stocks-with-the-highest-dividend-yield-check-details/slideshow/132191143.cms",
+          "title": "Can Sandisk extend its historic AI-driven rally?",
+          "summary": "Sandisk has become the S&amp;P 500's top-performing stock in the first half of 2026, driven by booming AI-related memory demand and disciplined supply conditions. While recent prof...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-sandisk-extend-its-historic-ai-driven-rally/slideshow/132208701.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Will Sensex, Nifty continue to rally on Monday? Q1 earnings among 6 factors to drive Dalal Street this week",
-          "summary": "Sensex gained around 262 points to close at 77,764 on Friday, while Nifty 50 rose more than 95 points to end the session above 24,270 during Friday's trading session. The sharp gai...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-rally-on-monday-q1-earnings-among-6-factors-to-drive-dalal-street-this-week/articleshow/132191088.cms",
+          "title": "Cupid shares jump 6%, extend rally to 11% in one week as company raises FY27 revenue guidance after strong Q1 biz update",
+          "summary": "Cupid shares rose sharply on Monday, extending their one-week rally to over 11%, after the company raised its FY27 revenue guidance by at least 10%. The company expects first-quart...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-jump-6-extend-rally-to-11-in-one-week-as-company-raises-fy27-revenue-guidance-after-strong-q1-biz-update/articleshow/132208481.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Is Greaves Cotton's diversification strategy starting to pay off?",
-          "summary": "The engineering company says businesses spanning energy, industrial solutions and exports are reducing its reliance on diesel three-wheeler engines, while acquisitions remain on th...",
-          "link": "https://www.livemint.com/companies/news/greaves-cotton-diversification-three-wheeler-engine-dependence-acquisitions-growth-11783084940603.html",
-          "source": "Livemint Companies"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Akasa Air expands fleet to 40 aircraft with delivery of ninth Boeing 737 MAX in 2026",
-          "summary": "The aircraft was ferried to India via a multi-stop route that began in Seattle, United States, continued through Reykjavik, Iceland, and Cairo, Egypt, before completing its final j...",
-          "link": "https://www.livemint.com/companies/news/akasa-air-expands-fleet-to-40-aircraft-with-delivery-of-ninth-boeing-737-max-in-2026-11783185868258.html",
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "True North cashes out $2 billion for investors as PE firms step up exits",
+          "summary": "This comes on the back of exits for True North from portfolio firms like FedFina, Niva Bupa, Biocon Biologics, Infinity Fincorp Solutions, Zydus Wellness and Home First Finance.&am...",
+          "link": "https://www.livemint.com/companies/news/true-north-private-equity-limited-partners-startup-investment-india-11783273204186.html",
           "source": "Livemint Companies"
         }
       ]
@@ -182,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "100 years strong: How Narasu’s built a Rs 641 Cr coffee business without external funding",
-          "summary": "Salem-based Narasu’s, known for its pure filter coffee powder, took bold bets with chicory blends and instant coffee at a time when not many gave it a chance. Today, Narasu’s is a ...",
-          "link": "https://yourstory.com/2026/07/100-years-strong-how-narasus-built-a-rs-641-cr-coffee-business",
+          "title": "Ice cream today is more additives than food. This Bengaluru startup wants to change that",
+          "summary": "Bengaluru-based ice cream brand ELVN-ELVN makes clean-label ice cream with no E-number additives, refined sugar, and synthetic sweeteners....",
+          "link": "https://yourstory.com/2026/07/elvn-elvn-clean-label-ice-cream-bengaluru-startup",
           "source": "YourStory"
         },
         {
-          "title": "Periphery and centre: how this art exhibition explore news trends and themes",
-          "summary": "In this photo essay, we feature more highlights from the exhibition titled Mapping Periphery & Centre, along with curator insights....",
-          "link": "https://yourstory.com/2026/07/periphery-centre-art-exhibition-creativity-photography",
+          "title": "Vir Sanghvi: The Man I Thought I Knew",
+          "summary": "Vir Sanghvi turns 70. In a conversation with Papa CJ, the veteran journalist reflects on loss, reinvention, and what success really means....",
+          "link": "https://yourstory.com/2026/07/vir-sanghvi-the-man-i-thought-i-knew",
           "source": "YourStory"
         },
         {
-          "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
-          "summary": "The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut as&#8230;...",
-          "link": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
+          "title": "The GPU Hunger Games, E3W’s Safety Crisis & More",
+          "summary": "India’s AI Boom Runs Into A Compute Crunch The way India buys AI compute power is being rewritten. Amid geopolitical&#8230;...",
+          "link": "https://inc42.com/buzz/the-gpu-hunger-games-e3ws-safety-crisis-more/",
           "source": "Inc42"
         }
       ]
