@@ -1,92 +1,92 @@
 {
-  "last_updated": "Monday, July 06, 2026 at 11:32 AM IST",
-  "last_updated_iso": "2026-07-06T11:32:06.348006",
+  "last_updated": "Tuesday, July 07, 2026 at 11:12 AM IST",
+  "last_updated_iso": "2026-07-07T11:12:40.898084",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24417.9,
-        "change": 147.0500000000029,
-        "change_pct": 0.6058708285865675,
+        "price": 24507.2,
+        "change": 76.85000000000218,
+        "change_pct": 0.31456774053585884,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 78207.12,
-        "change": 443.20999999999185,
-        "change_pct": 0.5699430494171291,
+        "price": 78443.41,
+        "change": 158.3399999999965,
+        "change_pct": 0.202260788679114,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 58317.9,
-        "change": 379.40000000000146,
-        "change_pct": 0.6548322790545172,
+        "price": 58419.85,
+        "change": 128.34999999999854,
+        "change_pct": 0.22018647658749313,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "HDFC Bank",
-        "price": 824.0,
-        "change": 22.950000000000045,
-        "change_pct": 2.8649897010174206,
+        "name": "Infosys",
+        "price": 1076.3,
+        "change": 34.09999999999991,
+        "change_pct": 3.2719247745154387,
         "is_up": true
       },
       {
-        "name": "Reliance",
-        "price": 1322.6,
-        "change": 18.59999999999991,
-        "change_pct": 1.4263803680981524,
+        "name": "TCS",
+        "price": 2111.6,
+        "change": 54.0,
+        "change_pct": 2.6244167962674965,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1425.8,
-        "change": 14.399999999999864,
-        "change_pct": 1.0202635680884131,
+        "name": "Bharti Airtel",
+        "price": 1945.0,
+        "change": 19.299999999999955,
+        "change_pct": 1.0022329542504,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "TCS",
-        "price": 2060.8,
-        "change": -32.69999999999982,
-        "change_pct": -1.5619775495581476,
+        "name": "L&T",
+        "price": 3995.9,
+        "change": -45.09999999999991,
+        "change_pct": -1.1160603810937864,
         "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 1035.0,
-        "change": -12.200000000000045,
-        "change_pct": -1.1650114591291105,
+        "name": "Reliance",
+        "price": 1319.4,
+        "change": -1.8999999999998636,
+        "change_pct": -0.1437977749186304,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 174.11,
-        "change": -1.9699999999999989,
-        "change_pct": -1.1188096319854604,
+        "name": "ICICI Bank",
+        "price": 1425.6,
+        "change": -1.300000000000182,
+        "change_pct": -0.09110659471583026,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.4125,
-        "change": 0.21249999999999147,
-        "change_pct": 0.22321428571427676,
-        "is_up": true
+        "price": 95.323,
+        "change": -0.05700000000000216,
+        "change_pct": -0.05976095617530107,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4167.7,
-        "change": 42.0,
-        "change_pct": 1.018009065128342,
-        "is_up": true
+        "price": 4135.7,
+        "change": -31.800000000000182,
+        "change_pct": -0.7630473905219,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Uber’s European expansion plans may have hit a speed bump",
-          "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold....",
-          "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+          "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+          "summary": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was....",
+          "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
           "source": "TechCrunch"
         },
         {
-          "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
-          "summary": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million....",
-          "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+          "title": "The ‘first’ AI-run ransomware attack still needed a human",
+          "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastr...",
+          "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
           "source": "TechCrunch"
         },
         {
-          "title": "Some of the nation’s rich are letting AI teach their kids",
+          "title": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+          "link": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
           "source": "The Verge"
         },
         {
-          "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
+          "title": "America’s greatest idea is still under threat",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
+          "link": "https://www.theverge.com/policy/961802/america-250-free-speech",
           "source": "The Verge"
         },
         {
-          "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
-          "summary": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years....",
-          "link": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
+          "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
+          "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price....",
+          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Can Sandisk extend its historic AI-driven rally?",
-          "summary": "Sandisk has become the S&amp;P 500's top-performing stock in the first half of 2026, driven by booming AI-related memory demand and disciplined supply conditions. While recent prof...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-sandisk-extend-its-historic-ai-driven-rally/slideshow/132208701.cms",
+          "title": "Bitcoin climbs over $63,000 as buying interest returns; key on-chain metric signals market stabilization",
+          "summary": "Bitcoin climbed past $63,000 as buying interest returned on Tuesday. Key on-chain metrics indicated market stabilization after recent fluctuations. Ethereum also saw gains, support...",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-over-63000-as-buying-interest-returns-key-on-chain-metric-signals-market-stabilization/articleshow/132230728.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Cupid shares jump 6%, extend rally to 11% in one week as company raises FY27 revenue guidance after strong Q1 biz update",
-          "summary": "Cupid shares rose sharply on Monday, extending their one-week rally to over 11%, after the company raised its FY27 revenue guidance by at least 10%. The company expects first-quart...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-jump-6-extend-rally-to-11-in-one-week-as-company-raises-fy27-revenue-guidance-after-strong-q1-biz-update/articleshow/132208481.cms",
+          "title": "Global Market: UK regulator urged to consider rules for AI chatbots in financial advice",
+          "summary": "A UK regulatory review has recommended that the Financial Conduct Authority consider bringing AI models such as ChatGPT, Claude and Gemini within its regulatory framework as their ...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uk-regulator-urged-to-consider-rules-for-ai-chatbots-in-financial-advice/articleshow/132230689.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "True North cashes out $2 billion for investors as PE firms step up exits",
-          "summary": "This comes on the back of exits for True North from portfolio firms like FedFina, Niva Bupa, Biocon Biologics, Infinity Fincorp Solutions, Zydus Wellness and Home First Finance.&am...",
-          "link": "https://www.livemint.com/companies/news/true-north-private-equity-limited-partners-startup-investment-india-11783273204186.html",
+          "title": "Kotak-backed Biorad Medisys in talks to raise  ₹400 crore ahead of a potential IPO",
+          "summary": "Medical devices maker Biorad Medisys is raising about ₹400 crore in a pre-IPO round at a ₹10,000 crore valuation as it prepares for a potential ₹1,500 crore public listing....",
+          "link": "https://www.livemint.com/companies/biorad-medisys-medical-devices-medtech-pre-ipo-funding-grant-thornton-clsa-india-icici-securities-nuvama-kotak-11783393014229.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA clears Visby Medical’s at-home Covid-19 and Influenza PCR test",
-          "summary": "Visby's multi-viral Medical Flu and Covid-19 test yields results in 30 minutes. The post FDA clears Visby Medical’s at-home Covid-19 and Influenza PCR test appeared first on Medica...",
-          "link": "https://www.medicaldevice-network.com/news/fda-clears-visby-medical-at-home-covid-19-and-influenza-pcr-test/",
+          "title": "Natera demonstrates MRD test benefit in colorectal cancer patients",
+          "summary": "Ahead of the study's publication, the data was shared at the 2026 European Society for Medical Oncology Gastrointestinal Congress in Munich, Germany. The post Natera demonstrates M...",
+          "link": "https://www.medicaldevice-network.com/news/natera-demonstrates-mrd-test-benefit-in-colorectal-cancer-patients/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Ice cream today is more additives than food. This Bengaluru startup wants to change that",
-          "summary": "Bengaluru-based ice cream brand ELVN-ELVN makes clean-label ice cream with no E-number additives, refined sugar, and synthetic sweeteners....",
-          "link": "https://yourstory.com/2026/07/elvn-elvn-clean-label-ice-cream-bengaluru-startup",
-          "source": "YourStory"
-        },
-        {
           "title": "Vir Sanghvi: The Man I Thought I Knew",
           "summary": "Vir Sanghvi turns 70. In a conversation with Papa CJ, the veteran journalist reflects on loss, reinvention, and what success really means....",
           "link": "https://yourstory.com/2026/07/vir-sanghvi-the-man-i-thought-i-knew",
           "source": "YourStory"
         },
         {
-          "title": "The GPU Hunger Games, E3W’s Safety Crisis & More",
-          "summary": "India’s AI Boom Runs Into A Compute Crunch The way India buys AI compute power is being rewritten. Amid geopolitical&#8230;...",
-          "link": "https://inc42.com/buzz/the-gpu-hunger-games-e3ws-safety-crisis-more/",
+          "title": "Ice cream today is more additives than food. This Bengaluru startup wants to change that",
+          "summary": "Bengaluru-based ice cream brand ELVN-ELVN makes clean-label ice cream with no E-number additives, refined sugar, and synthetic sweeteners....",
+          "link": "https://yourstory.com/2026/07/elvn-elvn-clean-label-ice-cream-bengaluru-startup",
+          "source": "YourStory"
+        },
+        {
+          "title": "NoBroker’s Profit Push, Klydo Halts Ops & More",
+          "summary": "NoBroker Rewrites Playbook In Search Of Profits After a decade, the proptech unicorn is shifting from a pure listings engine&#8230;...",
+          "link": "https://inc42.com/buzz/nobrokers-profit-push-klydo-halts-ops-more/",
           "source": "Inc42"
         }
       ]
@@ -211,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Sager Electronics named OMRON distributor of the year",
-          "summary": "Sager Electronics was named OMRON Electronic Components’ 2025 Distributor of the Year. The award was presented at the EDS Leadership Summit in Las Vegas. Sager Electronics, a wholl...",
-          "link": "https://www.designworldonline.com/sager-electronics-named-omron-distributor-of-the-year/",
+          "title": "How AI is reshaping quality in automotive manufacturing",
+          "summary": "As vehicles become increasingly software driven and manufacturing processes grow more complex, automotive companies are rethinking how they approach quality. In this interview, Des...",
+          "link": "https://www.designworldonline.com/how-ai-is-reshaping-quality-in-automotive-manufacturing/",
           "source": "Design World"
         },
         {
-          "title": "Exair cabinet coolers protect hazardous enclosures",
-          "summary": "EXAIR’s Dual Hazardous Location Cabinet Cooler Systems are designed to cool large electrical enclosures in hazardous environments. The systems are rated for Class I Div. 1, Groups ...",
-          "link": "https://www.designworldonline.com/exair-cabinet-coolers-protect-hazardous-enclosures/",
+          "title": "Lika Electronic encoders support Ethernet and fieldbus",
+          "summary": "Lika Electronic offers Ethernet and fieldbus encoders for use in motion control systems. Its single-turn and multi-turn absolute encoders with Ethernet interfaces use optical sensi...",
+          "link": "https://www.designworldonline.com/lika-electronic-encoders-support-ethernet-and-fieldbus/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "The Best Car I've Ever Driven: McLaren W1",
-          "summary": "I may never see this car again. But it's incredible.\n\nFor car videos: http://youtube.com/Autofocus\n\nRimac Nevera: https://youtu.be/sF9xYtouZjY?si=ChdSpLzC6TcR4Wdz\n\nMKBHD Merch: htt...",
-          "link": "https://www.youtube.com/watch?v=7KRabLH7jcE",
-          "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/7KRabLH7jcE/hqdefault.jpg"
-        },
-        {
-          "title": "They Said This Will Never Run In Real Time",
-          "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2506.06494\n\nSources:\nhttps://www.youtu...",
-          "link": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/uO5cvkzh3P0/hqdefault.jpg"
         }
       ]
     }
