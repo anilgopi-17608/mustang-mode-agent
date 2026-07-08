@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, July 07, 2026 at 11:12 AM IST",
-  "last_updated_iso": "2026-07-07T11:12:40.898084",
+  "last_updated": "Wednesday, July 08, 2026 at 10:18 AM IST",
+  "last_updated_iso": "2026-07-08T10:18:15.884699",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24507.2,
-        "change": 76.85000000000218,
-        "change_pct": 0.31456774053585884,
-        "is_up": true
+        "price": 24234.4,
+        "change": -164.29999999999927,
+        "change_pct": -0.6733965334218596,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 78443.41,
-        "change": 158.3399999999965,
-        "change_pct": 0.202260788679114,
-        "is_up": true
+        "price": 77695.74,
+        "change": -484.9799999999959,
+        "change_pct": -0.6203319693141685,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 58419.85,
-        "change": 128.34999999999854,
-        "change_pct": 0.22018647658749313,
-        "is_up": true
+        "price": 57926.0,
+        "change": -274.6999999999971,
+        "change_pct": -0.47198745032275746,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Infosys",
-        "price": 1076.3,
-        "change": 34.09999999999991,
-        "change_pct": 3.2719247745154387,
+        "name": "Wipro",
+        "price": 174.08,
+        "change": 1.0800000000000125,
+        "change_pct": 0.6242774566474061,
         "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2111.6,
-        "change": 54.0,
-        "change_pct": 2.6244167962674965,
+        "name": "Sun Pharma",
+        "price": 1907.6,
+        "change": 4.199999999999818,
+        "change_pct": 0.22065777030575903,
         "is_up": true
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1945.0,
-        "change": 19.299999999999955,
-        "change_pct": 1.0022329542504,
-        "is_up": true
+        "name": "HDFC Bank",
+        "price": 829.25,
+        "change": -0.049999999999954525,
+        "change_pct": -0.006029181237182507,
+        "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "L&T",
-        "price": 3995.9,
-        "change": -45.09999999999991,
-        "change_pct": -1.1160603810937864,
+        "name": "Maruti",
+        "price": 14244.0,
+        "change": -294.0,
+        "change_pct": -2.022286421791168,
         "is_up": false
       },
       {
         "name": "Reliance",
-        "price": 1319.4,
-        "change": -1.8999999999998636,
-        "change_pct": -0.1437977749186304,
+        "price": 1291.8,
+        "change": -16.600000000000136,
+        "change_pct": -1.268725160501386,
         "is_up": false
       },
       {
-        "name": "ICICI Bank",
-        "price": 1425.6,
-        "change": -1.300000000000182,
-        "change_pct": -0.09110659471583026,
+        "name": "TCS",
+        "price": 2077.2,
+        "change": -18.90000000000009,
+        "change_pct": -0.9016745384285145,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.323,
-        "change": -0.05700000000000216,
-        "change_pct": -0.05976095617530107,
-        "is_up": false
+        "price": 95.03,
+        "change": 0.0730000000000075,
+        "change_pct": 0.07687690217678265,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4135.7,
-        "change": -31.800000000000182,
-        "change_pct": -0.7630473905219,
+        "price": 4138.7,
+        "change": -18.699999999999818,
+        "change_pct": -0.4498003559917213,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Netflix invented binge-watching. Now it may have outgrown it.",
-          "summary": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was....",
-          "link": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+          "title": "Final extension: Startup Battlefield Australia applications now close July 20",
+          "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward....",
+          "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
           "source": "TechCrunch"
         },
         {
-          "title": "The ‘first’ AI-run ransomware attack still needed a human",
-          "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastr...",
-          "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+          "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+          "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities....",
+          "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
           "source": "TechCrunch"
         },
         {
-          "title": "Hoto&#8217;s PixelDrive screwdriver is down to $60, matching its best price",
+          "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
+          "link": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
           "source": "The Verge"
         },
         {
-          "title": "America’s greatest idea is still under threat",
+          "title": "Of course viewers are giving up on Netflix shows",
           "summary": "",
-          "link": "https://www.theverge.com/policy/961802/america-250-free-speech",
+          "link": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
           "source": "The Verge"
         },
         {
-          "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
-          "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price....",
-          "link": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
+          "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
+          "summary": "Cases have risen quickly as officials are working to identify a common source....",
+          "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Bitcoin climbs over $63,000 as buying interest returns; key on-chain metric signals market stabilization",
-          "summary": "Bitcoin climbed past $63,000 as buying interest returned on Tuesday. Key on-chain metrics indicated market stabilization after recent fluctuations. Ethereum also saw gains, support...",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-over-63000-as-buying-interest-returns-key-on-chain-metric-signals-market-stabilization/articleshow/132230728.cms",
+          "title": "Global Market: Samsung, SK Hynix rebound as bargain buying offsets AI chip selloff fears",
+          "summary": "Shares of Samsung Electronics and SK Hynix rebounded after an early sell-off as investors bought into the dip, supported by expectations of tight memory chip supply and optimism ov...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-samsung-sk-hynix-rebound-as-bargain-buying-offsets-ai-chip-selloff-fears/articleshow/132253789.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: UK regulator urged to consider rules for AI chatbots in financial advice",
-          "summary": "A UK regulatory review has recommended that the Financial Conduct Authority consider bringing AI models such as ChatGPT, Claude and Gemini within its regulatory framework as their ...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uk-regulator-urged-to-consider-rules-for-ai-chatbots-in-financial-advice/articleshow/132230689.cms",
+          "title": "Airtel to Trent: 44 stocks likely to report double-digit profit slump in Q1. Are your stocks on the list?",
+          "summary": "Motilal Oswal expects 44 companies, including Bharti Airtel, Trent, IndiGo, HAL, GAIL and Cipla, to report double-digit year-on-year profit declines in the June quarter. Higher ene...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/airtel-to-trent-44-stocks-likely-to-report-double-digit-profit-slump-in-q1-are-your-stocks-on-the-list/articleshow/132253779.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Kotak-backed Biorad Medisys in talks to raise  ₹400 crore ahead of a potential IPO",
-          "summary": "Medical devices maker Biorad Medisys is raising about ₹400 crore in a pre-IPO round at a ₹10,000 crore valuation as it prepares for a potential ₹1,500 crore public listing....",
-          "link": "https://www.livemint.com/companies/biorad-medisys-medical-devices-medtech-pre-ipo-funding-grant-thornton-clsa-india-icici-securities-nuvama-kotak-11783393014229.html",
+          "title": "Blue Tokai Coffee courts PE funds for its largest ever fundraise at $100 million",
+          "summary": "Blue Tokai has initiated talks with TPG, Temasek and ChrysCapital to raise at least $100 million as investor interest in India's fast-growing specialty coffee market gathers pace....",
+          "link": "https://www.livemint.com/companies/blue-tokai-coffee-roasters-tpg-temasek-chryscapital-private-equity-fundraising-11783477661719.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Natera demonstrates MRD test benefit in colorectal cancer patients",
-          "summary": "Ahead of the study's publication, the data was shared at the 2026 European Society for Medical Oncology Gastrointestinal Congress in Munich, Germany. The post Natera demonstrates M...",
-          "link": "https://www.medicaldevice-network.com/news/natera-demonstrates-mrd-test-benefit-in-colorectal-cancer-patients/",
+          "title": "Beckman Coulter’s Alzheimer’s blood test obtains CE mark",
+          "summary": "Beckman Coulter's assay is used to measure phosphorylated tau (pTau217) levels in the blood of individuals displaying signs of cognitive decline. The post Beckman Coulter’s Alzheim...",
+          "link": "https://www.medicaldevice-network.com/news/beckman-coulter-alzheimer-blood-test-obtains-ce-mark/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Vir Sanghvi: The Man I Thought I Knew",
-          "summary": "Vir Sanghvi turns 70. In a conversation with Papa CJ, the veteran journalist reflects on loss, reinvention, and what success really means....",
-          "link": "https://yourstory.com/2026/07/vir-sanghvi-the-man-i-thought-i-knew",
+          "title": "The complexity tax: Are organisations caught up in the AI adoption wave?",
+          "summary": "In the digital world, every groundbreaking piece of technology is perched atop something that already exists. For example, the Internet is built over client-server architectures; S...",
+          "link": "https://yourstory.com/2026/07/the-complexity-tax-are-organisations-caught-up-in-the-ai-adoption-wave",
           "source": "YourStory"
         },
         {
-          "title": "Ice cream today is more additives than food. This Bengaluru startup wants to change that",
-          "summary": "Bengaluru-based ice cream brand ELVN-ELVN makes clean-label ice cream with no E-number additives, refined sugar, and synthetic sweeteners....",
-          "link": "https://yourstory.com/2026/07/elvn-elvn-clean-label-ice-cream-bengaluru-startup",
+          "title": "How AI is reshaping India’s logistics startup ecosystem",
+          "summary": "AI in logistics isn’t just about robots in warehouses. It is about automating the judgement that used to live in people’s heads, turning improvised supply chains into operations th...",
+          "link": "https://yourstory.com/2026/07/how-ai-is-reshaping-indias-logistics-startup-ecosystem",
           "source": "YourStory"
         },
         {
-          "title": "NoBroker’s Profit Push, Klydo Halts Ops & More",
-          "summary": "NoBroker Rewrites Playbook In Search Of Profits After a decade, the proptech unicorn is shifting from a pure listings engine&#8230;...",
-          "link": "https://inc42.com/buzz/nobrokers-profit-push-klydo-halts-ops-more/",
+          "title": "Exclusive: Leverage Edu Forays Into South America With Acquisition Of Mundus Agency",
+          "summary": "Study abroad startup Leverage Edu has entered the South American market with the acquisition of Brazil-based international education company Mundus&#8230;...",
+          "link": "https://inc42.com/buzz/leverage-edu-forays-into-south-america-with-acquisition-of-mundus-agency/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +211,35 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "Venture capital pumps industrial automation and Honeywell spins off major units",
+          "summary": "Investment funds get behind industrial automation as major players realign business units into standalone operations. This episode is brought to you by Mouser Electronics. Visit mo...",
+          "link": "https://www.designworldonline.com/venture-capital-pumps-industrial-automation-and-honeywell-spins-off-major-units/",
+          "source": "Design World"
+        },
+        {
           "title": "How AI is reshaping quality in automotive manufacturing",
           "summary": "As vehicles become increasingly software driven and manufacturing processes grow more complex, automotive companies are rethinking how they approach quality. In this interview, Des...",
           "link": "https://www.designworldonline.com/how-ai-is-reshaping-quality-in-automotive-manufacturing/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "Nothing Phone 4b: They Can't Say It!",
+          "summary": "They won't tell us what the b stands for, but...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Nothing for review.\n\n~...",
+          "link": "https://www.youtube.com/watch?v=DUgPFNRmsCQ",
+          "source": "MKBHD",
+          "thumbnail": "https://i1.ytimg.com/vi/DUgPFNRmsCQ/hqdefault.jpg"
         },
         {
-          "title": "Lika Electronic encoders support Ethernet and fieldbus",
-          "summary": "Lika Electronic offers Ethernet and fieldbus encoders for use in motion control systems. Its single-turn and multi-turn absolute encoders with Ethernet interfaces use optical sensi...",
-          "link": "https://www.designworldonline.com/lika-electronic-encoders-support-ethernet-and-fieldbus/",
-          "source": "Design World"
+          "title": "DeepSeek's New AI Speed Hack Is Amazing",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek paper is available here:\nhttps://arxiv.org/abs/2607.05147v1\n\n🙏 We would like to t...",
+          "link": "https://www.youtube.com/watch?v=1yBU41auQhw",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i2.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg"
         }
       ]
     }
