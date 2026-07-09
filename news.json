@@ -1,91 +1,91 @@
 {
-  "last_updated": "Wednesday, July 08, 2026 at 10:18 AM IST",
-  "last_updated_iso": "2026-07-08T10:18:15.884699",
+  "last_updated": "Thursday, July 09, 2026 at 11:18 AM IST",
+  "last_updated_iso": "2026-07-09T11:18:22.763536",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24234.4,
-        "change": -164.29999999999927,
-        "change_pct": -0.6733965334218596,
-        "is_up": false
+        "price": 24014.25,
+        "change": 132.20000000000073,
+        "change_pct": 0.553553819709785,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77695.74,
-        "change": -484.9799999999959,
-        "change_pct": -0.6203319693141685,
-        "is_up": false
+        "price": 76936.64,
+        "change": 433.0399999999936,
+        "change_pct": 0.5660387223607695,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57926.0,
-        "change": -274.6999999999971,
-        "change_pct": -0.47198745032275746,
-        "is_up": false
+        "price": 57172.5,
+        "change": 429.90000000000146,
+        "change_pct": 0.7576318321684263,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Wipro",
-        "price": 174.08,
-        "change": 1.0800000000000125,
-        "change_pct": 0.6242774566474061,
+        "name": "Bharti Airtel",
+        "price": 1953.0,
+        "change": 64.90000000000009,
+        "change_pct": 3.4373179386685075,
         "is_up": true
       },
       {
         "name": "Sun Pharma",
-        "price": 1907.6,
-        "change": 4.199999999999818,
-        "change_pct": 0.22065777030575903,
+        "price": 1923.0,
+        "change": 34.799999999999955,
+        "change_pct": 1.843025103272956,
         "is_up": true
       },
       {
         "name": "HDFC Bank",
-        "price": 829.25,
-        "change": -0.049999999999954525,
-        "change_pct": -0.006029181237182507,
-        "is_up": false
+        "price": 818.95,
+        "change": 8.650000000000091,
+        "change_pct": 1.0675058620264213,
+        "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 14244.0,
-        "change": -294.0,
-        "change_pct": -2.022286421791168,
-        "is_up": false
-      },
-      {
-        "name": "Reliance",
-        "price": 1291.8,
-        "change": -16.600000000000136,
-        "change_pct": -1.268725160501386,
+        "name": "Infosys",
+        "price": 1048.7,
+        "change": -20.59999999999991,
+        "change_pct": -1.926493968016451,
         "is_up": false
       },
       {
         "name": "TCS",
-        "price": 2077.2,
-        "change": -18.90000000000009,
-        "change_pct": -0.9016745384285145,
+        "price": 2032.9,
+        "change": -24.59999999999991,
+        "change_pct": -1.1956257594167634,
+        "is_up": false
+      },
+      {
+        "name": "Maruti",
+        "price": 13881.0,
+        "change": -70.0,
+        "change_pct": -0.5017561465127948,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.03,
-        "change": 0.0730000000000075,
-        "change_pct": 0.07687690217678265,
-        "is_up": true
+        "price": 95.38,
+        "change": -0.16500000000000625,
+        "change_pct": -0.1726934952116869,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4138.7,
-        "change": -18.699999999999818,
-        "change_pct": -0.4498003559917213,
+        "price": 4082.3,
+        "change": -0.09999999999990905,
+        "change_pct": -0.0024495394865742958,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Final extension: Startup Battlefield Australia applications now close July 20",
-          "summary": "If you're building something ambitious, this is a fast track to the people who can move your startup forward....",
-          "link": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+          "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
+          "summary": "The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series....",
+          "link": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-          "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities....",
-          "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+          "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
+          "summary": "The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end....",
+          "link": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+          "title": "Meta is reportedly working on smart glasses that would be recording all the time",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+          "link": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
           "source": "The Verge"
         },
         {
-          "title": "Of course viewers are giving up on Netflix shows",
+          "title": "Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
+          "link": "https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder",
           "source": "The Verge"
         },
         {
-          "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
-          "summary": "Cases have risen quickly as officials are working to identify a common source....",
-          "link": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
+          "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+          "summary": "AI cheating leads to \"a failed society,\" professor says....",
+          "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: Samsung, SK Hynix rebound as bargain buying offsets AI chip selloff fears",
-          "summary": "Shares of Samsung Electronics and SK Hynix rebounded after an early sell-off as investors bought into the dip, supported by expectations of tight memory chip supply and optimism ov...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-samsung-sk-hynix-rebound-as-bargain-buying-offsets-ai-chip-selloff-fears/articleshow/132253789.cms",
+          "title": "F&amp;O Radar: Call Ratio Spread strategy for Cummins India this week",
+          "summary": "Cummins India is showing a strong bullish setup with a higher high–higher low pattern, robust support near its 50-day EMA and signs of short covering in derivatives. Analysts recom...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-radar-call-ratio-spread-strategy-for-cummins-india-this-week/articleshow/132278093.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Airtel to Trent: 44 stocks likely to report double-digit profit slump in Q1. Are your stocks on the list?",
-          "summary": "Motilal Oswal expects 44 companies, including Bharti Airtel, Trent, IndiGo, HAL, GAIL and Cipla, to report double-digit year-on-year profit declines in the June quarter. Higher ene...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/airtel-to-trent-44-stocks-likely-to-report-double-digit-profit-slump-in-q1-are-your-stocks-on-the-list/articleshow/132253779.cms",
+          "title": "Ather Energy shares rally 270% in one year, but Nomura sees 22% more upside. Here’s why",
+          "summary": "Nomura increased Ather Energy's target price, expecting electric two-wheeler trends to accelerate. The brokerage sees Ather as a top pick to benefit from this EV momentum. New affo...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-270-in-one-year-but-nomura-sees-22-more-upside-heres-why/articleshow/132277956.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Blue Tokai Coffee courts PE funds for its largest ever fundraise at $100 million",
-          "summary": "Blue Tokai has initiated talks with TPG, Temasek and ChrysCapital to raise at least $100 million as investor interest in India's fast-growing specialty coffee market gathers pace....",
-          "link": "https://www.livemint.com/companies/blue-tokai-coffee-roasters-tpg-temasek-chryscapital-private-equity-fundraising-11783477661719.html",
+          "title": "Chandrasekaran sets up interim committee to lead Air India as search continues for CEO Campbell Wilson’s successor",
+          "summary": "Tata Sons appoints an interim committee, including N Chandrasekaran and Pradeep Singh Kharola, for Air India while a new CEO is sought to replace Campbell Wilson. The airline strug...",
+          "link": "https://www.livemint.com/companies/news/chandrasekaran-sets-up-interim-committee-to-lead-air-india-as-search-continues-for-ceo-campbell-wilson-s-successor-11783573923043.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Beckman Coulter’s Alzheimer’s blood test obtains CE mark",
-          "summary": "Beckman Coulter's assay is used to measure phosphorylated tau (pTau217) levels in the blood of individuals displaying signs of cognitive decline. The post Beckman Coulter’s Alzheim...",
-          "link": "https://www.medicaldevice-network.com/news/beckman-coulter-alzheimer-blood-test-obtains-ce-mark/",
+          "title": "Ottobock expands neuro-orthotics portfolio with Fesia Technology acquisition",
+          "summary": "Under the deal, Ottobock will inherit Fesia Technology’s portfolio of functional electrical stimulation (FES) products used in neurorehabilitation. The post Ottobock expands neuro-...",
+          "link": "https://www.medicaldevice-network.com/news/ottobock-expands-neuro-orthotics-portfolio-with-fesia-technology-acquisition/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "The complexity tax: Are organisations caught up in the AI adoption wave?",
-          "summary": "In the digital world, every groundbreaking piece of technology is perched atop something that already exists. For example, the Internet is built over client-server architectures; S...",
-          "link": "https://yourstory.com/2026/07/the-complexity-tax-are-organisations-caught-up-in-the-ai-adoption-wave",
+          "title": "100Unicorns exits TruNativ with 11x return since 2021",
+          "summary": "100Unicorns exits TruNativ with 11x return since 2021 100Unicorns, one of India's leading early-stage venture capital funds, today announced a successful exit from TruNativ, delive...",
+          "link": "https://yourstory.com/2026/07/100unicorns-exits-trunativ-with-11x-return-since-2021",
           "source": "YourStory"
         },
         {
-          "title": "How AI is reshaping India’s logistics startup ecosystem",
-          "summary": "AI in logistics isn’t just about robots in warehouses. It is about automating the judgement that used to live in people’s heads, turning improvised supply chains into operations th...",
-          "link": "https://yourstory.com/2026/07/how-ai-is-reshaping-indias-logistics-startup-ecosystem",
+          "title": "DevSparks Hyderabad returns to decode agentic AI, cybersecurity, and the future of software development",
+          "summary": "YourStory's flagship developer summit heads to Hyderabad on August 8, bringing together developers, tech leaders, and enterprises to unpack the technologies reshaping software, inf...",
+          "link": "https://yourstory.com/2026/07/devsparks-hyderabad-agentic-ai-cybersecurity-software-development-future",
           "source": "YourStory"
         },
         {
-          "title": "Exclusive: Leverage Edu Forays Into South America With Acquisition Of Mundus Agency",
-          "summary": "Study abroad startup Leverage Edu has entered the South American market with the acquisition of Brazil-based international education company Mundus&#8230;...",
-          "link": "https://inc42.com/buzz/leverage-edu-forays-into-south-america-with-acquisition-of-mundus-agency/",
+          "title": "Flipkart’s Seller Playbook, Troubles At Ola Electric & More",
+          "summary": "Flipkart’s Zero-Commission Tryst Flipkart is trying the zero-commission playbook. The ecommerce major has dropped its fees on all fashion products&#8230;...",
+          "link": "https://inc42.com/buzz/flipkarts-seller-playbook-troubles-at-ola-electric-more/",
           "source": "Inc42"
         }
       ]
@@ -211,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Venture capital pumps industrial automation and Honeywell spins off major units",
-          "summary": "Investment funds get behind industrial automation as major players realign business units into standalone operations. This episode is brought to you by Mouser Electronics. Visit mo...",
-          "link": "https://www.designworldonline.com/venture-capital-pumps-industrial-automation-and-honeywell-spins-off-major-units/",
+          "title": "How do position encoders improve gimbal performance?",
+          "summary": "Gimbals are often used in systems that require the rotation of an object or sub-system about one or more axes. Applications of gimbals include camera stabilization for aerial photo...",
+          "link": "https://www.designworldonline.com/how-do-position-encoders-improve-gimbal-performance/",
           "source": "Design World"
         },
         {
-          "title": "How AI is reshaping quality in automotive manufacturing",
-          "summary": "As vehicles become increasingly software driven and manufacturing processes grow more complex, automotive companies are rethinking how they approach quality. In this interview, Des...",
-          "link": "https://www.designworldonline.com/how-ai-is-reshaping-quality-in-automotive-manufacturing/",
+          "title": "Majors launch new products and platforms at Automate 2026",
+          "summary": "Automate 2026 in Chicago saw innovation announcements from major players. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. Automate 2026 in Chi...",
+          "link": "https://www.designworldonline.com/majors-launch-new-products-and-platforms-at-automate-2026/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "Nothing Phone 4b: They Can't Say It!",
-          "summary": "They won't tell us what the b stands for, but...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Nothing for review.\n\n~...",
-          "link": "https://www.youtube.com/watch?v=DUgPFNRmsCQ",
-          "source": "MKBHD",
-          "thumbnail": "https://i1.ytimg.com/vi/DUgPFNRmsCQ/hqdefault.jpg"
-        },
-        {
-          "title": "DeepSeek's New AI Speed Hack Is Amazing",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek paper is available here:\nhttps://arxiv.org/abs/2607.05147v1\n\n🙏 We would like to t...",
-          "link": "https://www.youtube.com/watch?v=1yBU41auQhw",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg"
         }
       ]
     }
