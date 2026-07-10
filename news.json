@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, July 09, 2026 at 11:18 AM IST",
-  "last_updated_iso": "2026-07-09T11:18:22.763536",
+  "last_updated": "Friday, July 10, 2026 at 11:09 AM IST",
+  "last_updated_iso": "2026-07-10T11:09:57.693720",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24014.25,
-        "change": 132.20000000000073,
-        "change_pct": 0.553553819709785,
+        "price": 24184.3,
+        "change": 221.5,
+        "change_pct": 0.9243494082494533,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 76936.64,
-        "change": 433.0399999999936,
-        "change_pct": 0.5660387223607695,
+        "price": 77538.57,
+        "change": 796.75,
+        "change_pct": 1.0382214026198493,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57172.5,
-        "change": 429.90000000000146,
-        "change_pct": 0.7576318321684263,
+        "price": 57930.7,
+        "change": 678.25,
+        "change_pct": 1.1846654597314177,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1953.0,
-        "change": 64.90000000000009,
-        "change_pct": 3.4373179386685075,
+        "name": "Infosys",
+        "price": 1070.6,
+        "change": 19.799999999999955,
+        "change_pct": 1.8842786448420208,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1923.0,
-        "change": 34.799999999999955,
-        "change_pct": 1.843025103272956,
+        "name": "Reliance",
+        "price": 1301.0,
+        "change": 21.200000000000045,
+        "change_pct": 1.6565088295046135,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 818.95,
-        "change": 8.650000000000091,
-        "change_pct": 1.0675058620264213,
+        "name": "ICICI Bank",
+        "price": 1402.9,
+        "change": 22.200000000000045,
+        "change_pct": 1.607880060838708,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1048.7,
-        "change": -20.59999999999991,
-        "change_pct": -1.926493968016451,
+        "name": "Bharti Airtel",
+        "price": 1914.7,
+        "change": -16.399999999999864,
+        "change_pct": -0.8492569002123073,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2032.9,
-        "change": -24.59999999999991,
-        "change_pct": -1.1956257594167634,
-        "is_up": false
+        "name": "Sun Pharma",
+        "price": 1938.9,
+        "change": 0.20000000000004547,
+        "change_pct": 0.010316191262188346,
+        "is_up": true
       },
       {
         "name": "Maruti",
-        "price": 13881.0,
-        "change": -70.0,
-        "change_pct": -0.5017561465127948,
-        "is_up": false
+        "price": 13823.0,
+        "change": 95.0,
+        "change_pct": 0.692016317016317,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.38,
-        "change": -0.16500000000000625,
-        "change_pct": -0.1726934952116869,
+        "price": 95.32,
+        "change": -0.058000000000006935,
+        "change_pct": -0.06081066912705963,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4082.3,
-        "change": -0.09999999999990905,
-        "change_pct": -0.0024495394865742958,
+        "price": 4123.4,
+        "change": -17.400000000000546,
+        "change_pct": -0.42020865533231605,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
-          "summary": "The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series....",
-          "link": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+          "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
+          "summary": "Vivo's joint venture could become a template for Chinese smartphone makers in India....",
+          "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
           "source": "TechCrunch"
         },
         {
-          "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
-          "summary": "The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end....",
-          "link": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
+          "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+          "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps....",
+          "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+          "title": "Microsoft’s carbon emissions went up 25 percent last year",
           "summary": "",
-          "link": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+          "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
           "source": "The Verge"
         },
         {
-          "title": "Get a $30 credit when you reserve Samsung’s upcoming Galaxy phones",
+          "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/962999/samsung-unpacked-z-fold-flip-wide-reserve-credit-preorder",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
           "source": "The Verge"
         },
         {
-          "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-          "summary": "AI cheating leads to \"a failed society,\" professor says....",
-          "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+          "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
+          "summary": "If Homo floresiensis wasn't a fire-using hunter, its origins could be different than we thought....",
+          "link": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "F&amp;O Radar: Call Ratio Spread strategy for Cummins India this week",
-          "summary": "Cummins India is showing a strong bullish setup with a higher high–higher low pattern, robust support near its 50-day EMA and signs of short covering in derivatives. Analysts recom...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-radar-call-ratio-spread-strategy-for-cummins-india-this-week/articleshow/132278093.cms",
+          "title": "Global Market: SK Hynix's Nasdaq ADR debut raises $26.5 billion amid AI chip boom",
+          "summary": "South Korean chipmaker SK Hynix successfully raised $26.5 billion through its ADR offering. This significant fundraising highlights robust global investor interest in AI semiconduc...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sk-hynixs-nasdaq-adr-debut-raises-26-5-billion-amid-ai-chip-boom/articleshow/132303695.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Ather Energy shares rally 270% in one year, but Nomura sees 22% more upside. Here’s why",
-          "summary": "Nomura increased Ather Energy's target price, expecting electric two-wheeler trends to accelerate. The brokerage sees Ather as a top pick to benefit from this EV momentum. New affo...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-270-in-one-year-but-nomura-sees-22-more-upside-heres-why/articleshow/132277956.cms",
+          "title": "US Stock Market: Treasury yields ease as investors buy bonds after selloff; strong auction boosts sentiment",
+          "summary": "US Treasury prices saw gains as investors bought bonds following a sharp selloff. A strong auction of 30-year government bonds attracted significant foreign investor demand. Econom...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-treasury-yields-ease-as-investors-buy-bonds-after-selloff-strong-auction-boosts-sentiment/articleshow/132303499.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Chandrasekaran sets up interim committee to lead Air India as search continues for CEO Campbell Wilson’s successor",
-          "summary": "Tata Sons appoints an interim committee, including N Chandrasekaran and Pradeep Singh Kharola, for Air India while a new CEO is sought to replace Campbell Wilson. The airline strug...",
-          "link": "https://www.livemint.com/companies/news/chandrasekaran-sets-up-interim-committee-to-lead-air-india-as-search-continues-for-ceo-campbell-wilson-s-successor-11783573923043.html",
+          "title": "Who is Fidji Simo? OpenAI's top executive for AGI deployment steps down due to health concerns as AI race intensifies",
+          "summary": "Fidji Simo, a senior OpenAI executive, has stepped down after taking medical leave due to a chronic neuroimmune condition. She will continue as a part-time adviser while her respon...",
+          "link": "https://www.livemint.com/companies/people/who-is-fidji-simo-openais-top-executive-for-agi-deployment-steps-down-due-to-health-concerns-as-ai-race-intensifies-11783658977943.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Ottobock expands neuro-orthotics portfolio with Fesia Technology acquisition",
-          "summary": "Under the deal, Ottobock will inherit Fesia Technology’s portfolio of functional electrical stimulation (FES) products used in neurorehabilitation. The post Ottobock expands neuro-...",
-          "link": "https://www.medicaldevice-network.com/news/ottobock-expands-neuro-orthotics-portfolio-with-fesia-technology-acquisition/",
+          "title": "Leo Cancer Care raises $65m for upright radiotherapy platform",
+          "summary": "An upright positioning system and CT scanner for proton therapy, Leo’s Marie radiotherapy platform gained FDA clearance in July 2025. The post Leo Cancer Care raises $65m for uprig...",
+          "link": "https://www.medicaldevice-network.com/news/leo-cancer-care-raises-65m-for-upright-radiotherapy-platform/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "100Unicorns exits TruNativ with 11x return since 2021",
-          "summary": "100Unicorns exits TruNativ with 11x return since 2021 100Unicorns, one of India's leading early-stage venture capital funds, today announced a successful exit from TruNativ, delive...",
-          "link": "https://yourstory.com/2026/07/100unicorns-exits-trunativ-with-11x-return-since-2021",
+          "title": "Waste is a resource, not a liability: Wilma Rodrigues of Saahas Zero Waste",
+          "summary": "At MSME Sparks 2026, Wilma Rodrigues, Chief Transformation Officer at Saahas Zero Waste, explained why circular business models will define the next decade of waste management in I...",
+          "link": "https://yourstory.com/2026/07/waste-resource-not-liability-wilma-rodrigues-saahas-zero-waste",
           "source": "YourStory"
         },
         {
-          "title": "DevSparks Hyderabad returns to decode agentic AI, cybersecurity, and the future of software development",
-          "summary": "YourStory's flagship developer summit heads to Hyderabad on August 8, bringing together developers, tech leaders, and enterprises to unpack the technologies reshaping software, inf...",
-          "link": "https://yourstory.com/2026/07/devsparks-hyderabad-agentic-ai-cybersecurity-software-development-future",
+          "title": "Enviu’s Devansh Peshin on building markets and jobs from India’s textile waste",
+          "summary": "At MSME Sparks 2026, Enviu's Devansh Peshin discussed textile recycling, circular economy, green jobs, and the future of waste management in India....",
+          "link": "https://yourstory.com/2026/07/enviu-devansh-peshin-textile-waste-recycling-circular-economy-india",
           "source": "YourStory"
         },
         {
-          "title": "Flipkart’s Seller Playbook, Troubles At Ola Electric & More",
-          "summary": "Flipkart’s Zero-Commission Tryst Flipkart is trying the zero-commission playbook. The ecommerce major has dropped its fees on all fashion products&#8230;...",
-          "link": "https://inc42.com/buzz/flipkarts-seller-playbook-troubles-at-ola-electric-more/",
+          "title": "Green SM’s India Litmus Test, CarDekho’s IPO & More",
+          "summary": "Can Green SM Avoid BluSmart’s Pitfalls? BluSmart’s demise last year left a big gap in the Indian electric ride-hailing space.&#8230;...",
+          "link": "https://inc42.com/buzz/green-sms-india-litmus-test-cardekhos-ipo-more/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "How do position encoders improve gimbal performance?",
-          "summary": "Gimbals are often used in systems that require the rotation of an object or sub-system about one or more axes. Applications of gimbals include camera stabilization for aerial photo...",
-          "link": "https://www.designworldonline.com/how-do-position-encoders-improve-gimbal-performance/",
+          "title": "Feintool opens first production facility in India",
+          "summary": "Feintool has inaugurated its first production facility in India in Pune. The site is ramping up production to meet initial customer orders, with a focus on fineblanked automotive c...",
+          "link": "https://www.designworldonline.com/feintool-opens-first-production-facility-in-india/",
           "source": "Design World"
         },
         {
-          "title": "Majors launch new products and platforms at Automate 2026",
-          "summary": "Automate 2026 in Chicago saw innovation announcements from major players. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. Automate 2026 in Chi...",
-          "link": "https://www.designworldonline.com/majors-launch-new-products-and-platforms-at-automate-2026/",
+          "title": "Comau acquires Invent for intralogistics automation",
+          "summary": "Comau announced that it has acquired 100% of Invent Smart Intralogistics Solutions, a Brazilian company focused on warehouse automation and intralogistics technologies. According t...",
+          "link": "https://www.designworldonline.com/comau-acquires-invent-for-intralogistics-automation/",
           "source": "Design World"
         }
       ]
