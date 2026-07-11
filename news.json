@@ -1,92 +1,92 @@
 {
-  "last_updated": "Friday, July 10, 2026 at 11:09 AM IST",
-  "last_updated_iso": "2026-07-10T11:09:57.693720",
+  "last_updated": "Saturday, July 11, 2026 at 10:13 AM IST",
+  "last_updated_iso": "2026-07-11T10:13:46.545920",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24184.3,
-        "change": 221.5,
-        "change_pct": 0.9243494082494533,
+        "price": 24206.9,
+        "change": 244.10000000000218,
+        "change_pct": 1.0186622598360884,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77538.57,
-        "change": 796.75,
-        "change_pct": 1.0382214026198493,
+        "price": 77569.39,
+        "change": 827.5699999999924,
+        "change_pct": 1.078382034723691,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57930.7,
-        "change": 678.25,
-        "change_pct": 1.1846654597314177,
+        "price": 58045.9,
+        "change": 793.4500000000044,
+        "change_pct": 1.3858795562460722,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Infosys",
-        "price": 1070.6,
-        "change": 19.799999999999955,
-        "change_pct": 1.8842786448420208,
-        "is_up": true
-      },
-      {
         "name": "Reliance",
-        "price": 1301.0,
-        "change": 21.200000000000045,
-        "change_pct": 1.6565088295046135,
+        "price": 1307.8,
+        "change": 28.0,
+        "change_pct": 2.1878418502891077,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1402.9,
-        "change": 22.200000000000045,
-        "change_pct": 1.607880060838708,
+        "name": "Infosys",
+        "price": 1068.0,
+        "change": 17.200000000000045,
+        "change_pct": 1.6368481157213597,
+        "is_up": true
+      },
+      {
+        "name": "Wipro",
+        "price": 175.46,
+        "change": 2.700000000000017,
+        "change_pct": 1.562861773558704,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Bharti Airtel",
-        "price": 1914.7,
-        "change": -16.399999999999864,
-        "change_pct": -0.8492569002123073,
+        "price": 1920.4,
+        "change": -10.699999999999818,
+        "change_pct": -0.5540883434311956,
         "is_up": false
       },
       {
         "name": "Sun Pharma",
-        "price": 1938.9,
-        "change": 0.20000000000004547,
-        "change_pct": 0.010316191262188346,
-        "is_up": true
+        "price": 1935.5,
+        "change": -3.2000000000000455,
+        "change_pct": -0.16505906019497835,
+        "is_up": false
       },
       {
-        "name": "Maruti",
-        "price": 13823.0,
-        "change": 95.0,
-        "change_pct": 0.692016317016317,
+        "name": "HDFC Bank",
+        "price": 824.95,
+        "change": 7.400000000000091,
+        "change_pct": 0.9051434163048244,
         "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.32,
-        "change": -0.058000000000006935,
-        "change_pct": -0.06081066912705963,
+        "price": 95.37,
+        "change": -0.007999999999995566,
+        "change_pct": -0.008387678500278436,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4123.4,
-        "change": -17.400000000000546,
-        "change_pct": -0.42020865533231605,
-        "is_up": false
+        "price": 4128.9,
+        "change": 15.199999999999818,
+        "change_pct": 0.3694970464545256,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
-          "summary": "Vivo's joint venture could become a template for Chinese smartphone makers in India....",
-          "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
+          "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+          "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a public...",
+          "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-          "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps....",
-          "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+          "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+          "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product r...",
+          "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
           "source": "TechCrunch"
         },
         {
-          "title": "Microsoft’s carbon emissions went up 25 percent last year",
+          "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
           "summary": "",
-          "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+          "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
           "source": "The Verge"
         },
         {
-          "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+          "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+          "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
           "source": "The Verge"
         },
         {
-          "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
-          "summary": "If Homo floresiensis wasn't a fire-using hunter, its origins could be different than we thought....",
-          "link": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
+          "title": "Quantum error correction can constantly recalibrate a processor",
+          "summary": "Reinforcement learning uses error information to adjust control algorithms....",
+          "link": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: SK Hynix's Nasdaq ADR debut raises $26.5 billion amid AI chip boom",
-          "summary": "South Korean chipmaker SK Hynix successfully raised $26.5 billion through its ADR offering. This significant fundraising highlights robust global investor interest in AI semiconduc...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sk-hynixs-nasdaq-adr-debut-raises-26-5-billion-amid-ai-chip-boom/articleshow/132303695.cms",
+          "title": "SBI MF IPO vs ICICI AMC: Which is the better bet for investors ahead of Rs 11,600 crore issue?",
+          "summary": "SBI Funds Management's IPO offers investors a chance to evaluate its market leadership. The company's valuation appears reasonable when compared to its listed peers. SBI MF leads i...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-mf-ipo-vs-icici-amc-which-is-the-better-bet-for-investors-ahead-of-rs-11600-crore-issue/articleshow/132324805.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "US Stock Market: Treasury yields ease as investors buy bonds after selloff; strong auction boosts sentiment",
-          "summary": "US Treasury prices saw gains as investors bought bonds following a sharp selloff. A strong auction of 30-year government bonds attracted significant foreign investor demand. Econom...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-treasury-yields-ease-as-investors-buy-bonds-after-selloff-strong-auction-boosts-sentiment/articleshow/132303499.cms",
+          "title": "IPO Calendar next week: SBI MF among 3 new issues to raise Rs 11,980 cr; GMPs soar up to 111%",
+          "summary": "India's primary market anticipates a significant IPO rush totaling nearly eleven thousand nine hundred eighty crore rupees next week. SBI Funds Management and Alpine Texworld will ...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-next-week-sbi-mf-among-3-new-issues-to-raise-rs-11980-cr-gmps-soar-up-to-111/articleshow/132324713.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Who is Fidji Simo? OpenAI's top executive for AGI deployment steps down due to health concerns as AI race intensifies",
-          "summary": "Fidji Simo, a senior OpenAI executive, has stepped down after taking medical leave due to a chronic neuroimmune condition. She will continue as a part-time adviser while her respon...",
-          "link": "https://www.livemint.com/companies/people/who-is-fidji-simo-openais-top-executive-for-agi-deployment-steps-down-due-to-health-concerns-as-ai-race-intensifies-11783658977943.html",
+          "title": "German luxury carmakers split on hybrids as EV sales surge",
+          "summary": "BMW dismisses hybrids as costly and unnecessary, while Mercedes is betting on them to ease the shift away from petrol and diesel....",
+          "link": "https://www.livemint.com/companies/news/german-luxury-carmakers-split-on-hybrids-as-ev-sales-surge-11783680203547.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Leo Cancer Care raises $65m for upright radiotherapy platform",
-          "summary": "An upright positioning system and CT scanner for proton therapy, Leo’s Marie radiotherapy platform gained FDA clearance in July 2025. The post Leo Cancer Care raises $65m for uprig...",
-          "link": "https://www.medicaldevice-network.com/news/leo-cancer-care-raises-65m-for-upright-radiotherapy-platform/",
+          "title": "Otsuka ICU Medical outlays $500m to expand US manufacturing footprint",
+          "summary": "The funds will support the construction of a new manufacturing facility and make significant upgrades to Otsuka ICU Medical's existing manufacturing site in Austin, Texas. The post...",
+          "link": "https://www.medicaldevice-network.com/news/otsuka-icu-medical-outlays-500m-to-expand-us-manufacturing-footprint/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Waste is a resource, not a liability: Wilma Rodrigues of Saahas Zero Waste",
-          "summary": "At MSME Sparks 2026, Wilma Rodrigues, Chief Transformation Officer at Saahas Zero Waste, explained why circular business models will define the next decade of waste management in I...",
-          "link": "https://yourstory.com/2026/07/waste-resource-not-liability-wilma-rodrigues-saahas-zero-waste",
+          "title": "Why trust, technology, and mindset will define the next phase of MSME growth",
+          "summary": "At MSME Sparks 2026, Srivardhini Jha, IIM-B’s Chairperson of Entrepreneurship, said MSMEs must pair traditional strengths with digital fluency, stronger data practices, and an entr...",
+          "link": "https://yourstory.com/2026/07/trust-technology-and-mindset-will-define-next-phase-of-msme-growth",
           "source": "YourStory"
         },
         {
-          "title": "Enviu’s Devansh Peshin on building markets and jobs from India’s textile waste",
-          "summary": "At MSME Sparks 2026, Enviu's Devansh Peshin discussed textile recycling, circular economy, green jobs, and the future of waste management in India....",
-          "link": "https://yourstory.com/2026/07/enviu-devansh-peshin-textile-waste-recycling-circular-economy-india",
+          "title": "India's AI workforce is growing overnight, governance is not",
+          "summary": "For enterprises across major cities, AI agents are no longer a future ambition. They are being woven into day-to-day operations. Meanwhile, human hiring remains subject to rigorous...",
+          "link": "https://yourstory.com/2026/07/indias-ai-workforce-is-growing-overnight-governance-not",
           "source": "YourStory"
         },
         {
-          "title": "Green SM’s India Litmus Test, CarDekho’s IPO & More",
-          "summary": "Can Green SM Avoid BluSmart’s Pitfalls? BluSmart’s demise last year left a big gap in the Indian electric ride-hailing space.&#8230;...",
-          "link": "https://inc42.com/buzz/green-sms-india-litmus-test-cardekhos-ipo-more/",
+          "title": "[Update] WhatsApp & Telegram Submit Response To Centre’s Notice On Username Feature",
+          "summary": "Update &#124; July 11, 02:30 IST After WhatsApp, Telegram has also reportedly submitted its reply to the IT ministry over&#8230;...",
+          "link": "https://inc42.com/buzz/meta-submits-response-to-centres-notice-on-whatsapps-username-feature/",
           "source": "Inc42"
         }
       ]
@@ -221,6 +221,25 @@
           "summary": "Comau announced that it has acquired 100% of Invent Smart Intralogistics Solutions, a Brazilian company focused on warehouse automation and intralogistics technologies. According t...",
           "link": "https://www.designworldonline.com/comau-acquires-invent-for-intralogistics-automation/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "Apple Lost the AI Race",
+          "summary": "Apple lost the AI race. Actually, Apple won the AI race. Wait.\n\nThat shirt: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\n...",
+          "link": "https://www.youtube.com/watch?v=eWKY0OnPByg",
+          "source": "MKBHD",
+          "thumbnail": "https://i2.ytimg.com/vi/eWKY0OnPByg/hqdefault.jpg"
+        },
+        {
+          "title": "DeepSeek's Absolutely Insane AI Speed Hack",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek paper is available here:\nhttps://arxiv.org/abs/2607.05147v1\n\n🙏 We would like to t...",
+          "link": "https://www.youtube.com/watch?v=1yBU41auQhw",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i2.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg"
         }
       ]
     }
