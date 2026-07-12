@@ -1,6 +1,6 @@
 {
-  "last_updated": "Saturday, July 11, 2026 at 10:13 AM IST",
-  "last_updated_iso": "2026-07-11T10:13:46.545920",
+  "last_updated": "Sunday, July 12, 2026 at 10:25 AM IST",
+  "last_updated_iso": "2026-07-12T10:25:22.239510",
   "market": {
     "indices": [
       {
@@ -83,10 +83,10 @@
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4128.9,
-        "change": 15.199999999999818,
-        "change_pct": 0.3694970464545256,
-        "is_up": true
+        "price": 4113.7,
+        "change": -27.100000000000364,
+        "change_pct": -0.6544629057187105,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-          "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a public...",
-          "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+          "title": "Reed Jobs would rather talk about curing cancer than his last name",
+          "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the v...",
+          "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
           "source": "TechCrunch"
         },
         {
-          "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-          "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product r...",
-          "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+          "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+          "summary": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This ti...",
+          "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
           "source": "TechCrunch"
         },
         {
-          "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
+          "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
           "summary": "",
-          "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+          "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
           "source": "The Verge"
         },
         {
-          "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+          "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
           "summary": "",
-          "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "link": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
           "source": "The Verge"
         },
         {
-          "title": "Quantum error correction can constantly recalibrate a processor",
-          "summary": "Reinforcement learning uses error information to adjust control algorithms....",
-          "link": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+          "title": "A Jupiter-size planet that escaped its star's death",
+          "summary": "It's unclear how the planet avoided its star's bloated red giant stage....",
+          "link": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "SBI MF IPO vs ICICI AMC: Which is the better bet for investors ahead of Rs 11,600 crore issue?",
-          "summary": "SBI Funds Management's IPO offers investors a chance to evaluate its market leadership. The company's valuation appears reasonable when compared to its listed peers. SBI MF leads i...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-mf-ipo-vs-icici-amc-which-is-the-better-bet-for-investors-ahead-of-rs-11600-crore-issue/articleshow/132324805.cms",
+          "title": "Dmart recasts strategy as rapid delivery competition intensifies",
+          "summary": "DMart has scaled back its e-commerce footprint, exiting underperforming cities to focus on metros as competition intensifies in India’s rapid delivery space. Despite rising pressur...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dmart-recasts-strategy-as-rapid-delivery-competition-intensifies/articleshow/132340693.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "IPO Calendar next week: SBI MF among 3 new issues to raise Rs 11,980 cr; GMPs soar up to 111%",
-          "summary": "India's primary market anticipates a significant IPO rush totaling nearly eleven thousand nine hundred eighty crore rupees next week. SBI Funds Management and Alpine Texworld will ...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-next-week-sbi-mf-among-3-new-issues-to-raise-rs-11980-cr-gmps-soar-up-to-111/articleshow/132324713.cms",
+          "title": "HDFC Bank, HCL Tech among 143 companies to announce earnings this week",
+          "summary": "The June quarter earnings season is set to accelerate with 143 companies, including HDFC Bank, Reliance Industries and HCL Tech, scheduled to report this week. With growth projecte...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-hcl-tech-among-143-companies-to-announce-earnings-this-week/articleshow/132340559.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "German luxury carmakers split on hybrids as EV sales surge",
-          "summary": "BMW dismisses hybrids as costly and unnecessary, while Mercedes is betting on them to ease the shift away from petrol and diesel....",
-          "link": "https://www.livemint.com/companies/news/german-luxury-carmakers-split-on-hybrids-as-ev-sales-surge-11783680203547.html",
+          "title": "How Onida plans to reclaim its place in Indian homes",
+          "summary": "Once known for its 'Neighbour's envy, owner's pride' tagline, the consumer electronics brand is targeting mass-premium buyers under a new management team....",
+          "link": "https://www.livemint.com/companies/news/onida-consumer-electronics-brands-india-smart-tv-brands-india-micron-11783661861680.html",
           "source": "Livemint Companies"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Why trust, technology, and mindset will define the next phase of MSME growth",
-          "summary": "At MSME Sparks 2026, Srivardhini Jha, IIM-B’s Chairperson of Entrepreneurship, said MSMEs must pair traditional strengths with digital fluency, stronger data practices, and an entr...",
-          "link": "https://yourstory.com/2026/07/trust-technology-and-mindset-will-define-next-phase-of-msme-growth",
-          "source": "YourStory"
-        },
-        {
           "title": "India's AI workforce is growing overnight, governance is not",
           "summary": "For enterprises across major cities, AI agents are no longer a future ambition. They are being woven into day-to-day operations. Meanwhile, human hiring remains subject to rigorous...",
           "link": "https://yourstory.com/2026/07/indias-ai-workforce-is-growing-overnight-governance-not",
           "source": "YourStory"
         },
         {
-          "title": "[Update] WhatsApp & Telegram Submit Response To Centre’s Notice On Username Feature",
-          "summary": "Update &#124; July 11, 02:30 IST After WhatsApp, Telegram has also reportedly submitted its reply to the IT ministry over&#8230;...",
-          "link": "https://inc42.com/buzz/meta-submits-response-to-centres-notice-on-whatsapps-username-feature/",
+          "title": "Health, AI, energy: Test your business creativity with Edition 240 of our weekly quiz!",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 240th quiz. Ready?...",
+          "link": "https://yourstory.com/2026/07/health-ai-energy-entrepreneur-quiz-education",
+          "source": "YourStory"
+        },
+        {
+          "title": "Indian Startup IPO Tracker 2026",
+          "summary": "Dalal Street emerged as a founder’s paradise in 2025, with 18 Indian startups listing on the bourses and collectively mopping&#8230;...",
+          "link": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
           "source": "Inc42"
         }
       ]
