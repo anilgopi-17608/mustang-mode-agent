@@ -1,91 +1,91 @@
 {
-  "last_updated": "Sunday, July 12, 2026 at 10:25 AM IST",
-  "last_updated_iso": "2026-07-12T10:25:22.239510",
+  "last_updated": "Monday, July 13, 2026 at 10:32 AM IST",
+  "last_updated_iso": "2026-07-13T10:32:01.089130",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24206.9,
-        "change": 244.10000000000218,
-        "change_pct": 1.0186622598360884,
-        "is_up": true
+        "price": 24135.35,
+        "change": -71.55000000000291,
+        "change_pct": -0.29557688097196627,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 77569.39,
-        "change": 827.5699999999924,
-        "change_pct": 1.078382034723691,
-        "is_up": true
+        "price": 77242.39,
+        "change": -327.0,
+        "change_pct": -0.4215580398401999,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 58045.9,
-        "change": 793.4500000000044,
-        "change_pct": 1.3858795562460722,
-        "is_up": true
+        "price": 57994.7,
+        "change": -51.200000000004366,
+        "change_pct": -0.08820605761992555,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Reliance",
-        "price": 1307.8,
-        "change": 28.0,
-        "change_pct": 2.1878418502891077,
+        "name": "TCS",
+        "price": 2126.1,
+        "change": 57.09999999999991,
+        "change_pct": 2.7597873368777144,
         "is_up": true
       },
       {
         "name": "Infosys",
-        "price": 1068.0,
-        "change": 17.200000000000045,
-        "change_pct": 1.6368481157213597,
+        "price": 1072.5,
+        "change": 4.5,
+        "change_pct": 0.42134831460674155,
         "is_up": true
       },
       {
         "name": "Wipro",
-        "price": 175.46,
-        "change": 2.700000000000017,
-        "change_pct": 1.562861773558704,
+        "price": 176.16,
+        "change": 0.6999999999999886,
+        "change_pct": 0.3989513279379851,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1920.4,
-        "change": -10.699999999999818,
-        "change_pct": -0.5540883434311956,
+        "name": "Sun Pharma",
+        "price": 1913.3,
+        "change": -22.200000000000045,
+        "change_pct": -1.146990441746321,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1935.5,
-        "change": -3.2000000000000455,
-        "change_pct": -0.16505906019497835,
+        "name": "Maruti",
+        "price": 13741.0,
+        "change": -113.0,
+        "change_pct": -0.815648910062076,
         "is_up": false
       },
       {
         "name": "HDFC Bank",
-        "price": 824.95,
-        "change": 7.400000000000091,
-        "change_pct": 0.9051434163048244,
-        "is_up": true
+        "price": 818.65,
+        "change": -6.300000000000068,
+        "change_pct": -0.7636826474331859,
+        "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.37,
-        "change": -0.007999999999995566,
-        "change_pct": -0.008387678500278436,
-        "is_up": false
+        "price": 95.76,
+        "change": 0.39000000000000057,
+        "change_pct": 0.4089336269267071,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4113.7,
-        "change": -27.100000000000364,
-        "change_pct": -0.6544629057187105,
+        "price": 4060.7,
+        "change": -53.0,
+        "change_pct": -1.2883778593480322,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
+          "title": "TechCrunch Mobility: A robotaxi ultimatum",
+          "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
+          "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+          "source": "TechCrunch"
+        },
+        {
           "title": "Reed Jobs would rather talk about curing cancer than his last name",
           "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the v...",
           "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
           "source": "TechCrunch"
         },
         {
-          "title": "This slushie machine was a lifesaver during NYC’s heat wave",
-          "summary": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This ti...",
-          "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+          "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
           "source": "The Verge"
         },
         {
-          "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
+          "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
           "summary": "",
-          "link": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
+          "link": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
           "source": "The Verge"
         },
         {
-          "title": "A Jupiter-size planet that escaped its star's death",
-          "summary": "It's unclear how the planet avoided its star's bloated red giant stage....",
-          "link": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+          "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+          "summary": "New climate evidence adds context to these long voyages....",
+          "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Dmart recasts strategy as rapid delivery competition intensifies",
-          "summary": "DMart has scaled back its e-commerce footprint, exiting underperforming cities to focus on metros as competition intensifies in India’s rapid delivery space. Despite rising pressur...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dmart-recasts-strategy-as-rapid-delivery-competition-intensifies/articleshow/132340693.cms",
+          "title": "Avantel shares jump 10% after Q1 profit surges 67% YoY, revenue climbs 36%",
+          "summary": "Avantel shares rose sharply on Monday after the company reported robust June quarter earnings, with revenue rising 36% year-on-year to Rs 70.42 crore and net profit jumping 67% to ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avantel-shares-jump-10-after-q1-profit-surges-67-yoy-revenue-climbs-36/articleshow/132356885.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "HDFC Bank, HCL Tech among 143 companies to announce earnings this week",
-          "summary": "The June quarter earnings season is set to accelerate with 143 companies, including HDFC Bank, Reliance Industries and HCL Tech, scheduled to report this week. With growth projecte...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-hcl-tech-among-143-companies-to-announce-earnings-this-week/articleshow/132340559.cms",
+          "title": "US Stock Market: Inflation gathers pace as tariffs, energy costs and AI investment lift price pressures, says Fed",
+          "summary": "U.S. inflation accelerated during spring due to tariffs and rising energy costs. The Federal Reserve's report shows inflation remains significantly above its target. The labor mark...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-inflation-gathers-pace-as-tariffs-energy-costs-and-ai-investment-lift-price-pressures-says-fed/articleshow/132356158.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "How Onida plans to reclaim its place in Indian homes",
-          "summary": "Once known for its 'Neighbour's envy, owner's pride' tagline, the consumer electronics brand is targeting mass-premium buyers under a new management team....",
-          "link": "https://www.livemint.com/companies/news/onida-consumer-electronics-brands-india-smart-tv-brands-india-micron-11783661861680.html",
+          "title": "Jindal Steel’s leadership churn continues as CEO quits within a year",
+          "summary": "Rajiv Kumar, the CEO of Vedanta Aluminium Metal, is slated to succeed outgoing CEO Gautam Malhotra. Former Hindustan Zinc CFO Sandeep Modi is likely to join as the new CFO....",
+          "link": "https://www.livemint.com/companies/people/jindal-steel-s-leadership-churn-continues-as-ceo-quits-within-a-year-11783863486993.html",
           "source": "Livemint Companies"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "India's AI workforce is growing overnight, governance is not",
-          "summary": "For enterprises across major cities, AI agents are no longer a future ambition. They are being woven into day-to-day operations. Meanwhile, human hiring remains subject to rigorous...",
-          "link": "https://yourstory.com/2026/07/indias-ai-workforce-is-growing-overnight-governance-not",
+          "title": "Why trust, technology, and mindset will define the next phase of MSME growth",
+          "summary": "At MSME Sparks 2026, Srivardhini Jha, IIM-B’s Chairperson of Entrepreneurship, said MSMEs must pair traditional strengths with digital fluency, stronger data practices, and an entr...",
+          "link": "https://yourstory.com/2026/07/trust-technology-and-mindset-will-define-next-phase-of-msme-growth",
           "source": "YourStory"
         },
         {
-          "title": "Health, AI, energy: Test your business creativity with Edition 240 of our weekly quiz!",
-          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 240th quiz. Ready?...",
-          "link": "https://yourstory.com/2026/07/health-ai-energy-entrepreneur-quiz-education",
+          "title": "India's MSMEs power the economy, but most still aren't using AI",
+          "summary": "Fynd's Ragini Varma explains how AI can help India's MSMEs automate retail operations, improve efficiency, and grow without adding staff....",
+          "link": "https://yourstory.com/2026/07/fynd-ragini-varma-ai-for-msmes-autonomous-retail-msme-sparks-2026",
           "source": "YourStory"
         },
         {
-          "title": "Indian Startup IPO Tracker 2026",
-          "summary": "Dalal Street emerged as a founder’s paradise in 2025, with 18 Indian startups listing on the bourses and collectively mopping&#8230;...",
-          "link": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
+          "title": "Social Media Wars, GoKwik Axes 120 Jobs & More",
+          "summary": "Uniform Norms For Social Media The IT ministry is crafting uniform standards for all messaging apps. But the timing is&#8230;...",
+          "link": "https://inc42.com/buzz/social-media-wars-gokwik-axes-120-jobs-more/",
           "source": "Inc42"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i2.ytimg.com/vi/eWKY0OnPByg/hqdefault.jpg"
         },
         {
-          "title": "DeepSeek's Absolutely Insane AI Speed Hack",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek paper is available here:\nhttps://arxiv.org/abs/2607.05147v1\n\n🙏 We would like to t...",
-          "link": "https://www.youtube.com/watch?v=1yBU41auQhw",
+          "title": "Minecraft Was Missing One Brilliant Idea",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://xandergos.github.io/terrain-diffusion/\nhttps://modrinth.c...",
+          "link": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg"
+          "thumbnail": "https://i2.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg"
         }
       ]
     }
