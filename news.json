@@ -1,92 +1,92 @@
 {
-  "last_updated": "Monday, July 13, 2026 at 10:32 AM IST",
-  "last_updated_iso": "2026-07-13T10:32:01.089130",
+  "last_updated": "Tuesday, July 14, 2026 at 09:59 AM IST",
+  "last_updated_iso": "2026-07-14T09:59:15.314314",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24135.35,
-        "change": -71.55000000000291,
-        "change_pct": -0.29557688097196627,
+        "price": 24072.8,
+        "change": -138.20000000000073,
+        "change_pct": -0.5708149188385475,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 77242.39,
-        "change": -327.0,
-        "change_pct": -0.4215580398401999,
+        "price": 77198.59,
+        "change": -417.8099999999977,
+        "change_pct": -0.5383011837704373,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57994.7,
-        "change": -51.200000000004366,
-        "change_pct": -0.08820605761992555,
+        "price": 57501.8,
+        "change": -629.6499999999942,
+        "change_pct": -1.0831486226474554,
         "is_up": false
       }
     ],
     "gainers": [
       {
+        "name": "Bharti Airtel",
+        "price": 1926.3,
+        "change": 24.5,
+        "change_pct": 1.2882532337785257,
+        "is_up": true
+      },
+      {
         "name": "TCS",
-        "price": 2126.1,
-        "change": 57.09999999999991,
-        "change_pct": 2.7597873368777144,
+        "price": 2201.7,
+        "change": 20.199999999999818,
+        "change_pct": 0.9259683703873398,
         "is_up": true
       },
       {
-        "name": "Infosys",
-        "price": 1072.5,
-        "change": 4.5,
-        "change_pct": 0.42134831460674155,
-        "is_up": true
-      },
-      {
-        "name": "Wipro",
-        "price": 176.16,
-        "change": 0.6999999999999886,
-        "change_pct": 0.3989513279379851,
+        "name": "Sun Pharma",
+        "price": 1930.2,
+        "change": 8.799999999999955,
+        "change_pct": 0.4579993754553947,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Sun Pharma",
-        "price": 1913.3,
-        "change": -22.200000000000045,
-        "change_pct": -1.146990441746321,
+        "name": "L&T",
+        "price": 3874.6,
+        "change": -53.90000000000009,
+        "change_pct": -1.3720249459081097,
         "is_up": false
       },
       {
         "name": "Maruti",
-        "price": 13741.0,
-        "change": -113.0,
-        "change_pct": -0.815648910062076,
+        "price": 13558.0,
+        "change": -137.0,
+        "change_pct": -1.0003650967506388,
         "is_up": false
       },
       {
-        "name": "HDFC Bank",
-        "price": 818.65,
-        "change": -6.300000000000068,
-        "change_pct": -0.7636826474331859,
+        "name": "ICICI Bank",
+        "price": 1395.6,
+        "change": -13.900000000000091,
+        "change_pct": -0.9861653068464059,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.76,
-        "change": 0.39000000000000057,
-        "change_pct": 0.4089336269267071,
+        "price": 96.1275,
+        "change": 0.5074999999999932,
+        "change_pct": 0.5307467057100953,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4060.7,
-        "change": -53.0,
-        "change_pct": -1.2883778593480322,
-        "is_up": false
+        "price": 4022.0,
+        "change": 16.300000000000182,
+        "change_pct": 0.4069201388022114,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "TechCrunch Mobility: A robotaxi ultimatum",
-          "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
-          "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+          "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+          "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lo...",
+          "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
           "source": "TechCrunch"
         },
         {
-          "title": "Reed Jobs would rather talk about curing cancer than his last name",
-          "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the v...",
-          "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+          "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+          "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs ...",
+          "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
           "source": "TechCrunch"
         },
         {
-          "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+          "title": "Microsoft tests Windows Search without all the ads and fluff",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+          "link": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
           "source": "The Verge"
         },
         {
-          "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
+          "title": "OnePlus is reportedly bailing on the US",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
+          "link": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
           "source": "The Verge"
         },
         {
-          "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-          "summary": "New climate evidence adds context to these long voyages....",
-          "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+          "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+          "summary": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit....",
+          "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Avantel shares jump 10% after Q1 profit surges 67% YoY, revenue climbs 36%",
-          "summary": "Avantel shares rose sharply on Monday after the company reported robust June quarter earnings, with revenue rising 36% year-on-year to Rs 70.42 crore and net profit jumping 67% to ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avantel-shares-jump-10-after-q1-profit-surges-67-yoy-revenue-climbs-36/articleshow/132356885.cms",
+          "title": "Global Market: China's upbeat trade data lifts hopes for export-linked stocks",
+          "summary": "China's exports saw a strong 27% year-on-year increase in June. Imports also climbed a significant 36%, accelerating from May's figures. This performance indicates resilient global...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-upbeat-trade-data-lifts-hopes-for-export-linked-stocks/articleshow/132380856.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "US Stock Market: Inflation gathers pace as tariffs, energy costs and AI investment lift price pressures, says Fed",
-          "summary": "U.S. inflation accelerated during spring due to tariffs and rising energy costs. The Federal Reserve's report shows inflation remains significantly above its target. The labor mark...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-inflation-gathers-pace-as-tariffs-energy-costs-and-ai-investment-lift-price-pressures-says-fed/articleshow/132356158.cms",
+          "title": "Avenue Supermarts among 4 F&amp;O stocks with sharp rise in futures open interest",
+          "summary": "A sharp rise in futures open interest indicates a significant increase in the number of active, unexpired futures contracts in a stock....",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/132380893.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Jindal Steel’s leadership churn continues as CEO quits within a year",
-          "summary": "Rajiv Kumar, the CEO of Vedanta Aluminium Metal, is slated to succeed outgoing CEO Gautam Malhotra. Former Hindustan Zinc CFO Sandeep Modi is likely to join as the new CFO....",
-          "link": "https://www.livemint.com/companies/people/jindal-steel-s-leadership-churn-continues-as-ceo-quits-within-a-year-11783863486993.html",
+          "title": "TPG, Sofina, Multiples in race to pick up $80-100 million stake in Giva",
+          "summary": "Jewellery startup Giva is in advanced talks with private equity investors including TPG, Sofina and Multiples for an $80-100 million funding round that could value the company at a...",
+          "link": "https://www.livemint.com/companies/giva-funding-valuation-tpg-sofina-multiples-private-equity-jewellery-startup-lab-grown-diamonds-11783995280196.html",
           "source": "Livemint Companies"
         }
       ]
@@ -165,21 +165,21 @@
       "color": "#16a34a",
       "items": [
         {
-          "title": "ERIKS opens technology hub in Alkmaar for high-tech OEMs",
-          "summary": "NEWS RELEASE: ERIKS accelerates high-tech growth with launch of technology hub in the Netherlands ERIKS is strengthening its position in high-tech industries with the launch of a d...",
-          "link": "https://www.medicaldesignandoutsourcing.com/eriks-opens-technology-hub-in-alkmaar-for-high-tech-oems/",
+          "title": "Medical Design & Outsourcing’s parent company, WTWH Media, rebrands as Arrowfly",
+          "summary": "Medical Design &#38; Outsourcing&#8217;s parent company, WTWH Media, today announced it has rebranded as Arrowfly. The new name and identity reflect the company&#8217;s transformat...",
+          "link": "https://www.medicaldesignandoutsourcing.com/mdo-parent-company-wtwh-media-rebrands-arrowfly/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "What Butterfly’s saying about Midjourney’s ultrasonic CT plans",
-          "summary": "Generative artificial intelligence company Midjourney says it will open its first AI-powered medical imaging spa offering rapid whole-body, ultrasonic CT scans in 2027. &#8220;Ther...",
-          "link": "https://www.medicaldesignandoutsourcing.com/midjourney-ultrasonic-ct-butterfly-network/",
+          "title": "Sentante has a CE mark, its CEO says much more to come for endovascular robotics",
+          "summary": "Sentante is another step closer to treating patients with its remote endovascular robotics system after earning CE mark approval in May. “This is a defining moment for Sentante,” S...",
+          "link": "https://www.medicaldesignandoutsourcing.com/sentante-future-of-endovascular-surgical-robotics/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Otsuka ICU Medical outlays $500m to expand US manufacturing footprint",
-          "summary": "The funds will support the construction of a new manufacturing facility and make significant upgrades to Otsuka ICU Medical's existing manufacturing site in Austin, Texas. The post...",
-          "link": "https://www.medicaldevice-network.com/news/otsuka-icu-medical-outlays-500m-to-expand-us-manufacturing-footprint/",
+          "title": "HistoSonics’ Edison histotripsy system obtains CE mark",
+          "summary": "HistoSonics will now initiate a phased commercial rollout of its Edison system across European centres of excellence that specialise in liver tumour treatment. The post HistoSonics...",
+          "link": "https://www.medicaldevice-network.com/news/histosonics-edison-histotripsy-system-obtains-ce-mark/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Why trust, technology, and mindset will define the next phase of MSME growth",
-          "summary": "At MSME Sparks 2026, Srivardhini Jha, IIM-B’s Chairperson of Entrepreneurship, said MSMEs must pair traditional strengths with digital fluency, stronger data practices, and an entr...",
-          "link": "https://yourstory.com/2026/07/trust-technology-and-mindset-will-define-next-phase-of-msme-growth",
+          "title": "India's QR revolution is just the beginning for MSMEs: Mintoak CEO",
+          "summary": "Speaking at MSME Sparks 2026, Raman Khanduja of Mintoak said the next opportunity for banks lies in using payment data to improve MSME credit, cash flow, and business growth....",
+          "link": "https://yourstory.com/2026/07/india-qr-revolution-beginning-for-msmes-mintoak-ceo-raman-khanduja-msme-sparks",
           "source": "YourStory"
         },
         {
-          "title": "India's MSMEs power the economy, but most still aren't using AI",
-          "summary": "Fynd's Ragini Varma explains how AI can help India's MSMEs automate retail operations, improve efficiency, and grow without adding staff....",
-          "link": "https://yourstory.com/2026/07/fynd-ragini-varma-ai-for-msmes-autonomous-retail-msme-sparks-2026",
+          "title": "5 Lessons from The Let Them Theory that change your mindset",
+          "summary": "Discover five powerful lessons from The Let Them Theory that can help you stop overthinking, let go of control, and build a healthier mindset....",
+          "link": "https://yourstory.com/2026/07/let-theory-mindset-lessons",
           "source": "YourStory"
         },
         {
-          "title": "Social Media Wars, GoKwik Axes 120 Jobs & More",
-          "summary": "Uniform Norms For Social Media The IT ministry is crafting uniform standards for all messaging apps. But the timing is&#8230;...",
-          "link": "https://inc42.com/buzz/social-media-wars-gokwik-axes-120-jobs-more/",
+          "title": "Yotta’s AI Infra Play, BUILT Bags $2 Mn & More",
+          "summary": "Yotta’s Billion-Dollar Silicon Safari Yotta Data Services is building one of India’s biggest AI compute reserves. The neocloud giant is&#8230;...",
+          "link": "https://inc42.com/buzz/yottas-ai-infra-play-built-bags-2-mn-more/",
           "source": "Inc42"
         }
       ]
@@ -211,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "Design World’s parent company, WTWH Media, rebrands as Arrowfly",
+          "summary": "The name unifies 40+ brands under a new identity that is built for the future of B2B. Design World’s parent company, WTWH Media, today announced it has rebranded as Arrowfly. The n...",
+          "link": "https://www.designworldonline.com/design-worlds-parent-company-wtwh-media-rebrands-as-arrowfly/",
+          "source": "Design World"
+        },
+        {
           "title": "Feintool opens first production facility in India",
           "summary": "Feintool has inaugurated its first production facility in India in Pune. The site is ramping up production to meet initial customer orders, with a focus on fineblanked automotive c...",
           "link": "https://www.designworldonline.com/feintool-opens-first-production-facility-in-india/",
           "source": "Design World"
-        },
-        {
-          "title": "Comau acquires Invent for intralogistics automation",
-          "summary": "Comau announced that it has acquired 100% of Invent Smart Intralogistics Solutions, a Brazilian company focused on warehouse automation and intralogistics technologies. According t...",
-          "link": "https://www.designworldonline.com/comau-acquires-invent-for-intralogistics-automation/",
-          "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "Apple Lost the AI Race",
-          "summary": "Apple lost the AI race. Actually, Apple won the AI race. Wait.\n\nThat shirt: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\n...",
-          "link": "https://www.youtube.com/watch?v=eWKY0OnPByg",
-          "source": "MKBHD",
-          "thumbnail": "https://i2.ytimg.com/vi/eWKY0OnPByg/hqdefault.jpg"
-        },
-        {
-          "title": "Minecraft Was Missing One Brilliant Idea",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://xandergos.github.io/terrain-diffusion/\nhttps://modrinth.c...",
-          "link": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg"
         }
       ]
     }
