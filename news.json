@@ -1,92 +1,92 @@
 {
-  "last_updated": "Tuesday, July 14, 2026 at 09:59 AM IST",
-  "last_updated_iso": "2026-07-14T09:59:15.314314",
+  "last_updated": "Wednesday, July 15, 2026 at 09:59 AM IST",
+  "last_updated_iso": "2026-07-15T09:59:33.746824",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24072.8,
-        "change": -138.20000000000073,
-        "change_pct": -0.5708149188385475,
-        "is_up": false
+        "price": 24187.4,
+        "change": 135.35000000000218,
+        "change_pct": 0.5627378955224283,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77198.59,
-        "change": -417.8099999999977,
-        "change_pct": -0.5383011837704373,
-        "is_up": false
+        "price": 77540.81,
+        "change": 485.86999999999534,
+        "change_pct": 0.6305500984102971,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57501.8,
-        "change": -629.6499999999942,
-        "change_pct": -1.0831486226474554,
-        "is_up": false
+        "price": 58072.05,
+        "change": 609.75,
+        "change_pct": 1.061130515137751,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1926.3,
-        "change": 24.5,
-        "change_pct": 1.2882532337785257,
+        "name": "ICICI Bank",
+        "price": 1420.8,
+        "change": 13.099999999999909,
+        "change_pct": 0.9305960076720828,
         "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2201.7,
-        "change": 20.199999999999818,
-        "change_pct": 0.9259683703873398,
+        "name": "HDFC Bank",
+        "price": 814.95,
+        "change": 5.550000000000068,
+        "change_pct": 0.6856931060044561,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1930.2,
-        "change": 8.799999999999955,
-        "change_pct": 0.4579993754553947,
+        "name": "Maruti",
+        "price": 13572.0,
+        "change": 83.0,
+        "change_pct": 0.6153161835569724,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "L&T",
-        "price": 3874.6,
-        "change": -53.90000000000009,
-        "change_pct": -1.3720249459081097,
+        "name": "Infosys",
+        "price": 1080.1,
+        "change": -12.800000000000182,
+        "change_pct": -1.1711959008143638,
         "is_up": false
       },
       {
-        "name": "Maruti",
-        "price": 13558.0,
-        "change": -137.0,
-        "change_pct": -1.0003650967506388,
+        "name": "TCS",
+        "price": 2175.6,
+        "change": -25.0,
+        "change_pct": -1.1360538035081342,
         "is_up": false
       },
       {
-        "name": "ICICI Bank",
-        "price": 1395.6,
-        "change": -13.900000000000091,
-        "change_pct": -0.9861653068464059,
+        "name": "Wipro",
+        "price": 175.65,
+        "change": -1.4899999999999807,
+        "change_pct": -0.8411425990741678,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.1275,
-        "change": 0.5074999999999932,
-        "change_pct": 0.5307467057100953,
-        "is_up": true
+        "price": 96.12,
+        "change": -0.06999999999999318,
+        "change_pct": -0.0727726374882973,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4022.0,
-        "change": 16.300000000000182,
-        "change_pct": 0.4069201388022114,
-        "is_up": true
+        "price": 4040.2,
+        "change": -29.5,
+        "change_pct": -0.7248691549745682,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-          "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lo...",
-          "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+          "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+          "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences....",
+          "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
           "source": "TechCrunch"
         },
         {
-          "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-          "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs ...",
-          "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+          "title": "Lorde says AI glasses are ‘not sexy’",
+          "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage....",
+          "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
           "source": "TechCrunch"
         },
         {
-          "title": "Microsoft tests Windows Search without all the ads and fluff",
+          "title": "Google and Epic give up fighting — third-party Android app stores are coming next week",
           "summary": "",
-          "link": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+          "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
           "source": "The Verge"
         },
         {
-          "title": "OnePlus is reportedly bailing on the US",
+          "title": "Nothing’s good-looking Watch 3 Pro smartwatch is just $69",
           "summary": "",
-          "link": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
+          "link": "https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale",
           "source": "The Verge"
         },
         {
-          "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
-          "summary": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit....",
-          "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+          "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+          "summary": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple....",
+          "link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
           "source": "Ars Technica"
         }
       ]
@@ -130,33 +130,27 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: China's upbeat trade data lifts hopes for export-linked stocks",
-          "summary": "China's exports saw a strong 27% year-on-year increase in June. Imports also climbed a significant 36%, accelerating from May's figures. This performance indicates resilient global...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-upbeat-trade-data-lifts-hopes-for-export-linked-stocks/articleshow/132380856.cms",
+          "title": "Nuvoco Vistas shares soar 10% after strong Q1. Why Nomura, Choice see up to 47% upside?",
+          "summary": "Shares of Nuvoco Vistas surged after the cement maker reported a strong set of Q1 FY27 earnings, prompting multiple brokerages to reiterate bullish views. Analysts cited better-tha...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvoco-vistas-shares-soar-10-after-strong-q1-why-nomura-choice-see-up-to-47-upside/articleshow/132406082.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Avenue Supermarts among 4 F&amp;O stocks with sharp rise in futures open interest",
-          "summary": "A sharp rise in futures open interest indicates a significant increase in the number of active, unexpired futures contracts in a stock....",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/132380893.cms",
+          "title": "Global Market: SK Hynix jumps 13% as easing US inflation, AI memory optimism lift chip stocks",
+          "summary": "South Korean semiconductor shares experienced a significant surge on Wednesday. This rally was fueled by softer U.S. inflation data and renewed AI demand optimism. SK Hynix and Sam...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sk-hynix-jumps-13-as-easing-us-inflation-ai-memory-optimism-lift-chip-stocks/articleshow/132405944.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
+          "title": "Shrinking fleet, rising delays: SpiceJet lags far behind rivals as cash crunch bites",
+          "summary": "Rising delays add to the challenges facing SpiceJet, whose market share fell to 3% in May, as it attempts to stabilize operations and restore passenger confidence amid continued sc...",
+          "link": "https://www.livemint.com/companies/spicejet-flight-delays-dgca-indian-airline-delays-on-time-performance-flight-disruptions-domestic-aviation-11784040432614.html",
+          "source": "Livemint Companies"
         },
         {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "TPG, Sofina, Multiples in race to pick up $80-100 million stake in Giva",
-          "summary": "Jewellery startup Giva is in advanced talks with private equity investors including TPG, Sofina and Multiples for an $80-100 million funding round that could value the company at a...",
-          "link": "https://www.livemint.com/companies/giva-funding-valuation-tpg-sofina-multiples-private-equity-jewellery-startup-lab-grown-diamonds-11783995280196.html",
+          "title": "Hero MotoCorp's EV investing strategy meets its first setback",
+          "summary": "The two-wheeler maker has marked down the value of its Zero Motorcycles investment by 92% even as its technology partnership continues, highlighting the contrasting fortunes of its...",
+          "link": "https://www.livemint.com/companies/news/hero-motocorp-zero-motorcycles-investment-setback-ev-strategy-11784027538442.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +171,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "HistoSonics’ Edison histotripsy system obtains CE mark",
-          "summary": "HistoSonics will now initiate a phased commercial rollout of its Edison system across European centres of excellence that specialise in liver tumour treatment. The post HistoSonics...",
-          "link": "https://www.medicaldevice-network.com/news/histosonics-edison-histotripsy-system-obtains-ce-mark/",
+          "title": "Edwards Lifesciences served $10m penalty over JC Medical acquisition violations",
+          "summary": "The FTC secured the penalty after a court ruled that Edwards failed to comply with antitrust law requirements when it acquired JC Medical in 2024. The post Edwards Lifesciences ser...",
+          "link": "https://www.medicaldevice-network.com/news/edwards-lifesciences-served-10m-penalty-over-jc-medical-acquisition-violations/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +182,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "India's QR revolution is just the beginning for MSMEs: Mintoak CEO",
-          "summary": "Speaking at MSME Sparks 2026, Raman Khanduja of Mintoak said the next opportunity for banks lies in using payment data to improve MSME credit, cash flow, and business growth....",
-          "link": "https://yourstory.com/2026/07/india-qr-revolution-beginning-for-msmes-mintoak-ceo-raman-khanduja-msme-sparks",
+          "title": "7 Books that explore the complexity of human relationships",
+          "summary": "Explore 7 insightful books that reveal the complexities of human relationships, from love and friendship to family ties and conflict....",
+          "link": "https://yourstory.com/2026/06/complexity-human-relationships",
           "source": "YourStory"
         },
         {
-          "title": "5 Lessons from The Let Them Theory that change your mindset",
-          "summary": "Discover five powerful lessons from The Let Them Theory that can help you stop overthinking, let go of control, and build a healthier mindset....",
-          "link": "https://yourstory.com/2026/07/let-theory-mindset-lessons",
+          "title": "Krishna Byre Gowda’s plan for Bengaluru; Google’s AI push in India",
+          "summary": "In a candid conversation with Shradha Sharma, Founder and CEO of YourStory and The Bharat Project, Karnataka Minister for Greater Bengaluru Development Krishna Byre Gowda, talks ab...",
+          "link": "https://yourstory.com/2026/07/krishna-byre-gowdas-plan-for-bengaluru-google-ai-push-india",
           "source": "YourStory"
         },
         {
-          "title": "Yotta’s AI Infra Play, BUILT Bags $2 Mn & More",
-          "summary": "Yotta’s Billion-Dollar Silicon Safari Yotta Data Services is building one of India’s biggest AI compute reserves. The neocloud giant is&#8230;...",
-          "link": "https://inc42.com/buzz/yottas-ai-infra-play-built-bags-2-mn-more/",
+          "title": "Anthropic’s India Push, InsuranceDekho’s IPO & More",
+          "summary": "Anthropic Banks On INR Anthropic is pulling all stops to boost adoption in India. The AI giant has now launched&#8230;...",
+          "link": "https://inc42.com/buzz/anthropics-india-push-insurancedekhos-ipo-more/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +205,28 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Design World’s parent company, WTWH Media, rebrands as Arrowfly",
-          "summary": "The name unifies 40+ brands under a new identity that is built for the future of B2B. Design World’s parent company, WTWH Media, today announced it has rebranded as Arrowfly. The n...",
-          "link": "https://www.designworldonline.com/design-worlds-parent-company-wtwh-media-rebrands-as-arrowfly/",
+          "title": "Industrial automation accelerates with increased capital spending",
+          "summary": "Roland Berger reports that 2026 is the start of five years of strong growth as manufacturers are forced to move from traditional automation toward intelligent systems. This episode...",
+          "link": "https://www.designworldonline.com/industrial-automation-accelerates-with-increased-capital-spending/",
           "source": "Design World"
         },
         {
-          "title": "Feintool opens first production facility in India",
-          "summary": "Feintool has inaugurated its first production facility in India in Pune. The site is ramping up production to meet initial customer orders, with a focus on fineblanked automotive c...",
-          "link": "https://www.designworldonline.com/feintool-opens-first-production-facility-in-india/",
+          "title": "Special Report: Advanced Materials and Their Impact on Motion System Design",
+          "summary": "Aerospace and defense motion components are the muscles and joints of modern air and space platforms, converting electrical, hydraulic, or pneumatic power into precise mechanical m...",
+          "link": "https://www.designworldonline.com/special-report-advanced-materials-and-their-impact-on-motion-system-design/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "iOS 27 Hands-On: Top 5 New Features!",
+          "summary": "First look at iOS 27 - coming soon to an iPhone near you. It's about time.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitt...",
+          "link": "https://www.youtube.com/watch?v=_oRgdlJUD18",
+          "source": "MKBHD",
+          "thumbnail": "https://i4.ytimg.com/vi/_oRgdlJUD18/hqdefault.jpg"
         }
       ]
     }
