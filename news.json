@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, July 16, 2026 at 10:11 AM IST",
-  "last_updated_iso": "2026-07-16T10:11:00.569729",
+  "last_updated": "Friday, July 17, 2026 at 10:13 AM IST",
+  "last_updated_iso": "2026-07-17T10:13:32.611691",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24115.7,
-        "change": 37.20000000000073,
-        "change_pct": 0.15449467367153571,
+        "price": 24246.25,
+        "change": 173.5,
+        "change_pct": 0.7207319479494448,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77422.07,
-        "change": 236.64000000001397,
-        "change_pct": 0.3065863596277354,
+        "price": 77750.56,
+        "change": 563.6900000000023,
+        "change_pct": 0.7302926002829269,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57670.6,
-        "change": -87.25,
-        "change_pct": -0.15106171715186767,
-        "is_up": false
+        "price": 57991.65,
+        "change": 409.40000000000146,
+        "change_pct": 0.7109829852081179,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Wipro",
-        "price": 177.25,
-        "change": 2.5999999999999943,
-        "change_pct": 1.4886916690523873,
-        "is_up": true
-      },
-      {
-        "name": "Maruti",
-        "price": 13714.0,
-        "change": 131.0,
-        "change_pct": 0.9644408451741147,
-        "is_up": true
-      },
-      {
         "name": "Infosys",
-        "price": 1085.5,
-        "change": 9.200000000000045,
-        "change_pct": 0.8547802657251737,
+        "price": 1101.8,
+        "change": 19.399999999999864,
+        "change_pct": 1.7923133776792186,
+        "is_up": true
+      },
+      {
+        "name": "Reliance",
+        "price": 1319.5,
+        "change": 22.90000000000009,
+        "change_pct": 1.7661576430664887,
+        "is_up": true
+      },
+      {
+        "name": "TCS",
+        "price": 2230.4,
+        "change": 29.40000000000009,
+        "change_pct": 1.3357564743298542,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "HDFC Bank",
-        "price": 811.75,
-        "change": -3.7000000000000455,
-        "change_pct": -0.45373720031884796,
+        "name": "Wipro",
+        "price": 175.78,
+        "change": -1.960000000000008,
+        "change_pct": -1.1027343310453515,
         "is_up": false
       },
       {
-        "name": "ICICI Bank",
-        "price": 1411.3,
-        "change": -4.900000000000091,
-        "change_pct": -0.3459963282022377,
+        "name": "Bharti Airtel",
+        "price": 1915.0,
+        "change": -6.7999999999999545,
+        "change_pct": -0.3538349464044102,
         "is_up": false
       },
       {
-        "name": "L&T",
-        "price": 3772.6,
-        "change": -11.300000000000182,
-        "change_pct": -0.2986336848225424,
+        "name": "Sun Pharma",
+        "price": 1949.5,
+        "change": -0.599999999999909,
+        "change_pct": -0.030767652940870166,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.335,
-        "change": 0.0899999999999892,
-        "change_pct": 0.09351135123901418,
-        "is_up": true
+        "price": 96.3175,
+        "change": -0.017499999999998295,
+        "change_pct": -0.018165775678619708,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4039.0,
-        "change": -12.800000000000182,
-        "change_pct": -0.31590897872550916,
+        "price": 3989.1,
+        "change": -3.0,
+        "change_pct": -0.07514841812579845,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Lululemon backs nylon recycling startup Syntetica in $30M Series A",
-          "summary": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors....",
-          "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+          "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+          "summary": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo....",
+          "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
           "source": "TechCrunch"
         },
         {
-          "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-          "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry....",
-          "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+          "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+          "summary": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses....",
+          "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
           "source": "TechCrunch"
         },
         {
-          "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
+          "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
           "summary": "",
-          "link": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
+          "link": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
           "source": "The Verge"
         },
         {
-          "title": "HP&#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal",
+          "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale",
+          "link": "https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale",
           "source": "The Verge"
         },
         {
-          "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
-          "summary": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining....",
-          "link": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
+          "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
+          "summary": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"...",
+          "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
           "source": "Ars Technica"
         }
       ]
@@ -130,33 +130,27 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Cybersecurity: How Vijay Kedia's new-age thematic play handed him 3 multibagger stocks",
-          "summary": "Veteran investor Vijay Kedia has identified a cybersecurity theme in his portfolio. He holds stakes in TechD Cybersecurity, Sattrix Information Security, and TAC Infosec. These sma...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cybersecurity-how-vijay-kedias-new-age-thematic-play-handed-him-3-multibagger-stocks/articleshow/132429297.cms",
+          "title": "US Stock Market: Fed's Jefferson signals openness to rate hike if inflation stays elevated",
+          "summary": "Federal Reserve Vice Chair Philip Jefferson indicated potential interest rate hikes if inflation fails to improve. Current policy remains appropriate for now, supporting the labor ...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-feds-jefferson-signals-openness-to-rate-hike-if-inflation-stays-elevated/articleshow/132452307.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Sensex rises 200 points, Nifty above 24,100 amid Middle East jitters. What lies ahead?",
-          "summary": "Indian stock markets showed resilience on Thursday, with Sensex and Nifty gaining slightly. Geopolitical worries from the Middle East conflict did not significantly impact trading....",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-points-nifty-above-24100-amid-middle-east-jitters-what-lies-ahead/articleshow/132407090.cms",
+          "title": "Global Market: Japan reaffirms BOJ independence in economic blueprint after market jitters",
+          "summary": "Japan's government reaffirms the Bank of Japan's independent role in monetary policy decisions. This clarification addresses market concerns raised by an earlier draft of the econo...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-reaffirms-boj-independence-in-economic-blueprint-after-market-jitters/articleshow/132452181.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
+          "title": "Trump Media to launch paid Truth Social feed for Wall Street, banks and trading firms",
+          "summary": "Trump Media &amp;amp; Technology Group will launch a paid data feed, 'Truth API', offering banks and trading firms swift access to posts from influential users on Truth Social, inc...",
+          "link": "https://www.livemint.com/companies/news/trump-media-to-launch-paid-truth-social-feed-for-wall-street-banks-and-trading-firms-11784250692626.html",
+          "source": "Livemint Companies"
         },
         {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Agritech Rize raises $31 million in Series B as mix of equity and debt",
-          "summary": "Rize has raised $31 million in a Series B round of equity and debt to expand in Vietnam and Indonesia. The company is also evaluating an India entry, likely starting with southern ...",
-          "link": "https://www.livemint.com/companies/news/agritech-rize-raises-31-million-in-series-b-as-mix-of-equity-and-debt-8-am-embargo-11784110424443.html",
+          "title": "Adani, Reliance, Birla, Vedanta, Jindal among suitors for Odisha's prized Karlapat bauxite block",
+          "summary": "Adani Enterprises, Reliance Industries, Hindalco Industries, Vedanta Aluminium, Naveen Jindal-backed Powermech and state-run Coal India have purchased tender documents for Odisha’s...",
+          "link": "https://www.livemint.com/companies/adani-reliance-birla-vedanta-jindal-suitors-for-odisha-karlapat-bauxite-block-aluminium-11784201324841.html",
           "source": "Livemint Companies"
         }
       ]
@@ -165,21 +159,21 @@
       "color": "#16a34a",
       "items": [
         {
-          "title": "Medical Design & Outsourcing’s parent company, WTWH Media, rebrands as Arrowfly",
-          "summary": "Medical Design &#38; Outsourcing&#8217;s parent company, WTWH Media, today announced it has rebranded as Arrowfly. The new name and identity reflect the company&#8217;s transformat...",
-          "link": "https://www.medicaldesignandoutsourcing.com/mdo-parent-company-wtwh-media-rebrands-arrowfly/",
+          "title": "Sensors on surgeons helped J&J’s DePuy Synthes sell a new tool",
+          "summary": "It&#8217;s easy to understand how power tools make joint replacements easier for orthopedic surgeons, but how do you quantify the improvement of such an innovation with hard eviden...",
+          "link": "https://www.medicaldesignandoutsourcing.com/jnj-depuy-synthes-kincise-sensors-surgeons-fatigue/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Sentante has a CE mark, its CEO says much more to come for endovascular robotics",
-          "summary": "Sentante is another step closer to treating patients with its remote endovascular robotics system after earning CE mark approval in May. “This is a defining moment for Sentante,” S...",
-          "link": "https://www.medicaldesignandoutsourcing.com/sentante-future-of-endovascular-surgical-robotics/",
+          "title": "Identiv expands ID-Tiny HF tag portfolio",
+          "summary": "NEWS RELEASE: Identiv expands ID-Tiny HF tag portfolio to enable secure digital intelligence for ultra-compact applications Product family brings one of the industry’s broadest sel...",
+          "link": "https://www.medicaldesignandoutsourcing.com/identiv-expands-id-tiny-hf-tag-portfolio/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Women’s health attracted record equity in 2025 as companies share capital",
-          "summary": "Closing the gender gap could boost the global economy by at least $1tn annually by 2040. The post Women’s health attracted record equity in 2025 as companies share capital appeared...",
-          "link": "https://www.medicaldevice-network.com/news/womens-health-attracted-record-equity-in-2025-as-companies-share-capital/",
+          "title": "DePuy Synthes expands spine portfolio after Expanding Innovations acquisition",
+          "summary": "Under the deal, DePuy Synthes will inherit Expanding Innovations' products including its interbody cage systems used in complex spinal surgery procedures. The post DePuy Synthes ex...",
+          "link": "https://www.medicaldevice-network.com/news/depuy-synthes-expands-spine-portfolio-after-expanding-innovations-acquisition/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +182,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Edgehax is building India's edge-AI boards so hardware makers stop importing them",
-          "summary": "Founded in 2025, the startup puts compute, connectivity and storage on one made-in-India board, already used by 150-plus companies and 100,000-plus students...",
-          "link": "https://yourstory.com/2026/07/edgehax-india-edge-ai-boards",
+          "title": "5 Books that will change your mindset in a weekend",
+          "summary": "Discover five powerful books you can read in a weekend that offer fresh perspectives on habits, mindset, purpose, and personal growth....",
+          "link": "https://yourstory.com/2026/06/books-change-mindset-weekend",
           "source": "YourStory"
         },
         {
-          "title": "Kerala's iHUB Robotics is teaching robots to see, act, and understand",
-          "summary": "This Ernakulam-based deeptech startup builds humanoids from scratch in its Kochi facility, and is now shipping them to the Gulf....",
-          "link": "https://yourstory.com/2026/07/kerala-robotics-startup-ihub",
+          "title": "Neo Group raises Rs 350 Cr in funding led by Peak XV Partners",
+          "summary": "Neo Group will utilise the funding for investment into technology, expand advisory network and introduce new products....",
+          "link": "https://yourstory.com/2026/07/neo-group-rs-350-crore-funding-peak-xv-partners",
           "source": "YourStory"
         },
         {
-          "title": "Exclusive: AI Sales Intelligence Startup Reo.Dev Raises $11.3 Mn To Expand In US",
-          "summary": "AI-powered sales intelligence startup Reo.Dev has raised $11.3 Mn (about ₹109 Cr) in a Series A funding round led by&#8230;...",
-          "link": "https://inc42.com/buzz/exclusive-ai-sales-intelligence-startup-reo-dev-raises-11-3-mn-to-expand-in-us/",
+          "title": "JFS’ Profitability Flex, Reo.Dev Bags $11 Mn & More",
+          "summary": "Jio Financial Services’ Bumper Q1 It was a profitable Q1 for Jio Financial Services. Buoyed by a humming lending engine&#8230;...",
+          "link": "https://inc42.com/buzz/jfs-profitability-flex-reo-dev-bags-11-mn-more/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +205,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Festo updates VTUX valve terminal for EOAT applications",
-          "summary": "Festo has introduced updates to its VTUX valve terminal for robot end-of-arm tooling and decentralized pneumatic control applications. The modular platform integrates pneumatic con...",
-          "link": "https://www.designworldonline.com/festo-updates-vtux-valve-terminal-for-eoat-applications/",
+          "title": "July 2026 issue: Stretchable sensor turns muscle signals into motion",
+          "summary": "As shown on the cover, the July 2026 issue of Design World examines a stretchable sensor from Michigan State University that boosted gesture-recognition accuracy in older adults fr...",
+          "link": "https://www.designworldonline.com/july-2026-issue-stretchable-sensor-turns-muscle-signals-into-motion/",
           "source": "Design World"
         },
         {
-          "title": "Industrial automation accelerates with increased capital spending",
-          "summary": "Roland Berger reports that 2026 is the start of five years of strong growth as manufacturers are forced to move from traditional automation toward intelligent systems. This episode...",
-          "link": "https://www.designworldonline.com/industrial-automation-accelerates-with-increased-capital-spending/",
+          "title": "Beyond the single throat: Rethinking venturi design through internal geometry",
+          "summary": "Learn how distributing the effect across multiple choke regions changed the expected relationship between suction and outflow behavior. By Sarabeth Vandegrift and Gideon Vandegrift...",
+          "link": "https://www.designworldonline.com/beyond-the-single-throat-rethinking-venturi-design-through-internal-geometry/",
           "source": "Design World"
         }
       ]
@@ -233,6 +227,13 @@
           "link": "https://www.youtube.com/watch?v=_oRgdlJUD18",
           "source": "MKBHD",
           "thumbnail": "https://i4.ytimg.com/vi/_oRgdlJUD18/hqdefault.jpg"
+        },
+        {
+          "title": "Claude Just Revealed AI's Biggest Problem",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/AI-assistance-coding-skills\n\n🙏...",
+          "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i2.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg"
         }
       ]
     }
