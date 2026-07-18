@@ -1,92 +1,92 @@
 {
-  "last_updated": "Friday, July 17, 2026 at 10:13 AM IST",
-  "last_updated_iso": "2026-07-17T10:13:32.611691",
+  "last_updated": "Saturday, July 18, 2026 at 09:57 AM IST",
+  "last_updated_iso": "2026-07-18T09:57:20.579809",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24246.25,
-        "change": 173.5,
-        "change_pct": 0.7207319479494448,
+        "price": 24334.3,
+        "change": 261.5499999999993,
+        "change_pct": 1.0864982189405004,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77750.56,
-        "change": 563.6900000000023,
-        "change_pct": 0.7302926002829269,
+        "price": 78151.45,
+        "change": 964.5800000000017,
+        "change_pct": 1.249668499318604,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57991.65,
-        "change": 409.40000000000146,
-        "change_pct": 0.7109829852081179,
+        "price": 58521.4,
+        "change": 939.1500000000015,
+        "change_pct": 1.6309713496780718,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Infosys",
-        "price": 1101.8,
-        "change": 19.399999999999864,
-        "change_pct": 1.7923133776792186,
+        "name": "TCS",
+        "price": 2269.0,
+        "change": 68.0,
+        "change_pct": 3.0895047705588365,
         "is_up": true
       },
       {
         "name": "Reliance",
-        "price": 1319.5,
-        "change": 22.90000000000009,
-        "change_pct": 1.7661576430664887,
+        "price": 1327.2,
+        "change": 30.600000000000136,
+        "change_pct": 2.3600185099491084,
         "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2230.4,
-        "change": 29.40000000000009,
-        "change_pct": 1.3357564743298542,
+        "name": "ICICI Bank",
+        "price": 1444.3,
+        "change": 26.09999999999991,
+        "change_pct": 1.8403610210125445,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Wipro",
-        "price": 175.78,
-        "change": -1.960000000000008,
-        "change_pct": -1.1027343310453515,
-        "is_up": false
-      },
-      {
-        "name": "Bharti Airtel",
-        "price": 1915.0,
-        "change": -6.7999999999999545,
-        "change_pct": -0.3538349464044102,
+        "price": 176.0,
+        "change": -1.740000000000009,
+        "change_pct": -0.9789580285810786,
         "is_up": false
       },
       {
         "name": "Sun Pharma",
-        "price": 1949.5,
-        "change": -0.599999999999909,
-        "change_pct": -0.030767652940870166,
+        "price": 1932.6,
+        "change": -17.5,
+        "change_pct": -0.8973898774421825,
+        "is_up": false
+      },
+      {
+        "name": "Bharti Airtel",
+        "price": 1908.8,
+        "change": -13.0,
+        "change_pct": -0.6764491622437299,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.3175,
-        "change": -0.017499999999998295,
-        "change_pct": -0.018165775678619708,
+        "price": 96.28,
+        "change": -0.05499999999999261,
+        "change_pct": -0.05709243784708841,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3989.1,
-        "change": -3.0,
-        "change_pct": -0.07514841812579845,
-        "is_up": false
+        "price": 4023.0,
+        "change": 30.90000000000009,
+        "change_pct": 0.7740287066957263,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-          "summary": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo....",
-          "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+          "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+          "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startu...",
+          "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
           "source": "TechCrunch"
         },
         {
-          "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-          "summary": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses....",
-          "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+          "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+          "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day....",
+          "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
           "source": "TechCrunch"
         },
         {
-          "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
+          "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
           "summary": "",
-          "link": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
+          "link": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
           "source": "The Verge"
         },
         {
-          "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
+          "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale",
+          "link": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
           "source": "The Verge"
         },
         {
-          "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-          "summary": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"...",
-          "link": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
+          "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+          "summary": "The FireSat program can spot wildfires that other satellites miss....",
+          "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
           "source": "Ars Technica"
         }
       ]
@@ -130,27 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "US Stock Market: Fed's Jefferson signals openness to rate hike if inflation stays elevated",
-          "summary": "Federal Reserve Vice Chair Philip Jefferson indicated potential interest rate hikes if inflation fails to improve. Current policy remains appropriate for now, supporting the labor ...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-feds-jefferson-signals-openness-to-rate-hike-if-inflation-stays-elevated/articleshow/132452307.cms",
+          "title": "D-Street bucks Asian markets' meltdown",
+          "summary": "The NSE’s Nifty 50 rose 261.55 points, or 1.1%, to close at 24,334.3, while the BSE Sensex gained 964.58 points, or 1.25%, to end at 78,151.45....",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-bucks-asian-markets-meltdown/articleshow/132473499.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: Japan reaffirms BOJ independence in economic blueprint after market jitters",
-          "summary": "Japan's government reaffirms the Bank of Japan's independent role in monetary policy decisions. This clarification addresses market concerns raised by an earlier draft of the econo...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-reaffirms-boj-independence-in-economic-blueprint-after-market-jitters/articleshow/132452181.cms",
+          "title": "Investors take to gold dip as Mideast war rages on",
+          "summary": "Gold prices are experiencing their steepest weekly decline in six weeks. This drop has encouraged investors to return to the yellow metal. Consumers are also returning to jewelry s...",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/investors-take-to-gold-dip-as-mideast-war-rages-on/articleshow/132473460.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Trump Media to launch paid Truth Social feed for Wall Street, banks and trading firms",
-          "summary": "Trump Media &amp;amp; Technology Group will launch a paid data feed, 'Truth API', offering banks and trading firms swift access to posts from influential users on Truth Social, inc...",
-          "link": "https://www.livemint.com/companies/news/trump-media-to-launch-paid-truth-social-feed-for-wall-street-banks-and-trading-firms-11784250692626.html",
-          "source": "Livemint Companies"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Adani, Reliance, Birla, Vedanta, Jindal among suitors for Odisha's prized Karlapat bauxite block",
-          "summary": "Adani Enterprises, Reliance Industries, Hindalco Industries, Vedanta Aluminium, Naveen Jindal-backed Powermech and state-run Coal India have purchased tender documents for Odisha’s...",
-          "link": "https://www.livemint.com/companies/adani-reliance-birla-vedanta-jindal-suitors-for-odisha-karlapat-bauxite-block-aluminium-11784201324841.html",
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "Reliance Retail bets on JioMart scale to drive margins, growth",
+          "summary": "Reliance Retail plans disciplined expansion of JioMart’s dark-store network, betting on higher order density and private labels to improve margins as competition in quick commerce ...",
+          "link": "https://www.livemint.com/companies/reliance-retail-bets-on-jiomart-scale-to-drive-margins-growth-11784303337087.html",
           "source": "Livemint Companies"
         }
       ]
@@ -159,21 +165,21 @@
       "color": "#16a34a",
       "items": [
         {
-          "title": "Sensors on surgeons helped J&J’s DePuy Synthes sell a new tool",
-          "summary": "It&#8217;s easy to understand how power tools make joint replacements easier for orthopedic surgeons, but how do you quantify the improvement of such an innovation with hard eviden...",
-          "link": "https://www.medicaldesignandoutsourcing.com/jnj-depuy-synthes-kincise-sensors-surgeons-fatigue/",
+          "title": "Why Microbot Medical thinks it can win the stroke telesurgery race",
+          "summary": "Microbot Medical says it has what it takes to win the race to treat stroke patients with a future version of its fully disposable, single-use endovascular navigation surgical robot...",
+          "link": "https://www.medicaldesignandoutsourcing.com/why-microbot-medical-thinks-it-can-win-the-stroke-telesurgery-race/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Identiv expands ID-Tiny HF tag portfolio",
-          "summary": "NEWS RELEASE: Identiv expands ID-Tiny HF tag portfolio to enable secure digital intelligence for ultra-compact applications Product family brings one of the industry’s broadest sel...",
-          "link": "https://www.medicaldesignandoutsourcing.com/identiv-expands-id-tiny-hf-tag-portfolio/",
+          "title": "Prosthetics developer Metacarpal seizes on reliability",
+          "summary": "After developing what he describes as the first multi-articulating, body-powered prosthetic hand, Metacarpal co-founder and CEO Fergal Mackie says he wants to solve what he sees as...",
+          "link": "https://www.medicaldesignandoutsourcing.com/metacarpal-gem-prosthetic-hand-fergal-mackie/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "DePuy Synthes expands spine portfolio after Expanding Innovations acquisition",
-          "summary": "Under the deal, DePuy Synthes will inherit Expanding Innovations' products including its interbody cage systems used in complex spinal surgery procedures. The post DePuy Synthes ex...",
-          "link": "https://www.medicaldevice-network.com/news/depuy-synthes-expands-spine-portfolio-after-expanding-innovations-acquisition/",
+          "title": "Meet the team that spend their days developing life-changing sensing technology",
+          "summary": "Meet Alleima’s award-winning team developing ultra-fine medical wire and sensor components for next-generation implantable and minimally invasive devices. The post Meet the team th...",
+          "link": "https://www.medicaldevice-network.com/sponsored/meet-the-team-that-spend-their-days-developing-life-changing-sensing-technology/",
           "source": "Medical Device Network"
         }
       ]
@@ -182,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "5 Books that will change your mindset in a weekend",
-          "summary": "Discover five powerful books you can read in a weekend that offer fresh perspectives on habits, mindset, purpose, and personal growth....",
-          "link": "https://yourstory.com/2026/06/books-change-mindset-weekend",
+          "title": "H2LooP is building AI coding tools for the software hidden inside hardware",
+          "summary": "The Bengaluru startup makes hardware-aware AI models for firmware and embedded systems, and has raised $2 million to take them into chips, cars and defence....",
+          "link": "https://yourstory.com/2026/07/h2loop-ai-embedded-software-coding",
           "source": "YourStory"
         },
         {
-          "title": "Neo Group raises Rs 350 Cr in funding led by Peak XV Partners",
-          "summary": "Neo Group will utilise the funding for investment into technology, expand advisory network and introduce new products....",
-          "link": "https://yourstory.com/2026/07/neo-group-rs-350-crore-funding-peak-xv-partners",
+          "title": "Paar Autonomy is building the eyes for India's drones, ground robots and boats",
+          "summary": "Founded by a former Asteria Aerospace product lead, the Bengaluru startup makes multi-sensor perception hardware and agentic AI for unmanned vehicles across air, land and sea....",
+          "link": "https://yourstory.com/2026/07/paar-autonomy-vision-indian-drones-robots",
           "source": "YourStory"
         },
         {
-          "title": "JFS’ Profitability Flex, Reo.Dev Bags $11 Mn & More",
-          "summary": "Jio Financial Services’ Bumper Q1 It was a profitable Q1 for Jio Financial Services. Buoyed by a humming lending engine&#8230;...",
-          "link": "https://inc42.com/buzz/jfs-profitability-flex-reo-dev-bags-11-mn-more/",
+          "title": "Reliance Retail’s EBITDA Erodes In Q1 Amid Q-Comm Expansion",
+          "summary": "Quick commerce expansion loomed heavily over Reliance Retail Ventures Ltd. (RRVL) as the retail giant’s EBITDA margin declined 80 basis&#8230;...",
+          "link": "https://inc42.com/buzz/reliance-retails-ebitda-erodes-in-q1-amid-q-comm-expansion/",
           "source": "Inc42"
         }
       ]
@@ -205,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "July 2026 issue: Stretchable sensor turns muscle signals into motion",
-          "summary": "As shown on the cover, the July 2026 issue of Design World examines a stretchable sensor from Michigan State University that boosted gesture-recognition accuracy in older adults fr...",
-          "link": "https://www.designworldonline.com/july-2026-issue-stretchable-sensor-turns-muscle-signals-into-motion/",
+          "title": "Can AI be energy efficient for manufacturers?",
+          "summary": "At last month’s Advantech Edge AI Conference in Taipei, Linda Tsai, the company’s President of Intelligent System Sector &#38; COO, spoke to media members about a broad range of to...",
+          "link": "https://www.designworldonline.com/can-ai-be-energy-efficient-for-manufacturers/",
           "source": "Design World"
         },
         {
-          "title": "Beyond the single throat: Rethinking venturi design through internal geometry",
-          "summary": "Learn how distributing the effect across multiple choke regions changed the expected relationship between suction and outflow behavior. By Sarabeth Vandegrift and Gideon Vandegrift...",
-          "link": "https://www.designworldonline.com/beyond-the-single-throat-rethinking-venturi-design-through-internal-geometry/",
+          "title": "Carlo Gavazzi introduces DRC61 insulation monitor",
+          "summary": "Carlo Gavazzi Automation, an international electronics group that designs, manufactures and markets electronic equipment, introduced the DRC61 Series, an insulation monitoring devi...",
+          "link": "https://www.designworldonline.com/carlo-gavazzi-introduces-drc61-insulation-monitor/",
           "source": "Design World"
         }
       ]
