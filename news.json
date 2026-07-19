@@ -1,6 +1,6 @@
 {
-  "last_updated": "Saturday, July 18, 2026 at 09:57 AM IST",
-  "last_updated_iso": "2026-07-18T09:57:20.579809",
+  "last_updated": "Sunday, July 19, 2026 at 10:20 AM IST",
+  "last_updated_iso": "2026-07-19T10:20:42.555616",
   "market": {
     "indices": [
       {
@@ -83,9 +83,9 @@
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4023.0,
-        "change": 30.90000000000009,
-        "change_pct": 0.7740287066957263,
+        "price": 4018.8,
+        "change": 26.700000000000273,
+        "change_pct": 0.668820921319613,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-          "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startu...",
-          "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+          "title": "Waymo says San Francisco service has resumed after one-hour pause",
+          "summary": "This isn’t the first time power outages have caused issues for Waymo....",
+          "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
           "source": "TechCrunch"
         },
         {
-          "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-          "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day....",
-          "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+          "title": "Kimi: Threat or menace?",
+          "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"...",
+          "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
           "source": "TechCrunch"
         },
         {
-          "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+          "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
           "summary": "",
-          "link": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
           "source": "The Verge"
         },
         {
-          "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
+          "title": "Google might not kneecap the Pixel 11a with an old processor",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
+          "link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
           "source": "The Verge"
         },
         {
-          "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-          "summary": "The FireSat program can spot wildfires that other satellites miss....",
-          "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+          "title": "Will AI fix prior authorization—or make it worse?",
+          "summary": "The government is piloting a program that uses AI for insurance-coverage decisions....",
+          "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "D-Street bucks Asian markets' meltdown",
-          "summary": "The NSE’s Nifty 50 rose 261.55 points, or 1.1%, to close at 24,334.3, while the BSE Sensex gained 964.58 points, or 1.25%, to end at 78,151.45....",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-bucks-asian-markets-meltdown/articleshow/132473499.cms",
+          "title": "Q1 earnings this week: Infosys, Eternal, Bajaj Auto among 256 companies set to announce June quarter results",
+          "summary": "The Q1 FY27 earnings season gathers momentum this week, with 256 companies scheduled to announce their April-June quarter results. Key names include Infosys, Eternal, Bajaj Auto, U...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-earnings-this-week-infosys-eternal-bajaj-auto-among-256-companies-set-to-announce-june-quarter-results/articleshow/132489828.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Investors take to gold dip as Mideast war rages on",
-          "summary": "Gold prices are experiencing their steepest weekly decline in six weeks. This drop has encouraged investors to return to the yellow metal. Consumers are also returning to jewelry s...",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/investors-take-to-gold-dip-as-mideast-war-rages-on/articleshow/132473460.cms",
+          "title": "These 9 penny stocks rallied up to 360% in 6 months; 4 turned multibaggers",
+          "summary": "These stocks were identified using specific filters: a market capitalisation below Rs 1,000 crore, a share price under Rs 20, and a minimum average trading volume of 5 lakh shares....",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/these-9-penny-stocks-rallied-up-to-360-in-6-months-4-turned-multibaggers/slideshow/132489826.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Reliance Retail bets on JioMart scale to drive margins, growth",
-          "summary": "Reliance Retail plans disciplined expansion of JioMart’s dark-store network, betting on higher order density and private labels to improve margins as competition in quick commerce ...",
-          "link": "https://www.livemint.com/companies/reliance-retail-bets-on-jiomart-scale-to-drive-margins-growth-11784303337087.html",
+          "title": "After a decade of falling behind, UTI AMC begins its turnaround under a new chief",
+          "summary": "Subramaniam, who took charge in February ahead of the annual planning cycle, likens his career to football—having progressed from team captain as head of equities to manager as chi...",
+          "link": "https://www.livemint.com/companies/uti-amc-turnaround-strategy-vetri-subramaniam-growth-plan-mfs-funds-11784186187143.html",
           "source": "Livemint Companies"
         }
       ]
@@ -194,15 +194,15 @@
           "source": "YourStory"
         },
         {
-          "title": "Paar Autonomy is building the eyes for India's drones, ground robots and boats",
-          "summary": "Founded by a former Asteria Aerospace product lead, the Bengaluru startup makes multi-sensor perception hardware and agentic AI for unmanned vehicles across air, land and sea....",
-          "link": "https://yourstory.com/2026/07/paar-autonomy-vision-indian-drones-robots",
+          "title": "Armory first built a counter-drone system in six months, and now it has a Rs 100 crore defence order",
+          "summary": "The Gurugram-based startup's AI-powered system SURGE detects, tracks and neutralises rogue drones, and has become one of the youngest Indian defence firms to win a nine-figure Mini...",
+          "link": "https://yourstory.com/2026/07/armory-rs-100-crore-defence-order",
           "source": "YourStory"
         },
         {
-          "title": "Reliance Retail’s EBITDA Erodes In Q1 Amid Q-Comm Expansion",
-          "summary": "Quick commerce expansion loomed heavily over Reliance Retail Ventures Ltd. (RRVL) as the retail giant’s EBITDA margin declined 80 basis&#8230;...",
-          "link": "https://inc42.com/buzz/reliance-retails-ebitda-erodes-in-q1-amid-q-comm-expansion/",
+          "title": "Meet The 50 D2C Brands From D2CX By Inc42’s 8th Cohort",
+          "summary": "Saturation doesn&#8217;t seem to be a concern that plagues India&#8217;s D2C boom. What began as a handful of digital-first brands&#8230;...",
+          "link": "https://inc42.com/startups/meet-the-50-d2c-brands-from-d2cx-by-inc42s-8th-cohort/",
           "source": "Inc42"
         }
       ]
