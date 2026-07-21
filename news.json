@@ -1,91 +1,91 @@
 {
-  "last_updated": "Monday, July 20, 2026 at 10:37 AM IST",
-  "last_updated_iso": "2026-07-20T10:37:44.797181",
+  "last_updated": "Tuesday, July 21, 2026 at 10:19 AM IST",
+  "last_updated_iso": "2026-07-21T10:19:02.695708",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24217.65,
-        "change": -116.64999999999782,
-        "change_pct": -0.47936451839583555,
+        "price": 24208.6,
+        "change": -29.900000000001455,
+        "change_pct": -0.12335746849021785,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 77683.06,
-        "change": -468.3899999999994,
-        "change_pct": -0.5993362887060949,
+        "price": 77600.66,
+        "change": -107.86000000000058,
+        "change_pct": -0.13880073896659026,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57746.05,
-        "change": -775.3499999999985,
-        "change_pct": -1.3248999511289863,
-        "is_up": false
+        "price": 57962.5,
+        "change": 17.5,
+        "change_pct": 0.030201052722409184,
+        "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "Bharti Airtel",
-        "price": 1932.0,
-        "change": 23.200000000000045,
-        "change_pct": 1.2154233025984937,
+        "price": 1948.7,
+        "change": 8.600000000000136,
+        "change_pct": 0.4432761197876469,
         "is_up": true
       },
       {
         "name": "ICICI Bank",
-        "price": 1457.8,
-        "change": 13.5,
-        "change_pct": 0.9347088555009347,
-        "is_up": true
+        "price": 1458.5,
+        "change": -1.7000000000000455,
+        "change_pct": -0.11642240788933335,
+        "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1943.2,
-        "change": 10.600000000000136,
-        "change_pct": 0.5484839076891306,
-        "is_up": true
+        "name": "L&T",
+        "price": 3833.6,
+        "change": -5.200000000000273,
+        "change_pct": -0.13545899760342484,
+        "is_up": false
       }
     ],
     "losers": [
       {
         "name": "HDFC Bank",
-        "price": 783.55,
-        "change": -36.05000000000007,
-        "change_pct": -4.398487066861892,
+        "price": 768.2,
+        "change": -9.399999999999977,
+        "change_pct": -1.2088477366255115,
         "is_up": false
       },
       {
         "name": "Maruti",
-        "price": 13611.0,
-        "change": -192.0,
-        "change_pct": -1.3910019560965008,
+        "price": 13404.0,
+        "change": -110.0,
+        "change_pct": -0.813970697054906,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2259.7,
-        "change": -9.300000000000182,
-        "change_pct": -0.4098721903922513,
+        "name": "Infosys",
+        "price": 1080.0,
+        "change": -7.099999999999909,
+        "change_pct": -0.6531137889798464,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.445,
-        "change": 0.17499999999999716,
-        "change_pct": 0.1817804092656042,
-        "is_up": true
+        "price": 96.33,
+        "change": -0.10500000000000398,
+        "change_pct": -0.1088816301135521,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4023.5,
-        "change": 4.699999999999818,
-        "change_pct": 0.116950333432861,
+        "price": 4050.8,
+        "change": 34.90000000000009,
+        "change_pct": 0.8690455439627502,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-          "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck....",
-          "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+          "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+          "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models....",
+          "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
           "source": "TechCrunch"
         },
         {
-          "title": "What to watch for after Jensen Huang’s Japan visit",
-          "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem....",
-          "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+          "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+          "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report....",
+          "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
           "source": "TechCrunch"
         },
         {
-          "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+          "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+          "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
           "source": "The Verge"
         },
         {
-          "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+          "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+          "link": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
           "source": "The Verge"
         },
         {
-          "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-          "summary": "\"On the first attempt, reaching orbit, I never thought it was possible.\"...",
-          "link": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+          "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
+          "summary": "Pennsylvania cop charged with oppression and obstruction....",
+          "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "SBI Funds Management IPO listing tomorrow: GMP signals 18% listing gain",
-          "summary": "SBI Funds Management is set to debut on the NSE and BSE on July 21, with the grey market indicating an around 18% listing premium over the IPO price. The Rs 9,813-crore IPO attract...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-management-ipo-listing-tomorrow-gmp-signals-18-listing-gain/articleshow/132506401.cms",
+          "title": "Global Market:  Japan's Nikkei rebounds as bargain buying lifts stocks after sharp weekly selloff",
+          "summary": "Japan's Nikkei share average advanced on Tuesday, recovering from last week's steep slide. Investors bought beaten-down stocks after a market holiday, boosting the index. Global se...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rebounds-as-bargain-buying-lifts-stocks-after-sharp-weekly-selloff/articleshow/132527660.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Kotak Mahindra Bank shares fall over 3% after Q1 earnings. What are Motilal Oswal, other brokerages saying?",
-          "summary": "Kotak Mahindra Bank shares fell after reporting a strong profit increase for the first quarter. Net profit rose 26% year-on-year, and net interest income also saw growth. Asset qua...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-fall-over-3-after-q1-earnings-what-are-motilal-oswal-other-brokerages-saying/articleshow/132506336.cms",
+          "title": "Cause for concern? HDFC Bank is lagging ICICI Bank where it matters as investors count Rs 5 lakh crore loss",
+          "summary": "HDFC Bank's stock has declined significantly this year, losing considerable investor value. Analysts note a widening operating gap between HDFC Bank and ICICI Bank. Margins are und...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cause-for-concern-hdfc-bank-is-lagging-icici-bank-where-it-matters-as-investors-count-rs-5-lakh-crore-loss/articleshow/132527749.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Cleartrip aims for profitability by FY27 end as it cuts back on discounts",
-          "summary": "The Flipkart-owned OTA is diversifying into hotels, trains and buses, and leaning on premiumisation and its parent’s ecosystem to improve margins ahead of a profitability target....",
-          "link": "https://www.livemint.com/companies/news/cleartrip-aims-for-profitability-by-fy27-end-as-it-cuts-back-on-discounts-11784446717450.html",
+          "title": "Transition VC targets  ₹1,500 crore for second energy-focused fund",
+          "summary": "The second fund is nearly double the size of Transition VC's maiden ₹800 crore (around $77 million) investment vehicle....",
+          "link": "https://www.livemint.com/companies/news/transition-vc-second-fund-energy-startups-clean-energy-india-11784538745918.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Meet the team that spend their days developing life-changing sensing technology",
-          "summary": "Meet Alleima’s award-winning team developing ultra-fine medical wire and sensor components for next-generation implantable and minimally invasive devices. The post Meet the team th...",
-          "link": "https://www.medicaldevice-network.com/sponsored/meet-the-team-that-spend-their-days-developing-life-changing-sensing-technology/",
+          "title": "GE HealthCare launches remote MIM workflow access tool",
+          "summary": "GE HealthCare's tool is intended to streamline imaging workflow collaboration between different specialist teams in areas such as oncology. The post GE HealthCare launches remote M...",
+          "link": "https://www.medicaldevice-network.com/news/ge-healthcare-launches-remote-mim-workflow-access-tool/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Making India ‘food wise’; AI lifts VC inflow in startup ecosystem",
-          "summary": "Foodwize's B2B segment, Foodwize Ignite, helps chefs, hospitality professionals, and businesses embed sustainability into their food practices....",
-          "link": "https://yourstory.com/2026/07/making-india-food-wise-venture-funding",
+          "title": "7 Books that teach you how to become less judgmental",
+          "summary": "Discover seven insightful books that encourage empathy, open-mindedness, and a deeper understanding of people and their choices....",
+          "link": "https://yourstory.com/2026/07/books-teach-become-less-judgmental",
           "source": "YourStory"
         },
         {
-          "title": "Education, AI, health: test your business creativity with Edition 241 of our weekly quiz!",
-          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 241st quiz. Ready?...",
-          "link": "https://yourstory.com/2026/07/education-ai-health-business-creativity-entrepreneur-quiz",
+          "title": "5 Books that explain our need for approval and validation",
+          "summary": "Discover 5 insightful books that explain why we seek approval and validation, and learn how self-worth, confidence, and authentic living are built....",
+          "link": "https://yourstory.com/2026/06/books-reveal-seek-approval",
           "source": "YourStory"
         },
         {
-          "title": "Why Groww Wants To Be Everything At Once",
-          "summary": "As India&#8217;s largest stockbroker expands into wealth management, AI, global investing, lending and asset management, the next question is whether&#8230;...",
-          "link": "https://inc42.com/features/why-groww-wants-to-be-everything-at-once/",
+          "title": "Paytm’s Q1 Show, NVIDIA’s New GPU Game Plan & More",
+          "summary": "Paytm Posts A Stellar Q1 Buoyed by strong revenue growth, healthy margins, operating leverage and resurgent payments and financial services&#8230;...",
+          "link": "https://inc42.com/buzz/paytms-q1-show-nvidias-new-gpu-game-plan-more/",
           "source": "Inc42"
         }
       ]
@@ -211,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Can AI be energy efficient for manufacturers?",
-          "summary": "At last month’s Advantech Edge AI Conference in Taipei, Linda Tsai, the company’s President of Intelligent System Sector &#38; COO, spoke to media members about a broad range of to...",
-          "link": "https://www.designworldonline.com/can-ai-be-energy-efficient-for-manufacturers/",
+          "title": "Technical thinking: Backyard laser weaponry",
+          "summary": "By Mark Jones I’m a bit surprised this didn’t get more press. We’ve crossed a long-promised threshold. For the first time, laser weapons were successfully deployed in combat to dow...",
+          "link": "https://www.designworldonline.com/backyard-laser-weaponry/",
           "source": "Design World"
         },
         {
-          "title": "Carlo Gavazzi introduces DRC61 insulation monitor",
-          "summary": "Carlo Gavazzi Automation, an international electronics group that designs, manufactures and markets electronic equipment, introduced the DRC61 Series, an insulation monitoring devi...",
-          "link": "https://www.designworldonline.com/carlo-gavazzi-introduces-drc61-insulation-monitor/",
+          "title": "AutomationDirect adds thermal overload relays",
+          "summary": "AutomationDirect now offers Fuji Electric TK‑E02 series thermal overload relays, expanding the TK‑E lineup for smaller motors and lower-current applications. The relays are designe...",
+          "link": "https://www.designworldonline.com/automationdirect-adds-thermal-overload-relays/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "iOS 27 Hands-On: Top 5 New Features!",
-          "summary": "First look at iOS 27 - coming soon to an iPhone near you. It's about time.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitt...",
-          "link": "https://www.youtube.com/watch?v=_oRgdlJUD18",
-          "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/_oRgdlJUD18/hqdefault.jpg"
-        },
-        {
-          "title": "Claude Just Revealed AI's Biggest Problem",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/AI-assistance-coding-skills\n\n🙏...",
-          "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg"
         }
       ]
     }
