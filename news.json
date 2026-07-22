@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, July 21, 2026 at 10:19 AM IST",
-  "last_updated_iso": "2026-07-21T10:19:02.695708",
+  "last_updated": "Wednesday, July 22, 2026 at 10:18 AM IST",
+  "last_updated_iso": "2026-07-22T10:18:55.925709",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24208.6,
-        "change": -29.900000000001455,
-        "change_pct": -0.12335746849021785,
+        "price": 24022.05,
+        "change": -165.65000000000146,
+        "change_pct": -0.6848522182762373,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 77600.66,
-        "change": -107.86000000000058,
-        "change_pct": -0.13880073896659026,
+        "price": 76909.0,
+        "change": -561.1100000000006,
+        "change_pct": -0.7242922463902537,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57962.5,
-        "change": 17.5,
-        "change_pct": 0.030201052722409184,
-        "is_up": true
+        "price": 57309.6,
+        "change": -525.75,
+        "change_pct": -0.9090461110722077,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1948.7,
-        "change": 8.600000000000136,
-        "change_pct": 0.4432761197876469,
+        "name": "Maruti",
+        "price": 13601.0,
+        "change": 4.0,
+        "change_pct": 0.02941825402662352,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1458.5,
-        "change": -1.7000000000000455,
-        "change_pct": -0.11642240788933335,
+        "name": "Bharti Airtel",
+        "price": 1944.6,
+        "change": -3.800000000000182,
+        "change_pct": -0.19503182098132732,
         "is_up": false
       },
       {
-        "name": "L&T",
-        "price": 3833.6,
-        "change": -5.200000000000273,
-        "change_pct": -0.13545899760342484,
+        "name": "Wipro",
+        "price": 174.52,
+        "change": -0.44999999999998863,
+        "change_pct": -0.2571869463336507,
         "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "HDFC Bank",
-        "price": 768.2,
-        "change": -9.399999999999977,
-        "change_pct": -1.2088477366255115,
-        "is_up": false
-      },
-      {
-        "name": "Maruti",
-        "price": 13404.0,
-        "change": -110.0,
-        "change_pct": -0.813970697054906,
+        "name": "Sun Pharma",
+        "price": 1937.7,
+        "change": -24.200000000000045,
+        "change_pct": -1.2334981395585933,
         "is_up": false
       },
       {
         "name": "Infosys",
-        "price": 1080.0,
-        "change": -7.099999999999909,
-        "change_pct": -0.6531137889798464,
+        "price": 1062.4,
+        "change": -11.099999999999909,
+        "change_pct": -1.0340009315323622,
+        "is_up": false
+      },
+      {
+        "name": "HDFC Bank",
+        "price": 753.8,
+        "change": -7.650000000000091,
+        "change_pct": -1.0046621577254042,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.33,
-        "change": -0.10500000000000398,
-        "change_pct": -0.1088816301135521,
-        "is_up": false
+        "price": 96.4125,
+        "change": 0.1875,
+        "change_pct": 0.19485580670303976,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4050.8,
-        "change": 34.90000000000009,
-        "change_pct": 0.8690455439627502,
+        "price": 4131.1,
+        "change": 54.70000000000027,
+        "change_pct": 1.341870277696013,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-          "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models....",
-          "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+          "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+          "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor....",
+          "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
           "source": "TechCrunch"
         },
         {
-          "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
-          "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report....",
-          "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+          "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+          "summary": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago....",
+          "link": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
           "source": "TechCrunch"
         },
         {
-          "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+          "title": "Samsung Galaxy Unpacked July 2026: How to watch",
           "summary": "",
-          "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+          "link": "https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch",
           "source": "The Verge"
         },
         {
-          "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
+          "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
           "summary": "",
-          "link": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
+          "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
           "source": "The Verge"
         },
         {
-          "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
-          "summary": "Pennsylvania cop charged with oppression and obstruction....",
-          "link": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
+          "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
+          "summary": "The Range Rover GT will debut as an EV with a hybrid version to follow....",
+          "link": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market:  Japan's Nikkei rebounds as bargain buying lifts stocks after sharp weekly selloff",
-          "summary": "Japan's Nikkei share average advanced on Tuesday, recovering from last week's steep slide. Investors bought beaten-down stocks after a market holiday, boosting the index. Global se...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rebounds-as-bargain-buying-lifts-stocks-after-sharp-weekly-selloff/articleshow/132527660.cms",
+          "title": "Bandhan Bank shares crash 10% after Q1 results, RoA guidance cut. Time to sell?",
+          "summary": "Bandhan Bank shares hit the 10% lower circuit after the lender cut its RoA guidance, overshadowing a 35% year-on-year rise in Q1FY27 net profit. Motilal Oswal downgraded the stock ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-shares-crash-10-after-q1-results-roa-guidance-cut-time-to-sell/articleshow/132551123.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Cause for concern? HDFC Bank is lagging ICICI Bank where it matters as investors count Rs 5 lakh crore loss",
-          "summary": "HDFC Bank's stock has declined significantly this year, losing considerable investor value. Analysts note a widening operating gap between HDFC Bank and ICICI Bank. Margins are und...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cause-for-concern-hdfc-bank-is-lagging-icici-bank-where-it-matters-as-investors-count-rs-5-lakh-crore-loss/articleshow/132527749.cms",
+          "title": "Q1 Results today: Eternal, Nestle, IndusInd Bank among 63 companies announcing June earnings. What to expect?",
+          "summary": "A packed earnings day awaits Dalal Street, with Eternal, Nestlé India, IndusInd Bank and over 250 companies set to report June quarter results. Investors will also track BPCL, HPCL...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-results-today-eternal-nestle-indusind-bank-among-63-companies-announcing-june-earnings-what-to-expect/articleshow/132551062.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Transition VC targets  ₹1,500 crore for second energy-focused fund",
-          "summary": "The second fund is nearly double the size of Transition VC's maiden ₹800 crore (around $77 million) investment vehicle....",
-          "link": "https://www.livemint.com/companies/news/transition-vc-second-fund-energy-startups-clean-energy-india-11784538745918.html",
+          "title": "IndiGo Q1 results preview: Market share gains, higher costs and the Walsh transition in focus",
+          "summary": "Market share gains, rising costs, engine strategy and incoming CEO William Walsh will dominate investor focus as IndiGo reports June-quarter earnings ahead of its next phase of gro...",
+          "link": "https://www.livemint.com/companies/indigo-q1fy27-willie-walsh-aviation-airline-earnings-domestic-market-share-international-expansion-11784683173802.html",
           "source": "Livemint Companies"
         }
       ]
@@ -165,21 +165,21 @@
       "color": "#16a34a",
       "items": [
         {
-          "title": "Why Microbot Medical thinks it can win the stroke telesurgery race",
-          "summary": "Microbot Medical says it has what it takes to win the race to treat stroke patients with a future version of its fully disposable, single-use endovascular navigation surgical robot...",
-          "link": "https://www.medicaldesignandoutsourcing.com/why-microbot-medical-thinks-it-can-win-the-stroke-telesurgery-race/",
+          "title": "AI is moving inside the device. Who owns the clinical risk?",
+          "summary": "Tips to mitigate the risk that medtech teams keep leaving unowned as artificial intelligence moves into Class II and III medical devices. By Dr. Sarah Matt, Vital Werks By the time...",
+          "link": "https://www.medicaldesignandoutsourcing.com/ai-is-moving-inside-the-device-who-owns-the-clinical-risk/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Prosthetics developer Metacarpal seizes on reliability",
-          "summary": "After developing what he describes as the first multi-articulating, body-powered prosthetic hand, Metacarpal co-founder and CEO Fergal Mackie says he wants to solve what he sees as...",
-          "link": "https://www.medicaldesignandoutsourcing.com/metacarpal-gem-prosthetic-hand-fergal-mackie/",
+          "title": "Medtech CDMO Aptyx names new CEO",
+          "summary": "Aptyx has promoted CFO David Price to the role of CEO effective immediately, succeeding former Aptyx CEO Gregg Tobin. Price joined the Tempe, Arizona-based medical device contract ...",
+          "link": "https://www.medicaldesignandoutsourcing.com/aptyx-promotes-david-price-ceo/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "GE HealthCare launches remote MIM workflow access tool",
-          "summary": "GE HealthCare's tool is intended to streamline imaging workflow collaboration between different specialist teams in areas such as oncology. The post GE HealthCare launches remote M...",
-          "link": "https://www.medicaldevice-network.com/news/ge-healthcare-launches-remote-mim-workflow-access-tool/",
+          "title": "Cardinal Health makes acquisition duo worth $360m for home care business advance",
+          "summary": "Cardinal Health’s acquisitions of Strive Medical and Adapt Health’s diabetes unit are collectively intended to support its at-home care business’s growth strategy. The post Cardina...",
+          "link": "https://www.medicaldevice-network.com/news/cardinal-health-makes-acquisition-duo-worth-360m-for-home-care-business-advance/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "7 Books that teach you how to become less judgmental",
-          "summary": "Discover seven insightful books that encourage empathy, open-mindedness, and a deeper understanding of people and their choices....",
-          "link": "https://yourstory.com/2026/07/books-teach-become-less-judgmental",
+          "title": "When data speaks your language: How Gemini Enterprise is helping businesses move faster",
+          "summary": "Most business leaders know that AI can help them make decisions faster. Far fewer know where to actually start. At the grand finale of MSME Sparks 2026, Google Cloud's Nikhila Gudi...",
+          "link": "https://yourstory.com/2026/07/when-data-speaks-your-language-how-gemini-enterprise-is-helping-businesses-move-faster",
           "source": "YourStory"
         },
         {
-          "title": "5 Books that explain our need for approval and validation",
-          "summary": "Discover 5 insightful books that explain why we seek approval and validation, and learn how self-worth, confidence, and authentic living are built....",
-          "link": "https://yourstory.com/2026/06/books-reveal-seek-approval",
+          "title": "Waste is a resource, not a liability: Wilma Rodrigues of Saahas Zero Waste",
+          "summary": "At MSME Sparks 2026, Wilma Rodrigues, Chief Transformation Officer at Saahas Zero Waste, explained why circular business models will define the next decade of waste management in I...",
+          "link": "https://yourstory.com/2026/07/waste-resource-not-liability-wilma-rodrigues-saahas-zero-waste",
           "source": "YourStory"
         },
         {
-          "title": "Paytm’s Q1 Show, NVIDIA’s New GPU Game Plan & More",
-          "summary": "Paytm Posts A Stellar Q1 Buoyed by strong revenue growth, healthy margins, operating leverage and resurgent payments and financial services&#8230;...",
-          "link": "https://inc42.com/buzz/paytms-q1-show-nvidias-new-gpu-game-plan-more/",
+          "title": "Beyond Broking: How Zerodha Is Restacking Its Revenue Pyramid",
+          "summary": "Zerodha made a name for itself by letting investors easily invest in the stock market and mutual funds. But now&#8230;...",
+          "link": "https://inc42.com/features/beyond-broking-how-zerodha-is-restacking-its-revenue-pyramid/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +211,35 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Technical thinking: Backyard laser weaponry",
-          "summary": "By Mark Jones I’m a bit surprised this didn’t get more press. We’ve crossed a long-promised threshold. For the first time, laser weapons were successfully deployed in combat to dow...",
-          "link": "https://www.designworldonline.com/backyard-laser-weaponry/",
-          "source": "Design World"
+          "title": "Humanoid robots aren’t coming for your automation; they’re coming for everything else",
+          "summary": "This column is an acknowledgement that ingenuity will often find its utility. The post Humanoid robots aren&#8217;t coming for your automation; they&#8217;re coming for everything ...",
+          "link": "https://www.engineering.com/humanoid-robots-arent-coming-for-your-automation-theyre-coming-for-everything-else/",
+          "source": "Engineering.com"
         },
         {
-          "title": "AutomationDirect adds thermal overload relays",
-          "summary": "AutomationDirect now offers Fuji Electric TK‑E02 series thermal overload relays, expanding the TK‑E lineup for smaller motors and lower-current applications. The relays are designe...",
-          "link": "https://www.designworldonline.com/automationdirect-adds-thermal-overload-relays/",
-          "source": "Design World"
+          "title": "Siemens to acquire Precision Innovations",
+          "summary": "The deal would add AI chip planning tools built on OpenROAD for SoC feasibility analysis and design exploration. The post Siemens to acquire Precision Innovations appeared first on...",
+          "link": "https://www.engineering.com/siemens-to-acquire-precision-innovations/",
+          "source": "Engineering.com"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "This ZOOM is Insane!",
+          "summary": "Keep zooming. Keep zooming....",
+          "link": "https://www.youtube.com/shorts/kUnR9dO4EnA",
+          "source": "MKBHD",
+          "thumbnail": "https://i4.ytimg.com/vi/kUnR9dO4EnA/hqdefault.jpg"
+        },
+        {
+          "title": "Claude Just Revealed AI's Biggest Problem",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/AI-assistance-coding-skills\n\n🙏...",
+          "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i2.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg"
         }
       ]
     }
