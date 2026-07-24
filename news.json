@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, July 23, 2026 at 10:23 AM IST",
-  "last_updated_iso": "2026-07-23T10:23:41.361723",
+  "last_updated": "Friday, July 24, 2026 at 10:20 AM IST",
+  "last_updated_iso": "2026-07-24T10:20:09.506118",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23947.15,
-        "change": -49.099999999998545,
-        "change_pct": -0.20461530447465145,
+        "price": 23610.85,
+        "change": -258.75,
+        "change_pct": -1.084014813821765,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 76607.27,
-        "change": -147.77999999999884,
-        "change_pct": -0.1925345628724088,
+        "price": 75554.38,
+        "change": -837.0099999999948,
+        "change_pct": -1.095686307056325,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 56827.95,
-        "change": -298.8500000000058,
-        "change_pct": -0.5231345007947334,
+        "price": 56105.55,
+        "change": -486.4499999999971,
+        "change_pct": -0.8595737913485955,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "L&T",
-        "price": 3825.0,
-        "change": 7.599999999999909,
-        "change_pct": 0.199088384764497,
-        "is_up": true
-      },
-      {
         "name": "TCS",
-        "price": 2211.8,
-        "change": 3.5,
-        "change_pct": 0.1584929583842775,
+        "price": 2243.1,
+        "change": 0.1999999999998181,
+        "change_pct": 0.008917027063169027,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 174.67,
-        "change": 0.22999999999998977,
-        "change_pct": 0.13185049300618537,
-        "is_up": true
+        "name": "Sun Pharma",
+        "price": 1950.0,
+        "change": -4.0,
+        "change_pct": -0.2047082906857728,
+        "is_up": false
+      },
+      {
+        "name": "Reliance",
+        "price": 1269.2,
+        "change": -3.0,
+        "change_pct": -0.2358119792485458,
+        "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1042.7,
-        "change": -9.399999999999864,
-        "change_pct": -0.8934511928523776,
-        "is_up": false
-      },
-      {
-        "name": "HDFC Bank",
-        "price": 746.55,
-        "change": -6.600000000000023,
-        "change_pct": -0.8763194582752469,
-        "is_up": false
-      },
-      {
         "name": "Bharti Airtel",
-        "price": 1934.8,
-        "change": -14.200000000000045,
-        "change_pct": -0.7285787583376113,
+        "price": 1881.6,
+        "change": -49.40000000000009,
+        "change_pct": -2.5582599689280214,
+        "is_up": false
+      },
+      {
+        "name": "L&T",
+        "price": 3721.0,
+        "change": -71.40000000000009,
+        "change_pct": -1.882712794009073,
+        "is_up": false
+      },
+      {
+        "name": "Infosys",
+        "price": 1030.7,
+        "change": -16.700000000000045,
+        "change_pct": -1.5944242887149174,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.5225,
-        "change": -0.032500000000013074,
-        "change_pct": -0.03365957226452599,
+        "price": 96.525,
+        "change": -0.0379999999999967,
+        "change_pct": -0.0393525470418242,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4126.3,
-        "change": -25.599999999999454,
-        "change_pct": -0.6165851778703596,
+        "price": 4029.5,
+        "change": -20.699999999999818,
+        "change_pct": -0.5110858723025978,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-          "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily....",
-          "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+          "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+          "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their ...",
+          "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
           "source": "TechCrunch"
         },
         {
-          "title": "Google justifies its massive AI spending with a booming cloud business",
-          "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits....",
-          "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+          "title": "Meet the judges who will crown Australia’s next breakout startup",
+          "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups....",
+          "link": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
           "source": "TechCrunch"
         },
         {
-          "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
+          "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
+          "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
           "source": "The Verge"
         },
         {
-          "title": "Meta won’t have to face the next planned social media addiction trial",
+          "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
           "summary": "",
-          "link": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
+          "link": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
           "source": "The Verge"
         },
         {
-          "title": "Sales were up at Tesla but so were costs and spending",
-          "summary": "Q2 2026 was profitable, but barely....",
-          "link": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
+          "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+          "summary": "App is installed through Windows Update when certain LG monitors connect to a PC....",
+          "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Up to 451% return in 6 months! 11 smallcap stocks turn multibaggers as FIIs raise stakes for 2 straight quarters",
-          "summary": "11 smallcaps have at least doubled in six months, led by Sterlite Technologies' 451% jump, as FIIs raised stakes across the March and June 2026 quarters. The parallel rise signals ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/up-to-451-return-in-6-months-11-smallcap-stocks-turn-multibaggers-as-fiis-raise-stakes-for-2-straight-quarters/articleshow/132571826.cms",
+          "title": "RBI intervention blunts oil surge, shores up rupee",
+          "summary": "The Reserve Bank of India intervened by selling dollars to prevent the rupee from reaching a record low. Surging oil prices and declining stock markets are currently pressuring the...",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-blunts-oil-surge-shores-up-rupee/articleshow/132596478.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Dr Reddy’s shares crack 9% after weak Q1; these 3 brokerages slash their target prices",
-          "summary": "Dr Reddy’s shares plunged 9% on Thursday after the drugmaker reported a weak Q1 FY27 performance, with net profit tumbling 69% year-on-year to Rs 443 crore and revenue declining 6%...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dr-reddys-shares-crash-9-after-weak-q1-results-heres-why-these-3-brokerages-are-bearish/articleshow/132571767.cms",
+          "title": "Caliber Mining and Logistics shares list at 19% premium over IPO price on BSE",
+          "summary": "Caliber Mining &amp; Logistics shares debuted nearly 19% above their IPO price on Friday, beating grey market expectations. The Rs 450 crore issue was subscribed 156.63 times, driv...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/caliber-mining-and-logistics-shares-list-at-19-premium-over-ipo-price-on-bse/articleshow/132596430.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "West Asia war pushes ONGC to plan India's first strategic gas reserve",
-          "summary": "A strategic natural gas reserve can cushion the impact of crises such as the West Asia war, which has disrupted global energy supplies...",
-          "link": "https://www.livemint.com/companies/news/ongc-strategic-natural-gas-reserve-india-west-asia-war-lng-energy-security-11784718865508.html",
+          "title": "Sorin Investments set to launch second fund with a  ₹2,000 crore corpus",
+          "summary": "Sanjay Nayar-led Sorin Investments is preparing to raise about ₹2,000 crore for its second fund as startup investing revives, with AI, deep-tech and space tech among areas it may e...",
+          "link": "https://www.livemint.com/companies/sorin-investments-sanjay-nayar-venture-capital-fund-ii-fundraising-startups-early-stage-investing-ai-deep-tech-11784817136569.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "J&J MedTech jumps into surgical robot game as OTTAVA secures FDA nod",
-          "summary": "While not disclosing a specific launch timeframe, with de novo clearance in hand, J&J initially plans to launch Ottava with “select customers”. The post J&amp;J MedTech jumps into ...",
-          "link": "https://www.medicaldevice-network.com/news/jj-medtech-jumps-into-surgical-robot-game-as-ottava-secures-fda-nod/",
+          "title": "Science Corporation begins European rollout of Prima system",
+          "summary": "Science Corporation, a brain-computer interface company, has launched its Prima device commercially in Europe after receiving CE mark from DEKRA under the European Union Medical De...",
+          "link": "https://www.medicaldevice-network.com/news/science-corporation-european-rollout-prima-system/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "5 Books to read this July 2026 before everyone else",
-          "summary": "Looking for your next great read? Discover five compelling books to add to your July 2026 reading list, from fiction to thought-provoking nonfiction....",
-          "link": "https://yourstory.com/2026/07/best-reads-july",
+          "title": "The future of Bharat’s economy is being built beyond cities",
+          "summary": "Across Bharat, demand is moving beyond essentials into categories such as education, mobility, healthcare, insurance, appliances, digital commerce and lifestyle-led services....",
+          "link": "https://yourstory.com/2026/07/the-future-of-bharats-economy-is-being-built-beyond-cities",
           "source": "YourStory"
         },
         {
-          "title": "Books that help you build a life you don't need to escape from",
-          "summary": "Discover five powerful books that encourage intentional living, fulfillment, balance, and building a life you genuinely enjoy....",
-          "link": "https://yourstory.com/2026/06/books-help-build-life-dont-need-escape",
+          "title": "Meesho cuts down losses by half as revenue rises 48%",
+          "summary": "Meesho expects the growth momentum to continue driven by efficiencies derived through AI despite challenging macro economic environment....",
+          "link": "https://yourstory.com/2026/07/meesho-cuts-down-losses-by-half-as-revenue-rises",
           "source": "YourStory"
         },
         {
-          "title": "Eternal Rolls In Q1 Profits, Zetwerk Vs Ayr Energy & More",
-          "summary": "Eternal’s Q1 Profitable Show It was business as usual for Eternal in Q1. Buoyed by Blinkit’s inventory model and food&#8230;...",
-          "link": "https://inc42.com/buzz/eternal-rolls-in-q1-profits-zetwerk-vs-ayr-energy-more/",
+          "title": "Meesho’s Q1 Show, Skyroot’s New Era & More",
+          "summary": "Meesho’s Steady Q1 March Meesho inched closer to profitability in Q1. Buoyed by strong revenue growth, improving unit economics, higher&#8230;...",
+          "link": "https://inc42.com/buzz/meeshos-q1-show-skyroots-new-era-more/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "U.S. manufacturing hit $2.91T value added, but workforce gap looms",
-          "summary": "The latest report from Misumi Americas outlines manufacturing's accelerated growth but asks if it can be maintained amid a skills shortage. The post U.S. manufacturing hit $2.91T v...",
-          "link": "https://www.engineering.com/u-s-manufacturing-hit-2-91t-value-added-but-workforce-gap-looms/",
-          "source": "Engineering.com"
+          "title": "Emerson adds flameproof Rosemount 965 flame detector model",
+          "summary": "Emerson has announced a flameproof model for the Rosemount 965 Flame Detector, adding hazardous-location certification for applications that require hydrocarbon flame detection. Th...",
+          "link": "https://www.designworldonline.com/emerson-adds-flameproof-rosemount-965-flame-detector-model/",
+          "source": "Design World"
         },
         {
-          "title": "Robot Safety in Focus as Regulations Change",
-          "summary": "Interact Analysis notes that a new ISO update for Europe will have global implications. The post Robot Safety in Focus as Regulations Change appeared first on Engineering.com ....",
-          "link": "https://www.engineering.com/robot-safety-in-focus-as-regulations-change/",
-          "source": "Engineering.com"
+          "title": "MISUMI report outlines U.S. manufacturing workforce gap",
+          "summary": "MISUMI Americas, a specification-driven sourcing partner for mechanical components and assemblies, announced The Rise of U.S. Manufacturing report. The report cites U.S. manufactur...",
+          "link": "https://www.designworldonline.com/misumi-report-outlines-u-s-manufacturing-workforce-gap/",
+          "source": "Design World"
         }
       ]
     },
