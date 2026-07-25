@@ -1,92 +1,92 @@
 {
-  "last_updated": "Friday, July 24, 2026 at 10:20 AM IST",
-  "last_updated_iso": "2026-07-24T10:20:09.506118",
+  "last_updated": "Saturday, July 25, 2026 at 10:16 AM IST",
+  "last_updated_iso": "2026-07-25T10:16:21.107994",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23610.85,
-        "change": -258.75,
-        "change_pct": -1.084014813821765,
+        "price": 23767.45,
+        "change": -102.14999999999782,
+        "change_pct": -0.42795019606527895,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 75554.38,
-        "change": -837.0099999999948,
-        "change_pct": -1.095686307056325,
+        "price": 76059.77,
+        "change": -331.61999999999534,
+        "change_pct": -0.4341065138361736,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 56105.55,
-        "change": -486.4499999999971,
-        "change_pct": -0.8595737913485955,
-        "is_up": false
+        "price": 56693.5,
+        "change": 101.5,
+        "change_pct": 0.1793539722929036,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "TCS",
-        "price": 2243.1,
-        "change": 0.1999999999998181,
-        "change_pct": 0.008917027063169027,
+        "name": "Wipro",
+        "price": 177.12,
+        "change": 2.3000000000000114,
+        "change_pct": 1.3156389429127167,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1950.0,
-        "change": -4.0,
-        "change_pct": -0.2047082906857728,
-        "is_up": false
+        "name": "TCS",
+        "price": 2254.3,
+        "change": 11.400000000000091,
+        "change_pct": 0.5082705426011008,
+        "is_up": true
       },
       {
         "name": "Reliance",
-        "price": 1269.2,
-        "change": -3.0,
-        "change_pct": -0.2358119792485458,
-        "is_up": false
+        "price": 1278.0,
+        "change": 5.7999999999999545,
+        "change_pct": 0.4559031598805183,
+        "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Bharti Airtel",
-        "price": 1881.6,
-        "change": -49.40000000000009,
-        "change_pct": -2.5582599689280214,
+        "price": 1898.2,
+        "change": -32.799999999999955,
+        "change_pct": -1.6986017607457253,
         "is_up": false
       },
       {
-        "name": "L&T",
-        "price": 3721.0,
-        "change": -71.40000000000009,
-        "change_pct": -1.882712794009073,
+        "name": "Sun Pharma",
+        "price": 1941.1,
+        "change": -12.900000000000091,
+        "change_pct": -0.6601842374616218,
         "is_up": false
       },
       {
         "name": "Infosys",
-        "price": 1030.7,
-        "change": -16.700000000000045,
-        "change_pct": -1.5944242887149174,
+        "price": 1040.9,
+        "change": -6.5,
+        "change_pct": -0.6205843039908344,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.525,
-        "change": -0.0379999999999967,
-        "change_pct": -0.0393525470418242,
+        "price": 96.56,
+        "change": -0.0030000000000001137,
+        "change_pct": -0.0031067800296180875,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4029.5,
-        "change": -20.699999999999818,
-        "change_pct": -0.5110858723025978,
-        "is_up": false
+        "price": 4070.8,
+        "change": 20.600000000000364,
+        "change_pct": 0.5086168584267534,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-          "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their ...",
-          "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+          "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+          "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it....",
+          "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
           "source": "TechCrunch"
         },
         {
-          "title": "Meet the judges who will crown Australia’s next breakout startup",
-          "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups....",
-          "link": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+          "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+          "summary": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines....",
+          "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
           "source": "TechCrunch"
         },
         {
-          "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+          "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
           "summary": "",
-          "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+          "link": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
           "source": "The Verge"
         },
         {
-          "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
+          "title": "Meta just created a moderation nightmare for its smart glasses",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
+          "link": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
           "source": "The Verge"
         },
         {
-          "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-          "summary": "App is installed through Windows Update when certain LG monitors connect to a PC....",
-          "link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+          "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+          "summary": "\"Any potential damage will be assessed when it is safe to do so.\"...",
+          "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "RBI intervention blunts oil surge, shores up rupee",
-          "summary": "The Reserve Bank of India intervened by selling dollars to prevent the rupee from reaching a record low. Surging oil prices and declining stock markets are currently pressuring the...",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-blunts-oil-surge-shores-up-rupee/articleshow/132596478.cms",
+          "title": "NMC health settlement drags Bank of Baroda Q1 net profit down 72%",
+          "summary": "Bank of Baroda's June-quarter profit fell 72% due to a large settlement payment. Other income also declined, impacting the bank's overall financial performance for the period. Shri...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nmc-health-settlement-drags-bank-of-baroda-q1-net-profit-down-72/articleshow/132618762.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Caliber Mining and Logistics shares list at 19% premium over IPO price on BSE",
-          "summary": "Caliber Mining &amp; Logistics shares debuted nearly 19% above their IPO price on Friday, beating grey market expectations. The Rs 450 crore issue was subscribed 156.63 times, driv...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/caliber-mining-and-logistics-shares-list-at-19-premium-over-ipo-price-on-bse/articleshow/132596430.cms",
+          "title": "Yen records biggest weekly drop in over two months, dollar climbs for the week",
+          "summary": "The dollar is set for its biggest weekly gain, buoyed by rising oil prices. The Japanese yen is poised for its largest weekly decline, languishing at 40-year lows. Verbal efforts t...",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-records-biggest-weekly-drop-in-over-two-months-dollar-climbs-for-the-week/articleshow/132618828.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Sorin Investments set to launch second fund with a  ₹2,000 crore corpus",
-          "summary": "Sanjay Nayar-led Sorin Investments is preparing to raise about ₹2,000 crore for its second fund as startup investing revives, with AI, deep-tech and space tech among areas it may e...",
-          "link": "https://www.livemint.com/companies/sorin-investments-sanjay-nayar-venture-capital-fund-ii-fundraising-startups-early-stage-investing-ai-deep-tech-11784817136569.html",
+          "title": "Paramount agrees to delay closing Warner buyout for months while judge considers states challenge",
+          "summary": "Paramount agrees to delay closing Warner buyout for months while judge considers states' challenge...",
+          "link": "https://www.livemint.com/companies/paramount-agrees-to-delay-closing-warner-buyout-for-months-while-judge-considers-states-challenge-11784926052342.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Science Corporation begins European rollout of Prima system",
-          "summary": "Science Corporation, a brain-computer interface company, has launched its Prima device commercially in Europe after receiving CE mark from DEKRA under the European Union Medical De...",
-          "link": "https://www.medicaldevice-network.com/news/science-corporation-european-rollout-prima-system/",
+          "title": "Edwards lifts FY26 growth outlook following steady Q2 performance",
+          "summary": "Edwards TAVR business contributed the lion’s share of its Q2 revenues at $1.26bn, largely informing its decision to uplift its 2026 revenue growth outlook. The post Edwards lifts F...",
+          "link": "https://www.medicaldevice-network.com/news/edwards-lifts-fy26-growth-outlook-following-steady-q2-performance/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "The future of Bharat’s economy is being built beyond cities",
-          "summary": "Across Bharat, demand is moving beyond essentials into categories such as education, mobility, healthcare, insurance, appliances, digital commerce and lifestyle-led services....",
-          "link": "https://yourstory.com/2026/07/the-future-of-bharats-economy-is-being-built-beyond-cities",
+          "title": "A trillion dollars of deals runs through his startup's software. Indian tech has barely heard of him.",
+          "summary": "Ganesh Shankar grew up in a two-room house in Coimbatore, decided computer science was not for him, sold mutual funds for a living, and now runs the company that Microsoft, Google,...",
+          "link": "https://yourstory.com/2026/07/responsive-ganesh-shankar-indian-tech-trillion-dollars-deals-startup-software",
           "source": "YourStory"
         },
         {
-          "title": "Meesho cuts down losses by half as revenue rises 48%",
-          "summary": "Meesho expects the growth momentum to continue driven by efficiencies derived through AI despite challenging macro economic environment....",
-          "link": "https://yourstory.com/2026/07/meesho-cuts-down-losses-by-half-as-revenue-rises",
+          "title": "How technology is slowly reshaping India's entrepreneurial backbone",
+          "summary": "The most interesting shift I've watched over the last two years isn't in how MSMEs use technology; it's in how technology has started to see them....",
+          "link": "https://yourstory.com/2026/07/how-technology-slowly-reshaping-india-entrepreneurial-backbone",
           "source": "YourStory"
         },
         {
-          "title": "Meesho’s Q1 Show, Skyroot’s New Era & More",
-          "summary": "Meesho’s Steady Q1 March Meesho inched closer to profitability in Q1. Buoyed by strong revenue growth, improving unit economics, higher&#8230;...",
-          "link": "https://inc42.com/buzz/meeshos-q1-show-skyroots-new-era-more/",
+          "title": "Veefin Gets Board Nod To Raise ₹35 Cr Debt",
+          "summary": "BSE SME-listed Veefin Solutions has received board approval to raise up to ₹35 Cr via issuance of non-convertible debentures (NCDs).&#8230;...",
+          "link": "https://inc42.com/buzz/veefin-gets-board-nod-to-raise-%e2%82%b935-cr-debt/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Emerson adds flameproof Rosemount 965 flame detector model",
-          "summary": "Emerson has announced a flameproof model for the Rosemount 965 Flame Detector, adding hazardous-location certification for applications that require hydrocarbon flame detection. Th...",
-          "link": "https://www.designworldonline.com/emerson-adds-flameproof-rosemount-965-flame-detector-model/",
+          "title": "EXAIR redesigns website for compressed air products",
+          "summary": "EXAIR has launched a redesigned website for engineers, maintenance professionals and manufacturers searching for compressed air solutions. The site features an updated look aligned...",
+          "link": "https://www.designworldonline.com/exair-redesigns-website-for-compressed-air-products/",
           "source": "Design World"
         },
         {
-          "title": "MISUMI report outlines U.S. manufacturing workforce gap",
-          "summary": "MISUMI Americas, a specification-driven sourcing partner for mechanical components and assemblies, announced The Rise of U.S. Manufacturing report. The report cites U.S. manufactur...",
-          "link": "https://www.designworldonline.com/misumi-report-outlines-u-s-manufacturing-workforce-gap/",
+          "title": "Emerson adds flameproof Rosemount 965 flame detector model",
+          "summary": "Emerson has announced a flameproof model for the Rosemount 965 Flame Detector, adding hazardous-location certification for applications that require hydrocarbon flame detection. Th...",
+          "link": "https://www.designworldonline.com/emerson-adds-flameproof-rosemount-965-flame-detector-model/",
           "source": "Design World"
         }
       ]
@@ -233,13 +233,6 @@
           "link": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
           "source": "MKBHD",
           "thumbnail": "https://i1.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg"
-        },
-        {
-          "title": "Claude Just Revealed AI's Biggest Problem",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/AI-assistance-coding-skills\n\n🙏...",
-          "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg"
         }
       ]
     }
