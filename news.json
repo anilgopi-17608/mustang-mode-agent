@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, July 28, 2026 at 10:14 AM IST",
-  "last_updated_iso": "2026-07-28T10:14:22.269047",
+  "last_updated": "Wednesday, July 29, 2026 at 10:18 AM IST",
+  "last_updated_iso": "2026-07-29T10:18:54.646923",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23985.15,
-        "change": -10.799999999999272,
-        "change_pct": -0.04500759503165856,
-        "is_up": false
+        "price": 24227.1,
+        "change": 241.75,
+        "change_pct": 1.0079069098428834,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 76878.8,
-        "change": 43.020000000004075,
-        "change_pct": 0.05598954028969847,
+        "price": 77518.73,
+        "change": 752.8099999999977,
+        "change_pct": 0.9806565204976345,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 56888.45,
-        "change": -198.75,
-        "change_pct": -0.34815159965806697,
-        "is_up": false
+        "price": 57162.75,
+        "change": 407.15000000000146,
+        "change_pct": 0.7173741445778063,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "TCS",
-        "price": 2397.1,
-        "change": 101.5,
-        "change_pct": 4.42150200383342,
-        "is_up": true
-      },
-      {
         "name": "Infosys",
-        "price": 1110.1,
-        "change": 30.899999999999864,
-        "change_pct": 2.8632320237212623,
+        "price": 1148.9,
+        "change": 43.200000000000045,
+        "change_pct": 3.907027222573939,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 180.8,
-        "change": 2.2700000000000102,
-        "change_pct": 1.2714949868369518,
+        "name": "L&T",
+        "price": 3949.4,
+        "change": 117.40000000000009,
+        "change_pct": 3.0636743215031337,
+        "is_up": true
+      },
+      {
+        "name": "TCS",
+        "price": 2454.5,
+        "change": 56.5,
+        "change_pct": 2.3561301084236863,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "HDFC Bank",
-        "price": 733.95,
-        "change": -5.599999999999909,
-        "change_pct": -0.757217226691895,
+        "name": "Sun Pharma",
+        "price": 1973.9,
+        "change": -2.7999999999999545,
+        "change_pct": -0.14165022512267691,
         "is_up": false
+      },
+      {
+        "name": "Maruti",
+        "price": 13832.0,
+        "change": 30.0,
+        "change_pct": 0.217359802927112,
+        "is_up": true
       },
       {
         "name": "Reliance",
-        "price": 1272.7,
-        "change": -7.2999999999999545,
-        "change_pct": -0.5703124999999964,
-        "is_up": false
-      },
-      {
-        "name": "Bharti Airtel",
-        "price": 1895.6,
-        "change": -9.700000000000045,
-        "change_pct": -0.5091061775048573,
-        "is_up": false
+        "price": 1272.9,
+        "change": 5.2000000000000455,
+        "change_pct": 0.4101916857300659,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.695,
-        "change": -0.2050000000000125,
-        "change_pct": -0.21376433785194213,
+        "price": 95.7175,
+        "change": -0.12449999999999761,
+        "change_pct": -0.12990129588280463,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4045.5,
-        "change": -31.5,
-        "change_pct": -0.772626931567329,
+        "price": 4023.8,
+        "change": -14.899999999999636,
+        "change_pct": -0.36893059647905607,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-          "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales....",
-          "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+          "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+          "summary": "The deal is Cyera's third acquisition this year....",
+          "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-          "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities....",
-          "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+          "title": "Bot-detection startup Spur nabs $200M from Insight",
+          "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots....",
+          "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
           "source": "TechCrunch"
         },
         {
-          "title": "X Money is launching in the US starting today",
+          "title": "The US is banning foreign robots",
           "summary": "",
-          "link": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+          "link": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
           "source": "The Verge"
         },
         {
-          "title": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
+          "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
+          "link": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
           "source": "The Verge"
         },
         {
-          "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-          "summary": "Microsoft says tools cost less than competing ones and outperform them, too....",
-          "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+          "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
+          "summary": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4....",
+          "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: ECB may need more rate hikes to curb inflation risks, says Kazimir",
-          "summary": "Slovak central bank governor Peter Kazimir warned that the European Central Bank may need to raise interest rates at least once more to control inflation. He stressed that geopolit...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ecb-may-need-more-rate-hikes-to-curb-inflation-risks-says-kazimir/articleshow/132674958.cms",
+          "title": "Global Market: Warning signals flash red as oil, AI concerns and debt risks rattle investors",
+          "summary": "Several key market warning indicators are approaching crisis levels now. Elevated oil prices and geopolitical uncertainty fuel inflation concerns for consumers. The powerful artifi...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-warning-signals-flash-red-as-oil-ai-concerns-and-debt-risks-rattle-investors/articleshow/132700977.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Rupee rises 35 paise to 95.64 against US dollar in early trade",
-          "summary": "The Indian rupee strengthened significantly against the US dollar in early trade. Lower crude oil prices and easing geopolitical tensions boosted the rupee's momentum. A weaker US ...",
-          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-35-paise-to-95-64-against-us-dollar-in-early-trade/articleshow/132674886.cms",
+          "title": "Global Market | AI boom could complicate central banks’ inflation assessment, monetary policy decisions: BIS",
+          "summary": "Artificial intelligence complicates economic assessments for central banks globally. The technology simultaneously boosts demand and expands future supply potential. Policymakers f...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ai-boom-could-complicate-central-banks-inflation-assessment-monetary-policy-decisions-bis/articleshow/132700645.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Decoded: Tata Sons' annual report",
-          "summary": "Tata Sons' 16 privately held businesses saw combined loss nearly double to ₹27,854 crore in FY26, about 80% of which was due to one company—Air India....",
-          "link": "https://www.livemint.com/companies/news/decoded-tata-sons-annual-report-11785178573200.html",
+          "title": "Former Golden Globes owners sue Penske Media alleging fraud in acquisition of awards show",
+          "summary": "Former Golden Globes owners sue Penske Media alleging fraud in acquisition of awards show...",
+          "link": "https://www.livemint.com/companies/former-golden-globes-owners-sue-penske-media-alleging-fraud-in-acquisition-of-awards-show-11785296742481.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Roche’s vaginal infection test obtains FDA clearance",
-          "summary": "Roche’s cobas assay is designed to diagnose the common bacterial vaginal infections bacterial vaginosis/candida vaginitis (BV/CV). The post Roche’s vaginal infection test obtains F...",
-          "link": "https://www.medicaldevice-network.com/news/roche-vaginal-infection-test-obtains-fda-clearance/",
+          "title": "Xeltis sharpens US market roadmap after €20.5m fundraise",
+          "summary": "The latest funding follows Xeltis completion of a €47.5m raise in December 2025. The post Xeltis sharpens US market roadmap after €20.5m fundraise appeared first on Medical Device ...",
+          "link": "https://www.medicaldevice-network.com/news/xeltis-sharpens-us-market-roadmap-after-e20-m-fundraise/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "7 Books that help you become less reactive & more reflective",
-          "summary": "Discover seven insightful books that help you develop emotional control, self-awareness, patience, and a more reflective mindset....",
-          "link": "https://yourstory.com/2026/06/books-less-reactive-more-reflective",
+          "title": "5 Fiction books that offer surprising life lessons",
+          "summary": "Discover five fiction books that deliver unexpected life lessons on resilience, purpose, relationships, and personal growth....",
+          "link": "https://yourstory.com/2026/06/fiction-books-offer-surprising-life-lessons",
           "source": "YourStory"
         },
         {
-          "title": "Number of Indians with income above Rs 100 Cr crosses 500 mark in FY26",
-          "summary": "A total of 576 individuals declared annual incomes of more than Rs 100 crore in FY26, up from 415 a year earlier, according to Finance Ministry data tabled in the Lok Sabha. The go...",
-          "link": "https://yourstory.com/2026/07/number-of-indians-with-income-above-100-crore-crosses-500",
+          "title": "Cellogen Therapeutics is developing CAR-T cell therapies for blood cancers in India",
+          "summary": "The Delhi company designs and manufactures its own cell and gene therapies and is preparing a first clinical trial with Christian Medical College, Vellore....",
+          "link": "https://yourstory.com/2026/07/cellogen-car-t-therapy-blood-cancer-india",
           "source": "YourStory"
         },
         {
-          "title": "Temple’s Valuation Jackpot, PhonePe’s FY26 Losses & More",
-          "summary": "Temple Hits $375 Mn Valuation Temple is riding a valuation surge. Deepinder Goyal’s wearable startup is undertaking its first ESOP&#8230;...",
-          "link": "https://inc42.com/buzz/temples-valuation-jackpot-phonepes-fy26-losses-more/",
+          "title": "Q-Comm Poaching Wars, Table Space’s IPO & More",
+          "summary": "Quick Commerce’s New Battleground It is poaching season in India’s quick commerce arena. Swiggy Instamart has brought in a CEO&#8230;...",
+          "link": "https://inc42.com/buzz/q-comm-poaching-wars-table-spaces-ipo-more/",
           "source": "Inc42"
         }
       ]
@@ -211,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "AutomationDirect adds WAGO gelboxes for splice protection",
+          "summary": "AutomationDirect has added WAGO 207 series gelboxes for moisture protection of electrical connections in outdoor and wet environments. The gel-filled enclosures are compatible with...",
+          "link": "https://www.designworldonline.com/automationdirect-adds-wago-gelboxes-for-splice-protection/",
+          "source": "Design World"
+        },
+        {
           "title": "Robot blowback in Korea and China growth slows",
           "summary": "&#160; This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. In a move which is surprising only for the time it took to emerge, a major manufacturin...",
           "link": "https://www.designworldonline.com/robot-blowback-in-korea-and-china-growth-slows/",
           "source": "Design World"
-        },
-        {
-          "title": "New adapters support RF performance to 40 GHz",
-          "summary": "Amphenol RF has expanded its 2.92 mm adapter series with new between-series SMPM configurations for applications up to 40 GHz. The adapters are available in plug and jack versions ...",
-          "link": "https://www.designworldonline.com/new-adapters-support-rf-performance-to-40-ghz/",
-          "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "Framework 13 Pro: The Modular Laptop is Real!",
-          "summary": "The modular Macbook Pro for Linux users. Color me impressed.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nFramework 13 Pro: https://geni.us/SVkxq\n\nPlaylist of MKBHD Intro music: https://go...",
-          "link": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-          "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg"
-        },
-        {
-          "title": "Claude Just Revealed AI's Biggest Problem",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/AI-assistance-coding-skills\n\n🙏...",
-          "link": "https://www.youtube.com/watch?v=axOcn--n_lM",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg"
         }
       ]
     }
