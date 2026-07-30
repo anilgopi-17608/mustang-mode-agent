@@ -1,92 +1,92 @@
 {
-  "last_updated": "Wednesday, July 29, 2026 at 10:18 AM IST",
-  "last_updated_iso": "2026-07-29T10:18:54.646923",
+  "last_updated": "Thursday, July 30, 2026 at 10:06 AM IST",
+  "last_updated_iso": "2026-07-30T10:06:57.383702",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24227.1,
-        "change": 241.75,
-        "change_pct": 1.0079069098428834,
+        "price": 24275.1,
+        "change": 24.899999999997817,
+        "change_pct": 0.10267956552934746,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77518.73,
-        "change": 752.8099999999977,
-        "change_pct": 0.9806565204976345,
+        "price": 77700.3,
+        "change": 45.69999999999709,
+        "change_pct": 0.058850344989217755,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57162.75,
-        "change": 407.15000000000146,
-        "change_pct": 0.7173741445778063,
-        "is_up": true
+        "price": 56936.8,
+        "change": -269.09999999999854,
+        "change_pct": -0.4704060245534089,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Infosys",
-        "price": 1148.9,
-        "change": 43.200000000000045,
-        "change_pct": 3.907027222573939,
+        "name": "Wipro",
+        "price": 188.6,
+        "change": 4.989999999999981,
+        "change_pct": 2.717716899950972,
         "is_up": true
       },
       {
-        "name": "L&T",
-        "price": 3949.4,
-        "change": 117.40000000000009,
-        "change_pct": 3.0636743215031337,
+        "name": "Infosys",
+        "price": 1185.3,
+        "change": 29.700000000000045,
+        "change_pct": 2.5700934579439294,
         "is_up": true
       },
       {
         "name": "TCS",
-        "price": 2454.5,
-        "change": 56.5,
-        "change_pct": 2.3561301084236863,
+        "price": 2484.3,
+        "change": 37.70000000000027,
+        "change_pct": 1.5409139213602663,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Sun Pharma",
-        "price": 1973.9,
-        "change": -2.7999999999999545,
-        "change_pct": -0.14165022512267691,
+        "name": "L&T",
+        "price": 3899.8,
+        "change": -31.59999999999991,
+        "change_pct": -0.8037849112275501,
+        "is_up": false
+      },
+      {
+        "name": "ICICI Bank",
+        "price": 1427.9,
+        "change": -10.0,
+        "change_pct": -0.6954586549829612,
         "is_up": false
       },
       {
         "name": "Maruti",
-        "price": 13832.0,
-        "change": 30.0,
-        "change_pct": 0.217359802927112,
-        "is_up": true
-      },
-      {
-        "name": "Reliance",
-        "price": 1272.9,
-        "change": 5.2000000000000455,
-        "change_pct": 0.4101916857300659,
-        "is_up": true
+        "price": 13922.0,
+        "change": -26.0,
+        "change_pct": -0.1864066532836249,
+        "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.7175,
-        "change": -0.12449999999999761,
-        "change_pct": -0.12990129588280463,
+        "price": 95.582,
+        "change": -0.058000000000006935,
+        "change_pct": -0.060644081974076676,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4023.8,
-        "change": -14.899999999999636,
-        "change_pct": -0.36893059647905607,
-        "is_up": false
+        "price": 4110.0,
+        "change": 13.0,
+        "change_pct": 0.31730534537466437,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-          "summary": "The deal is Cyera's third acquisition this year....",
-          "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth....",
+          "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
           "source": "TechCrunch"
         },
         {
-          "title": "Bot-detection startup Spur nabs $200M from Insight",
-          "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots....",
-          "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+          "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price....",
+          "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
           "source": "TechCrunch"
         },
         {
-          "title": "The US is banning foreign robots",
+          "title": "Microsoft confirms Copilot ‘super app’ coming this year",
           "summary": "",
-          "link": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+          "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
           "source": "The Verge"
         },
         {
-          "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
+          "title": "Mark Zuckerberg is planning a big push into personal AI agents",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
+          "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
           "source": "The Verge"
         },
         {
-          "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-          "summary": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4....",
-          "link": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+          "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+          "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos....",
+          "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: Warning signals flash red as oil, AI concerns and debt risks rattle investors",
-          "summary": "Several key market warning indicators are approaching crisis levels now. Elevated oil prices and geopolitical uncertainty fuel inflation concerns for consumers. The powerful artifi...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-warning-signals-flash-red-as-oil-ai-concerns-and-debt-risks-rattle-investors/articleshow/132700977.cms",
+          "title": "Global Market: Zhongji Innolight shares slip in Hong Kong debut after record $6.8 billion IPO",
+          "summary": "Chinese optical component maker Zhongji Innolight fell up to 8% in its Hong Kong listing debut on Thursday after raising HK$53.4 billion ($6.8 billion) in the city's largest IPO of...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-zhongji-innolight-shares-slip-in-hong-kong-debut-after-record-6-8-billion-ipo/articleshow/132726855.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market | AI boom could complicate central banks’ inflation assessment, monetary policy decisions: BIS",
-          "summary": "Artificial intelligence complicates economic assessments for central banks globally. The technology simultaneously boosts demand and expands future supply potential. Policymakers f...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ai-boom-could-complicate-central-banks-inflation-assessment-monetary-policy-decisions-bis/articleshow/132700645.cms",
+          "title": "Eicher Motors share price target: What are Morgan Stanley, Nomura saying about Royal Enfield maker?",
+          "summary": "Eicher Motors shares remained flat on Thursday following a 21% YoY rise in Q1 FY27 net profit to Rs 1,462 crore, backed by record Royal Enfield sales. International brokerages Nomu...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/eicher-motors-share-price-target-what-are-morgan-stanley-nomura-saying-about-royal-enfield-maker/articleshow/132726822.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Former Golden Globes owners sue Penske Media alleging fraud in acquisition of awards show",
-          "summary": "Former Golden Globes owners sue Penske Media alleging fraud in acquisition of awards show...",
-          "link": "https://www.livemint.com/companies/former-golden-globes-owners-sue-penske-media-alleging-fraud-in-acquisition-of-awards-show-11785296742481.html",
+          "title": "This startup's next-gen engine may power India's defence ambitions",
+          "summary": "Developing indigenous engine technologies would strengthen India's strategic autonomy, as dependence on foreign engine suppliers extends beyond procurement to maintenance, spare pa...",
+          "link": "https://www.livemint.com/companies/d-propulse-rotating-detonation-engine-rde-india-defence-startup-11785302153442.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Xeltis sharpens US market roadmap after €20.5m fundraise",
-          "summary": "The latest funding follows Xeltis completion of a €47.5m raise in December 2025. The post Xeltis sharpens US market roadmap after €20.5m fundraise appeared first on Medical Device ...",
-          "link": "https://www.medicaldevice-network.com/news/xeltis-sharpens-us-market-roadmap-after-e20-m-fundraise/",
+          "title": "Boston Scientific reports positive Q2 results yet opts to trim 2026 outlook",
+          "summary": "Boston's tempered 2026 outlook is likely due in part to its recently announced plans to initiate a global restructuring programme. The post Boston Scientific reports positive Q2 re...",
+          "link": "https://www.medicaldevice-network.com/news/boston-scientific-reports-positive-q2-results-yet-opts-to-trim-2026-outlook/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "5 Fiction books that offer surprising life lessons",
-          "summary": "Discover five fiction books that deliver unexpected life lessons on resilience, purpose, relationships, and personal growth....",
-          "link": "https://yourstory.com/2026/06/fiction-books-offer-surprising-life-lessons",
+          "title": "Why mixed-use destinations are becoming the next growth engine for cities",
+          "summary": "From London and Paris to Dubai and Delhi, urban destinations are moving beyond single-purpose venues. The focus is shifting towards integrated ecosystems that combine sports, retai...",
+          "link": "https://yourstory.com/2026/07/destinations-becoming-next-growth-engine-cities",
           "source": "YourStory"
         },
         {
-          "title": "Cellogen Therapeutics is developing CAR-T cell therapies for blood cancers in India",
-          "summary": "The Delhi company designs and manufactures its own cell and gene therapies and is preparing a first clinical trial with Christian Medical College, Vellore....",
-          "link": "https://yourstory.com/2026/07/cellogen-car-t-therapy-blood-cancer-india",
+          "title": "How startups are rewriting India's IPO story",
+          "summary": "The IPO market in the country is not simply bigger than it was a decade ago. It has a different character and discipline now, led by confident, high-growth startups who believe in ...",
+          "link": "https://yourstory.com/2026/07/how-startups-are-rewriting-indias-ipo-story",
           "source": "YourStory"
         },
         {
-          "title": "Q-Comm Poaching Wars, Table Space’s IPO & More",
-          "summary": "Quick Commerce’s New Battleground It is poaching season in India’s quick commerce arena. Swiggy Instamart has brought in a CEO&#8230;...",
-          "link": "https://inc42.com/buzz/q-comm-poaching-wars-table-spaces-ipo-more/",
+          "title": "Fintech IPO Wave, Zepto May Defer Listing & More",
+          "summary": "The Next Big Fintech IPO Rush Nearly five years after Paytm and PB Fintech paved the way for fintech listings,&#8230;...",
+          "link": "https://inc42.com/buzz/fintech-ipo-wave-zepto-may-defer-listing-more/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "AutomationDirect adds WAGO gelboxes for splice protection",
-          "summary": "AutomationDirect has added WAGO 207 series gelboxes for moisture protection of electrical connections in outdoor and wet environments. The gel-filled enclosures are compatible with...",
-          "link": "https://www.designworldonline.com/automationdirect-adds-wago-gelboxes-for-splice-protection/",
+          "title": "Choosing PCB Design Software for Small Teams and Enterprises",
+          "summary": "One engineer picking a PCB design software is looking to solve a design problem. But fifty engineers choosing a PCB design software are looking to solve a data problem: who owns wh...",
+          "link": "https://www.designworldonline.com/choosing-pcb-design-software-for-small-teams-and-enterprises/",
           "source": "Design World"
         },
         {
-          "title": "Robot blowback in Korea and China growth slows",
-          "summary": "&#160; This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. In a move which is surprising only for the time it took to emerge, a major manufacturin...",
-          "link": "https://www.designworldonline.com/robot-blowback-in-korea-and-china-growth-slows/",
+          "title": "FPC connector supports 40 Gbps data transmission",
+          "summary": "Hirose has launched the BK35 Series hybrid FPC-to-board connector for compact, EMI-sensitive electronic systems. The fully shielded 0.35 mm-pitch connector supports data transmissi...",
+          "link": "https://www.designworldonline.com/fpc-connector-supports-40-gbps-data-transmission/",
           "source": "Design World"
         }
       ]
