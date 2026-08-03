@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, August 02, 2026 at 10:26 AM IST",
-  "last_updated_iso": "2026-08-02T10:26:34.924908",
+  "last_updated": "Monday, August 03, 2026 at 10:36 AM IST",
+  "last_updated_iso": "2026-08-03T10:36:02.615811",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24383.6,
-        "change": 66.44999999999709,
-        "change_pct": 0.27326393101164026,
+        "price": 24564.55,
+        "change": 180.95000000000073,
+        "change_pct": 0.7420971472629174,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 78094.64,
-        "change": 166.49000000000524,
-        "change_pct": 0.21364551833965678,
+        "price": 78727.72,
+        "change": 633.0800000000017,
+        "change_pct": 0.8106574279617677,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57264.85,
-        "change": 117.34999999999854,
-        "change_pct": 0.2053458156524757,
+        "price": 57728.05,
+        "change": 463.20000000000437,
+        "change_pct": 0.80887315691913,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Reliance",
-        "price": 1307.8,
-        "change": 14.899999999999864,
-        "change_pct": 1.1524479851496527,
+        "name": "Infosys",
+        "price": 1156.6,
+        "change": 26.5,
+        "change_pct": 2.344925227855942,
         "is_up": true
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1972.0,
-        "change": 15.200000000000045,
-        "change_pct": 0.7767784137367153,
+        "name": "TCS",
+        "price": 2418.6,
+        "change": 53.0,
+        "change_pct": 2.240446398376733,
         "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 14234.0,
-        "change": 46.0,
-        "change_pct": 0.3242176487172258,
+        "name": "Wipro",
+        "price": 185.86,
+        "change": 2.210000000000008,
+        "change_pct": 1.2033759869316678,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "TCS",
-        "price": 2365.6,
-        "change": -66.20000000000027,
-        "change_pct": -2.7222633440250132,
+        "name": "Sun Pharma",
+        "price": 1966.1,
+        "change": -24.40000000000009,
+        "change_pct": -1.2258226576237172,
         "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 1130.1,
-        "change": -25.0,
-        "change_pct": -2.164314777941304,
+        "name": "Maruti",
+        "price": 14110.0,
+        "change": -124.0,
+        "change_pct": -0.8711535759449206,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 183.65,
-        "change": -2.680000000000007,
-        "change_pct": -1.438308377609621,
+        "name": "Bharti Airtel",
+        "price": 1961.1,
+        "change": -10.900000000000091,
+        "change_pct": -0.5527383367140005,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.39,
-        "change": -0.28000000000000114,
-        "change_pct": -0.2926727291732007,
+        "price": 95.155,
+        "change": -0.22499999999999432,
+        "change_pct": -0.2358985112182788,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4107.0,
-        "change": -53.600000000000364,
-        "change_pct": -1.2882757294621054,
-        "is_up": false
+        "price": 4122.7,
+        "change": 15.699999999999818,
+        "change_pct": 0.3822741660579454,
+        "is_up": true
       }
     ]
   },
@@ -95,27 +95,27 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Inside the London hacker house taking a stand against founder burnout",
-          "summary": "How one founder house is betting work-life balance can beat burnout ....",
-          "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+          "title": "The global memory shortage hits the MacBook Air",
+          "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac....",
+          "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
           "source": "TechCrunch"
         },
         {
-          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-          "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward....",
-          "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "title": "Sam Altman and AI’s decel debate",
+          "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"...",
+          "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
           "source": "TechCrunch"
         },
         {
-          "title": "Pixel 11 specs and price leak with no surprises",
+          "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
           "summary": "",
-          "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+          "link": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
           "source": "The Verge"
         },
         {
-          "title": "Angela Nissel faces down grief with a laugh",
+          "title": "Fender’s CEO seems to think your bandmates are just analog AI",
           "summary": "",
-          "link": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
           "source": "The Verge"
         },
         {
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Goldman Sachs sees a bigger space opportunity beyond launch providers",
-          "summary": "Space stocks could offer significant long-term growth opportunities as the industry expands beyond rocket launches into satellites, orbital broadband, communications, defence appli...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-sees-a-bigger-space-opportunity-beyond-launch-providers/articleshow/132800299.cms",
+          "title": "HFCL shares rebound 5% on Rs 523 crore order win. Still time to buy after 195% rally in 6 months?",
+          "summary": "HFCL shares rose sharply on Monday after the company secured an international order worth Rs 522.73 crore, extending investor optimism around the telecom equipment maker. The stock...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-rebound-5-on-rs-523-crore-order-win-still-time-to-buy-after-195-rally-in-6-months/articleshow/132819248.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Japan to announce Tokyo, Washington took joint action on yen: Report",
-          "summary": "Japan's Finance Minister plans to reveal a cooperation with Washington regarding currency market interventions aimed at arresting the yen's drastic decline to levels not seen in 40...",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/japan-to-announce-tokyo-washington-took-joint-action-on-yen-report/articleshow/132800289.cms",
+          "title": "Global Market: China's central bank vows timely policy adjustments, backs panda bond market",
+          "summary": "China's central bank has pledged to adjust its monetary policy tools in a timely manner while maintaining an appropriately loose policy stance to support the economy. The PBOC also...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-central-bank-vows-timely-policy-adjustments-backs-panda-bond-market/articleshow/132819048.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Voda Idea receives  ₹26.8 crore notice from DoT over spectrum rollout; telco says operations remain unaffected",
-          "summary": "The Department of Telecommunications has notified Vodafone Idea to pay ₹26.83 crore in liquidated damages for failure to meet minimum rollout obligations from the 2022 spectrum auc...",
-          "link": "https://www.livemint.com/companies/news/voda-idea-receives-26-8-crore-notice-from-dot-over-spectrum-rollout-telco-says-operations-remain-unaffected-11785638304784.html",
+          "title": "Bharti Airtel Q1 may see steady growth, flat Arpu",
+          "summary": "Bharti Airtel's net profit is expected to increase 47% on-year and 20% on-quarter to ₹8,759 crore in Q1FY27....",
+          "link": "https://www.livemint.com/companies/news/bharti-airtel-q1-earnings-airtel-vs-jio-telecom-industry-india-11785729969331.html",
           "source": "Livemint Companies"
         }
       ]
@@ -165,15 +165,15 @@
       "color": "#16a34a",
       "items": [
         {
-          "title": "Arterex Tecate opens ISO Class 8 clean room facility",
-          "summary": "NEWS RELEASE: Arterex Tecate announces opening of 9,000 sq. ft. ISO Class 8 clean room facility New clean room expands medical device manufacturing capacity and reinforces Arterex ...",
-          "link": "https://www.medicaldesignandoutsourcing.com/arterex-tecate-opens-iso-class-8-clean-room-facility/",
+          "title": "How to Secure a Medical Device You Can’t Patch",
+          "summary": "By Joseph M. Saunders, Founder and CEO, RunSafe Security A medical device cleared today may stay in clinical service for 15 years or more, but the software inside it does not alway...",
+          "link": "https://www.medicaldesignandoutsourcing.com/how-to-secure-a-medical-device-you-cant-patch/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Formacoat names coatings vice president for growth role",
-          "summary": "NEWS RELEASE: Formacoat strengthens commercial leadership and appoints Dhruv Patel as vice president of coatings to accelerate expansion of HydroMark hydrophilic coating platform I...",
-          "link": "https://www.medicaldesignandoutsourcing.com/formacoat-names-coatings-vice-president-for-growth-role/",
+          "title": "Quasar Medical buys Medres Nitinol Design and Development Center",
+          "summary": "Quasar Medical said it has purchased the Medres Nitinol Design and Development Center near San Diego, California. Medres established the 10,000-square-foot Carlsbad site in 2024 an...",
+          "link": "https://www.medicaldesignandoutsourcing.com/quasar-medical-buys-medres-nitinol-design-and-development-center/",
           "source": "Medical Design & Outsourcing"
         },
         {
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "(Weekly funding roundup July 25-31) VC funding drops to another low",
-          "summary": "Venture capital funding has plunged to the second lowest level on a weekly basis for the year till now....",
-          "link": "https://yourstory.com/2026/07/weekly-funding-roundup-july-25-31-vc-funding-drops-to-another-low",
+          "title": "Uplers introduces AI-powered matching to help startups hire faster",
+          "summary": "As startups compete for specialized talent, Uplers introduces AI-powered matching to help founders identify high-fit candidates faster through smaller, role-aligned shortlists. Eve...",
+          "link": "https://yourstory.com/2026/07/uplers-introduces-ai-powered-matching-help-startups-hire-faster",
           "source": "YourStory"
         },
         {
-          "title": "Why India still imports apples; How Magic Bus is helping rural women",
-          "summary": "If India is growing record quantities of apples, why is it importing more of them than ever? In other news, the Rural Livelihood Programme of Magic Bus India Foundation is helping ...",
-          "link": "https://yourstory.com/2026/07/why-india-still-imports-apples-how-magic-bus-is-helping-rural-women",
+          "title": "Youth Photographic Society showcases winners of 2026 international competition",
+          "summary": "In this photo essay, we showcase the YPS photography exhibition at Karnataka Chitrakala Parishath, along with curator insights....",
+          "link": "https://yourstory.com/2026/07/youth-photographic-society-creativity-awards",
           "source": "YourStory"
         },
         {
-          "title": "Sarvam’s AI Arsenal",
-          "summary": "In June, Sarvam AI entered India&#8217;s unicorn club, raising $234 Mn (about ₹2,210 Cr) in a $300 Mn Series B&#8230;...",
-          "link": "https://inc42.com/features/sarvams-ai-arsenal/",
+          "title": "LEAP India Files RHP For ₹2,480 Cr IPO, Seeks $735 Mn Valuation",
+          "summary": "Logistics tech provider LEAP India has filed its RHP for up to ₹2,480 Cr IPO and set a price band&#8230;...",
+          "link": "https://inc42.com/buzz/leap-india-files-rhp-for-%e2%82%b92480-cr-ipo-seeks-735-mn-valuation/",
           "source": "Inc42"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg"
         },
         {
-          "title": "Kimi K3 Just Broke The Economics Of AI",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://arxiv.org/abs/2607.24653\n\nTry Kimi K3 (subject to availab...",
-          "link": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
+          "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://jiashunwang.github.io/HIL/\n\n🙏 We would like to thank our ...",
+          "link": "https://www.youtube.com/watch?v=8B05cy3UuSE",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/Xj-QdEUxJkE/hqdefault.jpg"
+          "thumbnail": "https://i1.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg"
         }
       ]
     }
