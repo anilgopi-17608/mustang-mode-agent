@@ -1,91 +1,91 @@
 {
-  "last_updated": "Monday, August 03, 2026 at 10:36 AM IST",
-  "last_updated_iso": "2026-08-03T10:36:02.615811",
+  "last_updated": "Tuesday, August 04, 2026 at 10:15 AM IST",
+  "last_updated_iso": "2026-08-04T10:15:21.487988",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24564.55,
-        "change": 180.95000000000073,
-        "change_pct": 0.7420971472629174,
-        "is_up": true
+        "price": 24612.25,
+        "change": -162.04999999999927,
+        "change_pct": -0.6541052623081147,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 78727.72,
-        "change": 633.0800000000017,
-        "change_pct": 0.8106574279617677,
+        "price": 78846.13,
+        "change": 207.10000000000582,
+        "change_pct": 0.2633552321283793,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57728.05,
-        "change": 463.20000000000437,
-        "change_pct": 0.80887315691913,
-        "is_up": true
+        "price": 57828.6,
+        "change": -419.34999999999854,
+        "change_pct": -0.7199395000167363,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Infosys",
-        "price": 1156.6,
-        "change": 26.5,
-        "change_pct": 2.344925227855942,
-        "is_up": true
-      },
-      {
-        "name": "TCS",
-        "price": 2418.6,
-        "change": 53.0,
-        "change_pct": 2.240446398376733,
-        "is_up": true
-      },
-      {
-        "name": "Wipro",
-        "price": 185.86,
-        "change": 2.210000000000008,
-        "change_pct": 1.2033759869316678,
-        "is_up": true
-      }
-    ],
-    "losers": [
-      {
-        "name": "Sun Pharma",
-        "price": 1966.1,
-        "change": -24.40000000000009,
-        "change_pct": -1.2258226576237172,
+        "name": "L&T",
+        "price": 4024.0,
+        "change": -1.0,
+        "change_pct": -0.02484472049689441,
         "is_up": false
       },
       {
         "name": "Maruti",
-        "price": 14110.0,
-        "change": -124.0,
-        "change_pct": -0.8711535759449206,
+        "price": 14138.0,
+        "change": -12.0,
+        "change_pct": -0.08480565371024736,
         "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1961.1,
-        "change": -10.900000000000091,
-        "change_pct": -0.5527383367140005,
+        "name": "Sun Pharma",
+        "price": 1957.3,
+        "change": -6.2000000000000455,
+        "change_pct": -0.3157626687038475,
+        "is_up": false
+      }
+    ],
+    "losers": [
+      {
+        "name": "Infosys",
+        "price": 1158.0,
+        "change": -22.0,
+        "change_pct": -1.864406779661017,
+        "is_up": false
+      },
+      {
+        "name": "TCS",
+        "price": 2440.6,
+        "change": -33.09999999999991,
+        "change_pct": -1.3380765654687274,
+        "is_up": false
+      },
+      {
+        "name": "Reliance",
+        "price": 1305.6,
+        "change": -13.400000000000091,
+        "change_pct": -1.0159211523881797,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.155,
-        "change": -0.22499999999999432,
-        "change_pct": -0.2358985112182788,
+        "price": 95.27,
+        "change": -0.05700000000000216,
+        "change_pct": -0.059794182130983,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4122.7,
-        "change": 15.699999999999818,
-        "change_pct": 0.3822741660579454,
+        "price": 4118.0,
+        "change": 27.5,
+        "change_pct": 0.672289451167339,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "The global memory shortage hits the MacBook Air",
-          "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac....",
-          "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises....",
+          "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
           "source": "TechCrunch"
         },
         {
-          "title": "Sam Altman and AI’s decel debate",
-          "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"...",
-          "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+          "summary": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade....",
+          "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
           "source": "TechCrunch"
         },
         {
-          "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+          "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+          "link": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
           "source": "The Verge"
         },
         {
-          "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+          "title": "Your Fitbit data can now connect directly to Apple Health",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+          "link": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
           "source": "The Verge"
         },
         {
-          "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-          "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"...",
-          "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+          "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+          "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities....",
+          "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "HFCL shares rebound 5% on Rs 523 crore order win. Still time to buy after 195% rally in 6 months?",
-          "summary": "HFCL shares rose sharply on Monday after the company secured an international order worth Rs 522.73 crore, extending investor optimism around the telecom equipment maker. The stock...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-rebound-5-on-rs-523-crore-order-win-still-time-to-buy-after-195-rally-in-6-months/articleshow/132819248.cms",
+          "title": "Dhoot Transmission sets IPO price band at Rs 829-871; issue to open on Aug 10",
+          "summary": "Dhoot Transmission Ltd will open its Rs 3,067-crore IPO on August 10. The price band is set between Rs 829 and Rs 871 per share. This offering includes a fresh issue and an offer f...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-sets-ipo-price-band-at-rs-829-871-issue-to-open-on-aug-10/articleshow/132846264.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: China's central bank vows timely policy adjustments, backs panda bond market",
-          "summary": "China's central bank has pledged to adjust its monetary policy tools in a timely manner while maintaining an appropriately loose policy stance to support the economy. The PBOC also...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-chinas-central-bank-vows-timely-policy-adjustments-backs-panda-bond-market/articleshow/132819048.cms",
+          "title": "Nazara Tech Q1 Results: Co posts Rs 82.5 crore loss; Nitish Mittersain steps down as CEO",
+          "summary": "Nazara Technologies reported a net loss of Rs 82.47 crore for the first quarter. Revenue from operations declined 14 percent to Rs 428.77 crore in Q1 FY27. Nitish Mittersain will r...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nazara-tech-q1-results-co-posts-rs-82-5-crore-loss-nitish-mittersain-steps-down-as-ceo/articleshow/132846232.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Bharti Airtel Q1 may see steady growth, flat Arpu",
-          "summary": "Bharti Airtel's net profit is expected to increase 47% on-year and 20% on-quarter to ₹8,759 crore in Q1FY27....",
-          "link": "https://www.livemint.com/companies/news/bharti-airtel-q1-earnings-airtel-vs-jio-telecom-industry-india-11785729969331.html",
+          "title": "Bain Capital leads talks to buy majority stake in Cello World",
+          "summary": "Bain Capital is leading talks to acquire a controlling stake in Cello World from its promoters in a deal valued at over ₹3,000 crore, as private equity interest in India's consumer...",
+          "link": "https://www.livemint.com/companies/bain-capital-cello-world-private-equity-stake-sale-promoters-kotak-investment-banking-consumerware-11785808997205.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Dexcom tweaks full-year outlook after reporting 13% growth in Q2",
-          "summary": "Following the release of its Q2 results on 30 July, Dexcom's company’s shares on the Nasdaq rose over 8% to $81.04 at market open on 31 July. The post Dexcom tweaks full-year outlo...",
-          "link": "https://www.medicaldevice-network.com/news/dexcom-tweaks-full-year-outlook-after-reporting-13-growth-in-q2/",
+          "title": "Profusa vies for potential G3 Vision Labs acquisition",
+          "summary": "If the acquisition goes ahead, Profusa will add several routine chemistry, toxicology and pathology diagnostic offerings to its portfolio. The post Profusa vies for potential G3 Vi...",
+          "link": "https://www.medicaldevice-network.com/news/profusa-potential-g3-vision-labs-acquisition-diagnostics/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Uplers introduces AI-powered matching to help startups hire faster",
-          "summary": "As startups compete for specialized talent, Uplers introduces AI-powered matching to help founders identify high-fit candidates faster through smaller, role-aligned shortlists. Eve...",
-          "link": "https://yourstory.com/2026/07/uplers-introduces-ai-powered-matching-help-startups-hire-faster",
+          "title": "7 Books that make you realise you can't control everything",
+          "summary": "Discover seven insightful books that explore uncertainty, acceptance, and the freedom that comes from letting go of control....",
+          "link": "https://yourstory.com/2026/06/books-realise-cant-control-everything",
           "source": "YourStory"
         },
         {
-          "title": "Youth Photographic Society showcases winners of 2026 international competition",
-          "summary": "In this photo essay, we showcase the YPS photography exhibition at Karnataka Chitrakala Parishath, along with curator insights....",
-          "link": "https://yourstory.com/2026/07/youth-photographic-society-creativity-awards",
+          "title": "5 Books that explore the cost of chasing perfection",
+          "summary": "Discover five insightful books that reveal how perfectionism can undermine happiness, creativity, relationships, and personal growth....",
+          "link": "https://yourstory.com/2026/06/5-books-explore-cost-chasing-perfection",
           "source": "YourStory"
         },
         {
-          "title": "LEAP India Files RHP For ₹2,480 Cr IPO, Seeks $735 Mn Valuation",
-          "summary": "Logistics tech provider LEAP India has filed its RHP for up to ₹2,480 Cr IPO and set a price band&#8230;...",
-          "link": "https://inc42.com/buzz/leap-india-files-rhp-for-%e2%82%b92480-cr-ipo-seeks-735-mn-valuation/",
+          "title": "Ather’s Stellar Q1, Klassroom IPO Day 2 & More",
+          "summary": "Ather Turns A Corner Amid concerns of sliding EV two wheeler sales in India, Ather managed to sharply shrink its&#8230;...",
+          "link": "https://inc42.com/buzz/athers-stellar-q1-klassroom-ipo-day-2-more/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Choosing PCB Design Software for Small Teams and Enterprises",
-          "summary": "One engineer picking a PCB design software is looking to solve a design problem. But fifty engineers choosing a PCB design software are looking to solve a data problem: who owns wh...",
-          "link": "https://www.designworldonline.com/choosing-pcb-design-software-for-small-teams-and-enterprises/",
+          "title": "The Control Room, Episode 4: Why AI projects fail and how teams can succeed",
+          "summary": "In June 2026, Bloomberg broke the news that Ford has been rehiring “gray beards” for the past three years to fix quality problems its automated systems could not. A surge of headli...",
+          "link": "https://www.designworldonline.com/the-control-room-episode-4-why-ai-projects-fail-and-how-teams-can-succeed/",
           "source": "Design World"
         },
         {
-          "title": "Travel for Engineers, Episode 7: Safety & elevators",
-          "summary": "Elevators are often viewed as mere functional utilities, but Episode 7 of &#8220;Travel for Engineers&#8221; reveals the intricate engineering marathons occurring behind those slid...",
-          "link": "https://www.designworldonline.com/travel-for-engineers-episode-7-safety-elevators/",
+          "title": "Overcoming Modern Motion Control Challenges with Enidine’s Energy Absorption and Vibration Isolation Solutions",
+          "summary": "Engineering Better Motion Control By Rob Marshick, National Sales Manager &#8211; Americas Manufacturers have never asked more of their equipment. Production lines are expected to ...",
+          "link": "https://www.designworldonline.com/overcoming-modern-motion-control-challenges-with-enidines-energy-absorption-and-vibration-isolation-solutions/",
           "source": "Design World"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg"
         },
         {
-          "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The paper is available here:\nhttps://jiashunwang.github.io/HIL/\n\n🙏 We would like to thank our ...",
-          "link": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+          "title": "Another DeepSeek Moment Has Arrived",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4 Flash 0731:\nhttps://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\n\nDeepSeek AP...",
+          "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg"
+          "thumbnail": "https://i3.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg"
         }
       ]
     }
