@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, August 04, 2026 at 10:15 AM IST",
-  "last_updated_iso": "2026-08-04T10:15:21.487988",
+  "last_updated": "Wednesday, August 05, 2026 at 10:14 AM IST",
+  "last_updated_iso": "2026-08-05T10:14:48.243896",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24612.25,
-        "change": -162.04999999999927,
-        "change_pct": -0.6541052623081147,
-        "is_up": false
+        "price": 24621.85,
+        "change": 6.94999999999709,
+        "change_pct": 0.02823493087518978,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 78846.13,
-        "change": 207.10000000000582,
-        "change_pct": 0.2633552321283793,
+        "price": 78703.24,
+        "change": 274.29000000000815,
+        "change_pct": 0.34973055230244465,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57828.6,
-        "change": -419.34999999999854,
-        "change_pct": -0.7199395000167363,
+        "price": 57880.65,
+        "change": -26.549999999995634,
+        "change_pct": -0.045849220822273634,
         "is_up": false
       }
     ],
     "gainers": [
       {
         "name": "L&T",
-        "price": 4024.0,
-        "change": -1.0,
-        "change_pct": -0.02484472049689441,
-        "is_up": false
+        "price": 4060.5,
+        "change": 70.5,
+        "change_pct": 1.7669172932330828,
+        "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 14138.0,
-        "change": -12.0,
-        "change_pct": -0.08480565371024736,
-        "is_up": false
+        "name": "Wipro",
+        "price": 187.26,
+        "change": 0.9599999999999795,
+        "change_pct": 0.5152979066022434,
+        "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1957.3,
-        "change": -6.2000000000000455,
-        "change_pct": -0.3157626687038475,
-        "is_up": false
+        "name": "Bharti Airtel",
+        "price": 1976.6,
+        "change": 6.5,
+        "change_pct": 0.3299324907365109,
+        "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1158.0,
-        "change": -22.0,
-        "change_pct": -1.864406779661017,
+        "name": "Sun Pharma",
+        "price": 1940.5,
+        "change": -23.5,
+        "change_pct": -1.1965376782077393,
         "is_up": false
       },
       {
         "name": "TCS",
-        "price": 2440.6,
-        "change": -33.09999999999991,
-        "change_pct": -1.3380765654687274,
+        "price": 2433.0,
+        "change": -27.0,
+        "change_pct": -1.097560975609756,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1305.6,
-        "change": -13.400000000000091,
-        "change_pct": -1.0159211523881797,
+        "name": "HDFC Bank",
+        "price": 739.35,
+        "change": -2.6499999999999773,
+        "change_pct": -0.3571428571428541,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.27,
-        "change": -0.05700000000000216,
-        "change_pct": -0.059794182130983,
+        "price": 95.0275,
+        "change": -0.3404999999999916,
+        "change_pct": -0.3570380001677623,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4118.0,
-        "change": 27.5,
-        "change_pct": 0.672289451167339,
+        "price": 4195.5,
+        "change": 42.899999999999636,
+        "change_pct": 1.0330877040889956,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises....",
-          "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+          "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+          "summary": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call....",
+          "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
           "source": "TechCrunch"
         },
         {
-          "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
-          "summary": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade....",
-          "link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+          "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+          "summary": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotax...",
+          "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
           "source": "TechCrunch"
         },
         {
-          "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+          "title": "Don’t screw this up, Marvel",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
+          "link": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
           "source": "The Verge"
         },
         {
-          "title": "Your Fitbit data can now connect directly to Apple Health",
+          "title": "Now you can securely link multiple phones to one Signal account",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+          "link": "https://www.theverge.com/tech/975407/signal-linked-devices-sync",
           "source": "The Verge"
         },
         {
-          "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-          "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities....",
-          "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+          "title": "Senators demand crackdown on wildfire \"prediction markets\"",
+          "summary": "Fire experts warn such markets could incentivize arson....",
+          "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Dhoot Transmission sets IPO price band at Rs 829-871; issue to open on Aug 10",
-          "summary": "Dhoot Transmission Ltd will open its Rs 3,067-crore IPO on August 10. The price band is set between Rs 829 and Rs 871 per share. This offering includes a fresh issue and an offer f...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-sets-ipo-price-band-at-rs-829-871-issue-to-open-on-aug-10/articleshow/132846264.cms",
+          "title": "Nykaa shares dip 3% despite multifold jump in Q1 profit; analysts weigh in",
+          "summary": "Nykaa operator FSN E-Commerce Ventures saw its shares fall despite a strong Q1 FY27 performance. Consolidated net profit more than tripled to Rs 80 crore, while revenue rose 29% Yo...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nykaa-shares-dip-3-despite-multifold-jump-in-q1-profit-analysts-weigh-in/articleshow/132889186.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Nazara Tech Q1 Results: Co posts Rs 82.5 crore loss; Nitish Mittersain steps down as CEO",
-          "summary": "Nazara Technologies reported a net loss of Rs 82.47 crore for the first quarter. Revenue from operations declined 14 percent to Rs 428.77 crore in Q1 FY27. Nitish Mittersain will r...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nazara-tech-q1-results-co-posts-rs-82-5-crore-loss-nitish-mittersain-steps-down-as-ceo/articleshow/132846232.cms",
+          "title": "Bharti Airtel shares jump 4% after Q1 results. Here’s what Jefferies, CLSA, others are saying",
+          "summary": "Bharti Airtel shares rose 4% after the telecom major reported a 37% year-on-year jump in June-quarter net profit and an 18% increase in revenue. Brokerages remained bullish, with t...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtel-shares-jump-4-after-q1-results-heres-what-jefferies-clsa-others-are-saying/articleshow/132889091.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Bain Capital leads talks to buy majority stake in Cello World",
-          "summary": "Bain Capital is leading talks to acquire a controlling stake in Cello World from its promoters in a deal valued at over ₹3,000 crore, as private equity interest in India's consumer...",
-          "link": "https://www.livemint.com/companies/bain-capital-cello-world-private-equity-stake-sale-promoters-kotak-investment-banking-consumerware-11785808997205.html",
+          "title": "Adani's bumper capex trickles down to smaller infra firms",
+          "summary": "The Adani Group’s ₹1.53 trillion capex plan for FY26 is emerging as a major growth driver for smaller listed engineering and construction companies. For some, the conglomerate acco...",
+          "link": "https://www.livemint.com/companies/adanis-bumper-capex-trickles-down-to-smaller-infra-firms-11785822338520.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Profusa vies for potential G3 Vision Labs acquisition",
-          "summary": "If the acquisition goes ahead, Profusa will add several routine chemistry, toxicology and pathology diagnostic offerings to its portfolio. The post Profusa vies for potential G3 Vi...",
-          "link": "https://www.medicaldevice-network.com/news/profusa-potential-g3-vision-labs-acquisition-diagnostics/",
+          "title": "GE HealthCare expands breast imaging portfolio with launch of new product duo",
+          "summary": "The new tools are designed to streamline lesion detection in women with dense breast tissue and enterprise-wide workflows. The post GE HealthCare expands breast imaging portfolio w...",
+          "link": "https://www.medicaldevice-network.com/news/ge-healthcare-expands-breast-imaging-portfolio-with-launch-of-new-product-duo/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "7 Books that make you realise you can't control everything",
-          "summary": "Discover seven insightful books that explore uncertainty, acceptance, and the freedom that comes from letting go of control....",
-          "link": "https://yourstory.com/2026/06/books-realise-cant-control-everything",
+          "title": "Startup news and updates: Daily roundup (August 4, 2026)",
+          "summary": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, August 4, 2026....",
+          "link": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-4-2026",
           "source": "YourStory"
         },
         {
-          "title": "5 Books that explore the cost of chasing perfection",
-          "summary": "Discover five insightful books that reveal how perfectionism can undermine happiness, creativity, relationships, and personal growth....",
-          "link": "https://yourstory.com/2026/06/5-books-explore-cost-chasing-perfection",
+          "title": "7 Books that teach you how to recover from disappointment",
+          "summary": "Discover 7 insightful books that help you recover from disappointment, build resilience, regain hope, and move forward with greater strength....",
+          "link": "https://yourstory.com/2026/06/books-recover-disappointment-resilience-lessons",
           "source": "YourStory"
         },
         {
-          "title": "Ather’s Stellar Q1, Klassroom IPO Day 2 & More",
-          "summary": "Ather Turns A Corner Amid concerns of sliding EV two wheeler sales in India, Ather managed to sharply shrink its&#8230;...",
-          "link": "https://inc42.com/buzz/athers-stellar-q1-klassroom-ipo-day-2-more/",
+          "title": "Nykaa’s Q1 Snapshot, Klassroom Wraps Up IPO & More",
+          "summary": "Nykaa’s Stellar Q1 Nykaa fired on all cylinders in Q1. The quarter saw the beauty ecommerce giant clock a three-fold&#8230;...",
+          "link": "https://inc42.com/buzz/nykaas-q1-snapshot-klassroom-wraps-up-ipo-more/",
           "source": "Inc42"
         }
       ]
@@ -211,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "The Control Room, Episode 4: Why AI projects fail and how teams can succeed",
-          "summary": "In June 2026, Bloomberg broke the news that Ford has been rehiring “gray beards” for the past three years to fix quality problems its automated systems could not. A surge of headli...",
-          "link": "https://www.designworldonline.com/the-control-room-episode-4-why-ai-projects-fail-and-how-teams-can-succeed/",
+          "title": "Technical thinking: Purple dye and satellites",
+          "summary": "By Mark Jones It was a surprising night for Michigan in April, both warm and clear. With all the lights off, I positioned myself on the patio staring at the sky hoping to enjoy the...",
+          "link": "https://www.designworldonline.com/technical-thinking-purple-dye-and-satellites/",
           "source": "Design World"
         },
         {
-          "title": "Overcoming Modern Motion Control Challenges with Enidine’s Energy Absorption and Vibration Isolation Solutions",
-          "summary": "Engineering Better Motion Control By Rob Marshick, National Sales Manager &#8211; Americas Manufacturers have never asked more of their equipment. Production lines are expected to ...",
-          "link": "https://www.designworldonline.com/overcoming-modern-motion-control-challenges-with-enidines-energy-absorption-and-vibration-isolation-solutions/",
+          "title": "igus energy chain supports 600° robot cable rotation",
+          "summary": "igus has announced a self-supporting twisterchain energy chain for cable management on compact industrial robots with rotation angles of more than 600°. The rotary module sits in a...",
+          "link": "https://www.designworldonline.com/igus-energy-chain-supports-600-robot-cable-rotation/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-          "summary": "This is a really easy phone to fall in love with. Beware.\n\nEnter to win $100,000 USD or 3 cars for free at https://ridge.com/MKBHD\n\n(Affiliate Link) Samsung Galaxy Z Fold 8: https:...",
-          "link": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-          "source": "MKBHD",
-          "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg"
-        },
-        {
-          "title": "Another DeepSeek Moment Has Arrived",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4 Flash 0731:\nhttps://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\n\nDeepSeek AP...",
-          "link": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i3.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg"
         }
       ]
     }
