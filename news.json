@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, August 06, 2026 at 10:15 AM IST",
-  "last_updated_iso": "2026-08-06T10:15:19.656694",
+  "last_updated": "Friday, August 07, 2026 at 09:42 AM IST",
+  "last_updated_iso": "2026-08-07T09:42:22.151535",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24629.4,
-        "change": 4.75,
-        "change_pct": 0.0192896142686292,
-        "is_up": true
+        "price": 24604.35,
+        "change": -31.650000000001455,
+        "change_pct": -0.12847053093035174,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 78736.12,
-        "change": 155.11999999999534,
-        "change_pct": 0.19740140746490287,
-        "is_up": true
+        "price": 78696.67,
+        "change": -258.0899999999965,
+        "change_pct": -0.3268833949973333,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57792.25,
-        "change": 52.30000000000291,
-        "change_pct": 0.09057853358030776,
-        "is_up": true
+        "price": 57870.15,
+        "change": -193.5,
+        "change_pct": -0.3332549710533182,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Reliance",
-        "price": 1300.6,
-        "change": 20.59999999999991,
-        "change_pct": 1.6093749999999927,
+        "name": "TCS",
+        "price": 2437.5,
+        "change": 64.5,
+        "change_pct": 2.718078381795196,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1963.5,
-        "change": 23.5,
-        "change_pct": 1.2113402061855671,
+        "name": "Infosys",
+        "price": 1179.0,
+        "change": 14.0,
+        "change_pct": 1.201716738197425,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1451.5,
-        "change": 1.400000000000091,
-        "change_pct": 0.09654506585753335,
+        "name": "Wipro",
+        "price": 188.08,
+        "change": 1.960000000000008,
+        "change_pct": 1.0530840318074404,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1964.5,
-        "change": -13.5,
-        "change_pct": -0.6825075834175935,
-        "is_up": false
-      },
-      {
         "name": "Maruti",
-        "price": 14123.0,
-        "change": -67.0,
-        "change_pct": -0.4721634954193094,
+        "price": 13927.0,
+        "change": -153.0,
+        "change_pct": -1.0866477272727273,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2404.5,
-        "change": -8.5,
-        "change_pct": -0.3522585992540406,
+        "name": "Reliance",
+        "price": 1319.4,
+        "change": -5.599999999999909,
+        "change_pct": -0.4226415094339554,
+        "is_up": false
+      },
+      {
+        "name": "ICICI Bank",
+        "price": 1453.5,
+        "change": -4.0,
+        "change_pct": -0.27444253859348194,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.16,
-        "change": 0.05299999999999727,
-        "change_pct": 0.05572670781330215,
+        "price": 95.26,
+        "change": 0.14500000000001023,
+        "change_pct": 0.15244703779636254,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4316.7,
-        "change": 11.5,
-        "change_pct": 0.2671188330391155,
+        "price": 4322.8,
+        "change": 23.199999999999818,
+        "change_pct": 0.5395850776816405,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
-          "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing...",
-          "link": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker....",
+          "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
           "source": "TechCrunch"
         },
         {
-          "title": "Nikita Bier steps down as X’s head of product",
-          "summary": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X....",
-          "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+          "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+          "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo ...",
+          "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
           "source": "TechCrunch"
         },
         {
-          "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+          "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+          "link": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
           "source": "The Verge"
         },
         {
-          "title": "X product chief Nikita Bier is leaving after one year",
+          "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
           "summary": "",
-          "link": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
           "source": "The Verge"
         },
         {
-          "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-          "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess....",
-          "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+          "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+          "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision....",
+          "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
           "source": "Ars Technica"
         }
       ]
@@ -130,27 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: Hong Kong insurers slump after report on China taxing offshore policy income",
-          "summary": "Hong Kong-listed insurance stocks slumped after reports that Chinese tax authorities have begun levying a 20% personal income tax on income earned from offshore insurance policies....",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-hong-kong-insurers-slump-after-report-on-china-taxing-offshore-policy-income/articleshow/132980125.cms",
+          "title": "Hindustan Aeronautics among 4 stocks flashing bullish signals, hinting at a possible uptrend",
+          "summary": "On August 6, four stocks in the Nifty500 appeared on the White Marubozu bullish scanner, according to StockEdge's technical scan data. The White Marubozu is a bullish candlestick p...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-aeronautics-among-4-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/133020514.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: Japan's Nikkei slips 2% as tech selloff offsets gains in broader market",
-          "summary": "Japan's Nikkei 225 fell nearly 2% on Thursday as a global technology selloff weighed on heavyweight semiconductor stocks, overshadowing gains across much of the broader market. Whi...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-slips-2-as-tech-selloff-offsets-gains-in-broader-market/articleshow/132981551.cms",
+          "title": "Optimystix Entertainment IPO opens today: GMP, price band, subscription dates and key details",
+          "summary": "Optimystix Entertainment IPO opens today, August 7, on the NSE SME platform. The ₹108.5-crore issue comprises a fresh issue of 50 lakh shares worth ₹87.5 crore and an OFS of 12 lak...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/optimystix-entertainment-ipo-opens-today-gmp-price-band-subscription-dates-and-key-details/articleshow/133020431.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "France is banning unsolicited telemarketing calls starting next week",
-          "summary": "France is banning unsolicited telemarketing calls starting next week...",
-          "link": "https://www.livemint.com/companies/france-is-banning-unsolicited-telemarketing-calls-starting-next-week-11785991333562.html",
-          "source": "Livemint Companies"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Akasa's Dube rejects market share chase, backs airport operators investing in airlines",
-          "summary": "Addressing concerns that airport owners could favour their own airlines, Dube said the responsibility lies with regulators to establish and enforce appropriate safeguards....",
-          "link": "https://www.livemint.com/companies/news/akasa-air-vinay-dube-market-share-chase-airport-operators-investing-in-airlines-profitability-focus-11785941773235.html",
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "US generics tariffs more negotiation tactic than real threat: Biocon’s Kiran Mazumdar-Shaw",
+          "summary": "The company, which is among the world’s top biosimilars manufacturers, remains in a wait-and-watch mode, while exploring partnerships for manufacturing in the US if required, Shaw ...",
+          "link": "https://www.livemint.com/companies/news/us-generics-tariffs-more-negotiation-tactic-than-real-threat-biocon-s-kiran-mazumdarshaw-11786018812064.html",
           "source": "Livemint Companies"
         }
       ]
@@ -171,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "What is ‘Premium Content’ on Medical Device Network?",
-          "summary": "Premium Content is our new free subscription that provides access to deeper analysis, data-led features and exclusive reports. The post What is ‘Premium Content’ on Medical Device ...",
-          "link": "https://www.medicaldevice-network.com/news/what-is-premium-content-on-medical-device-network/",
+          "title": "Medtronic’s ablation system lands ventricular arrhythmia indication expansion in Europe",
+          "summary": "Medtronic is also generating safety and efficacy data to support a ventricular arrhythmia clearance for its ablation system with the FDA. The post Medtronic’s ablation system lands...",
+          "link": "https://www.medicaldevice-network.com/news/medtronic-ablation-system-lands-ventricular-arrhythmia-indication-expansion-in-europe/",
           "source": "Medical Device Network"
         }
       ]
@@ -182,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "From a small room to a 100,000 sq m manufacturing powerhouse",
-          "summary": "From a small room to a global manufacturing powerhouse: The D-Lyft story Built on automation, in-house manufacturing, and a growing skilled workforce, Rohtak-based D-Lyft is taking...",
-          "link": "https://yourstory.com/2026/07/small-room-100000-sq-m-manufacturing-powerhouse",
+          "title": "Jammu & Kashmir's startup reckoning: What the next chapter demands",
+          "summary": "Jammu and Kashmir has laid the groundwork for startups. Here's what the region needs next to attract investment, scale innovation and create jobs....",
+          "link": "https://yourstory.com/2026/07/jammu-kashmir-startup-ecosystem-next-chapter",
           "source": "YourStory"
         },
         {
-          "title": "Cresa's fix for India's 12-billion sanitary pad disposal problem",
-          "summary": "Cresa, a Pune startup founded by Sarika Pathak and Mohan Kulkarni in 2021, makes biodegradable, plastic-free sanitary pads that dissolve in water....",
-          "link": "https://yourstory.com/2026/08/cresas-fix-for-indias-sanitary-pad-disposal-problem",
+          "title": "Why India’s spacetech sector is outpacing the rest of deeptech",
+          "summary": "India’s deeptech startups have made significant progress in developing hardware, but many still struggle to scale commercially. Experts explain why spacetech has been the exception...",
+          "link": "https://yourstory.com/2026/08/why-indias-spacetech-is-scaling-while-other-deeptech-startups-struggle",
           "source": "YourStory"
         },
         {
-          "title": "Meta’s Zuck Apologises, PB Fintech Roars In Q1 & More",
-          "summary": "Meta In Choppy Waters After being pulled up by the Centre over content moderation lapses, including the recent removal of&#8230;...",
-          "link": "https://inc42.com/buzz/metas-zuck-apologises-pb-fintech-roars-in-q1-more/",
+          "title": "Instant Help’s Fight Against Cash Burn, Pixxel’s Next Upgrade & More",
+          "summary": "Fixing Instant Services’ Unit Economics The battle for India’s instant home services is on. Players are clocking record orders, raising&#8230;...",
+          "link": "https://inc42.com/buzz/instant-helps-fight-against-cash-burn-pixxels-next-upgrade-more/",
           "source": "Inc42"
         }
       ]
@@ -205,28 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Technical thinking: Purple dye and satellites",
-          "summary": "By Mark Jones It was a surprising night for Michigan in April, both warm and clear. With all the lights off, I positioned myself on the patio staring at the sky hoping to enjoy the...",
-          "link": "https://www.designworldonline.com/technical-thinking-purple-dye-and-satellites/",
+          "title": "August 2026 issue: Why Ford needed a few gray hairs",
+          "summary": "The August 2026 issue of Design World examines Ford&#8217;s decision to bring back 350 veteran &#8220;gray beard&#8221; engineers to fix quality problems its automated systems coul...",
+          "link": "https://www.designworldonline.com/august-2026-issue-why-ford-needed-a-few-gray-hairs/",
           "source": "Design World"
         },
         {
-          "title": "igus energy chain supports 600° robot cable rotation",
-          "summary": "igus has announced a self-supporting twisterchain energy chain for cable management on compact industrial robots with rotation angles of more than 600°. The rotary module sits in a...",
-          "link": "https://www.designworldonline.com/igus-energy-chain-supports-600-robot-cable-rotation/",
+          "title": "GAM forms German unit for PSC gear reducers",
+          "summary": "GAM Enterprises, LLC, a manufacturer of precision gear reducers and automation products, announced it has completed the acquisition of certain assets of Schaeffler Ultra Precision ...",
+          "link": "https://www.designworldonline.com/gam-forms-german-unit-for-psc-gear-reducers/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-          "summary": "This is a really easy phone to fall in love with. Beware.\n\nEnter to win $100,000 USD or 3 cars for free at https://ridge.com/MKBHD\n\n(Affiliate Link) Samsung Galaxy Z Fold 8: https:...",
-          "link": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-          "source": "MKBHD",
-          "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg"
         }
       ]
     }
