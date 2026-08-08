@@ -1,91 +1,91 @@
 {
-  "last_updated": "Friday, August 07, 2026 at 09:42 AM IST",
-  "last_updated_iso": "2026-08-07T09:42:22.151535",
+  "last_updated": "Saturday, August 08, 2026 at 08:40 AM IST",
+  "last_updated_iso": "2026-08-08T08:40:44.122135",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24604.35,
-        "change": -31.650000000001455,
-        "change_pct": -0.12847053093035174,
+        "price": 24570.65,
+        "change": -65.34999999999854,
+        "change_pct": -0.26526221789250914,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 78696.67,
-        "change": -258.0899999999965,
-        "change_pct": -0.3268833949973333,
+        "price": 78499.17,
+        "change": -455.5899999999965,
+        "change_pct": -0.5770266415856328,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57870.15,
-        "change": -193.5,
-        "change_pct": -0.3332549710533182,
+        "price": 57746.45,
+        "change": -317.20000000000437,
+        "change_pct": -0.5462970378197106,
         "is_up": false
       }
     ],
     "gainers": [
       {
         "name": "TCS",
-        "price": 2437.5,
-        "change": 64.5,
-        "change_pct": 2.718078381795196,
+        "price": 2452.7,
+        "change": 79.69999999999982,
+        "change_pct": 3.358617783396537,
         "is_up": true
       },
       {
         "name": "Infosys",
-        "price": 1179.0,
-        "change": 14.0,
-        "change_pct": 1.201716738197425,
+        "price": 1175.1,
+        "change": 10.099999999999909,
+        "change_pct": 0.866952789699563,
         "is_up": true
       },
       {
         "name": "Wipro",
-        "price": 188.08,
-        "change": 1.960000000000008,
-        "change_pct": 1.0530840318074404,
+        "price": 187.53,
+        "change": 1.4099999999999966,
+        "change_pct": 0.7575757575757557,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 13927.0,
-        "change": -153.0,
-        "change_pct": -1.0866477272727273,
-        "is_up": false
-      },
-      {
-        "name": "Reliance",
-        "price": 1319.4,
-        "change": -5.599999999999909,
-        "change_pct": -0.4226415094339554,
-        "is_up": false
-      },
-      {
         "name": "ICICI Bank",
-        "price": 1453.5,
-        "change": -4.0,
-        "change_pct": -0.27444253859348194,
+        "price": 1421.0,
+        "change": -36.5,
+        "change_pct": -2.5042881646655233,
+        "is_up": false
+      },
+      {
+        "name": "HDFC Bank",
+        "price": 731.0,
+        "change": -3.2999999999999545,
+        "change_pct": -0.4494075990739418,
+        "is_up": false
+      },
+      {
+        "name": "Sun Pharma",
+        "price": 1945.0,
+        "change": -6.0,
+        "change_pct": -0.3075345976422348,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.26,
-        "change": 0.14500000000001023,
-        "change_pct": 0.15244703779636254,
+        "price": 95.198,
+        "change": 0.08299999999999841,
+        "change_pct": 0.0872627871523928,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4322.8,
-        "change": 23.199999999999818,
-        "change_pct": 0.5395850776816405,
+        "price": 4401.3,
+        "change": 101.69999999999982,
+        "change_pct": 2.365336310354447,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker....",
-          "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+          "title": "OpenAI says it slowed Astra model development over security concerns",
+          "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against tr...",
+          "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
           "source": "TechCrunch"
         },
         {
-          "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-          "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo ...",
-          "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending....",
+          "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
           "source": "TechCrunch"
         },
         {
-          "title": "Trevor Noah is hosting Google’s Pixel 11 launch event",
+          "title": "The gaming site sponsored by Walmart lays off its editorial staff",
           "summary": "",
-          "link": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
+          "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
           "source": "The Verge"
         },
         {
-          "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+          "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
           "source": "The Verge"
         },
         {
-          "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
-          "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision....",
-          "link": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+          "title": "Europe's free satellite service just made it easier to track wildfires",
+          "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season....",
+          "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
           "source": "Ars Technica"
         }
       ]
@@ -130,33 +130,27 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Hindustan Aeronautics among 4 stocks flashing bullish signals, hinting at a possible uptrend",
-          "summary": "On August 6, four stocks in the Nifty500 appeared on the White Marubozu bullish scanner, according to StockEdge's technical scan data. The White Marubozu is a bullish candlestick p...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-aeronautics-among-4-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/133020514.cms",
+          "title": "US stocks: S&amp;P closes at record high as soft jobs report eases rate-hike concerns",
+          "summary": "The US stock market enjoyed a significant boost on Friday as the S&amp;P closed at an all-time high. The unexpected rise in job losses led to reduced expectations for a Federal Res...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Optimystix Entertainment IPO opens today: GMP, price band, subscription dates and key details",
-          "summary": "Optimystix Entertainment IPO opens today, August 7, on the NSE SME platform. The ₹108.5-crore issue comprises a fresh issue of 50 lakh shares worth ₹87.5 crore and an OFS of 12 lak...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/optimystix-entertainment-ipo-opens-today-gmp-price-band-subscription-dates-and-key-details/articleshow/133020431.cms",
+          "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening",
+          "summary": "The weak job report for July has tempered expectations surrounding a Federal Reserve rate increase. Consequently, futures markets now indicate a diminished probability of a rise in...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-cuts-odds-of-fed-hike-after-jobs-data-but-economists-still-see-case-for-tightening/articleshow/133040583.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
+          "title": "Trump administration to invest $3 billion into minerals projects to boost US defense supply chains",
+          "summary": "USA-TRUMP-MINING:Trump administration to invest $3 billion into minerals projects to boost US defense supply chains...",
+          "link": "https://www.livemint.com/companies/trump-administration-to-invest-3-billion-into-minerals-projects-to-boost-us-defense-supply-chains-11786138625673.html",
+          "source": "Livemint Companies"
         },
         {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "US generics tariffs more negotiation tactic than real threat: Biocon’s Kiran Mazumdar-Shaw",
-          "summary": "The company, which is among the world’s top biosimilars manufacturers, remains in a wait-and-watch mode, while exploring partnerships for manufacturing in the US if required, Shaw ...",
-          "link": "https://www.livemint.com/companies/news/us-generics-tariffs-more-negotiation-tactic-than-real-threat-biocon-s-kiran-mazumdarshaw-11786018812064.html",
+          "title": "Ethan Allen CEO Defends Leadership After Activist Challenge",
+          "summary": "Ethan Allen Interiors Inc. Chief Executive Officer Farooq Kathwari, responding to an activist investor’s proxy challenge this week, said the furniture store is focusing on long-ter...",
+          "link": "https://www.livemint.com/companies/ethan-allen-ceo-defends-leadership-after-activist-challenge-11786129304607.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +171,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Medtronic’s ablation system lands ventricular arrhythmia indication expansion in Europe",
-          "summary": "Medtronic is also generating safety and efficacy data to support a ventricular arrhythmia clearance for its ablation system with the FDA. The post Medtronic’s ablation system lands...",
-          "link": "https://www.medicaldevice-network.com/news/medtronic-ablation-system-lands-ventricular-arrhythmia-indication-expansion-in-europe/",
+          "title": "iRhythm advances cardiac monitoring provision with $287.5m VitalConnect acquisition",
+          "summary": "IRhythm announced the deal alongside its Q2 financials in which its revenues rose 20.1% YoY. The post iRhythm advances cardiac monitoring provision with $287.5m VitalConnect acquis...",
+          "link": "https://www.medicaldevice-network.com/news/irhythm-advances-cardiac-monitoring-provision-with-287m-vitalconnect-acquisition/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +182,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Jammu & Kashmir's startup reckoning: What the next chapter demands",
-          "summary": "Jammu and Kashmir has laid the groundwork for startups. Here's what the region needs next to attract investment, scale innovation and create jobs....",
-          "link": "https://yourstory.com/2026/07/jammu-kashmir-startup-ecosystem-next-chapter",
+          "title": "Patience, practice, persistence: Tips on creative success from the Art Bengaluru Collective",
+          "summary": "In this photo essay, we feature more highlights from the Art Bengaluru Collective’s exhibition, along with artists’ insights....",
+          "link": "https://yourstory.com/2026/08/patience-practice-persistence-art-bengaluru-collective-photography",
           "source": "YourStory"
         },
         {
-          "title": "Why India’s spacetech sector is outpacing the rest of deeptech",
-          "summary": "India’s deeptech startups have made significant progress in developing hardware, but many still struggle to scale commercially. Experts explain why spacetech has been the exception...",
-          "link": "https://yourstory.com/2026/08/why-indias-spacetech-is-scaling-while-other-deeptech-startups-struggle",
+          "title": "The rise of predictive commerce for India’s MSMEs",
+          "summary": "In today’s digital-first environment, the question is no longer how quickly businesses can respond to disruptions but how effectively they can anticipate them before they happen. T...",
+          "link": "https://yourstory.com/2026/08/the-rise-of-predictive-commerce-for-indias-msmes",
           "source": "YourStory"
         },
         {
-          "title": "Instant Help’s Fight Against Cash Burn, Pixxel’s Next Upgrade & More",
-          "summary": "Fixing Instant Services’ Unit Economics The battle for India’s instant home services is on. Players are clocking record orders, raising&#8230;...",
-          "link": "https://inc42.com/buzz/instant-helps-fight-against-cash-burn-pixxels-next-upgrade-more/",
+          "title": "Hero MotoCorp To Debut Maiden Electric Motorcycle Next Year",
+          "summary": "Auto giant Hero MotoCorp is all set to unveil its first batch of electric motorcycles next year. While the company&#8230;...",
+          "link": "https://inc42.com/buzz/hero-motocorp-to-debut-maiden-electric-motorcycle-next-year/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +205,35 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "Connect, adapt, grow: Thoughts on loving your job and navigating change",
+          "summary": "Loving your job is about finding connections between who you are, what you do, and who you work with. It&#8217;s all these fibers that connect personal values and professional goal...",
+          "link": "https://www.designworldonline.com/connect-adapt-grow-thoughts-on-loving-your-job-and-navigating-change/",
+          "source": "Design World"
+        },
+        {
           "title": "August 2026 issue: Why Ford needed a few gray hairs",
           "summary": "The August 2026 issue of Design World examines Ford&#8217;s decision to bring back 350 veteran &#8220;gray beard&#8221; engineers to fix quality problems its automated systems coul...",
           "link": "https://www.designworldonline.com/august-2026-issue-why-ford-needed-a-few-gray-hairs/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "Galaxy Z Fold 8 Review: Honeymoon's Over",
+          "summary": "This is a really easy phone to fall in love with. Beware.\n\nEnter to win $100,000 USD or 3 cars for free at https://ridge.com/MKBHD\n\n(Affiliate Link) Samsung Galaxy Z Fold 8: https:...",
+          "link": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+          "source": "MKBHD",
+          "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg"
         },
         {
-          "title": "GAM forms German unit for PSC gear reducers",
-          "summary": "GAM Enterprises, LLC, a manufacturer of precision gear reducers and automation products, announced it has completed the acquisition of certain assets of Schaeffler Ultra Precision ...",
-          "link": "https://www.designworldonline.com/gam-forms-german-unit-for-psc-gear-reducers/",
-          "source": "Design World"
+          "title": "DeepMind Just Changed How AI Sees The World",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Gemma4 paper and some more is available here:\nhttps://arxiv.org/abs/2607.02770\nhttps://x.c...",
+          "link": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i3.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg"
         }
       ]
     }
