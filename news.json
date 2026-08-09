@@ -1,6 +1,6 @@
 {
-  "last_updated": "Saturday, August 08, 2026 at 08:40 AM IST",
-  "last_updated_iso": "2026-08-08T08:40:44.122135",
+  "last_updated": "Sunday, August 09, 2026 at 08:48 AM IST",
+  "last_updated_iso": "2026-08-09T08:48:07.263886",
   "market": {
     "indices": [
       {
@@ -74,18 +74,18 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.198,
-        "change": 0.08299999999999841,
-        "change_pct": 0.0872627871523928,
+        "price": 95.2,
+        "change": 0.08500000000000796,
+        "change_pct": 0.08936550491511114,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4401.3,
-        "change": 101.69999999999982,
-        "change_pct": 2.365336310354447,
+        "price": 4399.7,
+        "change": 100.09999999999945,
+        "change_pct": 2.328123546376394,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "OpenAI says it slowed Astra model development over security concerns",
-          "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against tr...",
-          "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+          "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States....",
+          "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
           "source": "TechCrunch"
         },
         {
-          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending....",
-          "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "summary": "NextSlide says its team members are now working on ChatGPT....",
+          "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
           "source": "TechCrunch"
         },
         {
-          "title": "The gaming site sponsored by Walmart lays off its editorial staff",
+          "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
           "summary": "",
-          "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+          "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
           "source": "The Verge"
         },
         {
-          "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+          "title": "An Amazon data center could have the worst polluting power plant in the country",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
           "source": "The Verge"
         },
         {
-          "title": "Europe's free satellite service just made it easier to track wildfires",
-          "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season....",
-          "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+          "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+          "summary": "About 90 percent of the distance driven by Perseverance has been autonomous....",
+          "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
           "source": "Ars Technica"
         }
       ]
@@ -130,27 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "US stocks: S&amp;P closes at record high as soft jobs report eases rate-hike concerns",
-          "summary": "The US stock market enjoyed a significant boost on Friday as the S&amp;P closed at an all-time high. The unexpected rise in job losses led to reduced expectations for a Federal Res...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms",
+          "title": "Delhivery Q1 Results: Net profit tumbles 65% YoY to Rs 32 crore, but revenue rises 28%",
+          "summary": "Delhivery reported a 65% year-on-year decline in Q1 FY27 net profit to Rs 31.9 crore, despite a 28% rise in revenue to Rs 2,930.7 crore. EBITDA fell 4% as higher labour, fuel and o...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/delhivery-q1-results-net-profit-tumbles-65-yoy-to-rs-32-crore-but-revenue-rises-28/articleshow/133051939.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening",
-          "summary": "The weak job report for July has tempered expectations surrounding a Federal Reserve rate increase. Consequently, futures markets now indicate a diminished probability of a rise in...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-cuts-odds-of-fed-hike-after-jobs-data-but-economists-still-see-case-for-tightening/articleshow/133040583.cms",
+          "title": "India's resilient economy to support markets but global risks remain elevated: Sebi",
+          "summary": "India's financial markets are poised for growth, buoyed by robust domestic economic fundamentals like strong consumer demand and proactive government spending. Nevertheless, intern...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-resilient-economy-to-support-markets-but-global-risks-remain-elevated-sebi/articleshow/133051804.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Trump administration to invest $3 billion into minerals projects to boost US defense supply chains",
-          "summary": "USA-TRUMP-MINING:Trump administration to invest $3 billion into minerals projects to boost US defense supply chains...",
-          "link": "https://www.livemint.com/companies/trump-administration-to-invest-3-billion-into-minerals-projects-to-boost-us-defense-supply-chains-11786138625673.html",
-          "source": "Livemint Companies"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Ethan Allen CEO Defends Leadership After Activist Challenge",
-          "summary": "Ethan Allen Interiors Inc. Chief Executive Officer Farooq Kathwari, responding to an activist investor’s proxy challenge this week, said the furniture store is focusing on long-ter...",
-          "link": "https://www.livemint.com/companies/ethan-allen-ceo-defends-leadership-after-activist-challenge-11786129304607.html",
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
+        },
+        {
+          "title": "L&amp;T Innovation Fund to step up deeptech bets in India",
+          "summary": "L&amp;amp;T Innovation Fund's interest in Indian deeptech comes as investor appetite for Indian deeptech has strengthened amid government efforts to promote indigenous technologies...",
+          "link": "https://www.livemint.com/companies/news/lt-innovation-fund-india-deeptech-startups-global-funds-11786096568665.html",
           "source": "Livemint Companies"
         }
       ]
@@ -182,9 +188,9 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Patience, practice, persistence: Tips on creative success from the Art Bengaluru Collective",
-          "summary": "In this photo essay, we feature more highlights from the Art Bengaluru Collective’s exhibition, along with artists’ insights....",
-          "link": "https://yourstory.com/2026/08/patience-practice-persistence-art-bengaluru-collective-photography",
+          "title": "Turning battery waste into strategic resources: The next opportunity for Indian industry",
+          "summary": "As EV adoption accelerates, end-of-life batteries are emerging as a strategic source of critical minerals. Building a robust battery recycling ecosystem will be key to India's reso...",
+          "link": "https://yourstory.com/2026/07/battery-waste-strategic-resources-next-opportunity-indian-industry",
           "source": "YourStory"
         },
         {
@@ -194,9 +200,9 @@
           "source": "YourStory"
         },
         {
-          "title": "Hero MotoCorp To Debut Maiden Electric Motorcycle Next Year",
-          "summary": "Auto giant Hero MotoCorp is all set to unveil its first batch of electric motorcycles next year. While the company&#8230;...",
-          "link": "https://inc42.com/buzz/hero-motocorp-to-debut-maiden-electric-motorcycle-next-year/",
+          "title": "[Update] Now, Finance Ministry Rules Out Consumer UPI Charges Amid MDR Debate",
+          "summary": "Update &#124; August 8, 21:16 ISST Addressing concerns over merchant discount rates (MDR) on UPI, the finance ministry categorically clarified&#8230;...",
+          "link": "https://inc42.com/buzz/payments-council-rules-out-consumer-mdr-phonepe-razorpay-back-free-upi/",
           "source": "Inc42"
         }
       ]
