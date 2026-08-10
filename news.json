@@ -1,6 +1,6 @@
 {
-  "last_updated": "Sunday, August 09, 2026 at 08:48 AM IST",
-  "last_updated_iso": "2026-08-09T08:48:07.263886",
+  "last_updated": "Monday, August 10, 2026 at 08:58 AM IST",
+  "last_updated_iso": "2026-08-10T08:58:04.688317",
   "market": {
     "indices": [
       {
@@ -13,15 +13,15 @@
       {
         "name": "Sensex",
         "price": 78499.17,
-        "change": -455.5899999999965,
-        "change_pct": -0.5770266415856328,
+        "change": -455.63000000000466,
+        "change_pct": -0.5770770111506895,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
         "price": 57746.45,
-        "change": -317.20000000000437,
-        "change_pct": -0.5462970378197106,
+        "change": -317.15000000000146,
+        "change_pct": -0.5462113957798026,
         "is_up": false
       }
     ],
@@ -74,19 +74,19 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.2,
-        "change": 0.08500000000000796,
-        "change_pct": 0.08936550491511114,
+        "price": 95.198,
+        "change": 0.0,
+        "change_pct": 0.0,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4399.7,
-        "change": 100.09999999999945,
-        "change_pct": 2.328123546376394,
-        "is_up": true
+        "price": 4382.3,
+        "change": -17.399999999999636,
+        "change_pct": -0.39548151010295335,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-          "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States....",
-          "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "summary": "The AI-focused hedge fund is still making some big bets....",
+          "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI acquires presentation startup NextSlide",
-          "summary": "NextSlide says its team members are now working on ChatGPT....",
-          "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "title": "Anthropic is turning Claude Code’s auto mode on by default",
+          "summary": "Programming with Claude Code will soon require even less human oversight....",
+          "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
           "source": "TechCrunch"
         },
         {
-          "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+          "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
           "summary": "",
-          "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+          "link": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
           "source": "The Verge"
         },
         {
-          "title": "An Amazon data center could have the worst polluting power plant in the country",
+          "title": "49ers coach says his Tesla was on Autopilot when he crashed",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+          "link": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
           "source": "The Verge"
         },
         {
-          "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
-          "summary": "About 90 percent of the distance driven by Perseverance has been autonomous....",
-          "link": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+          "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+          "summary": "The massive Toba eruption seems to have had little climate impact....",
+          "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Delhivery Q1 Results: Net profit tumbles 65% YoY to Rs 32 crore, but revenue rises 28%",
-          "summary": "Delhivery reported a 65% year-on-year decline in Q1 FY27 net profit to Rs 31.9 crore, despite a 28% rise in revenue to Rs 2,930.7 crore. EBITDA fell 4% as higher labour, fuel and o...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/delhivery-q1-results-net-profit-tumbles-65-yoy-to-rs-32-crore-but-revenue-rises-28/articleshow/133051939.cms",
+          "title": "Anawil Wire &amp; Engineering shares to list today; GMP points to 21% premium ahead of debut",
+          "summary": "Anawil Wire &amp; Engineering is set to list on the NSE SME platform today, August 10, with a 21% grey market premium (GMP) signalling a strong debut. Its IPO was subscribed 149.13...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/anawil-wire-engineering-shares-to-list-today-gmp-points-to-21-premium-ahead-of-debut/articleshow/133079189.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "India's resilient economy to support markets but global risks remain elevated: Sebi",
-          "summary": "India's financial markets are poised for growth, buoyed by robust domestic economic fundamentals like strong consumer demand and proactive government spending. Nevertheless, intern...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-resilient-economy-to-support-markets-but-global-risks-remain-elevated-sebi/articleshow/133051804.cms",
+          "title": "Japan's Nikkei rises 2% as AI stocks rally, Middle East worries cap gains",
+          "summary": "Japan’s Nikkei index recorded an upward trend thanks to strong performances in AI and semiconductor stocks. Companies like Advantest and Tokyo Electron saw notable increases, while...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-rises-2-as-ai-stocks-rally-middle-east-worries-cap-gains/articleshow/133079117.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "L&amp;T Innovation Fund to step up deeptech bets in India",
-          "summary": "L&amp;amp;T Innovation Fund's interest in Indian deeptech comes as investor appetite for Indian deeptech has strengthened amid government efforts to promote indigenous technologies...",
-          "link": "https://www.livemint.com/companies/news/lt-innovation-fund-india-deeptech-startups-global-funds-11786096568665.html",
+          "title": "India’s startups look to UK as trade deal opens new opportunities",
+          "summary": "The India-UK FTA is making the UK more attractive for Indian startups, with tariff cuts benefiting goods businesses and easier worker mobility aiding SaaS and fintech companies....",
+          "link": "https://www.livemint.com/companies/start-ups/indias-startups-look-to-uk-as-trade-deal-opens-new-opportunities-11786264527925.html",
           "source": "Livemint Companies"
         }
       ]
@@ -200,9 +200,9 @@
           "source": "YourStory"
         },
         {
-          "title": "[Update] Now, Finance Ministry Rules Out Consumer UPI Charges Amid MDR Debate",
-          "summary": "Update &#124; August 8, 21:16 ISST Addressing concerns over merchant discount rates (MDR) on UPI, the finance ministry categorically clarified&#8230;...",
-          "link": "https://inc42.com/buzz/payments-council-rules-out-consumer-mdr-phonepe-razorpay-back-free-upi/",
+          "title": "Delhivery’s Q1 Show, Weekly Funding Rebounds & More",
+          "summary": "Delhivery’s Lacklustre Q1 Show Delhivery’s profitability remained under pressure in Q1. Macroeconomic shocks and fixed cost structures tested the unit&#8230;...",
+          "link": "https://inc42.com/buzz/delhiverys-q1-show-weekly-funding-rebounds-more/",
           "source": "Inc42"
         }
       ]
