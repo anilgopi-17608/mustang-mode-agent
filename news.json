@@ -1,80 +1,80 @@
 {
-  "last_updated": "Monday, August 10, 2026 at 08:58 AM IST",
-  "last_updated_iso": "2026-08-10T08:58:04.688317",
+  "last_updated": "Tuesday, August 11, 2026 at 08:51 AM IST",
+  "last_updated_iso": "2026-08-11T08:51:00.944928",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24570.65,
-        "change": -65.34999999999854,
-        "change_pct": -0.26526221789250914,
-        "is_up": false
+        "price": 24583.8,
+        "change": 13.149999999997817,
+        "change_pct": 0.053519137670341714,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 78499.17,
-        "change": -455.63000000000466,
-        "change_pct": -0.5770770111506895,
-        "is_up": false
+        "price": 78542.44,
+        "change": 43.270000000004075,
+        "change_pct": 0.0551216019226752,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57746.45,
-        "change": -317.15000000000146,
-        "change_pct": -0.5462113957798026,
+        "price": 57686.95,
+        "change": -59.5,
+        "change_pct": -0.10303663688417211,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "TCS",
-        "price": 2452.7,
-        "change": 79.69999999999982,
-        "change_pct": 3.358617783396537,
+        "name": "ICICI Bank",
+        "price": 1431.8,
+        "change": 10.799999999999955,
+        "change_pct": 0.7600281491907075,
         "is_up": true
       },
       {
         "name": "Infosys",
-        "price": 1175.1,
-        "change": 10.099999999999909,
-        "change_pct": 0.866952789699563,
+        "price": 1183.0,
+        "change": 7.900000000000091,
+        "change_pct": 0.6722832099395875,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 187.53,
-        "change": 1.4099999999999966,
-        "change_pct": 0.7575757575757557,
+        "name": "L&T",
+        "price": 4080.0,
+        "change": 24.0,
+        "change_pct": 0.591715976331361,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "ICICI Bank",
-        "price": 1421.0,
-        "change": -36.5,
-        "change_pct": -2.5042881646655233,
+        "name": "TCS",
+        "price": 2425.7,
+        "change": -27.0,
+        "change_pct": -1.1008276593142252,
         "is_up": false
       },
       {
-        "name": "HDFC Bank",
-        "price": 731.0,
-        "change": -3.2999999999999545,
-        "change_pct": -0.4494075990739418,
+        "name": "Wipro",
+        "price": 185.5,
+        "change": -2.030000000000001,
+        "change_pct": -1.0824934677118334,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1945.0,
-        "change": -6.0,
-        "change_pct": -0.3075345976422348,
+        "name": "Bharti Airtel",
+        "price": 1943.0,
+        "change": -16.90000000000009,
+        "change_pct": -0.8622888922904276,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.198,
+        "price": 95.29,
         "change": 0.0,
         "change_pct": 0.0,
         "is_up": true
@@ -83,10 +83,10 @@
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4382.3,
-        "change": -17.399999999999636,
-        "change_pct": -0.39548151010295335,
-        "is_up": false
+        "price": 4473.0,
+        "change": 53.30000000000018,
+        "change_pct": 1.2059642057153244,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-          "summary": "The AI-focused hedge fund is still making some big bets....",
-          "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+          "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+          "summary": "San Francisco's housing market is in trouble again....",
+          "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic is turning Claude Code’s auto mode on by default",
-          "summary": "Programming with Claude Code will soon require even less human oversight....",
-          "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+          "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it....",
+          "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
           "source": "TechCrunch"
         },
         {
-          "title": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+          "title": "Mark Zuckerberg doesn’t understand how to live",
           "summary": "",
-          "link": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
           "source": "The Verge"
         },
         {
-          "title": "49ers coach says his Tesla was on Autopilot when he crashed",
+          "title": "Anker&#8217;s travel charger works in almost any country and is down to $20",
           "summary": "",
-          "link": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+          "link": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
           "source": "The Verge"
         },
         {
-          "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
-          "summary": "The massive Toba eruption seems to have had little climate impact....",
-          "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+          "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+          "summary": "Our discussion takes place live on August 11 at 3 pm ET....",
+          "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Anawil Wire &amp; Engineering shares to list today; GMP points to 21% premium ahead of debut",
-          "summary": "Anawil Wire &amp; Engineering is set to list on the NSE SME platform today, August 10, with a 21% grey market premium (GMP) signalling a strong debut. Its IPO was subscribed 149.13...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/anawil-wire-engineering-shares-to-list-today-gmp-points-to-21-premium-ahead-of-debut/articleshow/133079189.cms",
+          "title": "LEAP India IPO Day 3: Check GMP, subscription status, issue details; Should you subscribe?",
+          "summary": "The Rs 2,480-crore LEAP India IPO entered its third and final day of bidding on August 11, with the grey market premium hovering around 8%. Backed by KKR and showing strong 66% YoY...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/leap-india-ipo-day-3-check-gmp-subscription-status-issue-details-should-you-subscribe/articleshow/133141051.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Japan's Nikkei rises 2% as AI stocks rally, Middle East worries cap gains",
-          "summary": "Japan’s Nikkei index recorded an upward trend thanks to strong performances in AI and semiconductor stocks. Companies like Advantest and Tokyo Electron saw notable increases, while...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-rises-2-as-ai-stocks-rally-middle-east-worries-cap-gains/articleshow/133079117.cms",
+          "title": "Dhoot Transmission IPO Day 2; GMP signals 30% listing gain - Should you subscribe?",
+          "summary": "The Rs 3,066.89-crore Dhoot Transmission IPO entered its second day of bidding on Tuesday, August 11, with the grey market premium signaling a potential 30% listing gain. Backed by...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-ipo-day-2-gmp-signals-30-listing-gain-should-you-subscribe/articleshow/133141011.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,10 +154,10 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "India’s startups look to UK as trade deal opens new opportunities",
-          "summary": "The India-UK FTA is making the UK more attractive for Indian startups, with tariff cuts benefiting goods businesses and easier worker mobility aiding SaaS and fintech companies....",
-          "link": "https://www.livemint.com/companies/start-ups/indias-startups-look-to-uk-as-trade-deal-opens-new-opportunities-11786264527925.html",
-          "source": "Livemint Companies"
+          "title": "Oil prices rise as Brent tops $88, Asian stocks drift on US-Iran stalemate",
+          "summary": "MSCI's broadest index of Asia-Pacific shares outside Japan swung between losses and gains and was last up 0.2 per cent while South Korea's Kospi rose 0.3 per cent...",
+          "link": "https://www.business-standard.com/markets/commodities/oil-prices-rise-as-brent-tops-88-asian-stocks-drift-on-us-iran-stalemate-126081100085_1.html",
+          "source": "Business Standard Markets"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "iRhythm advances cardiac monitoring provision with $287.5m VitalConnect acquisition",
-          "summary": "IRhythm announced the deal alongside its Q2 financials in which its revenues rose 20.1% YoY. The post iRhythm advances cardiac monitoring provision with $287.5m VitalConnect acquis...",
-          "link": "https://www.medicaldevice-network.com/news/irhythm-advances-cardiac-monitoring-provision-with-287m-vitalconnect-acquisition/",
+          "title": "Labcorp’s advanced melanoma CDx secures FDA approval",
+          "summary": "Labcorp’s CDx is designed to detect BRAF V600E and V600K melanoma mutations to determine which patients are eligible for BRAF inhibitor regimens. The post Labcorp’s advanced melano...",
+          "link": "https://www.medicaldevice-network.com/news/labcorp-advanced-melanoma-cdx-secures-fda-approval/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Turning battery waste into strategic resources: The next opportunity for Indian industry",
-          "summary": "As EV adoption accelerates, end-of-life batteries are emerging as a strategic source of critical minerals. Building a robust battery recycling ecosystem will be key to India's reso...",
-          "link": "https://yourstory.com/2026/07/battery-waste-strategic-resources-next-opportunity-indian-industry",
+          "title": "Bakingo parent raises nearly Rs 100 Cr from Faering Capital",
+          "summary": "The company allotted 7,436 Series B compulsory convertible preference shares to the investors after receiving the subscription money, with the allotment approved by its board on Ju...",
+          "link": "https://yourstory.com/2026/08/bakingo-parent-fa-gifts-raises-nearly-100-crore-faering-capital",
           "source": "YourStory"
         },
         {
-          "title": "The rise of predictive commerce for India’s MSMEs",
-          "summary": "In today’s digital-first environment, the question is no longer how quickly businesses can respond to disruptions but how effectively they can anticipate them before they happen. T...",
-          "link": "https://yourstory.com/2026/08/the-rise-of-predictive-commerce-for-indias-msmes",
+          "title": "Sarla Aviation gets design organisation approval from DGCA",
+          "summary": "The DOA was handed over to Sarla Aviation by Union Minister for Civil Aviation K Rammohan Naidu in the presence of Karnataka cabinet minister Rizwan Arshad and others at the inaugu...",
+          "link": "https://yourstory.com/2026/08/sarla-aviation-gets-design-organisation-approval-from-dgca",
           "source": "YourStory"
         },
         {
-          "title": "Delhivery’s Q1 Show, Weekly Funding Rebounds & More",
-          "summary": "Delhivery’s Lacklustre Q1 Show Delhivery’s profitability remained under pressure in Q1. Macroeconomic shocks and fixed cost structures tested the unit&#8230;...",
-          "link": "https://inc42.com/buzz/delhiverys-q1-show-weekly-funding-rebounds-more/",
+          "title": "B2C Giants Add AI Twist, LEAP India IPO Day 2 & More",
+          "summary": "From Eternal To CARS24: AI Projects Go Big Some of India’s biggest startups are adding a dash of AI to&#8230;...",
+          "link": "https://inc42.com/buzz/b2c-giants-add-ai-twist-leap-india-ipo-day-2-more/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Connect, adapt, grow: Thoughts on loving your job and navigating change",
-          "summary": "Loving your job is about finding connections between who you are, what you do, and who you work with. It&#8217;s all these fibers that connect personal values and professional goal...",
-          "link": "https://www.designworldonline.com/connect-adapt-grow-thoughts-on-loving-your-job-and-navigating-change/",
+          "title": "2026 Motion Control Handbook from Design World",
+          "summary": "﻿ Check it out: This year&#8217;s Motion Control Handbook from Design World separates power-transmission designs (in which raw torque and speed dominate) from motion systems in whi...",
+          "link": "https://www.designworldonline.com/2026-motion-control-handbook-from-design-world/",
           "source": "Design World"
         },
         {
-          "title": "August 2026 issue: Why Ford needed a few gray hairs",
-          "summary": "The August 2026 issue of Design World examines Ford&#8217;s decision to bring back 350 veteran &#8220;gray beard&#8221; engineers to fix quality problems its automated systems coul...",
-          "link": "https://www.designworldonline.com/august-2026-issue-why-ford-needed-a-few-gray-hairs/",
+          "title": "IMTS 2026 preview: Industrial AI, automation take center stage at McCormick Place",
+          "summary": "With manufacturing technology orders climbing and productivity showing its strongest gains in years, this year’s IMTS (International Manufacturing Technology Show), produced by AMT...",
+          "link": "https://www.designworldonline.com/imts-2026-preview-industrial-ai-automation-take-center-stage-at-mccormick-place/",
           "source": "Design World"
         }
       ]
