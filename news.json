@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, August 11, 2026 at 08:51 AM IST",
-  "last_updated_iso": "2026-08-11T08:51:00.944928",
+  "last_updated": "Wednesday, August 12, 2026 at 09:09 AM IST",
+  "last_updated_iso": "2026-08-12T09:09:21.934587",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24583.8,
-        "change": 13.149999999997817,
-        "change_pct": 0.053519137670341714,
-        "is_up": true
+        "price": 24472.45,
+        "change": -111.34999999999854,
+        "change_pct": -0.45294055434879293,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 78542.44,
-        "change": 43.270000000004075,
-        "change_pct": 0.0551216019226752,
-        "is_up": true
+        "price": 78154.25,
+        "change": -388.1900000000023,
+        "change_pct": -0.49424234846791404,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57686.95,
-        "change": -59.5,
-        "change_pct": -0.10303663688417211,
+        "price": 57391.8,
+        "change": -295.1499999999942,
+        "change_pct": -0.5116408477133809,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "ICICI Bank",
-        "price": 1431.8,
-        "change": 10.799999999999955,
-        "change_pct": 0.7600281491907075,
+        "name": "TCS",
+        "price": 2445.7,
+        "change": 20.0,
+        "change_pct": 0.8245042668095809,
         "is_up": true
       },
       {
         "name": "Infosys",
-        "price": 1183.0,
-        "change": 7.900000000000091,
-        "change_pct": 0.6722832099395875,
+        "price": 1190.7,
+        "change": 7.7000000000000455,
+        "change_pct": 0.6508875739645009,
         "is_up": true
       },
       {
-        "name": "L&T",
-        "price": 4080.0,
-        "change": 24.0,
-        "change_pct": 0.591715976331361,
-        "is_up": true
+        "name": "Sun Pharma",
+        "price": 1942.0,
+        "change": -2.400000000000091,
+        "change_pct": -0.1234313927175525,
+        "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "TCS",
-        "price": 2425.7,
-        "change": -27.0,
-        "change_pct": -1.1008276593142252,
-        "is_up": false
-      },
-      {
-        "name": "Wipro",
-        "price": 185.5,
-        "change": -2.030000000000001,
-        "change_pct": -1.0824934677118334,
-        "is_up": false
-      },
-      {
         "name": "Bharti Airtel",
-        "price": 1943.0,
-        "change": -16.90000000000009,
-        "change_pct": -0.8622888922904276,
+        "price": 1915.2,
+        "change": -27.799999999999955,
+        "change_pct": -1.4307771487390608,
+        "is_up": false
+      },
+      {
+        "name": "L&T",
+        "price": 4037.4,
+        "change": -42.59999999999991,
+        "change_pct": -1.0441176470588212,
+        "is_up": false
+      },
+      {
+        "name": "Maruti",
+        "price": 13990.0,
+        "change": -107.0,
+        "change_pct": -0.7590267432787118,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.29,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "is_up": true
+        "price": 95.4025,
+        "change": -0.022499999999993747,
+        "change_pct": -0.023578726748749015,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4473.0,
-        "change": 53.30000000000018,
-        "change_pct": 1.2059642057153244,
+        "price": 4467.9,
+        "change": 26.799999999999272,
+        "change_pct": 0.6034540992096388,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-          "summary": "San Francisco's housing market is in trouble again....",
-          "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+          "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+          "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices....",
+          "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
           "source": "TechCrunch"
         },
         {
-          "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-          "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it....",
-          "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+          "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+          "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment....",
+          "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
           "source": "TechCrunch"
         },
         {
-          "title": "Mark Zuckerberg doesn’t understand how to live",
+          "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+          "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
           "source": "The Verge"
         },
         {
-          "title": "Anker&#8217;s travel charger works in almost any country and is down to $20",
+          "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale",
+          "link": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
           "source": "The Verge"
         },
         {
-          "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-          "summary": "Our discussion takes place live on August 11 at 3 pm ET....",
-          "link": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+          "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+          "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made....",
+          "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "LEAP India IPO Day 3: Check GMP, subscription status, issue details; Should you subscribe?",
-          "summary": "The Rs 2,480-crore LEAP India IPO entered its third and final day of bidding on August 11, with the grey market premium hovering around 8%. Backed by KKR and showing strong 66% YoY...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/leap-india-ipo-day-3-check-gmp-subscription-status-issue-details-should-you-subscribe/articleshow/133141051.cms",
+          "title": "Horizon Industrial Parks sets IPO price band at Rs 57-60 for Rs 2,600 crore issue. Check key dates",
+          "summary": "Horizon Industrial Parks has set the price band for its Rs 2,600-crore IPO at Rs 57-60 per share. The IPO will open on August 17 and close on August 19, with the company planning t...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/horizon-industrial-parks-sets-ipo-price-band-at-rs-57-60-for-rs-2600-crore-issue-check-key-dates/articleshow/133168395.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Dhoot Transmission IPO Day 2; GMP signals 30% listing gain - Should you subscribe?",
-          "summary": "The Rs 3,066.89-crore Dhoot Transmission IPO entered its second day of bidding on Tuesday, August 11, with the grey market premium signaling a potential 30% listing gain. Backed by...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhoot-transmission-ipo-day-2-gmp-signals-30-listing-gain-should-you-subscribe/articleshow/133141011.cms",
+          "title": "HCL Tech Share Price Live Updates: HCL Tech's Trading Performance",
+          "summary": "",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-today-live-updates-12-aug-2026/liveblog/133168365.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Oil prices rise as Brent tops $88, Asian stocks drift on US-Iran stalemate",
-          "summary": "MSCI's broadest index of Asia-Pacific shares outside Japan swung between losses and gains and was last up 0.2 per cent while South Korea's Kospi rose 0.3 per cent...",
-          "link": "https://www.business-standard.com/markets/commodities/oil-prices-rise-as-brent-tops-88-asian-stocks-drift-on-us-iran-stalemate-126081100085_1.html",
+          "title": "Pasupati Fincap reports standalone net profit of Rs 0.34 crore in the June 2026 quarter",
+          "summary": "Sales reported at Rs 0.45 crore...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/pasupati-fincap-reports-standalone-net-profit-of-rs-0-34-crore-in-the-june-2026-quarter-126081200121_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Labcorp’s advanced melanoma CDx secures FDA approval",
-          "summary": "Labcorp’s CDx is designed to detect BRAF V600E and V600K melanoma mutations to determine which patients are eligible for BRAF inhibitor regimens. The post Labcorp’s advanced melano...",
-          "link": "https://www.medicaldevice-network.com/news/labcorp-advanced-melanoma-cdx-secures-fda-approval/",
+          "title": "Elevation Spine lands FDA clearance for expandable interbody fusion system",
+          "summary": "Elevation's FDA clearance for Saber-XA follows the agency's clearance of its Saber-C AVIA cervical fixation device in July. The post Elevation Spine lands FDA clearance for expanda...",
+          "link": "https://www.medicaldevice-network.com/news/elevation-spine-lands-fda-clearance-for-expandable-interbody-fusion-system/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Bakingo parent raises nearly Rs 100 Cr from Faering Capital",
-          "summary": "The company allotted 7,436 Series B compulsory convertible preference shares to the investors after receiving the subscription money, with the allotment approved by its board on Ju...",
-          "link": "https://yourstory.com/2026/08/bakingo-parent-fa-gifts-raises-nearly-100-crore-faering-capital",
+          "title": "How Nexular is helping EV makers track and manage connected vehicles",
+          "summary": "Bengaluru startup Nexular builds hardware, software, and AI tools that help EV makers track, manage, and monetise vehicles after sale....",
+          "link": "https://yourstory.com/2026/08/nexular-ev-connected-vehicle-platform-india",
           "source": "YourStory"
         },
         {
-          "title": "Sarla Aviation gets design organisation approval from DGCA",
-          "summary": "The DOA was handed over to Sarla Aviation by Union Minister for Civil Aviation K Rammohan Naidu in the presence of Karnataka cabinet minister Rizwan Arshad and others at the inaugu...",
-          "link": "https://yourstory.com/2026/08/sarla-aviation-gets-design-organisation-approval-from-dgca",
+          "title": "How an IIT Delhi startup is putting AI inside drones, sensors and satellites",
+          "summary": "IIT Delhi’s homegrown startup Cyran AI Solutions is developing neuromorphic edge computing for defence, geospatial and industrial use....",
+          "link": "https://yourstory.com/2026/08/iit-delhi-startup-ai-drones-satellites",
           "source": "YourStory"
         },
         {
-          "title": "B2C Giants Add AI Twist, LEAP India IPO Day 2 & More",
-          "summary": "From Eternal To CARS24: AI Projects Go Big Some of India’s biggest startups are adding a dash of AI to&#8230;...",
-          "link": "https://inc42.com/buzz/b2c-giants-add-ai-twist-leap-india-ipo-day-2-more/",
+          "title": "Table Space All Set For IPO, Watermarking AI & More",
+          "summary": "Table Space’s ₹800 Cr IPO Table Space is back in the market with its IPO ambitions. The managed workspace provider&#8230;...",
+          "link": "https://inc42.com/buzz/table-space-all-set-for-ipo-watermarking-ai-more/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "2026 Motion Control Handbook from Design World",
-          "summary": "﻿ Check it out: This year&#8217;s Motion Control Handbook from Design World separates power-transmission designs (in which raw torque and speed dominate) from motion systems in whi...",
-          "link": "https://www.designworldonline.com/2026-motion-control-handbook-from-design-world/",
+          "title": "Hybrid connector combines 15A power and Ethernet",
+          "summary": "Molex has introduced MiniMix Hybrid Power and Signal Connectors, a compact interconnect platform that combines up to 15.0A power contacts and 1Gbps 1000BASE-T1 Ethernet communicati...",
+          "link": "https://www.designworldonline.com/hybrid-connector-combines-15a-power-and-ethernet/",
           "source": "Design World"
         },
         {
-          "title": "IMTS 2026 preview: Industrial AI, automation take center stage at McCormick Place",
-          "summary": "With manufacturing technology orders climbing and productivity showing its strongest gains in years, this year’s IMTS (International Manufacturing Technology Show), produced by AMT...",
-          "link": "https://www.designworldonline.com/imts-2026-preview-industrial-ai-automation-take-center-stage-at-mccormick-place/",
+          "title": "High-flex cable targets robotics and automation",
+          "summary": "Amphenol TPC Wire &#38; Cable has introduced Trex-Onics® high flex single pair ethernet cable for continuous-motion applications in robotics, cable carriers and automated equipment...",
+          "link": "https://www.designworldonline.com/high-flex-cable-targets-robotics-and-automation/",
           "source": "Design World"
         }
       ]
@@ -228,18 +228,11 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-          "summary": "This is a really easy phone to fall in love with. Beware.\n\nEnter to win $100,000 USD or 3 cars for free at https://ridge.com/MKBHD\n\n(Affiliate Link) Samsung Galaxy Z Fold 8: https:...",
-          "link": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-          "source": "MKBHD",
-          "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg"
-        },
-        {
-          "title": "DeepMind Just Changed How AI Sees The World",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Gemma4 paper and some more is available here:\nhttps://arxiv.org/abs/2607.02770\nhttps://x.c...",
-          "link": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+          "title": "OpenAI’s AI Agents Just Crossed A Line",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 More reports are available here:\nhttps://openai.com/index/hugging-face-model-evaluation-securi...",
+          "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i3.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg"
+          "thumbnail": "https://i3.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg"
         }
       ]
     }
