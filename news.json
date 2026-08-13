@@ -1,91 +1,91 @@
 {
-  "last_updated": "Wednesday, August 12, 2026 at 09:09 AM IST",
-  "last_updated_iso": "2026-08-12T09:09:21.934587",
+  "last_updated": "Thursday, August 13, 2026 at 09:12 AM IST",
+  "last_updated_iso": "2026-08-13T09:12:26.245133",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24472.45,
-        "change": -111.34999999999854,
-        "change_pct": -0.45294055434879293,
+        "price": 24431.6,
+        "change": -40.10000000000218,
+        "change_pct": -0.16386274758190966,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 78154.25,
-        "change": -388.1900000000023,
-        "change_pct": -0.49424234846791404,
+        "price": 77966.35,
+        "change": -187.84999999999127,
+        "change_pct": -0.2403581637327121,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57391.8,
-        "change": -295.1499999999942,
-        "change_pct": -0.5116408477133809,
-        "is_up": false
+        "price": 57799.15,
+        "change": 352.95000000000437,
+        "change_pct": 0.6144009525434309,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "TCS",
-        "price": 2445.7,
-        "change": 20.0,
-        "change_pct": 0.8245042668095809,
+        "name": "Bharti Airtel",
+        "price": 1945.0,
+        "change": 29.799999999999955,
+        "change_pct": 1.55597326649958,
         "is_up": true
       },
       {
-        "name": "Infosys",
-        "price": 1190.7,
-        "change": 7.7000000000000455,
-        "change_pct": 0.6508875739645009,
+        "name": "Reliance",
+        "price": 1329.0,
+        "change": 5.099999999999909,
+        "change_pct": 0.38522547020167,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1942.0,
-        "change": -2.400000000000091,
-        "change_pct": -0.1234313927175525,
-        "is_up": false
+        "name": "ICICI Bank",
+        "price": 1431.7,
+        "change": 2.1000000000001364,
+        "change_pct": 0.14689423614998157,
+        "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1915.2,
-        "change": -27.799999999999955,
-        "change_pct": -1.4307771487390608,
+        "name": "TCS",
+        "price": 2349.7,
+        "change": -96.0,
+        "change_pct": -3.925256572760355,
         "is_up": false
       },
       {
-        "name": "L&T",
-        "price": 4037.4,
-        "change": -42.59999999999991,
-        "change_pct": -1.0441176470588212,
+        "name": "Infosys",
+        "price": 1176.1,
+        "change": -14.600000000000136,
+        "change_pct": -1.2261694801377456,
         "is_up": false
       },
       {
         "name": "Maruti",
-        "price": 13990.0,
-        "change": -107.0,
-        "change_pct": -0.7590267432787118,
+        "price": 13875.0,
+        "change": -115.0,
+        "change_pct": -0.8220157255182273,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.4025,
-        "change": -0.022499999999993747,
-        "change_pct": -0.023578726748749015,
-        "is_up": false
+        "price": 95.355,
+        "change": 0.0350000000000108,
+        "change_pct": 0.03671842215695636,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
         "price": 4467.9,
-        "change": 26.799999999999272,
-        "change_pct": 0.6034540992096388,
+        "change": 0.3999999999996362,
+        "change_pct": 0.008953553441513962,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
-          "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices....",
-          "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+          "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is....",
+          "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
           "source": "TechCrunch"
         },
         {
-          "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-          "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment....",
-          "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+          "title": "AI nuclear power firm Fermi finally has a new CEO",
+          "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post....",
+          "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
           "source": "TechCrunch"
         },
         {
-          "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+          "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
           "summary": "",
-          "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+          "link": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
           "source": "The Verge"
         },
         {
-          "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+          "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
           "summary": "",
-          "link": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+          "link": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
           "source": "The Verge"
         },
         {
-          "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-          "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made....",
-          "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+          "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+          "summary": "Boy's unusual symptoms could help identify the next case sooner....",
+          "link": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Horizon Industrial Parks sets IPO price band at Rs 57-60 for Rs 2,600 crore issue. Check key dates",
-          "summary": "Horizon Industrial Parks has set the price band for its Rs 2,600-crore IPO at Rs 57-60 per share. The IPO will open on August 17 and close on August 19, with the company planning t...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/horizon-industrial-parks-sets-ipo-price-band-at-rs-57-60-for-rs-2600-crore-issue-check-key-dates/articleshow/133168395.cms",
+          "title": "Nalco among 5 stocks flashing bullish signals, hinting at a possible uptrend",
+          "summary": "Nine Nifty500 stocks flashed White Marubozu signals on August 12, indicating strong buying pressure. Nalco led gains at 8.25%, followed by Supreme Petrochem, Force Motors, Punjab N...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nalco-among-5-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/133196791.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "HCL Tech Share Price Live Updates: HCL Tech's Trading Performance",
-          "summary": "",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-today-live-updates-12-aug-2026/liveblog/133168365.cms",
+          "title": "Bharat Heavy Electricals among 5 stocks showing bullish RSI upswing",
+          "summary": "On August 12, five Nifty500 stocks that gained over 3.5% were highlighted in the RSI Trending Up scan, based on data from StockEdge.com. An uptrend signal is generated when the RSI...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-heavy-electricals-among-5-stocks-showing-bullish-rsi-upswing/slideshow/133196739.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Pasupati Fincap reports standalone net profit of Rs 0.34 crore in the June 2026 quarter",
-          "summary": "Sales reported at Rs 0.45 crore...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/pasupati-fincap-reports-standalone-net-profit-of-rs-0-34-crore-in-the-june-2026-quarter-126081200121_1.html",
+          "title": "Precision Electronics reports standalone net loss of Rs 2.36 crore in the June 2026 quarter",
+          "summary": "Sales decline 40.34% to Rs 13.28 crore...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/precision-electronics-reports-standalone-net-loss-of-rs-2-36-crore-in-the-june-2026-quarter-126081300123_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Elevation Spine lands FDA clearance for expandable interbody fusion system",
-          "summary": "Elevation's FDA clearance for Saber-XA follows the agency's clearance of its Saber-C AVIA cervical fixation device in July. The post Elevation Spine lands FDA clearance for expanda...",
-          "link": "https://www.medicaldevice-network.com/news/elevation-spine-lands-fda-clearance-for-expandable-interbody-fusion-system/",
+          "title": "Bridge to Life raises $110m to advance liver perfusion system’s rollout",
+          "summary": "Beyond supporting its VitaSmart system's US rollout, Bridge to Life also intends to use the funds to expand its portfolio and scale its global operations. The post Bridge to Life r...",
+          "link": "https://www.medicaldevice-network.com/news/bridge-to-life-raises-110m-to-advance-liver-perfusion-system-roll-out/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "How Nexular is helping EV makers track and manage connected vehicles",
-          "summary": "Bengaluru startup Nexular builds hardware, software, and AI tools that help EV makers track, manage, and monetise vehicles after sale....",
-          "link": "https://yourstory.com/2026/08/nexular-ev-connected-vehicle-platform-india",
+          "title": "The real test for AI agents is resolution",
+          "summary": "The standard for AI agents is not how quickly they respond, but how many issues they resolve. That is why resolution has to be treated as an operating discipline....",
+          "link": "https://yourstory.com/2026/08/the-real-test-for-ai-agents-is-resolution",
           "source": "YourStory"
         },
         {
-          "title": "How an IIT Delhi startup is putting AI inside drones, sensors and satellites",
-          "summary": "IIT Delhi’s homegrown startup Cyran AI Solutions is developing neuromorphic edge computing for defence, geospatial and industrial use....",
-          "link": "https://yourstory.com/2026/08/iit-delhi-startup-ai-drones-satellites",
+          "title": "Karnataka unveils Tathyakosh, putting 1.5 million datasets on one searchable platform",
+          "summary": "Karnataka has launched Tathyakosh, a unified data discovery platform bringing together more than 1.5 million datasets from 458 sources....",
+          "link": "https://yourstory.com/2026/08/karnataka-launches-tathyakosh-public-data-platform",
           "source": "YourStory"
         },
         {
-          "title": "Table Space All Set For IPO, Watermarking AI & More",
-          "summary": "Table Space’s ₹800 Cr IPO Table Space is back in the market with its IPO ambitions. The managed workspace provider&#8230;...",
-          "link": "https://inc42.com/buzz/table-space-all-set-for-ipo-watermarking-ai-more/",
+          "title": "Astrotalk’s Unicorn Leap, Shiprocket IPO Day 1 & More",
+          "summary": "India Welcomes Its 133rd Unicorn Astrotalk has become India’s 133rd unicorn. The startup entered the coveted club after an ESOP&#8230;...",
+          "link": "https://inc42.com/buzz/astrotalks-unicorn-leap-shiprocket-ipo-day-1-more/",
           "source": "Inc42"
         }
       ]
@@ -211,28 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Hybrid connector combines 15A power and Ethernet",
-          "summary": "Molex has introduced MiniMix Hybrid Power and Signal Connectors, a compact interconnect platform that combines up to 15.0A power contacts and 1Gbps 1000BASE-T1 Ethernet communicati...",
-          "link": "https://www.designworldonline.com/hybrid-connector-combines-15a-power-and-ethernet/",
+          "title": "Follow Design World’s Editorial Director’s livestream of the total solar eclipse at sunset from Porto d’Alcúdia, Mallorca",
+          "summary": "In August 2017 and April 2024, millions of Americans witnessed a total solar eclipse, as the path of the moon’s shadow swept across large swaths of the country. Today, from Greenla...",
+          "link": "https://www.designworldonline.com/follow-design-worlds-editorial-directors-livestream-of-the-total-solar-eclipse-at-sunset-from-porto-dalcudia-mallorca/",
           "source": "Design World"
         },
         {
-          "title": "High-flex cable targets robotics and automation",
-          "summary": "Amphenol TPC Wire &#38; Cable has introduced Trex-Onics® high flex single pair ethernet cable for continuous-motion applications in robotics, cable carriers and automated equipment...",
-          "link": "https://www.designworldonline.com/high-flex-cable-targets-robotics-and-automation/",
+          "title": "Five trends in automation for the second half of 2026",
+          "summary": "AI, machine vision, and smarter, more collaborative robots respond to changing supply chains. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. ...",
+          "link": "https://www.designworldonline.com/five-trends-in-automation-for-the-second-half-of-2026/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "OpenAI’s AI Agents Just Crossed A Line",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 More reports are available here:\nhttps://openai.com/index/hugging-face-model-evaluation-securi...",
-          "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i3.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg"
         }
       ]
     }
