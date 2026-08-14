@@ -1,92 +1,92 @@
 {
-  "last_updated": "Thursday, August 13, 2026 at 09:12 AM IST",
-  "last_updated_iso": "2026-08-13T09:12:26.245133",
+  "last_updated": "Friday, August 14, 2026 at 09:10 AM IST",
+  "last_updated_iso": "2026-08-14T09:10:01.482954",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24431.6,
-        "change": -40.10000000000218,
-        "change_pct": -0.16386274758190966,
+        "price": 24361.9,
+        "change": -74.0,
+        "change_pct": -0.3028331266701861,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 77966.35,
-        "change": -187.84999999999127,
-        "change_pct": -0.2403581637327121,
-        "is_up": false
+        "price": 78079.96,
+        "change": 113.56000000001222,
+        "change_pct": 0.14565248619919893,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57799.15,
-        "change": 352.95000000000437,
-        "change_pct": 0.6144009525434309,
-        "is_up": true
+        "price": 57589.75,
+        "change": -296.15000000000146,
+        "change_pct": -0.511609908457848,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1945.0,
-        "change": 29.799999999999955,
-        "change_pct": 1.55597326649958,
+        "name": "L&T",
+        "price": 4070.7,
+        "change": 50.69999999999982,
+        "change_pct": 1.2611940298507418,
         "is_up": true
       },
       {
-        "name": "Reliance",
-        "price": 1329.0,
-        "change": 5.099999999999909,
-        "change_pct": 0.38522547020167,
+        "name": "TCS",
+        "price": 2375.0,
+        "change": 25.300000000000182,
+        "change_pct": 1.0767331999829843,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1431.7,
-        "change": 2.1000000000001364,
-        "change_pct": 0.14689423614998157,
+        "name": "Maruti",
+        "price": 13905.0,
+        "change": 30.0,
+        "change_pct": 0.21621621621621623,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "TCS",
-        "price": 2349.7,
-        "change": -96.0,
-        "change_pct": -3.925256572760355,
+        "name": "ICICI Bank",
+        "price": 1406.8,
+        "change": -24.90000000000009,
+        "change_pct": -1.7391911713347832,
         "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 1176.1,
-        "change": -14.600000000000136,
-        "change_pct": -1.2261694801377456,
+        "name": "Reliance",
+        "price": 1317.0,
+        "change": -12.0,
+        "change_pct": -0.9029345372460496,
         "is_up": false
       },
       {
-        "name": "Maruti",
-        "price": 13875.0,
-        "change": -115.0,
-        "change_pct": -0.8220157255182273,
+        "name": "Sun Pharma",
+        "price": 1932.0,
+        "change": -12.0,
+        "change_pct": -0.6172839506172839,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.355,
-        "change": 0.0350000000000108,
-        "change_pct": 0.03671842215695636,
-        "is_up": true
+        "price": 95.4,
+        "change": -0.030000000000001137,
+        "change_pct": -0.031436655139894305,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4467.9,
-        "change": 0.3999999999996362,
-        "change_pct": 0.008953553441513962,
-        "is_up": true
+        "price": 4380.8,
+        "change": -39.599999999999454,
+        "change_pct": -0.8958465297258044,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-          "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is....",
-          "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+          "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+          "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup....",
+          "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
           "source": "TechCrunch"
         },
         {
-          "title": "AI nuclear power firm Fermi finally has a new CEO",
-          "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post....",
-          "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+          "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+          "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to ex...",
+          "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
           "source": "TechCrunch"
         },
         {
-          "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
+          "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
           "summary": "",
-          "link": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+          "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
           "source": "The Verge"
         },
         {
-          "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
+          "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
+          "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
           "source": "The Verge"
         },
         {
-          "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-          "summary": "Boy's unusual symptoms could help identify the next case sooner....",
-          "link": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+          "title": "US wait times for cancer surgeries are getting longer and longer",
+          "summary": "Study finds wait times for cancer surgeries hit 10-year high....",
+          "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Nalco among 5 stocks flashing bullish signals, hinting at a possible uptrend",
-          "summary": "Nine Nifty500 stocks flashed White Marubozu signals on August 12, indicating strong buying pressure. Nalco led gains at 8.25%, followed by Supreme Petrochem, Force Motors, Punjab N...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nalco-among-5-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/133196791.cms",
+          "title": "Advent-backed Svatantra Microfin files for $315 million IPO",
+          "summary": "Svatantra Microfin has filed for an initial public offering worth thirty billion rupees. Existing investors Advent International and Multiples are offloading shares worth fifteen b...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/advent-backed-svatantra-microfin-files-for-315-million-ipo/articleshow/133228058.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Bharat Heavy Electricals among 5 stocks showing bullish RSI upswing",
-          "summary": "On August 12, five Nifty500 stocks that gained over 3.5% were highlighted in the RSI Trending Up scan, based on data from StockEdge.com. An uptrend signal is generated when the RSI...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-heavy-electricals-among-5-stocks-showing-bullish-rsi-upswing/slideshow/133196739.cms",
+          "title": "Shiprocket IPO Day 3: GMP signals 38% listing premium, subscribed 3.16 times; should you subscribe?",
+          "summary": "Shiprocket IPO GMP: Shiprocket IPO entered its third and final day of bidding, showing strong investor interest with a grey market premium of 38% over its price band of Rs 92 to Rs...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-ipo-day-3-gmp-signals-38-listing-premium-subscribed-3-16-times-should-you-subscribe/articleshow/133228000.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Precision Electronics reports standalone net loss of Rs 2.36 crore in the June 2026 quarter",
-          "summary": "Sales decline 40.34% to Rs 13.28 crore...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/precision-electronics-reports-standalone-net-loss-of-rs-2-36-crore-in-the-june-2026-quarter-126081300123_1.html",
+          "title": "Rita Finance and Leasing standalone net profit declines 31.82% in the June 2026 quarter",
+          "summary": "Sales rise 16.22% to Rs 0.43 crore...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/rita-finance-and-leasing-standalone-net-profit-declines-31-82-in-the-june-2026-quarter-126081400150_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Bridge to Life raises $110m to advance liver perfusion system’s rollout",
-          "summary": "Beyond supporting its VitaSmart system's US rollout, Bridge to Life also intends to use the funds to expand its portfolio and scale its global operations. The post Bridge to Life r...",
-          "link": "https://www.medicaldevice-network.com/news/bridge-to-life-raises-110m-to-advance-liver-perfusion-system-roll-out/",
+          "title": "FDA clears Vesalio’s latest mechanical thrombectomy device",
+          "summary": "Vesalio’s pVasc NET mechanical thrombectomy device integrates clot-capture technology to retain clot fragments during retrieval. The post FDA clears Vesalio’s latest mechanical thr...",
+          "link": "https://www.medicaldevice-network.com/news/fda-clears-vesalio-latest-mechanical-thrombectomy-device/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "The real test for AI agents is resolution",
-          "summary": "The standard for AI agents is not how quickly they respond, but how many issues they resolve. That is why resolution has to be treated as an operating discipline....",
-          "link": "https://yourstory.com/2026/08/the-real-test-for-ai-agents-is-resolution",
+          "title": "Kusho AI is building AI agents that test software before it breaks",
+          "summary": "Kusho AI, a Bengaluru startup founded in 2023, builds AI agents that auto-generate, run, and fix software tests, cutting manual QA time for engineering teams....",
+          "link": "https://yourstory.com/2026/08/kusho-ai-software-testing-startup-bengaluru",
           "source": "YourStory"
         },
         {
-          "title": "Karnataka unveils Tathyakosh, putting 1.5 million datasets on one searchable platform",
-          "summary": "Karnataka has launched Tathyakosh, a unified data discovery platform bringing together more than 1.5 million datasets from 458 sources....",
-          "link": "https://yourstory.com/2026/08/karnataka-launches-tathyakosh-public-data-platform",
+          "title": "A stroke can cut the line between intention and movement. This device tries to close the loop",
+          "summary": "Nexactly AI Solutions has built an EEG-based rehabilitation platform out of IIT Roorkee's innovation hub, and is taking it to Shark Tank India....",
+          "link": "https://yourstory.com/2026/08/stroke-recovery-movement-device",
           "source": "YourStory"
         },
         {
-          "title": "Astrotalk’s Unicorn Leap, Shiprocket IPO Day 1 & More",
-          "summary": "India Welcomes Its 133rd Unicorn Astrotalk has become India’s 133rd unicorn. The startup entered the coveted club after an ESOP&#8230;...",
-          "link": "https://inc42.com/buzz/astrotalks-unicorn-leap-shiprocket-ipo-day-1-more/",
+          "title": "Razorpay’s ChatGPT Gambit, Snapchat’s Next Big Quest & More",
+          "summary": "Razorpay Wants To Put Indian Brands Inside ChatGPT As ChatGPT and other AI assistants move from answering questions to recommending&#8230;...",
+          "link": "https://inc42.com/buzz/razorpays-chatgpt-gambit-snapchats-next-big-quest-more/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Follow Design World’s Editorial Director’s livestream of the total solar eclipse at sunset from Porto d’Alcúdia, Mallorca",
-          "summary": "In August 2017 and April 2024, millions of Americans witnessed a total solar eclipse, as the path of the moon’s shadow swept across large swaths of the country. Today, from Greenla...",
-          "link": "https://www.designworldonline.com/follow-design-worlds-editorial-directors-livestream-of-the-total-solar-eclipse-at-sunset-from-porto-dalcudia-mallorca/",
+          "title": "SEW-EURODRIVE expands PxG servo gear unit portfolio",
+          "summary": "SEW-EURODRIVE has expanded its PxG planetary servo gear unit portfolio with the PxG economy series. The series adds three performance classes for machine builders and OEMs working ...",
+          "link": "https://www.designworldonline.com/sew-eurodrive-expands-pxg-servo-gear-unit-portfolio/",
           "source": "Design World"
         },
         {
-          "title": "Five trends in automation for the second half of 2026",
-          "summary": "AI, machine vision, and smarter, more collaborative robots respond to changing supply chains. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. ...",
-          "link": "https://www.designworldonline.com/five-trends-in-automation-for-the-second-half-of-2026/",
+          "title": "Follow Design World’s Editorial Director’s livestream of the total solar eclipse at sunset from Porto d’Alcúdia, Mallorca",
+          "summary": "In August 2017 and April 2024, millions of Americans witnessed a total solar eclipse, as the path of the moon’s shadow swept across large swaths of the country. Today, from Greenla...",
+          "link": "https://www.designworldonline.com/follow-design-worlds-editorial-directors-livestream-of-the-total-solar-eclipse-at-sunset-from-porto-dalcudia-mallorca/",
           "source": "Design World"
         }
       ]
