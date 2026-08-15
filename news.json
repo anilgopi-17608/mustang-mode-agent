@@ -1,92 +1,92 @@
 {
-  "last_updated": "Friday, August 14, 2026 at 09:10 AM IST",
-  "last_updated_iso": "2026-08-14T09:10:01.482954",
+  "last_updated": "Saturday, August 15, 2026 at 08:04 AM IST",
+  "last_updated_iso": "2026-08-15T08:04:54.589066",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24361.9,
-        "change": -74.0,
-        "change_pct": -0.3028331266701861,
+        "price": 24366.0,
+        "change": -69.90000000000146,
+        "change_pct": -0.2860545345168439,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 78079.96,
-        "change": 113.56000000001222,
-        "change_pct": 0.14565248619919893,
+        "price": 78009.25,
+        "change": 42.85000000000582,
+        "change_pct": 0.0549595723286003,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57589.75,
-        "change": -296.15000000000146,
-        "change_pct": -0.511609908457848,
+        "price": 57491.1,
+        "change": -394.8000000000029,
+        "change_pct": -0.6820313755163224,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "L&T",
-        "price": 4070.7,
-        "change": 50.69999999999982,
-        "change_pct": 1.2611940298507418,
+        "name": "Bharti Airtel",
+        "price": 1992.1,
+        "change": 53.0,
+        "change_pct": 2.733226754680006,
         "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2375.0,
-        "change": 25.300000000000182,
-        "change_pct": 1.0767331999829843,
+        "name": "ICICI Bank",
+        "price": 1417.0,
+        "change": 10.200000000000045,
+        "change_pct": 0.7250497583167504,
         "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 13905.0,
-        "change": 30.0,
-        "change_pct": 0.21621621621621623,
+        "name": "Wipro",
+        "price": 184.0,
+        "change": 0.9000000000000057,
+        "change_pct": 0.4915346805024608,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "ICICI Bank",
-        "price": 1406.8,
-        "change": -24.90000000000009,
-        "change_pct": -1.7391911713347832,
+        "name": "TCS",
+        "price": 2361.0,
+        "change": -14.0,
+        "change_pct": -0.5894736842105264,
         "is_up": false
       },
       {
         "name": "Reliance",
-        "price": 1317.0,
-        "change": -12.0,
-        "change_pct": -0.9029345372460496,
+        "price": 1310.0,
+        "change": -7.0,
+        "change_pct": -0.5315110098709187,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1932.0,
-        "change": -12.0,
-        "change_pct": -0.6172839506172839,
+        "name": "Maruti",
+        "price": 13834.0,
+        "change": -71.0,
+        "change_pct": -0.5106076950737145,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.4,
-        "change": -0.030000000000001137,
-        "change_pct": -0.031436655139894305,
+        "price": 95.415,
+        "change": -0.015000000000000568,
+        "change_pct": -0.015718327569947153,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4380.8,
-        "change": -39.599999999999454,
-        "change_pct": -0.8958465297258044,
-        "is_up": false
+        "price": 4432.0,
+        "change": 11.600000000000364,
+        "change_pct": 0.26241969052575254,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-          "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup....",
-          "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+          "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+          "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around....",
+          "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
           "source": "TechCrunch"
         },
         {
-          "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-          "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to ex...",
-          "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+          "title": "Self-driving trucks are officially testing on California highways",
+          "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles....",
+          "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
           "source": "TechCrunch"
         },
         {
-          "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+          "title": "Samsung has new Galaxy headphones in the works",
           "summary": "",
-          "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+          "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
           "source": "The Verge"
         },
         {
-          "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+          "title": "A RAMageddon guide to back-to-school laptop shopping",
           "summary": "",
-          "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+          "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
           "source": "The Verge"
         },
         {
-          "title": "US wait times for cancer surgeries are getting longer and longer",
-          "summary": "Study finds wait times for cancer surgeries hit 10-year high....",
-          "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
+          "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+          "summary": "Screen-sharing bug lets remote hackers log in without a password....",
+          "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Advent-backed Svatantra Microfin files for $315 million IPO",
-          "summary": "Svatantra Microfin has filed for an initial public offering worth thirty billion rupees. Existing investors Advent International and Multiples are offloading shares worth fifteen b...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/advent-backed-svatantra-microfin-files-for-315-million-ipo/articleshow/133228058.cms",
+          "title": "US stock: S&amp;P 500 ends lower as investors weigh data, Middle East tensions",
+          "summary": "The S&amp;P 500's streak came to an end, falling from its peak as weaker retail sales suggested caution among consumers. Despite a strong outlook, Applied Materials saw its shares ...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-sp-500-ends-lower-as-investors-weigh-data-middle-east-tensions/articleshow/133251425.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Shiprocket IPO Day 3: GMP signals 38% listing premium, subscribed 3.16 times; should you subscribe?",
-          "summary": "Shiprocket IPO GMP: Shiprocket IPO entered its third and final day of bidding, showing strong investor interest with a grey market premium of 38% over its price band of Rs 92 to Rs...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-ipo-day-3-gmp-signals-38-listing-premium-subscribed-3-16-times-should-you-subscribe/articleshow/133228000.cms",
+          "title": "Nvidia’s $500 billion plan envelops Wall Street in its AI frenzy",
+          "summary": "Nvidia has unveiled a major financing initiative aimed at supporting artificial intelligence chip acquisitions. By collaborating with prominent financial institutions, the plan see...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-500-billion-plan-envelops-wall-street-in-its-ai-frenzy/articleshow/133249552.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Rita Finance and Leasing standalone net profit declines 31.82% in the June 2026 quarter",
-          "summary": "Sales rise 16.22% to Rs 0.43 crore...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/rita-finance-and-leasing-standalone-net-profit-declines-31-82-in-the-june-2026-quarter-126081400150_1.html",
+          "title": "Binance Research: Gen Z Leads Net Accumulation Across Every TradFi Product",
+          "summary": "Mumbai (Maharashtra) [India], August 14: Binance Research, the market research arm of the world's largest cryptocurrency exchange Binance, has recently published a new weekly marke...",
+          "link": "https://www.business-standard.com/content/press-releases-ani/binance-research-gen-z-leads-net-accumulation-across-every-tradfi-product-126081500034_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA clears Vesalio’s latest mechanical thrombectomy device",
-          "summary": "Vesalio’s pVasc NET mechanical thrombectomy device integrates clot-capture technology to retain clot fragments during retrieval. The post FDA clears Vesalio’s latest mechanical thr...",
-          "link": "https://www.medicaldevice-network.com/news/fda-clears-vesalio-latest-mechanical-thrombectomy-device/",
+          "title": "Samsung enters OTC hearing aid space with FDA clearance for Galaxy earbud feature",
+          "summary": "The FDA’s clearance for the hearing aid feature in Samsung’s Galaxy Buds puts the company in competition with Apple’s AirPods in the OTC hearing aid space. The post Samsung enters ...",
+          "link": "https://www.medicaldevice-network.com/news/samsung-enters-otc-hearing-aid-space-with-fda-clearance-for-galaxy-earbud-feature/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Kusho AI is building AI agents that test software before it breaks",
-          "summary": "Kusho AI, a Bengaluru startup founded in 2023, builds AI agents that auto-generate, run, and fix software tests, cutting manual QA time for engineering teams....",
-          "link": "https://yourstory.com/2026/08/kusho-ai-software-testing-startup-bengaluru",
+          "title": "Indigotex has made denim from wool that keeps you warm and skips the water",
+          "summary": "The IIT Delhi spinout blends indigo-dyed merino wool with cotton, lyocell and hemp, and is developing cold-weather fabrics for the Indian Army....",
+          "link": "https://yourstory.com/2026/08/indigotex-wool-denim",
           "source": "YourStory"
         },
         {
-          "title": "A stroke can cut the line between intention and movement. This device tries to close the loop",
-          "summary": "Nexactly AI Solutions has built an EEG-based rehabilitation platform out of IIT Roorkee's innovation hub, and is taking it to Shark Tank India....",
-          "link": "https://yourstory.com/2026/08/stroke-recovery-movement-device",
+          "title": "(Weekly funding roundup Aug 8-14) Tepid VC inflow but Yulu provides relief",
+          "summary": "Venture capital funding into Indian startups saw a sharp decline in the second week of August largely due to absence of large deals....",
+          "link": "https://yourstory.com/2026/08/weekly-funding-roundup-aug-8-14-fund-inflow-turns-tepid-but-yulu-deal-provides-relief",
           "source": "YourStory"
         },
         {
-          "title": "Razorpay’s ChatGPT Gambit, Snapchat’s Next Big Quest & More",
-          "summary": "Razorpay Wants To Put Indian Brands Inside ChatGPT As ChatGPT and other AI assistants move from answering questions to recommending&#8230;...",
-          "link": "https://inc42.com/buzz/razorpays-chatgpt-gambit-snapchats-next-big-quest-more/",
+          "title": "Atomberg To Form JV With Voltas To Manufacture AC Compressors",
+          "summary": "IPO-bound consumer appliances startup Atomberg has joined hands with Tata-owned Voltas to manufacture compressors for room air conditioners (ACs) in&#8230;...",
+          "link": "https://inc42.com/buzz/atomberg-to-form-jv-with-voltas-to-manufacture-ac-compressors/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +211,35 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "Agentic Requirements Engineering: Reduce Friction in Requirements Workflows",
+          "summary": "See how Agentic Requirements Engineering makes requirements workflows easier. AI agents work in your requirements tool — engineers stay in control. By Mihajlo Djordjevic Good requi...",
+          "link": "https://www.designworldonline.com/agentic-requirements-engineering-reduce-friction-in-requirements-workflows/",
+          "source": "Design World"
+        },
+        {
           "title": "SEW-EURODRIVE expands PxG servo gear unit portfolio",
           "summary": "SEW-EURODRIVE has expanded its PxG planetary servo gear unit portfolio with the PxG economy series. The series adds three performance classes for machine builders and OEMs working ...",
           "link": "https://www.designworldonline.com/sew-eurodrive-expands-pxg-servo-gear-unit-portfolio/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
+          "summary": "Every year, a new Pixel, and new hopes and dreams...\n\nProtect your new Pixel 11 or old Pixel 10 with dbrand at https://dbrand.com/shop/pixel11\n\nAffiliate Links:\nPixel 11 Pro: https...",
+          "link": "https://www.youtube.com/watch?v=o4SSoURPODY",
+          "source": "MKBHD",
+          "thumbnail": "https://i4.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg"
         },
         {
-          "title": "Follow Design World’s Editorial Director’s livestream of the total solar eclipse at sunset from Porto d’Alcúdia, Mallorca",
-          "summary": "In August 2017 and April 2024, millions of Americans witnessed a total solar eclipse, as the path of the moon’s shadow swept across large swaths of the country. Today, from Greenla...",
-          "link": "https://www.designworldonline.com/follow-design-worlds-editorial-directors-livestream-of-the-total-solar-eclipse-at-sunset-from-porto-dalcudia-mallorca/",
-          "source": "Design World"
+          "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
+          "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/riemann-zeta\n\nSource:\nhtt...",
+          "link": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i2.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg"
         }
       ]
     }
