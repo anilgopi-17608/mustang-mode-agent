@@ -1,27 +1,27 @@
 {
-  "last_updated": "Saturday, August 15, 2026 at 08:04 AM IST",
-  "last_updated_iso": "2026-08-15T08:04:54.589066",
+  "last_updated": "Sunday, August 16, 2026 at 08:13 AM IST",
+  "last_updated_iso": "2026-08-16T08:13:46.969552",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
         "price": 24366.0,
-        "change": -69.90000000000146,
-        "change_pct": -0.2860545345168439,
+        "change": -29.799999999999272,
+        "change_pct": -0.12215217373482022,
         "is_up": false
       },
       {
         "name": "Sensex",
         "price": 78009.25,
-        "change": 42.85000000000582,
-        "change_pct": 0.0549595723286003,
-        "is_up": true
+        "change": -70.75,
+        "change_pct": -0.09061219262295082,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
         "price": 57491.1,
-        "change": -394.8000000000029,
-        "change_pct": -0.6820313755163224,
+        "change": -144.09999999999854,
+        "change_pct": -0.25002082060962494,
         "is_up": false
       }
     ],
@@ -74,18 +74,18 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.415,
-        "change": -0.015000000000000568,
-        "change_pct": -0.015718327569947153,
-        "is_up": false
+        "price": 95.43,
+        "change": 0.0,
+        "change_pct": 0.0,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4432.0,
-        "change": 11.600000000000364,
-        "change_pct": 0.26241969052575254,
+        "price": 4437.3,
+        "change": 16.900000000000546,
+        "change_pct": 0.38231834223148464,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-          "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around....",
-          "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+          "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+          "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"...",
+          "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
           "source": "TechCrunch"
         },
         {
-          "title": "Self-driving trucks are officially testing on California highways",
-          "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles....",
-          "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?...",
+          "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
           "source": "TechCrunch"
         },
         {
-          "title": "Samsung has new Galaxy headphones in the works",
+          "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+          "link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
           "source": "The Verge"
         },
         {
-          "title": "A RAMageddon guide to back-to-school laptop shopping",
+          "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
           "summary": "",
-          "link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+          "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
           "source": "The Verge"
         },
         {
-          "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-          "summary": "Screen-sharing bug lets remote hackers log in without a password....",
-          "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+          "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+          "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter...",
+          "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "US stock: S&amp;P 500 ends lower as investors weigh data, Middle East tensions",
-          "summary": "The S&amp;P 500's streak came to an end, falling from its peak as weaker retail sales suggested caution among consumers. Despite a strong outlook, Applied Materials saw its shares ...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-sp-500-ends-lower-as-investors-weigh-data-middle-east-tensions/articleshow/133251425.cms",
+          "title": "Madhusudan Kela’s portfolio: 7 stocks rally up to 135% in CY26",
+          "summary": "Madhusudan Kela’s disclosed portfolio of 19 stocks was worth about Rs 2,665 crore as of August 14. Seven holdings gained 10–135% in 2026, while five declined 15–30%, highlighting s...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kelas-portfolio-7-stocks-rally-up-to-135-in-cy26/slideshow/133259821.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Nvidia’s $500 billion plan envelops Wall Street in its AI frenzy",
-          "summary": "Nvidia has unveiled a major financing initiative aimed at supporting artificial intelligence chip acquisitions. By collaborating with prominent financial institutions, the plan see...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-500-billion-plan-envelops-wall-street-in-its-ai-frenzy/articleshow/133249552.cms",
+          "title": "Bitcoin near $63,000 as weaker ETF demand and cancelled SEC meeting dampen crypto sentiment",
+          "summary": "Bitcoin hovered near $63,000 as weaker ETF demand and a cancelled SEC meeting weighed on crypto sentiment. Bitcoin and Ethereum declined, while the global crypto market cap slipped...",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-63000-as-weaker-etf-demand-and-cancelled-sec-meeting-dampen-crypto-sentiment/articleshow/133259389.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Binance Research: Gen Z Leads Net Accumulation Across Every TradFi Product",
-          "summary": "Mumbai (Maharashtra) [India], August 14: Binance Research, the market research arm of the world's largest cryptocurrency exchange Binance, has recently published a new weekly marke...",
-          "link": "https://www.business-standard.com/content/press-releases-ani/binance-research-gen-z-leads-net-accumulation-across-every-tradfi-product-126081500034_1.html",
+          "title": "Nxt-Infra Trust consolidated net profit rises 71.83% in the June 2026 quarter",
+          "summary": "Sales rise 7.62% to Rs 87.23 crore...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nxt-infra-trust-consolidated-net-profit-rises-71-83-in-the-june-2026-quarter-126081501154_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -194,15 +194,15 @@
           "source": "YourStory"
         },
         {
-          "title": "(Weekly funding roundup Aug 8-14) Tepid VC inflow but Yulu provides relief",
-          "summary": "Venture capital funding into Indian startups saw a sharp decline in the second week of August largely due to absence of large deals....",
-          "link": "https://yourstory.com/2026/08/weekly-funding-roundup-aug-8-14-fund-inflow-turns-tepid-but-yulu-deal-provides-relief",
+          "title": "KD Cancer Centre delivers integrated, patient-centric treatment",
+          "summary": "With multidisciplinary expertise, advanced surgical treatment, and continued support, KD Cancer Centre is building a comprehensive approach to cancer care, addressing both clinical...",
+          "link": "https://yourstory.com/2026/08/kd-cancer-centre-delivers-integrated-patient-centric-treatment",
           "source": "YourStory"
         },
         {
-          "title": "Atomberg To Form JV With Voltas To Manufacture AC Compressors",
-          "summary": "IPO-bound consumer appliances startup Atomberg has joined hands with Tata-owned Voltas to manufacture compressors for room air conditioners (ACs) in&#8230;...",
-          "link": "https://inc42.com/buzz/atomberg-to-form-jv-with-voltas-to-manufacture-ac-compressors/",
+          "title": "Ola Electric Unveils Three New Energy Storage Products",
+          "summary": "With an eye on bolstering its energy solutions business, electric vehicle (EV) maker Ola Electric yesterday announced the launch of&#8230;...",
+          "link": "https://inc42.com/buzz/ola-electric-unveils-three-new-battery-energy-storage-products/",
           "source": "Inc42"
         }
       ]
