@@ -1,6 +1,6 @@
 {
-  "last_updated": "Sunday, August 16, 2026 at 08:13 AM IST",
-  "last_updated_iso": "2026-08-16T08:13:46.969552",
+  "last_updated": "Monday, August 17, 2026 at 08:14 AM IST",
+  "last_updated_iso": "2026-08-17T08:14:05.928275",
   "market": {
     "indices": [
       {
@@ -74,7 +74,7 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.43,
+        "price": 95.415,
         "change": 0.0,
         "change_pct": 0.0,
         "is_up": true
@@ -83,9 +83,9 @@
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4437.3,
-        "change": 16.900000000000546,
-        "change_pct": 0.38231834223148464,
+        "price": 4450.3,
+        "change": 13.0,
+        "change_pct": 0.29297095080341645,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-          "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"...",
-          "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "summary": "OpenRouter's CEO recently described the startup as Stripe for AI....",
+          "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?...",
-          "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+          "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision....",
+          "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
           "source": "TechCrunch"
         },
         {
-          "title": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
+          "title": "OpenAI reportedly disbanded its preparedness team",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
           "source": "The Verge"
         },
         {
-          "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+          "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+          "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
           "source": "The Verge"
         },
         {
-          "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-          "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter...",
-          "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+          "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+          "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains....",
+          "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Madhusudan Kela’s portfolio: 7 stocks rally up to 135% in CY26",
-          "summary": "Madhusudan Kela’s disclosed portfolio of 19 stocks was worth about Rs 2,665 crore as of August 14. Seven holdings gained 10–135% in 2026, while five declined 15–30%, highlighting s...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kelas-portfolio-7-stocks-rally-up-to-135-in-cy26/slideshow/133259821.cms",
+          "title": "Dhoot Transmission shares set for debut today. GMP signals potential 30% listing premium",
+          "summary": "The company’s Rs 3,066.89 crore initial public offering (IPO), priced at Rs 871 per share, has been commanding a grey market premium (GMP) of around Rs 264. If the trend holds, the...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dhoot-transmission-shares-set-for-debut-today-gmp-signals-potential-30-listing-premium/articleshow/133284973.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Bitcoin near $63,000 as weaker ETF demand and cancelled SEC meeting dampen crypto sentiment",
-          "summary": "Bitcoin hovered near $63,000 as weaker ETF demand and a cancelled SEC meeting weighed on crypto sentiment. Bitcoin and Ethereum declined, while the global crypto market cap slipped...",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-63000-as-weaker-etf-demand-and-cancelled-sec-meeting-dampen-crypto-sentiment/articleshow/133259389.cms",
+          "title": "Negative Breakout: These 9 stocks cross below their 200 DMAs",
+          "summary": "Traders use the 200 DMA as a key indicator to determine the overall trend in a particular stock....",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/133284958.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Nxt-Infra Trust consolidated net profit rises 71.83% in the June 2026 quarter",
-          "summary": "Sales rise 7.62% to Rs 87.23 crore...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nxt-infra-trust-consolidated-net-profit-rises-71-83-in-the-june-2026-quarter-126081501154_1.html",
+          "title": "Stocks to watch today: RIL, Amber Ent, ONGC, Ather Energy, NMDC, Voltas",
+          "summary": "Stocks to watch today: RIL, Amber Enterprises, ONGC, Ather Energy, NMDC, Voltas, Patanjali Foods, EaseMyTrip, Cochin Shipyard, Jindal Stainless, Brigade Enterprises, among others, ...",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-today-17-august-ril-amber-ent-ongc-ather-energy-nmdc-voltas-126081700054_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Indigotex has made denim from wool that keeps you warm and skips the water",
-          "summary": "The IIT Delhi spinout blends indigo-dyed merino wool with cotton, lyocell and hemp, and is developing cold-weather fabrics for the Indian Army....",
-          "link": "https://yourstory.com/2026/08/indigotex-wool-denim",
+          "title": "PM Modi announces free online coaching for youth",
+          "summary": "The prime minister said he assures these families that they can save \"thousands of crores of rupees\" spent on coaching, be close to their children, and care for them....",
+          "link": "https://yourstory.com/2026/08/pm-modi-announces-free-online-coaching-for-youth",
           "source": "YourStory"
         },
         {
-          "title": "KD Cancer Centre delivers integrated, patient-centric treatment",
-          "summary": "With multidisciplinary expertise, advanced surgical treatment, and continued support, KD Cancer Centre is building a comprehensive approach to cancer care, addressing both clinical...",
-          "link": "https://yourstory.com/2026/08/kd-cancer-centre-delivers-integrated-patient-centric-treatment",
+          "title": "IPO wave: Seven cos eye to raise Rs 6,400 Cr next week",
+          "summary": "The upcoming issues follow the launch of five IPOs this week, while three companies had already tapped the market earlier this month....",
+          "link": "https://yourstory.com/2026/08/ipo-wave-seven-cos-eye-to-raise-rs-6400-cr-next-week-",
           "source": "YourStory"
         },
         {
-          "title": "Ola Electric Unveils Three New Energy Storage Products",
-          "summary": "With an eye on bolstering its energy solutions business, electric vehicle (EV) maker Ola Electric yesterday announced the launch of&#8230;...",
-          "link": "https://inc42.com/buzz/ola-electric-unveils-three-new-battery-energy-storage-products/",
+          "title": "Lenskart’s Scale Meets Profits",
+          "summary": "Lenskart’s recent results for the first quarter (Q1) of the financial year 2026-27 (FY27) suggest the company is entering a&#8230;...",
+          "link": "https://inc42.com/features/lenskarts-scale-meets-profits/",
           "source": "Inc42"
         }
       ]
