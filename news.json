@@ -1,80 +1,80 @@
 {
-  "last_updated": "Monday, August 17, 2026 at 08:14 AM IST",
-  "last_updated_iso": "2026-08-17T08:14:05.928275",
+  "last_updated": "Tuesday, August 18, 2026 at 08:08 AM IST",
+  "last_updated_iso": "2026-08-18T08:08:05.371321",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24366.0,
-        "change": -29.799999999999272,
-        "change_pct": -0.12215217373482022,
+        "price": 24287.65,
+        "change": -78.34999999999854,
+        "change_pct": -0.32155462529753975,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 78009.25,
-        "change": -70.75,
-        "change_pct": -0.09061219262295082,
+        "price": 77728.16,
+        "change": -281.0899999999965,
+        "change_pct": -0.3603290635405372,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57491.1,
-        "change": -144.09999999999854,
-        "change_pct": -0.25002082060962494,
-        "is_up": false
+        "price": 57497.8,
+        "change": 6.700000000004366,
+        "change_pct": 0.011653977746128297,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1992.1,
-        "change": 53.0,
-        "change_pct": 2.733226754680006,
+        "name": "L&T",
+        "price": 4086.7,
+        "change": 29.699999999999818,
+        "change_pct": 0.732068030564452,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1417.0,
-        "change": 10.200000000000045,
-        "change_pct": 0.7250497583167504,
+        "name": "Reliance",
+        "price": 1316.0,
+        "change": 6.0,
+        "change_pct": 0.45801526717557256,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 184.0,
-        "change": 0.9000000000000057,
-        "change_pct": 0.4915346805024608,
+        "name": "HDFC Bank",
+        "price": 729.0,
+        "change": 2.0,
+        "change_pct": 0.2751031636863824,
         "is_up": true
       }
     ],
     "losers": [
       {
+        "name": "Infosys",
+        "price": 1139.9,
+        "change": -29.299999999999955,
+        "change_pct": -2.505986999657882,
+        "is_up": false
+      },
+      {
+        "name": "Sun Pharma",
+        "price": 1882.0,
+        "change": -48.0,
+        "change_pct": -2.4870466321243523,
+        "is_up": false
+      },
+      {
         "name": "TCS",
-        "price": 2361.0,
-        "change": -14.0,
-        "change_pct": -0.5894736842105264,
-        "is_up": false
-      },
-      {
-        "name": "Reliance",
-        "price": 1310.0,
-        "change": -7.0,
-        "change_pct": -0.5315110098709187,
-        "is_up": false
-      },
-      {
-        "name": "Maruti",
-        "price": 13834.0,
-        "change": -71.0,
-        "change_pct": -0.5106076950737145,
+        "price": 2313.2,
+        "change": -47.80000000000018,
+        "change_pct": -2.0245658619229214,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.415,
+        "price": 95.592,
         "change": 0.0,
         "change_pct": 0.0,
         "is_up": true
@@ -83,10 +83,10 @@
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4450.3,
-        "change": 13.0,
-        "change_pct": 0.29297095080341645,
-        "is_up": true
+        "price": 4460.1,
+        "change": -13.599999999999454,
+        "change_pct": -0.3039989270625982,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-          "summary": "OpenRouter's CEO recently described the startup as Stripe for AI....",
-          "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "title": "Anthropic’s annualized revenue surges to $65B",
+          "summary": "The model maker added $18 billion in annualized revenue in two months....",
+          "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
           "source": "TechCrunch"
         },
         {
-          "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-          "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision....",
-          "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+          "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+          "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said....",
+          "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI reportedly disbanded its preparedness team",
+          "title": "Reddit’s AI is turning posts into podcasts and short videos",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+          "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
           "source": "The Verge"
         },
         {
-          "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+          "title": "ABC&#8217;s livestreamed news show is powered by trending topics",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+          "link": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
           "source": "The Verge"
         },
         {
-          "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-          "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains....",
-          "link": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+          "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+          "summary": "Again, the CDC did not publish a full report and instead simply put the data online....",
+          "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
           "source": "Ars Technica"
         }
       ]
@@ -130,34 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Dhoot Transmission shares set for debut today. GMP signals potential 30% listing premium",
-          "summary": "The company’s Rs 3,066.89 crore initial public offering (IPO), priced at Rs 871 per share, has been commanding a grey market premium (GMP) of around Rs 264. If the trend holds, the...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dhoot-transmission-shares-set-for-debut-today-gmp-signals-potential-30-listing-premium/articleshow/133284973.cms",
+          "title": "ETMarkets Smart Talk | Have ₹1 crore for 3 years? Puneet Pal’s fixed-income playbook",
+          "summary": "Rather than locking into long-duration bonds at current yields, Puneet Pal, Head – Fixed Income at PGIM India Mutual Fund, believes investors should stay nimble and wait for potent...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-have-1-crore-for-3-years-puneet-pals-fixed-income-playbook/articleshow/133309569.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Negative Breakout: These 9 stocks cross below their 200 DMAs",
-          "summary": "Traders use the 200 DMA as a key indicator to determine the overall trend in a particular stock....",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-9-stocks-cross-below-their-200-dmas/slideshow/133284958.cms",
+          "title": "Dollar feeble as rate hike bets dwindle, Iran war worries grow",
+          "summary": "The U.S. dollar weakened against major currencies as traders scaled back tightening expectations. Soft economic data, including retail sales and job losses, influenced these shifts...",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-feeble-as-rate-hike-bets-dwindle-iran-war-worries-grow/articleshow/133309496.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Stocks to watch today: RIL, Amber Ent, ONGC, Ather Energy, NMDC, Voltas",
-          "summary": "Stocks to watch today: RIL, Amber Enterprises, ONGC, Ather Energy, NMDC, Voltas, Patanjali Foods, EaseMyTrip, Cochin Shipyard, Jindal Stainless, Brigade Enterprises, among others, ...",
-          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-today-17-august-ril-amber-ent-ongc-ather-energy-nmdc-voltas-126081700054_1.html",
+          "title": "Fractal Analytics among two stocks Kotak Securities is bullish on",
+          "summary": "Stocks to buy: Shrikant Chouhan, head of equity research, Kotak Securities, recommends buying Fractal Analytics and Leela Hotels shares....",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-fractal-analytics-among-two-stocks-kotak-securities-is-bullish-on-126081800081_1.html",
           "source": "Business Standard Markets"
+        },
+        {
+          "title": "Jio-BlackRock rolls out MF plans; Lalithaa Jewellery IPO booked 0.68x",
+          "summary": "Regular plans come with higher expense ratios as they pay commissions to distributors...",
+          "link": "https://www.business-standard.com/markets/news/jio-blackrock-rolls-out-mf-plans-lalithaa-jewellery-ipo-booked-0-68x-126081701565_1.html",
+          "source": "Business Standard Markets"
+        },
+        {
+          "title": "After Dhoot, Bain-backed RSB Transmissions begins talks with bankers for  ₹3,000 cr IPO",
+          "summary": "Founded in 1973 by R.K. Behera and S.K. Behera, RSB specializes in designing and manufacturing components for commercial vehicles, passenger cars, construction and off-highway equi...",
+          "link": "https://www.livemint.com/companies/after-dhoot-bain-backed-rsb-transmissions-begins-talks-with-bankers-for-rs-3-000-cr-ipo-oems-manufacturers-11786976307068.html",
+          "source": "Livemint Companies"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Samsung enters OTC hearing aid space with FDA clearance for Galaxy earbud feature",
-          "summary": "The FDA’s clearance for the hearing aid feature in Samsung’s Galaxy Buds puts the company in competition with Apple’s AirPods in the OTC hearing aid space. The post Samsung enters ...",
-          "link": "https://www.medicaldevice-network.com/news/samsung-enters-otc-hearing-aid-space-with-fda-clearance-for-galaxy-earbud-feature/",
+          "title": "OncoSil obtains FDA humanitarian exemption for bile duct cancer treatment",
+          "summary": "OncoSil’s device is designed for implantation into solid tumours via injection under endoscopic ultrasound guidance. The post OncoSil obtains FDA humanitarian exemption for bile du...",
+          "link": "https://www.medicaldevice-network.com/news/oncosil-obtains-fda-humanitarian-exemption-for-bile-duct-cancer-treatment/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "PM Modi announces free online coaching for youth",
-          "summary": "The prime minister said he assures these families that they can save \"thousands of crores of rupees\" spent on coaching, be close to their children, and care for them....",
-          "link": "https://yourstory.com/2026/08/pm-modi-announces-free-online-coaching-for-youth",
+          "title": "upGrad’s EBITDA jumps 8X to Rs 123 Cr in FY26 as gross revenue crosses Rs 2,000 Cr",
+          "summary": "Edtech major upGrad reports a 52% decline in net loss to Rs 130 Cr, marking its third consecutive year of more than halving losses, while AI adoption helped drive greater operating...",
+          "link": "https://yourstory.com/2026/08/upgrads-ebitda-jumps-8x-rs-123-cr-in-fy26-gross-revenue-crosses-rs-2000-cr",
           "source": "YourStory"
         },
         {
-          "title": "IPO wave: Seven cos eye to raise Rs 6,400 Cr next week",
-          "summary": "The upcoming issues follow the launch of five IPOs this week, while three companies had already tapped the market earlier this month....",
-          "link": "https://yourstory.com/2026/08/ipo-wave-seven-cos-eye-to-raise-rs-6400-cr-next-week-",
+          "title": "6 Books that explore the connection between art and emotions",
+          "summary": "Discover 6 books that explore how art connects with emotions, revealing creativity, human experiences, and the feelings behind every masterpiece....",
+          "link": "https://yourstory.com/2026/07/books-connection-art-emotions",
           "source": "YourStory"
         },
         {
-          "title": "Lenskart’s Scale Meets Profits",
-          "summary": "Lenskart’s recent results for the first quarter (Q1) of the financial year 2026-27 (FY27) suggest the company is entering a&#8230;...",
-          "link": "https://inc42.com/features/lenskarts-scale-meets-profits/",
+          "title": "Amazon, Flipkart & Meesho’s AI Focus Shifts To Seller-Side Stacks",
+          "summary": "For much of the past two years, the AI race in Indian ecommerce revolved around the consumer. That meant the&#8230;...",
+          "link": "https://inc42.com/features/amazon-flipkart-meeshos-ai-focus-shifts-to-seller-side-stacks/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Agentic Requirements Engineering: Reduce Friction in Requirements Workflows",
-          "summary": "See how Agentic Requirements Engineering makes requirements workflows easier. AI agents work in your requirements tool — engineers stay in control. By Mihajlo Djordjevic Good requi...",
-          "link": "https://www.designworldonline.com/agentic-requirements-engineering-reduce-friction-in-requirements-workflows/",
+          "title": "LindFast promotes Alex Acosta to senior vice president",
+          "summary": "LindFast Solutions Group, LSG, an industrial supply chain solutions platform, announced the promotion of Alex Acosta to senior vice president, corporate development. In his expande...",
+          "link": "https://www.designworldonline.com/lindfast-promotes-alex-acosta-to-senior-vice-president/",
           "source": "Design World"
         },
         {
-          "title": "SEW-EURODRIVE expands PxG servo gear unit portfolio",
-          "summary": "SEW-EURODRIVE has expanded its PxG planetary servo gear unit portfolio with the PxG economy series. The series adds three performance classes for machine builders and OEMs working ...",
-          "link": "https://www.designworldonline.com/sew-eurodrive-expands-pxg-servo-gear-unit-portfolio/",
+          "title": "Agentic Requirements Engineering: Reduce Friction in Requirements Workflows",
+          "summary": "See how Agentic Requirements Engineering makes requirements workflows easier. AI agents work in your requirements tool — engineers stay in control. By Mihajlo Djordjevic Good requi...",
+          "link": "https://www.designworldonline.com/agentic-requirements-engineering-reduce-friction-in-requirements-workflows/",
           "source": "Design World"
         }
       ]
