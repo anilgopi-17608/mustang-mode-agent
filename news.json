@@ -1,80 +1,80 @@
 {
-  "last_updated": "Tuesday, August 18, 2026 at 08:08 AM IST",
-  "last_updated_iso": "2026-08-18T08:08:05.371321",
+  "last_updated": "Wednesday, August 19, 2026 at 08:11 AM IST",
+  "last_updated_iso": "2026-08-19T08:11:27.243902",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24287.65,
-        "change": -78.34999999999854,
-        "change_pct": -0.32155462529753975,
+        "price": 24154.9,
+        "change": -211.09999999999854,
+        "change_pct": -0.8663711729459022,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 77728.16,
-        "change": -281.0899999999965,
-        "change_pct": -0.3603290635405372,
+        "price": 77235.46,
+        "change": -773.7399999999907,
+        "change_pct": -0.9918573706690886,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57497.8,
-        "change": 6.700000000004366,
-        "change_pct": 0.011653977746128297,
-        "is_up": true
+        "price": 57262.4,
+        "change": -228.6999999999971,
+        "change_pct": -0.397800703065339,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "L&T",
-        "price": 4086.7,
-        "change": 29.699999999999818,
-        "change_pct": 0.732068030564452,
-        "is_up": true
-      },
-      {
         "name": "Reliance",
-        "price": 1316.0,
+        "price": 1322.0,
         "change": 6.0,
-        "change_pct": 0.45801526717557256,
+        "change_pct": 0.4559270516717325,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 729.0,
-        "change": 2.0,
-        "change_pct": 0.2751031636863824,
-        "is_up": true
+        "name": "ICICI Bank",
+        "price": 1412.0,
+        "change": -3.2999999999999545,
+        "change_pct": -0.2331661131915463,
+        "is_up": false
+      },
+      {
+        "name": "Sun Pharma",
+        "price": 1875.1,
+        "change": -6.900000000000091,
+        "change_pct": -0.3666312433581345,
+        "is_up": false
       }
     ],
     "losers": [
       {
         "name": "Infosys",
-        "price": 1139.9,
-        "change": -29.299999999999955,
-        "change_pct": -2.505986999657882,
+        "price": 1115.0,
+        "change": -24.90000000000009,
+        "change_pct": -2.1844021405386513,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1882.0,
-        "change": -48.0,
-        "change_pct": -2.4870466321243523,
+        "name": "Wipro",
+        "price": 178.06,
+        "change": -3.8400000000000034,
+        "change_pct": -2.1110500274876323,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2313.2,
-        "change": -47.80000000000018,
-        "change_pct": -2.0245658619229214,
+        "name": "Bharti Airtel",
+        "price": 1934.2,
+        "change": -35.09999999999991,
+        "change_pct": -1.7823592139338806,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.592,
+        "price": 95.67,
         "change": 0.0,
         "change_pct": 0.0,
         "is_up": true
@@ -83,9 +83,9 @@
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4460.1,
-        "change": -13.599999999999454,
-        "change_pct": -0.3039989270625982,
+        "price": 4411.2,
+        "change": -9.400000000000546,
+        "change_pct": -0.21264081798852066,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Anthropic’s annualized revenue surges to $65B",
-          "summary": "The model maker added $18 billion in annualized revenue in two months....",
-          "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+          "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+          "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub....",
+          "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
           "source": "TechCrunch"
         },
         {
-          "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-          "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said....",
-          "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+          "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+          "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms....",
+          "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
           "source": "TechCrunch"
         },
         {
-          "title": "Reddit’s AI is turning posts into podcasts and short videos",
+          "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
           "summary": "",
-          "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+          "link": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
           "source": "The Verge"
         },
         {
-          "title": "ABC&#8217;s livestreamed news show is powered by trending topics",
+          "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
           "summary": "",
-          "link": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+          "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
           "source": "The Verge"
         },
         {
-          "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
-          "summary": "Again, the CDC did not publish a full report and instead simply put the data online....",
-          "link": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+          "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+          "summary": "US healthcare is broken. Under RFK Jr., the research agency working to fix it is, too....",
+          "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
           "source": "Ars Technica"
         }
       ]
@@ -130,34 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "ETMarkets Smart Talk | Have ₹1 crore for 3 years? Puneet Pal’s fixed-income playbook",
-          "summary": "Rather than locking into long-duration bonds at current yields, Puneet Pal, Head – Fixed Income at PGIM India Mutual Fund, believes investors should stay nimble and wait for potent...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-have-1-crore-for-3-years-puneet-pals-fixed-income-playbook/articleshow/133309569.cms",
+          "title": "Gaja Alternative Asset Management IPO opens today: GMP at 19% — Should You Subscribe?",
+          "summary": "The three-day IPO will remain open until August 21, 2026, with the company offering shares in a price band of Rs 152–160 apiece....",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gaja-alternative-asset-management-ipo-opens-today-gmp-at-19-should-you-subscribe/articleshow/133335323.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Dollar feeble as rate hike bets dwindle, Iran war worries grow",
-          "summary": "The U.S. dollar weakened against major currencies as traders scaled back tightening expectations. Soft economic data, including retail sales and job losses, influenced these shifts...",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-feeble-as-rate-hike-bets-dwindle-iran-war-worries-grow/articleshow/133309496.cms",
+          "title": "Negative Breakout: These 13 stocks cross below their 200 DMAs",
+          "summary": "The 200 DMA is used as a key indicator by traders for determining the overall trend in a particular stock....",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-13-stocks-cross-below-their-200-dmas/slideshow/133335353.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Fractal Analytics among two stocks Kotak Securities is bullish on",
-          "summary": "Stocks to buy: Shrikant Chouhan, head of equity research, Kotak Securities, recommends buying Fractal Analytics and Leela Hotels shares....",
-          "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-fractal-analytics-among-two-stocks-kotak-securities-is-bullish-on-126081800081_1.html",
-          "source": "Business Standard Markets"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Jio-BlackRock rolls out MF plans; Lalithaa Jewellery IPO booked 0.68x",
-          "summary": "Regular plans come with higher expense ratios as they pay commissions to distributors...",
-          "link": "https://www.business-standard.com/markets/news/jio-blackrock-rolls-out-mf-plans-lalithaa-jewellery-ipo-booked-0-68x-126081701565_1.html",
-          "source": "Business Standard Markets"
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "After Dhoot, Bain-backed RSB Transmissions begins talks with bankers for  ₹3,000 cr IPO",
-          "summary": "Founded in 1973 by R.K. Behera and S.K. Behera, RSB specializes in designing and manufacturing components for commercial vehicles, passenger cars, construction and off-highway equi...",
-          "link": "https://www.livemint.com/companies/after-dhoot-bain-backed-rsb-transmissions-begins-talks-with-bankers-for-rs-3-000-cr-ipo-oems-manufacturers-11786976307068.html",
-          "source": "Livemint Companies"
+          "title": "Nifty to stay weak below 24,200 level, says MOFSL; HAL among 3 stock picks",
+          "summary": "Stocks to buy today: HAL, Samvardhana Motherson and Sona BLW among three stock recommendations by MOFSL's Chandan Taparia....",
+          "link": "https://www.business-standard.com/markets/news/nifty-to-stay-weak-below-24-200-level-says-mofsl-hal-among-3-stock-picks-126081900103_1.html",
+          "source": "Business Standard Markets"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "OncoSil obtains FDA humanitarian exemption for bile duct cancer treatment",
-          "summary": "OncoSil’s device is designed for implantation into solid tumours via injection under endoscopic ultrasound guidance. The post OncoSil obtains FDA humanitarian exemption for bile du...",
-          "link": "https://www.medicaldevice-network.com/news/oncosil-obtains-fda-humanitarian-exemption-for-bile-duct-cancer-treatment/",
+          "title": "4DMedical and Azra AI join forces to advance lung care pathways",
+          "summary": "The companies pair-up aims to streamline health institutions' ability to manage lung care paradigms end-to-end. The post 4DMedical and Azra AI join forces to advance lung care path...",
+          "link": "https://www.medicaldevice-network.com/news/4dmedical-and-azra-ai-join-forces-to-advance-lung-care-pathways/",
           "source": "Medical Device Network"
         }
       ]
@@ -194,15 +194,15 @@
           "source": "YourStory"
         },
         {
-          "title": "6 Books that explore the connection between art and emotions",
-          "summary": "Discover 6 books that explore how art connects with emotions, revealing creativity, human experiences, and the feelings behind every masterpiece....",
-          "link": "https://yourstory.com/2026/07/books-connection-art-emotions",
+          "title": "Next chapter of India's EV revolution: Why software and emerging tech will matter more than speed",
+          "summary": "EV vehicles continuously record location, charge level, distance travelled, battery activity and inactive period. However, collecting data without proper action has limited value....",
+          "link": "https://yourstory.com/2026/08/next-chapter-indias-ev-revolution-software-and-emerging-tech-matter-more-speed",
           "source": "YourStory"
         },
         {
-          "title": "Amazon, Flipkart & Meesho’s AI Focus Shifts To Seller-Side Stacks",
-          "summary": "For much of the past two years, the AI race in Indian ecommerce revolved around the consumer. That meant the&#8230;...",
-          "link": "https://inc42.com/features/amazon-flipkart-meeshos-ai-focus-shifts-to-seller-side-stacks/",
+          "title": "Resilient Asset Management Offloads Paytm Shares Worth ₹2,949 Cr",
+          "summary": "Vijay Shekhar Sharma-owned Resilient Asset Management, acting on behalf of Alibaba Group affiliate Antfin, has offloaded 1.92 Cr shares in&#8230;...",
+          "link": "https://inc42.com/buzz/resilient-asset-management-offloads-paytm-shares-worth-%e2%82%b92949-cr/",
           "source": "Inc42"
         }
       ]
@@ -221,25 +221,6 @@
           "summary": "See how Agentic Requirements Engineering makes requirements workflows easier. AI agents work in your requirements tool — engineers stay in control. By Mihajlo Djordjevic Good requi...",
           "link": "https://www.designworldonline.com/agentic-requirements-engineering-reduce-friction-in-requirements-workflows/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
-          "summary": "Every year, a new Pixel, and new hopes and dreams...\n\nProtect your new Pixel 11 or old Pixel 10 with dbrand at https://dbrand.com/shop/pixel11\n\nAffiliate Links:\nPixel 11 Pro: https...",
-          "link": "https://www.youtube.com/watch?v=o4SSoURPODY",
-          "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg"
-        },
-        {
-          "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
-          "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/riemann-zeta\n\nSource:\nhtt...",
-          "link": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg"
         }
       ]
     }
