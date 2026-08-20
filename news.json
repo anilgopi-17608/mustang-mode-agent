@@ -1,80 +1,80 @@
 {
-  "last_updated": "Wednesday, August 19, 2026 at 08:11 AM IST",
-  "last_updated_iso": "2026-08-19T08:11:27.243902",
+  "last_updated": "Thursday, August 20, 2026 at 08:09 AM IST",
+  "last_updated_iso": "2026-08-20T08:09:28.496441",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24154.9,
-        "change": -211.09999999999854,
-        "change_pct": -0.8663711729459022,
+        "price": 24078.3,
+        "change": -209.40000000000146,
+        "change_pct": -0.8621647994664026,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 77235.46,
-        "change": -773.7399999999907,
-        "change_pct": -0.9918573706690886,
+        "price": 76909.68,
+        "change": -818.5200000000041,
+        "change_pct": -1.0530541039159587,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57262.4,
-        "change": -228.6999999999971,
-        "change_pct": -0.397800703065339,
+        "price": 57239.75,
+        "change": -258.0500000000029,
+        "change_pct": -0.44879978016550703,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Reliance",
-        "price": 1322.0,
-        "change": 6.0,
-        "change_pct": 0.4559270516717325,
+        "name": "Sun Pharma",
+        "price": 1900.0,
+        "change": 24.90000000000009,
+        "change_pct": 1.327929177110559,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1412.0,
-        "change": -3.2999999999999545,
-        "change_pct": -0.2331661131915463,
-        "is_up": false
+        "name": "Wipro",
+        "price": 179.55,
+        "change": 1.490000000000009,
+        "change_pct": 0.8367965854206498,
+        "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1875.1,
-        "change": -6.900000000000091,
-        "change_pct": -0.3666312433581345,
-        "is_up": false
+        "name": "Infosys",
+        "price": 1119.8,
+        "change": 4.7999999999999545,
+        "change_pct": 0.43049327354259687,
+        "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1115.0,
-        "change": -24.90000000000009,
-        "change_pct": -2.1844021405386513,
+        "name": "Reliance",
+        "price": 1311.0,
+        "change": -11.0,
+        "change_pct": -0.8320726172465961,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 178.06,
-        "change": -3.8400000000000034,
-        "change_pct": -2.1110500274876323,
+        "name": "ICICI Bank",
+        "price": 1402.0,
+        "change": -10.0,
+        "change_pct": -0.708215297450425,
         "is_up": false
       },
       {
         "name": "Bharti Airtel",
-        "price": 1934.2,
-        "change": -35.09999999999991,
-        "change_pct": -1.7823592139338806,
+        "price": 1922.0,
+        "change": -12.200000000000045,
+        "change_pct": -0.6307517319822171,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.67,
+        "price": 95.743,
         "change": 0.0,
         "change_pct": 0.0,
         "is_up": true
@@ -83,10 +83,10 @@
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4411.2,
-        "change": -9.400000000000546,
-        "change_pct": -0.21264081798852066,
-        "is_up": false
+        "price": 4550.6,
+        "change": 5.300000000000182,
+        "change_pct": 0.11660396453479818,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-          "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub....",
-          "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+          "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real an...",
+          "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
           "source": "TechCrunch"
         },
         {
-          "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
-          "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms....",
-          "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+          "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+          "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability....",
+          "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
           "source": "TechCrunch"
         },
         {
-          "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
+          "title": "Does giving a camera wings dodge the FCC’s drone ban?",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
+          "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
           "source": "The Verge"
         },
         {
-          "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+          "title": "Nielsen is leaning more on wearables to hear what people are watching",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+          "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
           "source": "The Verge"
         },
         {
-          "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
-          "summary": "US healthcare is broken. Under RFK Jr., the research agency working to fix it is, too....",
-          "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+          "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
+          "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year....",
+          "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Gaja Alternative Asset Management IPO opens today: GMP at 19% — Should You Subscribe?",
-          "summary": "The three-day IPO will remain open until August 21, 2026, with the company offering shares in a price band of Rs 152–160 apiece....",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gaja-alternative-asset-management-ipo-opens-today-gmp-at-19-should-you-subscribe/articleshow/133335323.cms",
+          "title": "Bonus issue alert! Last day to buy Goodluck India shares for 2:1 bonus reward. How will dividend payout be impacted?",
+          "summary": "Goodluck India in July announced its maiden bonus issue in the ratio of 2:1. Under the proposal, eligible shareholders will receive two bonus equity shares of face value Rs 2 each ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-goodluck-india-shares-for-21-bonus-reward-how-will-dividend-payout-be-impacted/articleshow/133361960.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Negative Breakout: These 13 stocks cross below their 200 DMAs",
-          "summary": "The 200 DMA is used as a key indicator by traders for determining the overall trend in a particular stock....",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-13-stocks-cross-below-their-200-dmas/slideshow/133335353.cms",
+          "title": "ETMarkets Smart Talk | Nifty enters ‘very attractive’ zone as earnings improve: Union AMC’s Sanjay Bembalkar",
+          "summary": "Despite muted foreign flows and persistent geopolitical uncertainties keeping a lid on the broader market, corporate earnings have remained encouraging and several manufacturing se...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-nifty-enters-very-attractive-zone-as-earnings-improve-union-amcs-sanjay-bembalkar/articleshow/133361932.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Nifty to stay weak below 24,200 level, says MOFSL; HAL among 3 stock picks",
-          "summary": "Stocks to buy today: HAL, Samvardhana Motherson and Sona BLW among three stock recommendations by MOFSL's Chandan Taparia....",
-          "link": "https://www.business-standard.com/markets/news/nifty-to-stay-weak-below-24-200-level-says-mofsl-hal-among-3-stock-picks-126081900103_1.html",
+          "title": "Q1 earnings deliver positive surprise; has market priced in this optimism?",
+          "summary": "Analysts believe that such high topline growth may be sustainable in the forthcoming quarter as demand continues to be strong....",
+          "link": "https://www.business-standard.com/markets/news/q1-earnings-deliver-positive-surprise-has-market-priced-in-this-optimism-126081901284_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "4DMedical and Azra AI join forces to advance lung care pathways",
-          "summary": "The companies pair-up aims to streamline health institutions' ability to manage lung care paradigms end-to-end. The post 4DMedical and Azra AI join forces to advance lung care path...",
-          "link": "https://www.medicaldevice-network.com/news/4dmedical-and-azra-ai-join-forces-to-advance-lung-care-pathways/",
+          "title": "FDA seeks input on proposed regulatory approach to GenAI-based medtech",
+          "summary": "Feedback on the FDA's discussion paper around regulation for GenAI-enabled medical devices is open to interested parties until October 2026. The post FDA seeks input on proposed re...",
+          "link": "https://www.medicaldevice-network.com/news/fda-seeks-input-on-proposed-regulatory-approach-to-genai-based-medtech/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "upGrad’s EBITDA jumps 8X to Rs 123 Cr in FY26 as gross revenue crosses Rs 2,000 Cr",
-          "summary": "Edtech major upGrad reports a 52% decline in net loss to Rs 130 Cr, marking its third consecutive year of more than halving losses, while AI adoption helped drive greater operating...",
-          "link": "https://yourstory.com/2026/08/upgrads-ebitda-jumps-8x-rs-123-cr-in-fy26-gross-revenue-crosses-rs-2000-cr",
+          "title": "DevSparks Chennai returns: Explore AI for the physical world, manufacturing, and deeptech",
+          "summary": "YourStory’s flagship developer summit will bring together developers, tech leaders, startups, and enterprises to examine the technologies shaping deeptech, infrastructure, and manu...",
+          "link": "https://yourstory.com/2026/08/devsparks-chennai-2026-ai-physical-world-manufacturing-deeptech-developers",
           "source": "YourStory"
         },
         {
-          "title": "Next chapter of India's EV revolution: Why software and emerging tech will matter more than speed",
-          "summary": "EV vehicles continuously record location, charge level, distance travelled, battery activity and inactive period. However, collecting data without proper action has limited value....",
-          "link": "https://yourstory.com/2026/08/next-chapter-indias-ev-revolution-software-and-emerging-tech-matter-more-speed",
+          "title": "Fast-approval health insurance policies in India: Plans, benefits, and who should consider them",
+          "summary": "From zero-waiting-period plans to flexible coverage options, fast-approval health insurance policies can provide coverage soon after activation. Here’s a look at some of the option...",
+          "link": "https://yourstory.com/2026/08/fast-approval-health-insurance-policies-india-plans-benefits-who-should-consider-them",
           "source": "YourStory"
         },
         {
-          "title": "Resilient Asset Management Offloads Paytm Shares Worth ₹2,949 Cr",
-          "summary": "Vijay Shekhar Sharma-owned Resilient Asset Management, acting on behalf of Alibaba Group affiliate Antfin, has offloaded 1.92 Cr shares in&#8230;...",
-          "link": "https://inc42.com/buzz/resilient-asset-management-offloads-paytm-shares-worth-%e2%82%b92949-cr/",
+          "title": "Baby-Focused Quick Commerce Startup Peeko Nets $7 Mn To Double Dark Store Count",
+          "summary": "Babycare-focused quick commerce startup Peeko has raised $7 Mn (₹67.4 Cr) in its Series A funding round led by Chiratae&#8230;...",
+          "link": "https://inc42.com/buzz/baby-focused-quick-commerce-startup-peeko-nets-7-mn-to-double-dark-store-count/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "LindFast promotes Alex Acosta to senior vice president",
-          "summary": "LindFast Solutions Group, LSG, an industrial supply chain solutions platform, announced the promotion of Alex Acosta to senior vice president, corporate development. In his expande...",
-          "link": "https://www.designworldonline.com/lindfast-promotes-alex-acosta-to-senior-vice-president/",
+          "title": "ARM Institute calls for accelerated use of AI, automation in defense production",
+          "summary": "Drones, shipbuilding, metal forming, and other technologies need more automation to address Department of War needs. This episode is brought to you by Mouser Electronics. Visit mou...",
+          "link": "https://www.designworldonline.com/arm-institute-calls-for-accelerated-use-of-ai-automation-in-defense-production/",
           "source": "Design World"
         },
         {
-          "title": "Agentic Requirements Engineering: Reduce Friction in Requirements Workflows",
-          "summary": "See how Agentic Requirements Engineering makes requirements workflows easier. AI agents work in your requirements tool — engineers stay in control. By Mihajlo Djordjevic Good requi...",
-          "link": "https://www.designworldonline.com/agentic-requirements-engineering-reduce-friction-in-requirements-workflows/",
+          "title": "The case for made-to-specification sealing solutions",
+          "summary": "In this article, we explore why custom versus standard isn&#8217;t the only choice, and how made-to-specification options benefit OEMs. By: Pascal Freund · Global Segment Director ...",
+          "link": "https://www.designworldonline.com/the-case-for-made-to-specification-sealing-solutions/",
           "source": "Design World"
         }
       ]
