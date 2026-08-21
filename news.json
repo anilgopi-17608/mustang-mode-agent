@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, August 20, 2026 at 08:09 AM IST",
-  "last_updated_iso": "2026-08-20T08:09:28.496441",
+  "last_updated": "Friday, August 21, 2026 at 08:16 AM IST",
+  "last_updated_iso": "2026-08-21T08:16:22.469711",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24078.3,
-        "change": -209.40000000000146,
-        "change_pct": -0.8621647994664026,
-        "is_up": false
+        "price": 24231.85,
+        "change": 76.94999999999709,
+        "change_pct": 0.31856890320389275,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 76909.68,
-        "change": -818.5200000000041,
-        "change_pct": -1.0530541039159587,
-        "is_up": false
+        "price": 77537.72,
+        "change": 302.22000000000116,
+        "change_pct": 0.3912967482569559,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57239.75,
-        "change": -258.0500000000029,
-        "change_pct": -0.44879978016550703,
-        "is_up": false
+        "price": 57495.9,
+        "change": 233.5,
+        "change_pct": 0.40777194109922044,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Sun Pharma",
-        "price": 1900.0,
-        "change": 24.90000000000009,
-        "change_pct": 1.327929177110559,
+        "name": "Bharti Airtel",
+        "price": 1941.7,
+        "change": 19.700000000000045,
+        "change_pct": 1.024973985431844,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 179.55,
-        "change": 1.490000000000009,
-        "change_pct": 0.8367965854206498,
+        "name": "L&T",
+        "price": 4081.0,
+        "change": 39.69999999999982,
+        "change_pct": 0.9823571622992556,
         "is_up": true
       },
       {
         "name": "Infosys",
-        "price": 1119.8,
-        "change": 4.7999999999999545,
-        "change_pct": 0.43049327354259687,
+        "price": 1130.0,
+        "change": 10.200000000000045,
+        "change_pct": 0.910876942311131,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Reliance",
-        "price": 1311.0,
-        "change": -11.0,
-        "change_pct": -0.8320726172465961,
-        "is_up": false
+        "price": 1313.2,
+        "change": 2.2000000000000455,
+        "change_pct": 0.16781083142639552,
+        "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1402.0,
-        "change": -10.0,
-        "change_pct": -0.708215297450425,
-        "is_up": false
+        "name": "Sun Pharma",
+        "price": 1904.0,
+        "change": 4.0,
+        "change_pct": 0.21052631578947367,
+        "is_up": true
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1922.0,
-        "change": -12.200000000000045,
-        "change_pct": -0.6307517319822171,
-        "is_up": false
+        "name": "TCS",
+        "price": 2298.0,
+        "change": 9.0,
+        "change_pct": 0.39318479685452157,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.743,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "is_up": true
+        "price": 95.69,
+        "change": -0.0049999999999954525,
+        "change_pct": -0.005224933382094627,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4550.6,
-        "change": 5.300000000000182,
-        "change_pct": 0.11660396453479818,
+        "price": 4584.4,
+        "change": 13.0,
+        "change_pct": 0.2843767773548585,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-          "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real an...",
-          "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+          "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+          "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months....",
+          "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
           "source": "TechCrunch"
         },
         {
-          "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-          "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability....",
-          "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals....",
+          "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
           "source": "TechCrunch"
         },
         {
-          "title": "Does giving a camera wings dodge the FCC’s drone ban?",
+          "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
           "summary": "",
-          "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+          "link": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
           "source": "The Verge"
         },
         {
-          "title": "Nielsen is leaning more on wearables to hear what people are watching",
+          "title": "Google Discover is getting an AI chatbot-tuned feed",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+          "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
           "source": "The Verge"
         },
         {
-          "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
-          "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year....",
-          "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+          "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
+          "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans....",
+          "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Bonus issue alert! Last day to buy Goodluck India shares for 2:1 bonus reward. How will dividend payout be impacted?",
-          "summary": "Goodluck India in July announced its maiden bonus issue in the ratio of 2:1. Under the proposal, eligible shareholders will receive two bonus equity shares of face value Rs 2 each ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-goodluck-india-shares-for-21-bonus-reward-how-will-dividend-payout-be-impacted/articleshow/133361960.cms",
+          "title": "Oil Price Today (August 21): Crude oil nears $95 as Iran peace deal hopes fade. What are experts saying?",
+          "summary": "An earlier peace deal between the sides expired this week, with neither side making efforts to resume talks. U.S. President Donald Trump also threatened economic retaliation agains...",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-21-crude-oil-nears-95-as-iran-peace-deal-hopes-fade-what-are-experts-saying/articleshow/133391008.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ETMarkets Smart Talk | Nifty enters ‘very attractive’ zone as earnings improve: Union AMC’s Sanjay Bembalkar",
-          "summary": "Despite muted foreign flows and persistent geopolitical uncertainties keeping a lid on the broader market, corporate earnings have remained encouraging and several manufacturing se...",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-nifty-enters-very-attractive-zone-as-earnings-improve-union-amcs-sanjay-bembalkar/articleshow/133361932.cms",
+          "title": "Stock split alert! Last day to buy multibagger TD Power Systems shares to be eligible for 1:2 split",
+          "summary": "Accordingly, today is the last opportunity for investors to buy the shares so that they are credited to their accounts by Monday, making them eligible for the stock split....",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-split-alert-last-day-to-buy-multibagger-td-power-systems-shares-to-be-eligible-for-12-split/articleshow/133390935.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Q1 earnings deliver positive surprise; has market priced in this optimism?",
-          "summary": "Analysts believe that such high topline growth may be sustainable in the forthcoming quarter as demand continues to be strong....",
-          "link": "https://www.business-standard.com/markets/news/q1-earnings-deliver-positive-surprise-has-market-priced-in-this-optimism-126081901284_1.html",
+          "title": "HDFC Sec suggests Bear Spread on Nifty Midcap, Bull Spread on Canara Bank",
+          "summary": "Long build-up was seen in Canara Bank futures, with open interest rising alongside a 0.7 per cent increase in price....",
+          "link": "https://www.business-standard.com/markets/news/hdfc-securities-suggests-bear-spread-on-nifty-midcap-bull-spread-on-canara-bank-126082100080_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA seeks input on proposed regulatory approach to GenAI-based medtech",
-          "summary": "Feedback on the FDA's discussion paper around regulation for GenAI-enabled medical devices is open to interested parties until October 2026. The post FDA seeks input on proposed re...",
-          "link": "https://www.medicaldevice-network.com/news/fda-seeks-input-on-proposed-regulatory-approach-to-genai-based-medtech/",
+          "title": "Olympus-backed MaxQ Medical raises $31.5m for prostate care platform’s advancement",
+          "summary": "MaxQ’s namesake platform combines advanced imaging with tissue-selective therapy in a single transurethral procedure. The post Olympus-backed MaxQ Medical raises $31.5m for prostat...",
+          "link": "https://www.medicaldevice-network.com/news/olympus-backed-maxq-medical-raises-31m-for-prostate-care-platform-advancement/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "DevSparks Chennai returns: Explore AI for the physical world, manufacturing, and deeptech",
-          "summary": "YourStory’s flagship developer summit will bring together developers, tech leaders, startups, and enterprises to examine the technologies shaping deeptech, infrastructure, and manu...",
-          "link": "https://yourstory.com/2026/08/devsparks-chennai-2026-ai-physical-world-manufacturing-deeptech-developers",
+          "title": "Technosport CTO on why scaling a business is rarely a server problem",
+          "summary": "At DevSparks Hyderabad 2026, Technosport CTO Achal Sharma spoke about why traffic spikes, inventory gaps, and product decisions, not servers, decide whether a consumer brand scales...",
+          "link": "https://yourstory.com/2026/08/devsparks-hyderabad-yourstory-technosport-cto-scaling-a-business-rarely-server-problem",
           "source": "YourStory"
         },
         {
-          "title": "Fast-approval health insurance policies in India: Plans, benefits, and who should consider them",
-          "summary": "From zero-waiting-period plans to flexible coverage options, fast-approval health insurance policies can provide coverage soon after activation. Here’s a look at some of the option...",
-          "link": "https://yourstory.com/2026/08/fast-approval-health-insurance-policies-india-plans-benefits-who-should-consider-them",
+          "title": "Financial planning for founders: Preparing for growth, uncertainity and exit",
+          "summary": "Startup founders have to be willing to give more—time, capital, comfort and sometimes years of certainty—in the belief that the business will eventually pay that sacrifice back thr...",
+          "link": "https://yourstory.com/2026/08/financial-planning-for-founders-preparing-for-growth-uncertainity-and-exit",
           "source": "YourStory"
         },
         {
-          "title": "Baby-Focused Quick Commerce Startup Peeko Nets $7 Mn To Double Dark Store Count",
-          "summary": "Babycare-focused quick commerce startup Peeko has raised $7 Mn (₹67.4 Cr) in its Series A funding round led by Chiratae&#8230;...",
-          "link": "https://inc42.com/buzz/baby-focused-quick-commerce-startup-peeko-nets-7-mn-to-double-dark-store-count/",
+          "title": "Flipkart Ads Drive Walmart’s Advertising Business Growth In Q2",
+          "summary": "Global retail giant Walmart said that ecommerce major Flipkart’s ad vertical drove its global advertising business in the second quarter&#8230;...",
+          "link": "https://inc42.com/buzz/flipkart-ads-drive-walmarts-advertising-business-growth-in-q2/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "ARM Institute calls for accelerated use of AI, automation in defense production",
-          "summary": "Drones, shipbuilding, metal forming, and other technologies need more automation to address Department of War needs. This episode is brought to you by Mouser Electronics. Visit mou...",
-          "link": "https://www.designworldonline.com/arm-institute-calls-for-accelerated-use-of-ai-automation-in-defense-production/",
+          "title": "Reducing uncertainty in aerospace development",
+          "summary": "As more aerospace OEMs scrutinize the need for custom components and the benefits of standardization, design engineers can use COTS and custom approaches as complementary ways to d...",
+          "link": "https://www.designworldonline.com/reducing-uncertainty-in-aerospace-development/",
           "source": "Design World"
         },
         {
-          "title": "The case for made-to-specification sealing solutions",
-          "summary": "In this article, we explore why custom versus standard isn&#8217;t the only choice, and how made-to-specification options benefit OEMs. By: Pascal Freund · Global Segment Director ...",
-          "link": "https://www.designworldonline.com/the-case-for-made-to-specification-sealing-solutions/",
+          "title": "ABB MCR1000 receives environmental product declaration",
+          "summary": "ABB announced that its MCR1000 High-Power Rectifier has received an Environmental Product Declaration following completion of a Life Cycle Assessment. The declaration provides envi...",
+          "link": "https://www.designworldonline.com/abb-mcr1000-receives-environmental-product-declaration/",
           "source": "Design World"
         }
       ]
