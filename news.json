@@ -1,74 +1,74 @@
 {
-  "last_updated": "Friday, August 21, 2026 at 08:16 AM IST",
-  "last_updated_iso": "2026-08-21T08:16:22.469711",
+  "last_updated": "Saturday, August 22, 2026 at 08:07 AM IST",
+  "last_updated_iso": "2026-08-22T08:07:03.766460",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24231.85,
-        "change": 76.94999999999709,
-        "change_pct": 0.31856890320389275,
+        "price": 24252.0,
+        "change": 173.70000000000073,
+        "change_pct": 0.7213964441011231,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77537.72,
-        "change": 302.22000000000116,
-        "change_pct": 0.3912967482569559,
+        "price": 77540.83,
+        "change": 631.1300000000047,
+        "change_pct": 0.820611704375397,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57495.9,
-        "change": 233.5,
-        "change_pct": 0.40777194109922044,
+        "price": 57761.95,
+        "change": 522.1499999999942,
+        "change_pct": 0.912214927375697,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1941.7,
-        "change": 19.700000000000045,
-        "change_pct": 1.024973985431844,
+        "name": "ICICI Bank",
+        "price": 1420.0,
+        "change": 8.099999999999909,
+        "change_pct": 0.5736950208938245,
         "is_up": true
       },
       {
         "name": "L&T",
-        "price": 4081.0,
-        "change": 39.69999999999982,
-        "change_pct": 0.9823571622992556,
+        "price": 4093.0,
+        "change": 12.0,
+        "change_pct": 0.294045577064445,
         "is_up": true
       },
       {
-        "name": "Infosys",
-        "price": 1130.0,
-        "change": 10.200000000000045,
-        "change_pct": 0.910876942311131,
+        "name": "HDFC Bank",
+        "price": 726.95,
+        "change": 1.900000000000091,
+        "change_pct": 0.26205089304187174,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Reliance",
-        "price": 1313.2,
-        "change": 2.2000000000000455,
-        "change_pct": 0.16781083142639552,
-        "is_up": true
+        "name": "Maruti",
+        "price": 13565.0,
+        "change": -244.0,
+        "change_pct": -1.7669635744804113,
+        "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1904.0,
-        "change": 4.0,
-        "change_pct": 0.21052631578947367,
-        "is_up": true
+        "name": "Infosys",
+        "price": 1121.0,
+        "change": -9.0,
+        "change_pct": -0.7964601769911505,
+        "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2298.0,
-        "change": 9.0,
-        "change_pct": 0.39318479685452157,
-        "is_up": true
+        "name": "Wipro",
+        "price": 180.79,
+        "change": -0.21000000000000796,
+        "change_pct": -0.1160220994475182,
+        "is_up": false
       }
     ],
     "currency": [
@@ -83,9 +83,9 @@
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4584.4,
-        "change": 13.0,
-        "change_pct": 0.2843767773548585,
+        "price": 4661.6,
+        "change": 90.20000000000073,
+        "change_pct": 1.9731373321083416,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-          "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months....",
-          "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+          "title": "Michael Polansky is training an AI model on skin that’s still alive",
+          "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living hum...",
+          "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
           "source": "TechCrunch"
         },
         {
-          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-          "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals....",
-          "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+          "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising...",
+          "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
           "source": "TechCrunch"
         },
         {
-          "title": "Genki’s new customizable controller has a big screen and adjustable buttons",
+          "title": "HoverAir’s transforming modular drone has already been halted in the US",
           "summary": "",
-          "link": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
+          "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
           "source": "The Verge"
         },
         {
-          "title": "Google Discover is getting an AI chatbot-tuned feed",
+          "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
           "summary": "",
-          "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+          "link": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
           "source": "The Verge"
         },
         {
-          "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-          "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans....",
-          "link": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+          "title": "Trump's space transportation policy calls for new spaceport on federal land",
+          "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"...",
+          "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Oil Price Today (August 21): Crude oil nears $95 as Iran peace deal hopes fade. What are experts saying?",
-          "summary": "An earlier peace deal between the sides expired this week, with neither side making efforts to resume talks. U.S. President Donald Trump also threatened economic retaliation agains...",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-21-crude-oil-nears-95-as-iran-peace-deal-hopes-fade-what-are-experts-saying/articleshow/133391008.cms",
+          "title": "Aditya Infotech rebounds on fundraise plans; analysts see up to 20% upside",
+          "summary": "The shares of Aditya Infotech have made a notable recovery after a recent equity raise focused on enhancing capacity. However, the company is grappling with high electronic compone...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-infotech-rebounds-on-fundraise-plans-analysts-see-up-to-20-upside/articleshow/133415946.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Stock split alert! Last day to buy multibagger TD Power Systems shares to be eligible for 1:2 split",
-          "summary": "Accordingly, today is the last opportunity for investors to buy the shares so that they are credited to their accounts by Monday, making them eligible for the stock split....",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-split-alert-last-day-to-buy-multibagger-td-power-systems-shares-to-be-eligible-for-12-split/articleshow/133390935.cms",
+          "title": "West Asia tensions cloud market outlook, Nifty may stay rangebound",
+          "summary": "In a week marked by market stagnation, Indian equity indices closed on an unremarkable note, affected by geopolitical uncertainties and elevated crude oil prices. Experts forecast ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/west-asia-tensions-cloud-market-outlook-nifty-may-stay-rangebound/articleshow/133415917.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "HDFC Sec suggests Bear Spread on Nifty Midcap, Bull Spread on Canara Bank",
-          "summary": "Long build-up was seen in Canara Bank futures, with open interest rising alongside a 0.7 per cent increase in price....",
-          "link": "https://www.business-standard.com/markets/news/hdfc-securities-suggests-bear-spread-on-nifty-midcap-bull-spread-on-canara-bank-126082100080_1.html",
+          "title": "Innovision receives toll collection mandate for Etaura Bujurg & Akhtiyari Kotila fee plaza",
+          "summary": "",
+          "link": "https://www.business-standard.com/markets/capital-market-news/innovision-receives-toll-collection-mandate-for-etaura-bujurg-akhtiyari-kotila-fee-plaza-126082101218_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Olympus-backed MaxQ Medical raises $31.5m for prostate care platform’s advancement",
-          "summary": "MaxQ’s namesake platform combines advanced imaging with tissue-selective therapy in a single transurethral procedure. The post Olympus-backed MaxQ Medical raises $31.5m for prostat...",
-          "link": "https://www.medicaldevice-network.com/news/olympus-backed-maxq-medical-raises-31m-for-prostate-care-platform-advancement/",
+          "title": "FDA clears C2N Diagnostics’ early Alzheimer’s assessment test",
+          "summary": "C2N’s Alzheimer’s test is the first to be FDA-cleared for use in patients as young as 40 who present with cognitive impairment symptoms. The post FDA clears C2N Diagnostics’ early ...",
+          "link": "https://www.medicaldevice-network.com/news/fda-clears-c2n-diagnostics-early-alzheimer-assessment-test/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Technosport CTO on why scaling a business is rarely a server problem",
-          "summary": "At DevSparks Hyderabad 2026, Technosport CTO Achal Sharma spoke about why traffic spikes, inventory gaps, and product decisions, not servers, decide whether a consumer brand scales...",
-          "link": "https://yourstory.com/2026/08/devsparks-hyderabad-yourstory-technosport-cto-scaling-a-business-rarely-server-problem",
+          "title": "SUSE Women in Technology event: Why AI’s next opportunity is also a leadership test",
+          "summary": "Senior women leaders from SUSE and Accenture discussed AI’s business value, the skills India needs, and why women must move beyond governance to shape the technology....",
+          "link": "https://yourstory.com/2026/08/suse-women-in-technology-event-why-ais-next-opportunity-is-also-a-leadership-test",
           "source": "YourStory"
         },
         {
-          "title": "Financial planning for founders: Preparing for growth, uncertainity and exit",
-          "summary": "Startup founders have to be willing to give more—time, capital, comfort and sometimes years of certainty—in the belief that the business will eventually pay that sacrifice back thr...",
-          "link": "https://yourstory.com/2026/08/financial-planning-for-founders-preparing-for-growth-uncertainity-and-exit",
+          "title": "From income to long-term opportunity: The rise of expertise-led side hustles",
+          "summary": "Professionals are increasingly turning their skills, networks, and experience into additional income streams, especially in areas such as financial and insurance advisory. Somethin...",
+          "link": "https://yourstory.com/2026/08/from-income-to-long-term-opportunity-the-rise-of-expertise-led-side-hustles-",
           "source": "YourStory"
         },
         {
-          "title": "Flipkart Ads Drive Walmart’s Advertising Business Growth In Q2",
-          "summary": "Global retail giant Walmart said that ecommerce major Flipkart’s ad vertical drove its global advertising business in the second quarter&#8230;...",
-          "link": "https://inc42.com/buzz/flipkart-ads-drive-walmarts-advertising-business-growth-in-q2/",
+          "title": "SC Directs Matrimony.com & Jodi365 To Explore Settlement In Trademark Dispute",
+          "summary": "In the five year old trademark infringement case between Matrimony.com and Jodi365 operator Free Elective Network Pvt Ltd., the Supreme&#8230;...",
+          "link": "https://inc42.com/buzz/sc-directs-matrimony-com-jodi365-to-explore-settlement-in-trademark-dispute-2/",
           "source": "Inc42"
         }
       ]
@@ -221,6 +221,25 @@
           "summary": "ABB announced that its MCR1000 High-Power Rectifier has received an Environmental Product Declaration following completion of a Life Cycle Assessment. The declaration provides envi...",
           "link": "https://www.designworldonline.com/abb-mcr1000-receives-environmental-product-declaration/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "I Said Yes to Every Email for a Month! (Again)",
+          "summary": "I said yes to every review request I got for an entire month. I'm sorry? You're welcome?\n\nThanks Best Buy for sponsoring this video. You can find the tech upgrades you need to elev...",
+          "link": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
+          "source": "MKBHD",
+          "thumbnail": "https://i2.ytimg.com/vi/mfmdXPT7nAM/hqdefault.jpg"
+        },
+        {
+          "title": "DeepSeek Just Made Closed AI Look Ridiculous",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nDeepSeek V4 Pro 0813:\nhttps://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813\n\nDSpark full episo...",
+          "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i4.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg"
         }
       ]
     }
