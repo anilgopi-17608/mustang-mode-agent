@@ -1,27 +1,27 @@
 {
-  "last_updated": "Saturday, August 22, 2026 at 08:07 AM IST",
-  "last_updated_iso": "2026-08-22T08:07:03.766460",
+  "last_updated": "Sunday, August 23, 2026 at 08:17 AM IST",
+  "last_updated_iso": "2026-08-23T08:17:04.133855",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
         "price": 24252.0,
-        "change": 173.70000000000073,
-        "change_pct": 0.7213964441011231,
+        "change": 20.200000000000728,
+        "change_pct": 0.08336153319192437,
         "is_up": true
       },
       {
         "name": "Sensex",
         "price": 77540.83,
-        "change": 631.1300000000047,
-        "change_pct": 0.820611704375397,
+        "change": 3.1300000000046566,
+        "change_pct": 0.004036745995824814,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
         "price": 57761.95,
-        "change": 522.1499999999942,
-        "change_pct": 0.912214927375697,
+        "change": 266.04999999999563,
+        "change_pct": 0.4627286467382816,
         "is_up": true
       }
     ],
@@ -74,18 +74,18 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.69,
-        "change": -0.0049999999999954525,
-        "change_pct": -0.005224933382094627,
-        "is_up": false
+        "price": 95.71,
+        "change": 0.015000000000000568,
+        "change_pct": 0.01567480014629873,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4661.6,
-        "change": 90.20000000000073,
-        "change_pct": 1.9731373321083416,
+        "price": 4680.6,
+        "change": 109.20000000000073,
+        "change_pct": 2.388764929780827,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Michael Polansky is training an AI model on skin that’s still alive",
-          "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living hum...",
-          "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+          "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings....",
+          "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
           "source": "TechCrunch"
         },
         {
-          "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-          "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising...",
-          "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+          "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+          "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats....",
+          "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
           "source": "TechCrunch"
         },
         {
-          "title": "HoverAir’s transforming modular drone has already been halted in the US",
+          "title": "Doodle generative compositions in your browser with Musical Spirograph",
           "summary": "",
-          "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+          "link": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
           "source": "The Verge"
         },
         {
-          "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+          "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
           "summary": "",
-          "link": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+          "link": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
           "source": "The Verge"
         },
         {
-          "title": "Trump's space transportation policy calls for new spaceport on federal land",
-          "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"...",
-          "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+          "title": "Putting mice into hibernation causes a major loss of synapses",
+          "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway....",
+          "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Aditya Infotech rebounds on fundraise plans; analysts see up to 20% upside",
-          "summary": "The shares of Aditya Infotech have made a notable recovery after a recent equity raise focused on enhancing capacity. However, the company is grappling with high electronic compone...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-infotech-rebounds-on-fundraise-plans-analysts-see-up-to-20-upside/articleshow/133415946.cms",
+          "title": "Sebi proposes tighter curbs on promotional claims by online bond platforms",
+          "summary": "Sebi is tightening the reins on advertising practices for online bond platforms, aiming to protect investors from hasty decisions. New rules mandate that promotional content provid...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-tighter-curbs-on-promotional-claims-by-online-bond-platforms/articleshow/133424265.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "West Asia tensions cloud market outlook, Nifty may stay rangebound",
-          "summary": "In a week marked by market stagnation, Indian equity indices closed on an unremarkable note, affected by geopolitical uncertainties and elevated crude oil prices. Experts forecast ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/west-asia-tensions-cloud-market-outlook-nifty-may-stay-rangebound/articleshow/133415917.cms",
+          "title": "Dalal Street Week Ahead: Selective buying favoured as Nifty remains rangebound",
+          "summary": "Nifty remained range-bound, falling 0.47% to 24,252 amid subdued volatility. Resistance at 24,450–24,750 remains crucial, while 23,900–24,100 offers support. Analysts recommend sel...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-selective-buying-favoured-as-nifty-remains-range-bound/articleshow/133423333.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Innovision receives toll collection mandate for Etaura Bujurg & Akhtiyari Kotila fee plaza",
-          "summary": "",
-          "link": "https://www.business-standard.com/markets/capital-market-news/innovision-receives-toll-collection-mandate-for-etaura-bujurg-akhtiyari-kotila-fee-plaza-126082101218_1.html",
+          "title": "Sebi proposes channel partners to expand retail access to bonds in India",
+          "summary": "Market regulator Sebi has proposed introducing a framework for Fixed Income Channel Partners to broaden retail participation in fixed-income securities through online bond platform...",
+          "link": "https://www.business-standard.com/markets/news/sebi-proposes-channel-partners-to-expand-retail-access-to-bonds-in-india-126082200827_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "SUSE Women in Technology event: Why AI’s next opportunity is also a leadership test",
-          "summary": "Senior women leaders from SUSE and Accenture discussed AI’s business value, the skills India needs, and why women must move beyond governance to shape the technology....",
-          "link": "https://yourstory.com/2026/08/suse-women-in-technology-event-why-ais-next-opportunity-is-also-a-leadership-test",
+          "title": "Software, services, AI: test your business creativity with Edition 246 of our weekly quiz!",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 246th quiz. Ready?...",
+          "link": "https://yourstory.com/2026/08/software-services-ai-business-creativity-entrepreneur-quiz",
           "source": "YourStory"
         },
         {
-          "title": "From income to long-term opportunity: The rise of expertise-led side hustles",
-          "summary": "Professionals are increasingly turning their skills, networks, and experience into additional income streams, especially in areas such as financial and insurance advisory. Somethin...",
-          "link": "https://yourstory.com/2026/08/from-income-to-long-term-opportunity-the-rise-of-expertise-led-side-hustles-",
+          "title": "Meesho expects to create 10 lakh seasonal jobs during festive season",
+          "summary": "The ecommerce marketplace estimates 6.5 lakh jobs to be created across its seller network and about 3.75 lakh roles across its logistics operations....",
+          "link": "https://yourstory.com/2026/08/meesho-expects-to-create-10-lakh-seasonal-jobs-during-festive-season",
           "source": "YourStory"
         },
         {
-          "title": "SC Directs Matrimony.com & Jodi365 To Explore Settlement In Trademark Dispute",
-          "summary": "In the five year old trademark infringement case between Matrimony.com and Jodi365 operator Free Elective Network Pvt Ltd., the Supreme&#8230;...",
-          "link": "https://inc42.com/buzz/sc-directs-matrimony-com-jodi365-to-explore-settlement-in-trademark-dispute-2/",
+          "title": "Navi’s Solo Run Ends",
+          "summary": "For almost eight years, Sachin Bansal has tried to build Navi without having to answer to institutional investors. The Flipkart&#8230;...",
+          "link": "https://inc42.com/features/navis-solo-run-ends/",
           "source": "Inc42"
         }
       ]
