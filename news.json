@@ -1,6 +1,6 @@
 {
-  "last_updated": "Sunday, August 23, 2026 at 08:17 AM IST",
-  "last_updated_iso": "2026-08-23T08:17:04.133855",
+  "last_updated": "Monday, August 24, 2026 at 08:17 AM IST",
+  "last_updated_iso": "2026-08-24T08:17:27.047962",
   "market": {
     "indices": [
       {
@@ -74,18 +74,18 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.71,
-        "change": 0.015000000000000568,
-        "change_pct": 0.01567480014629873,
-        "is_up": true
+        "price": 95.68,
+        "change": -0.009999999999990905,
+        "change_pct": -0.010450412791295752,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4680.6,
-        "change": 109.20000000000073,
-        "change_pct": 2.388764929780827,
+        "price": 4707.6,
+        "change": 27.0,
+        "change_pct": 0.5768491219074477,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-          "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings....",
-          "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+          "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+          "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation....",
+          "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
           "source": "TechCrunch"
         },
         {
-          "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-          "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats....",
-          "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+          "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+          "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR....",
+          "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
           "source": "TechCrunch"
         },
         {
-          "title": "Doodle generative compositions in your browser with Musical Spirograph",
+          "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+          "link": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
           "source": "The Verge"
         },
         {
-          "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+          "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
           "summary": "",
-          "link": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+          "link": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
           "source": "The Verge"
         },
         {
-          "title": "Putting mice into hibernation causes a major loss of synapses",
-          "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway....",
-          "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+          "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+          "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"...",
+          "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
           "source": "Ars Technica"
         }
       ]
@@ -130,34 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Sebi proposes tighter curbs on promotional claims by online bond platforms",
-          "summary": "Sebi is tightening the reins on advertising practices for online bond platforms, aiming to protect investors from hasty decisions. New rules mandate that promotional content provid...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-tighter-curbs-on-promotional-claims-by-online-bond-platforms/articleshow/133424265.cms",
+          "title": "Stocks to buy in 2026 for long term: Jubilant FoodWorks, Max Financial among 5 stocks that could give 10-30% return",
+          "summary": "We have collated a list of recommendations from top brokerage firms from ETNow and other sources...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-jubilant-foodworks-max-financial-among-5-stocks-that-could-give-10-30-return/slideshow/133449559.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Dalal Street Week Ahead: Selective buying favoured as Nifty remains rangebound",
-          "summary": "Nifty remained range-bound, falling 0.47% to 24,252 amid subdued volatility. Resistance at 24,450–24,750 remains crucial, while 23,900–24,100 offers support. Analysts recommend sel...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-selective-buying-favoured-as-nifty-remains-range-bound/articleshow/133423333.cms",
+          "title": "Oil Price Today (August 24): Crude oil slips below $93 ahead of US sanctions announcement on Iran. What are experts saying?",
+          "summary": "US Treasury Secretary Scott Bessent, who is scheduled to hold a press conference at 2 p.m. EDT (1800 GMT) on Monday, has threatened to impose \"the toughest sanctions in history\" on...",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-24-crude-oil-slips-below-93-ahead-of-us-sanctions-announcement-on-iran-what-are-experts-saying/articleshow/133449404.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Sebi proposes channel partners to expand retail access to bonds in India",
-          "summary": "Market regulator Sebi has proposed introducing a framework for Fixed Income Channel Partners to broaden retail participation in fixed-income securities through online bond platform...",
-          "link": "https://www.business-standard.com/markets/news/sebi-proposes-channel-partners-to-expand-retail-access-to-bonds-in-india-126082200827_1.html",
+          "title": "Stock Market LIVE: GIFT Nifty signals higher open; Asia mkts mixed; Bessent to declare Iran sanction",
+          "summary": "Sensex Today | Stock Market LIVE Updates Monday: The GIFT Nifty signalled a positive open for the Nifty50 as investors await US Treasury Secretary Scott Bessent's announcement of I...",
+          "link": "https://www.business-standard.com/markets/news/stock-market-live-august-24-nse-bse-sensex-today-nifty50-gift-nifty-hy-tech-engineers-ipo-gmp-today-126082400062_1.html",
           "source": "Business Standard Markets"
+        },
+        {
+          "title": "India's $10 billion equity rush puts August on track for a record month",
+          "summary": "Almost $10 billion of deals have been priced in August, led by the government's blockbuster $3.2 billion sale of shares in LIC...",
+          "link": "https://www.business-standard.com/markets/news/india-s-10-billion-equity-rush-puts-august-on-track-for-a-record-month-126082400063_1.html",
+          "source": "Business Standard Markets"
+        },
+        {
+          "title": "Alibaba stock slumps in Hong Kong after $10.2 billion share placement to fund AI",
+          "summary": "ALIBABA-FUNDRAISING:Alibaba stock slumps in Hong Kong after $10.2 billion share placement to fund AI...",
+          "link": "https://www.livemint.com/companies/alibaba-stock-slumps-in-hong-kong-after-10-2-billion-share-placement-to-fund-ai-11787537726865.html",
+          "source": "Livemint Companies"
         }
       ]
     },
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Software, services, AI: test your business creativity with Edition 246 of our weekly quiz!",
-          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 246th quiz. Ready?...",
-          "link": "https://yourstory.com/2026/08/software-services-ai-business-creativity-entrepreneur-quiz",
+          "title": "Our next space race may be closer to Earth",
+          "summary": "Before a payload goes to space, it needs to be tested in near-space conditions. But access to such facilities is limited in India, says Red Balloon Aerospace Co-founder CVS Kiran....",
+          "link": "https://yourstory.com/2026/08/our-next-space-race-may-be-closer-to-earth",
           "source": "YourStory"
         },
         {
-          "title": "Meesho expects to create 10 lakh seasonal jobs during festive season",
-          "summary": "The ecommerce marketplace estimates 6.5 lakh jobs to be created across its seller network and about 3.75 lakh roles across its logistics operations....",
-          "link": "https://yourstory.com/2026/08/meesho-expects-to-create-10-lakh-seasonal-jobs-during-festive-season",
+          "title": "Karnataka govt launches low cost AI computing device KEO",
+          "summary": "The government aims to democratise the access to artificial intelligence (AI) through the introduction of KEO....",
+          "link": "https://yourstory.com/2026/08/karnataka-govt-launches-low-cost-ai-computing-device-keo",
           "source": "YourStory"
         },
         {
-          "title": "Navi’s Solo Run Ends",
-          "summary": "For almost eight years, Sachin Bansal has tried to build Navi without having to answer to institutional investors. The Flipkart&#8230;...",
-          "link": "https://inc42.com/features/navis-solo-run-ends/",
+          "title": "Flipkart’s Food Delivery Era, Weekly Funding Rundown & More",
+          "summary": "Flipkart’s Foodtech Foray Flipkart is all set to debut its food delivery service later this month. Backed by millions of&#8230;...",
+          "link": "https://inc42.com/buzz/flipkarts-food-delivery-era-weekly-funding-rundown-more/",
           "source": "Inc42"
         }
       ]
