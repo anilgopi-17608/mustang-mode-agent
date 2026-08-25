@@ -1,91 +1,91 @@
 {
-  "last_updated": "Monday, August 24, 2026 at 08:17 AM IST",
-  "last_updated_iso": "2026-08-24T08:17:27.047962",
+  "last_updated": "Tuesday, August 25, 2026 at 08:11 AM IST",
+  "last_updated_iso": "2026-08-25T08:11:23.523566",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24252.0,
-        "change": 20.200000000000728,
-        "change_pct": 0.08336153319192437,
-        "is_up": true
+        "price": 24219.05,
+        "change": -32.95000000000073,
+        "change_pct": -0.13586508329210262,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 77540.83,
-        "change": 3.1300000000046566,
-        "change_pct": 0.004036745995824814,
-        "is_up": true
+        "price": 77369.11,
+        "change": -171.72000000000116,
+        "change_pct": -0.22145752115369563,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57761.95,
-        "change": 266.04999999999563,
-        "change_pct": 0.4627286467382816,
-        "is_up": true
+        "price": 57525.95,
+        "change": -235.95000000000437,
+        "change_pct": -0.40848725544001213,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "ICICI Bank",
-        "price": 1420.0,
-        "change": 8.099999999999909,
-        "change_pct": 0.5736950208938245,
+        "name": "Infosys",
+        "price": 1130.0,
+        "change": 9.0,
+        "change_pct": 0.8028545941123997,
         "is_up": true
       },
       {
-        "name": "L&T",
-        "price": 4093.0,
-        "change": 12.0,
-        "change_pct": 0.294045577064445,
+        "name": "Maruti",
+        "price": 13620.0,
+        "change": 55.0,
+        "change_pct": 0.4054552156284556,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 726.95,
-        "change": 1.900000000000091,
-        "change_pct": 0.26205089304187174,
+        "name": "Sun Pharma",
+        "price": 1910.0,
+        "change": 7.599999999999909,
+        "change_pct": 0.39949537426408266,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 13565.0,
-        "change": -244.0,
-        "change_pct": -1.7669635744804113,
+        "name": "TCS",
+        "price": 2284.1,
+        "change": -17.90000000000009,
+        "change_pct": -0.7775847089487442,
         "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 1121.0,
-        "change": -9.0,
-        "change_pct": -0.7964601769911505,
+        "name": "Bharti Airtel",
+        "price": 1935.0,
+        "change": -11.0,
+        "change_pct": -0.5652620760534429,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 180.79,
-        "change": -0.21000000000000796,
-        "change_pct": -0.1160220994475182,
+        "name": "Reliance",
+        "price": 1309.8,
+        "change": -6.2000000000000455,
+        "change_pct": -0.4711246200607937,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.68,
-        "change": -0.009999999999990905,
-        "change_pct": -0.010450412791295752,
-        "is_up": false
+        "price": 95.735,
+        "change": 0.0,
+        "change_pct": 0.0,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4707.6,
-        "change": 27.0,
-        "change_pct": 0.5768491219074477,
+        "price": 4710.0,
+        "change": 12.199999999999818,
+        "change_pct": 0.25969602792796237,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-          "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation....",
-          "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+          "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+          "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"...",
+          "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
           "source": "TechCrunch"
         },
         {
-          "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-          "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR....",
-          "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+          "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+          "summary": "We all knew it was coming. The expected valuation may surprise, though....",
+          "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
           "source": "TechCrunch"
         },
         {
-          "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+          "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
           "summary": "",
-          "link": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+          "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
           "source": "The Verge"
         },
         {
-          "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+          "title": "The cat-and-mouse game over 3D-printed guns has begun",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+          "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
           "source": "The Verge"
         },
         {
-          "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
-          "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"...",
-          "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations....",
+          "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
           "source": "Ars Technica"
         }
       ]
@@ -130,34 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Stocks to buy in 2026 for long term: Jubilant FoodWorks, Max Financial among 5 stocks that could give 10-30% return",
-          "summary": "We have collated a list of recommendations from top brokerage firms from ETNow and other sources...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-jubilant-foodworks-max-financial-among-5-stocks-that-could-give-10-30-return/slideshow/133449559.cms",
+          "title": "Vishal Mega Mart among 4 stocks showing bullish RSI upswing",
+          "summary": "On August 24, four Nifty500 stocks that gained 4% were identified using the RSI Trending Up scan, based on data from StockEdge.com. An uptrend signal is generated when the RSI valu...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vishal-mega-mart-among-4-stocks-showing-bullish-rsi-upswing/slideshow/133487508.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Oil Price Today (August 24): Crude oil slips below $93 ahead of US sanctions announcement on Iran. What are experts saying?",
-          "summary": "US Treasury Secretary Scott Bessent, who is scheduled to hold a press conference at 2 p.m. EDT (1800 GMT) on Monday, has threatened to impose \"the toughest sanctions in history\" on...",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-24-crude-oil-slips-below-93-ahead-of-us-sanctions-announcement-on-iran-what-are-experts-saying/articleshow/133449404.cms",
+          "title": "Positive Breakout: These 8 stocks cross above their 200 DMAs",
+          "summary": "As long as the stock is priced above the 200-day SMA on the daily timeframe, it is generally considered to be in an overall uptrend....",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/133487410.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Stock Market LIVE: GIFT Nifty signals higher open; Asia mkts mixed; Bessent to declare Iran sanction",
-          "summary": "Sensex Today | Stock Market LIVE Updates Monday: The GIFT Nifty signalled a positive open for the Nifty50 as investors await US Treasury Secretary Scott Bessent's announcement of I...",
-          "link": "https://www.business-standard.com/markets/news/stock-market-live-august-24-nse-bse-sensex-today-nifty50-gift-nifty-hy-tech-engineers-ipo-gmp-today-126082400062_1.html",
-          "source": "Business Standard Markets"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "India's $10 billion equity rush puts August on track for a record month",
-          "summary": "Almost $10 billion of deals have been priced in August, led by the government's blockbuster $3.2 billion sale of shares in LIC...",
-          "link": "https://www.business-standard.com/markets/news/india-s-10-billion-equity-rush-puts-august-on-track-for-a-record-month-126082400063_1.html",
-          "source": "Business Standard Markets"
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Alibaba stock slumps in Hong Kong after $10.2 billion share placement to fund AI",
-          "summary": "ALIBABA-FUNDRAISING:Alibaba stock slumps in Hong Kong after $10.2 billion share placement to fund AI...",
-          "link": "https://www.livemint.com/companies/alibaba-stock-slumps-in-hong-kong-after-10-2-billion-share-placement-to-fund-ai-11787537726865.html",
-          "source": "Livemint Companies"
+          "title": "Stock Market LIVE: GIFT Nifty signals negative open; Asia mkts fall; Gold at over 3-month high",
+          "summary": "Sensex Today | Stock Market LIVE Updates Tuesday: The GIFT Nifty indicated a negative open as global equities declined ahead of high-stakes earnings release...",
+          "link": "https://www.business-standard.com/markets/news/stock-market-live-august-25-nse-bse-sensex-today-nifty50-gift-nifty-tempsens-instruments-ipo-allotment-today-126082500083_1.html",
+          "source": "Business Standard Markets"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA clears C2N Diagnostics’ early Alzheimer’s assessment test",
-          "summary": "C2N’s Alzheimer’s test is the first to be FDA-cleared for use in patients as young as 40 who present with cognitive impairment symptoms. The post FDA clears C2N Diagnostics’ early ...",
-          "link": "https://www.medicaldevice-network.com/news/fda-clears-c2n-diagnostics-early-alzheimer-assessment-test/",
+          "title": "Roche’s pTau217 single-biomarker Alzheimer’s blood test lands FDA approval",
+          "summary": "FDA clearance for Roche’s pTau217 follows the blood-based test’s receipt of a European CE mark in May 2026. The post Roche’s pTau217 single-biomarker Alzheimer&#8217;s blood test l...",
+          "link": "https://www.medicaldevice-network.com/news/roche-ptau217-single-biomarker-blood-test-lands-fda-approval/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Our next space race may be closer to Earth",
-          "summary": "Before a payload goes to space, it needs to be tested in near-space conditions. But access to such facilities is limited in India, says Red Balloon Aerospace Co-founder CVS Kiran....",
-          "link": "https://yourstory.com/2026/08/our-next-space-race-may-be-closer-to-earth",
+          "title": "This 21-year-old entrepreneur is building a deepfake audio detection startup that alerts users during live calls",
+          "summary": "Founded in 2025, San-Franciso and Bengaluru based DetectifAI is building technology to help verify humans and detect AI-generated and manipulated audio, particularly synthetic voic...",
+          "link": "https://yourstory.com/2026/08/21-year-old-entrepreneur-deepfake-audio-detection-startup-alerts-live-calls",
           "source": "YourStory"
         },
         {
-          "title": "Karnataka govt launches low cost AI computing device KEO",
-          "summary": "The government aims to democratise the access to artificial intelligence (AI) through the introduction of KEO....",
-          "link": "https://yourstory.com/2026/08/karnataka-govt-launches-low-cost-ai-computing-device-keo",
+          "title": "What’s next for N Chandrasekaran after Tata Group? 5 plausible second acts",
+          "summary": "From public service and AI to private equity and backing founders, Tata Group Chairman N Chandrasekaran will have no shortage of options when his four-decade Tata innings ends....",
+          "link": "https://yourstory.com/2026/08/whats-next-n-chandrasekaran-tata-group-5-plausible-second-acts",
           "source": "YourStory"
         },
         {
-          "title": "Flipkart’s Food Delivery Era, Weekly Funding Rundown & More",
-          "summary": "Flipkart’s Foodtech Foray Flipkart is all set to debut its food delivery service later this month. Backed by millions of&#8230;...",
-          "link": "https://inc42.com/buzz/flipkarts-food-delivery-era-weekly-funding-rundown-more/",
+          "title": "SoftBank Sells Lenskart Stake Worth ₹2,888 Cr",
+          "summary": "Adding to its Lenskart windfall, global investment firm SoftBank has now offloaded 4.50 Cr shares in the eyewear retailer to&#8230;...",
+          "link": "https://inc42.com/buzz/softbank-sells-lenskart-stake-worth-%e2%82%b92888-cr/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Reducing uncertainty in aerospace development",
-          "summary": "As more aerospace OEMs scrutinize the need for custom components and the benefits of standardization, design engineers can use COTS and custom approaches as complementary ways to d...",
-          "link": "https://www.designworldonline.com/reducing-uncertainty-in-aerospace-development/",
+          "title": "Industrial automation at the extremes: aircraft carriers, and donuts",
+          "summary": "U.S. Navy shipbuilder Huntington Ingalls Industries intends to use physical AI to automate warship production, while Siemens uses AI at the other extreme: food production, especial...",
+          "link": "https://www.designworldonline.com/industrial-automation-at-the-extremes-aircraft-carriers-and-donuts/",
           "source": "Design World"
         },
         {
-          "title": "ABB MCR1000 receives environmental product declaration",
-          "summary": "ABB announced that its MCR1000 High-Power Rectifier has received an Environmental Product Declaration following completion of a Life Cycle Assessment. The declaration provides envi...",
-          "link": "https://www.designworldonline.com/abb-mcr1000-receives-environmental-product-declaration/",
+          "title": "Steffen Baur to present session on reducing tool variability",
+          "summary": "CERATIZIT USA announced that Steffen Baur, global product manager for round tools, will present a technical session at the IMTS 2026 Conference titled “Stopping Tool Variability Be...",
+          "link": "https://www.designworldonline.com/steffen-baur-to-present-session-on-reducing-tool-variability/",
           "source": "Design World"
         }
       ]
@@ -228,18 +228,11 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "I Said Yes to Every Email for a Month! (Again)",
-          "summary": "I said yes to every review request I got for an entire month. I'm sorry? You're welcome?\n\nThanks Best Buy for sponsoring this video. You can find the tech upgrades you need to elev...",
-          "link": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
+          "title": "The Truth About the Bezelless Concept Phone",
+          "summary": "This TECNO 0mm \"borderless\" concept phone actually has some interesting quirks\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://t...",
+          "link": "https://www.youtube.com/watch?v=ngPkbaZliaU",
           "source": "MKBHD",
-          "thumbnail": "https://i2.ytimg.com/vi/mfmdXPT7nAM/hqdefault.jpg"
-        },
-        {
-          "title": "DeepSeek Just Made Closed AI Look Ridiculous",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nDeepSeek V4 Pro 0813:\nhttps://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813\n\nDSpark full episo...",
-          "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i4.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg"
+          "thumbnail": "https://i3.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg"
         }
       ]
     }
