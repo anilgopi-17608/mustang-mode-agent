@@ -1,80 +1,80 @@
 {
-  "last_updated": "Tuesday, August 25, 2026 at 08:11 AM IST",
-  "last_updated_iso": "2026-08-25T08:11:23.523566",
+  "last_updated": "Wednesday, August 26, 2026 at 08:19 AM IST",
+  "last_updated_iso": "2026-08-26T08:19:13.946698",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24219.05,
-        "change": -32.95000000000073,
-        "change_pct": -0.13586508329210262,
-        "is_up": false
+        "price": 24334.55,
+        "change": 82.54999999999927,
+        "change_pct": 0.3403842982022071,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77369.11,
-        "change": -171.72000000000116,
-        "change_pct": -0.22145752115369563,
-        "is_up": false
+        "price": 77656.09,
+        "change": 115.2899999999936,
+        "change_pct": 0.14868301590903577,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57525.95,
-        "change": -235.95000000000437,
-        "change_pct": -0.40848725544001213,
+        "price": 57514.2,
+        "change": -247.70000000000437,
+        "change_pct": -0.4288293840749774,
         "is_up": false
       }
     ],
     "gainers": [
       {
         "name": "Infosys",
-        "price": 1130.0,
-        "change": 9.0,
-        "change_pct": 0.8028545941123997,
+        "price": 1144.0,
+        "change": 14.0,
+        "change_pct": 1.238938053097345,
         "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 13620.0,
-        "change": 55.0,
-        "change_pct": 0.4054552156284556,
+        "name": "L&T",
+        "price": 4119.0,
+        "change": 29.0,
+        "change_pct": 0.7090464547677261,
         "is_up": true
       },
       {
         "name": "Sun Pharma",
-        "price": 1910.0,
-        "change": 7.599999999999909,
-        "change_pct": 0.39949537426408266,
+        "price": 1922.0,
+        "change": 12.0,
+        "change_pct": 0.6282722513089005,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "TCS",
-        "price": 2284.1,
-        "change": -17.90000000000009,
-        "change_pct": -0.7775847089487442,
+        "name": "Wipro",
+        "price": 180.09,
+        "change": -1.2199999999999989,
+        "change_pct": -0.672880701560862,
         "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1935.0,
-        "change": -11.0,
-        "change_pct": -0.5652620760534429,
+        "name": "HDFC Bank",
+        "price": 727.5,
+        "change": -1.5,
+        "change_pct": -0.205761316872428,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1309.8,
-        "change": -6.2000000000000455,
-        "change_pct": -0.4711246200607937,
-        "is_up": false
+        "name": "Maruti",
+        "price": 13678.0,
+        "change": 58.0,
+        "change_pct": 0.42584434654919234,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.735,
+        "price": 95.402,
         "change": 0.0,
         "change_pct": 0.0,
         "is_up": true
@@ -83,9 +83,9 @@
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4710.0,
-        "change": 12.199999999999818,
-        "change_pct": 0.25969602792796237,
+        "price": 4719.5,
+        "change": 25.0,
+        "change_pct": 0.5325380764724678,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-          "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"...",
-          "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+          "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+          "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation....",
+          "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
           "source": "TechCrunch"
         },
         {
-          "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-          "summary": "We all knew it was coming. The expected valuation may surprise, though....",
-          "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+          "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+          "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in c...",
+          "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
           "source": "TechCrunch"
         },
         {
-          "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+          "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
           "summary": "",
-          "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+          "link": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
           "source": "The Verge"
         },
         {
-          "title": "The cat-and-mouse game over 3D-printed guns has begun",
+          "title": "Trump is upping the price of Big Tech’s favorite visa",
           "summary": "",
-          "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+          "link": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
           "source": "The Verge"
         },
         {
-          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations....",
-          "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+          "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+          "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely....",
+          "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Vishal Mega Mart among 4 stocks showing bullish RSI upswing",
-          "summary": "On August 24, four Nifty500 stocks that gained 4% were identified using the RSI Trending Up scan, based on data from StockEdge.com. An uptrend signal is generated when the RSI valu...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/vishal-mega-mart-among-4-stocks-showing-bullish-rsi-upswing/slideshow/133487508.cms",
+          "title": "Oil Price Today (August 26): Crude oil tanks 6% in two days to hover near $85. What’s behind the decline?",
+          "summary": "Brent crude futures were down $2.35, or 2.65%, at $86 a barrel, while U.S. West Texas Intermediate crude futures fell $1.94, or 2.36%, to $80.42. Both benchmarks had declined more ...",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-26-crude-oil-tanks-6-in-two-days-to-hover-near-85-whats-behind-the-decline/articleshow/133527538.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Positive Breakout: These 8 stocks cross above their 200 DMAs",
-          "summary": "As long as the stock is priced above the 200-day SMA on the daily timeframe, it is generally considered to be in an overall uptrend....",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/133487410.cms",
+          "title": "Skyways Air IPO Day 3: GMP indicates 21% listing premium; Issue subscribed 2.46x — Should you subscribe?",
+          "summary": "By the end of Day 2, the IPO was subscribed 2.46 times, with bids received for 2.95 crore shares on offer. Retail investors showed particularly strong demand, with their portion su...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/skyways-air-ipo-day-3-gmp-indicates-21-listing-premium-issue-subscribed-2-46x-should-you-subscribe/articleshow/133527393.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Stock Market LIVE: GIFT Nifty signals negative open; Asia mkts fall; Gold at over 3-month high",
-          "summary": "Sensex Today | Stock Market LIVE Updates Tuesday: The GIFT Nifty indicated a negative open as global equities declined ahead of high-stakes earnings release...",
-          "link": "https://www.business-standard.com/markets/news/stock-market-live-august-25-nse-bse-sensex-today-nifty50-gift-nifty-tempsens-instruments-ipo-allotment-today-126082500083_1.html",
+          "title": "Stocks to watch: Varun Beverages, Groww, Welspun Corp, HEG, Tata Motors PV",
+          "summary": "Stocks to watch today: The offer for sale (OFS) by Hindustan Copper will open for retail investors today following an overwhelming demand seen on the first day....",
+          "link": "https://www.business-standard.com/markets/news/stocks-to-watch-august-26-varun-beverages-groww-welspun-corp-heg-tata-motors-pv-126082600106_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Roche’s pTau217 single-biomarker Alzheimer’s blood test lands FDA approval",
-          "summary": "FDA clearance for Roche’s pTau217 follows the blood-based test’s receipt of a European CE mark in May 2026. The post Roche’s pTau217 single-biomarker Alzheimer&#8217;s blood test l...",
-          "link": "https://www.medicaldevice-network.com/news/roche-ptau217-single-biomarker-blood-test-lands-fda-approval/",
+          "title": "Business integrity is essential to building long-term relationships",
+          "summary": "Formacoat builds lasting customer trust through integrity, transparent pricing, and honest medical device coating solutions. The post Business integrity is essential to building lo...",
+          "link": "https://www.medicaldevice-network.com/sponsored/business-integrity-is-essential-to-building-long-term-relationships/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "This 21-year-old entrepreneur is building a deepfake audio detection startup that alerts users during live calls",
-          "summary": "Founded in 2025, San-Franciso and Bengaluru based DetectifAI is building technology to help verify humans and detect AI-generated and manipulated audio, particularly synthetic voic...",
-          "link": "https://yourstory.com/2026/08/21-year-old-entrepreneur-deepfake-audio-detection-startup-alerts-live-calls",
+          "title": "AI is changing both sides of the job hunt. Applying more won’t fix it",
+          "summary": "A few months ago, a candidate wrote to me on LinkedIn. Eleven years of experience, a genuinely strong resume, over 200 applications sent in four months, three interviews to show fo...",
+          "link": "https://yourstory.com/2026/08/ai-is-changing-both-sides-of-the-job-hunt-applying-more-wont-fix",
           "source": "YourStory"
         },
         {
-          "title": "What’s next for N Chandrasekaran after Tata Group? 5 plausible second acts",
-          "summary": "From public service and AI to private equity and backing founders, Tata Group Chairman N Chandrasekaran will have no shortage of options when his four-decade Tata innings ends....",
-          "link": "https://yourstory.com/2026/08/whats-next-n-chandrasekaran-tata-group-5-plausible-second-acts",
+          "title": "Ten years of UPI: The infrastructure that quietly rewrote how India lives",
+          "summary": "Ten years after its launch, UPI has become far more than a payment system. It has transformed everyday transactions, enabled commerce during the pandemic and taken India’s digital ...",
+          "link": "https://yourstory.com/2026/08/ten-years-upi-infrastructure-quietly-rewrote-how-india-lives",
           "source": "YourStory"
         },
         {
-          "title": "SoftBank Sells Lenskart Stake Worth ₹2,888 Cr",
-          "summary": "Adding to its Lenskart windfall, global investment firm SoftBank has now offloaded 4.50 Cr shares in the eyewear retailer to&#8230;...",
-          "link": "https://inc42.com/buzz/softbank-sells-lenskart-stake-worth-%e2%82%b92888-cr/",
+          "title": "The Ecommerce Squeeze, Supertails Chases Profits & More",
+          "summary": "Amazon, Flipkart Tighten Seller Rules With the festive season just around the corner, India’s ecommerce giants appear to be shifting&#8230;...",
+          "link": "https://inc42.com/buzz/the-ecommerce-squeeze-supertails-chases-profits-more/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Industrial automation at the extremes: aircraft carriers, and donuts",
-          "summary": "U.S. Navy shipbuilder Huntington Ingalls Industries intends to use physical AI to automate warship production, while Siemens uses AI at the other extreme: food production, especial...",
-          "link": "https://www.designworldonline.com/industrial-automation-at-the-extremes-aircraft-carriers-and-donuts/",
+          "title": "Tech Toolbox: Decentralizing motion control with edge devices",
+          "summary": "In discrete automation, edge devices include actuators, sensors, and connectivity components including gateways and motor-mounted controllers with computational resources to elimin...",
+          "link": "https://www.designworldonline.com/tech-toolbox-decentralizing-motion-control-with-edge-devices/",
           "source": "Design World"
         },
         {
-          "title": "Steffen Baur to present session on reducing tool variability",
-          "summary": "CERATIZIT USA announced that Steffen Baur, global product manager for round tools, will present a technical session at the IMTS 2026 Conference titled “Stopping Tool Variability Be...",
-          "link": "https://www.designworldonline.com/steffen-baur-to-present-session-on-reducing-tool-variability/",
+          "title": "Industrial automation at the extremes: aircraft carriers, and donuts",
+          "summary": "U.S. Navy shipbuilder Huntington Ingalls Industries intends to use physical AI to automate warship production, while Siemens uses AI at the other extreme: food production, especial...",
+          "link": "https://www.designworldonline.com/industrial-automation-at-the-extremes-aircraft-carriers-and-donuts/",
           "source": "Design World"
         }
       ]
@@ -228,11 +228,18 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "The Truth About the Bezelless Concept Phone",
-          "summary": "This TECNO 0mm \"borderless\" concept phone actually has some interesting quirks\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://t...",
-          "link": "https://www.youtube.com/watch?v=ngPkbaZliaU",
+          "title": "The Wildest Camera Robot",
+          "summary": "It can do flips, etc...",
+          "link": "https://www.youtube.com/shorts/v-_d2e7x4KA",
           "source": "MKBHD",
-          "thumbnail": "https://i3.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg"
+          "thumbnail": "https://i3.ytimg.com/vi/v-_d2e7x4KA/hqdefault.jpg"
+        },
+        {
+          "title": "This Small AI Will Change Everything",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Qwen3.8-27b is available here:\nhttps://huggingface.co/Qwen/Qwen3.8-27B\n\nSources:\nhttps://w...",
+          "link": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i4.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg"
         }
       ]
     }
