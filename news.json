@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, August 27, 2026 at 05:23 PM IST",
-  "last_updated_iso": "2026-08-27T17:23:41.053881",
+  "last_updated": "Friday, August 28, 2026 at 06:46 PM IST",
+  "last_updated_iso": "2026-08-28T18:46:39.709127",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24090.85,
-        "change": -243.75,
-        "change_pct": -1.001660187551881,
+        "price": 24175.65,
+        "change": -32.14999999999782,
+        "change_pct": -0.13280843364534498,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 76933.59,
-        "change": -722.5100000000093,
-        "change_pct": -0.930396968171218,
+        "price": 77264.51,
+        "change": -208.38999999999942,
+        "change_pct": -0.2689843803446101,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57509.95,
-        "change": -4.25,
-        "change_pct": -0.007389479467679287,
+        "price": 57496.3,
+        "change": -287.5,
+        "change_pct": -0.49754429442161985,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "ICICI Bank",
-        "price": 1443.0,
-        "change": 13.0,
-        "change_pct": 0.9090909090909091,
+        "name": "TCS",
+        "price": 2342.0,
+        "change": 93.59999999999991,
+        "change_pct": 4.162960327343885,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1913.3,
-        "change": 13.799999999999955,
-        "change_pct": 0.7265069755198712,
+        "name": "Infosys",
+        "price": 1144.0,
+        "change": 33.200000000000045,
+        "change_pct": 2.9888368743248153,
         "is_up": true
       },
       {
-        "name": "L&T",
-        "price": 4027.0,
-        "change": -11.099999999999909,
-        "change_pct": -0.27488175131868725,
-        "is_up": false
+        "name": "Wipro",
+        "price": 180.95,
+        "change": 4.549999999999983,
+        "change_pct": 2.5793650793650693,
+        "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "HDFC Bank",
-        "price": 711.0,
-        "change": -16.200000000000045,
-        "change_pct": -2.2277227722772337,
+        "name": "ICICI Bank",
+        "price": 1422.8,
+        "change": -20.200000000000045,
+        "change_pct": -1.399861399861403,
+        "is_up": false
+      },
+      {
+        "name": "Maruti",
+        "price": 13376.0,
+        "change": -64.0,
+        "change_pct": -0.4761904761904762,
         "is_up": false
       },
       {
         "name": "Bharti Airtel",
-        "price": 1878.3,
-        "change": -23.799999999999955,
-        "change_pct": -1.2512486199463726,
-        "is_up": false
-      },
-      {
-        "name": "Reliance",
-        "price": 1282.2,
-        "change": -15.799999999999955,
-        "change_pct": -1.2172573189522307,
-        "is_up": false
+        "price": 1882.4,
+        "change": 4.100000000000136,
+        "change_pct": 0.21828248948518003,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.53,
-        "change": 0.1280000000000001,
-        "change_pct": 0.13416909498752658,
-        "is_up": true
+        "price": 95.368,
+        "change": -0.16200000000000614,
+        "change_pct": -0.16958023657490437,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4652.4,
-        "change": -0.9000000000005457,
-        "change_pct": -0.01934111275869911,
+        "price": 4651.7,
+        "change": -12.300000000000182,
+        "change_pct": -0.263722126929678,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-          "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers....",
-          "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washing...",
+          "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
           "source": "TechCrunch"
         },
         {
-          "title": "Nvidia closes in on Hugging Face acquisition",
-          "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into ...",
-          "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+          "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role....",
+          "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
           "source": "TechCrunch"
         },
         {
-          "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+          "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
           "summary": "",
-          "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+          "link": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
           "source": "The Verge"
         },
         {
-          "title": "OpenAI’s rogue AI model incident was worse than we thought",
+          "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
           "source": "The Verge"
         },
         {
-          "title": "An EV that sounds like a 6.75 L V8: A ride in the Bentley Torcal",
-          "summary": "The electric Torcal will be Bentley's entry model and cost less than a Bentayga....",
-          "link": "https://arstechnica.com/cars/2026/08/an-ev-that-sounds-like-a-6-75-l-v8-a-ride-in-the-bentley-torcal/",
+          "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+          "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign....",
+          "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Quote of the day by Alfred Winslow Jones: \"The tools that get investors and speculators in and out of the market only after some widely followed average has turned must obviously exaggerate the movements of the market\"",
-          "summary": "Alfred Winslow Jones warned that investors reacting only after widely followed market averages turn can amplify market swings and lead to late decisions. His insight highlights cro...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-alfred-winslow-jones-the-tools-that-get-investors-and-speculators-in-and-out-of-the-market-only-after-some-widely-followed-average-has-turned-must-obviously-exaggerate-the-movements-of-the-market/articleshow/133566518.cms",
+          "title": "Quote of the day by Arnold Van Den Berg: \"Regardless of yield, when investments are absent of value, cash is always a better option than permanently losing money\"",
+          "summary": "Arnold Van Den Berg’s investing wisdom stresses that yield alone does not make an investment attractive. When value is absent and permanent capital loss risk is high, holding cash ...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-arnold-van-den-berg-regardless-of-yield-when-investments-are-absent-of-value-cash-is-always-a-better-option-than-permanently-losing-money/articleshow/133591168.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Market wrap: Adani Enterprises, Kotak Mahindra Bank, HDFC Bank, M&amp;M top gainers and losers on Nifty and Sensex on Thursday",
-          "summary": "Indian equity markets closed lower on Thursday, with the Sensex falling 539 points and the Nifty declining 117 points as selling intensified late in the session. Adani Enterprises ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-enterprises-kotak-mahindra-bank-hdfc-bank-mm-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/133566380.cms",
+          "title": "Was Sensex’s 2,000-point expiry crash a one-off? Here's what Friday's close hints about CAS",
+          "summary": "Sensex stayed relatively calm during Friday’s closing auction, a day after a 2,000-point plunge during the monthly expiry raised fresh concerns over CAS. The subdued move suggests ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/was-sensexs-2000-point-expiry-crash-a-one-off-heres-what-fridays-close-hints-about-cas/articleshow/133591046.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Japanese shares trade mixed as tech stocks diverge",
-          "summary": "Markets lacked a clear direction as technology stocks moved in different directions. Nvidias strong sales outlook also supported sentiment, reinforcing expectations that demand for...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/japanese-shares-trade-mixed-as-tech-stocks-diverge-126082700963_1.html",
+          "title": "Reliance Jio Infocomm standalone net profit rises 6.79% in the June 2026 quarter",
+          "summary": "Sales rise 10.78% to Rs 34212.00 crore...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/reliance-jio-infocomm-standalone-net-profit-rises-6-79-in-the-june-2026-quarter-126082801012_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Paradromics gets FDA nod for broader BCI device compatibility",
-          "summary": "Paradromics has received approval from the US FDA to broaden the range of personal computing devices compatible with its investigational BCI system. The post Paradromics gets FDA n...",
-          "link": "https://www.medicaldevice-network.com/news/paradromics-fda-nod-broader-bci-device/",
+          "title": "Kardium secures $22.5m funding for pulsed field system manufacturing",
+          "summary": "Kardium has secured up to $22.5m from the Government of Canada for the Globe Pulsed Field System in British Columbia. The post Kardium secures $22.5m funding for pulsed field syste...",
+          "link": "https://www.medicaldevice-network.com/news/kardium-funding-pulsed-field-system-manufacturing/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "The/Nudge launches Rs 250 Cr TILT fund for early-stage impact startups",
-          "summary": "TILT will primarily invest in startups at the seed to Series A stages, with cheque sizes ranging from Rs 2 crore to Rs 16 crore....",
-          "link": "https://yourstory.com/2026/08/thenudge-launches-rs-250-cr-tilt-fund-early-stage-impact-startups",
+          "title": "From software to satellites: Why India's next venture opportunity lies in deeptech",
+          "summary": "India’s venture narrative is undergoing a fundamental evolution. We are transitioning from a nation that built digital software for the world to one that engineers frontier hardwar...",
+          "link": "https://yourstory.com/2026/08/software-satellites-indias-next-venture-opportunity-lies-deeptech",
           "source": "YourStory"
         },
         {
-          "title": "Delhi Lakshmi Yojana goes live with an enterprise pitch",
-          "summary": "The Women and Child Development Department is calling it seed capital. The payout structure explains why...",
-          "link": "https://yourstory.com/2026/08/delhi-lakshmi-yojana-launch-rs-2500-enterprise-savings",
+          "title": "When you cannot change life, learn to change yourself",
+          "summary": "When circumstances cannot be changed, changing our perspective, habits, and responses can help us find strength and meaning within difficulty....",
+          "link": "https://yourstory.com/2026/08/cannot-change-situations",
           "source": "YourStory"
         },
         {
-          "title": "NITI Aayog Proposes Skilling Overhaul With Outcome-Linked Financing Model",
-          "summary": "In a bid to address persistent gaps in India’s labour market, NITI Aayog has proposed linking government funding for skilling&#8230;...",
-          "link": "https://inc42.com/buzz/niti-aayog-proposes-skilling-overhaul-with-outcome-linked-financing-model/",
+          "title": "Jio Platforms Gets SEBI Nod For IPO",
+          "summary": "Reliance Industries’ (RIL) digital and telecom services arm Jio Platforms has received SEBI’s approval for its proposed IPO, moving closer&#8230;...",
+          "link": "https://inc42.com/buzz/jio-platforms-gets-sebi-nod-for-ipo/",
           "source": "Inc42"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i3.ytimg.com/vi/v-_d2e7x4KA/hqdefault.jpg"
         },
         {
-          "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek Harness + paper are available here:\nhttps://deepseek.com/harness/en/\nhttps://github.c...",
-          "link": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+          "title": "This Free AI Just Caught The Billion Dollar Giants",
+          "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper and Qwen3.8-Flash-Next are available here:\nhttps://github.com/QwenLM/Qwen3.8-Fl...",
+          "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg"
+          "thumbnail": "https://i1.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg"
         }
       ]
     }
