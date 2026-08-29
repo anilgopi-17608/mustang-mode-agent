@@ -1,27 +1,27 @@
 {
-  "last_updated": "Friday, August 28, 2026 at 06:46 PM IST",
-  "last_updated_iso": "2026-08-28T18:46:39.709127",
+  "last_updated": "Saturday, August 29, 2026 at 01:42 PM IST",
+  "last_updated_iso": "2026-08-29T13:42:53.313170",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
         "price": 24175.65,
-        "change": -32.14999999999782,
-        "change_pct": -0.13280843364534498,
-        "is_up": false
+        "change": 84.85000000000218,
+        "change_pct": 0.352209142079143,
+        "is_up": true
       },
       {
         "name": "Sensex",
         "price": 77264.51,
-        "change": -208.38999999999942,
-        "change_pct": -0.2689843803446101,
-        "is_up": false
+        "change": 330.90999999998894,
+        "change_pct": 0.43012415901503237,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
         "price": 57496.3,
-        "change": -287.5,
-        "change_pct": -0.49754429442161985,
+        "change": -13.599999999998545,
+        "change_pct": -0.023648102326727302,
         "is_up": false
       }
     ],
@@ -74,18 +74,18 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.368,
-        "change": -0.16200000000000614,
-        "change_pct": -0.16958023657490437,
+        "price": 95.38,
+        "change": -0.15000000000000568,
+        "change_pct": -0.1570187375693559,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4651.7,
-        "change": -12.300000000000182,
-        "change_pct": -0.263722126929678,
+        "price": 4529.9,
+        "change": -134.10000000000036,
+        "change_pct": -2.875214408233284,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-          "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washing...",
-          "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+          "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+          "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers....",
+          "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-          "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role....",
-          "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+          "title": "Is the best way to watch a movie on a pair of sunglasses?",
+          "summary": "Are XREAL's smart glasses the way of the future for home entertainment?...",
+          "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
+          "title": "Google further buries search results under AI mode",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
+          "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
           "source": "The Verge"
         },
         {
-          "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+          "title": "Xbox CEO calls Project Helix a ‘family of devices’",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+          "link": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
           "source": "The Verge"
         },
         {
-          "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-          "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign....",
-          "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+          "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+          "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule....",
+          "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Quote of the day by Arnold Van Den Berg: \"Regardless of yield, when investments are absent of value, cash is always a better option than permanently losing money\"",
-          "summary": "Arnold Van Den Berg’s investing wisdom stresses that yield alone does not make an investment attractive. When value is absent and permanent capital loss risk is high, holding cash ...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-arnold-van-den-berg-regardless-of-yield-when-investments-are-absent-of-value-cash-is-always-a-better-option-than-permanently-losing-money/articleshow/133591168.cms",
+          "title": "BlackRock helps pull more Bitcoin wealth deeper into Wall Street",
+          "summary": "BlackRock and other Wall Street firms are making it easier for large Bitcoin holders to move crypto wealth into spot Bitcoin ETFs through in-kind transactions. Lower minimums, expa...",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/blackrock-helps-pull-more-bitcoin-wealth-deeper-into-wall-street/articleshow/133607321.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Was Sensex’s 2,000-point expiry crash a one-off? Here's what Friday's close hints about CAS",
-          "summary": "Sensex stayed relatively calm during Friday’s closing auction, a day after a 2,000-point plunge during the monthly expiry raised fresh concerns over CAS. The subdued move suggests ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/was-sensexs-2000-point-expiry-crash-a-one-off-heres-what-fridays-close-hints-about-cas/articleshow/133591046.cms",
+          "title": "India’s housing market sees structural shift towards premium, luxury homes: CareEdge Ratings",
+          "summary": "India’s housing market is seeing a structural shift towards premium and luxury homes, with affordable housing losing share in new launches. CareEdge Ratings said stronger demand fr...",
+          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-housing-market-sees-structural-shift-towards-premium-luxury-homes-careedge-ratings/articleshow/133607165.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Reliance Jio Infocomm standalone net profit rises 6.79% in the June 2026 quarter",
-          "summary": "Sales rise 10.78% to Rs 34212.00 crore...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/reliance-jio-infocomm-standalone-net-profit-rises-6-79-in-the-june-2026-quarter-126082801012_1.html",
+          "title": "Ashoka Buildcon receives LoA from RVNL",
+          "summary": "For Rishikesh Karnprayag New BG Rail Line Project...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/ashoka-buildcon-receives-loa-from-rvnl-126082900348_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Kardium secures $22.5m funding for pulsed field system manufacturing",
-          "summary": "Kardium has secured up to $22.5m from the Government of Canada for the Globe Pulsed Field System in British Columbia. The post Kardium secures $22.5m funding for pulsed field syste...",
-          "link": "https://www.medicaldevice-network.com/news/kardium-funding-pulsed-field-system-manufacturing/",
+          "title": "ESC 2026: Identifying ‘silent’ atherosclerosis may help reduce global CVD burden",
+          "summary": "The REACT study measured silent atherosclerosis in 16,808 adults without known CVD aged 18 to 70 years old. The post ESC 2026: Identifying ‘silent’ atherosclerosis may help reduce ...",
+          "link": "https://www.medicaldevice-network.com/news/esc-2026-identifying-silent-atherosclerosis-may-help-reduce-global-cvd-burden/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "From software to satellites: Why India's next venture opportunity lies in deeptech",
-          "summary": "India’s venture narrative is undergoing a fundamental evolution. We are transitioning from a nation that built digital software for the world to one that engineers frontier hardwar...",
-          "link": "https://yourstory.com/2026/08/software-satellites-indias-next-venture-opportunity-lies-deeptech",
+          "title": "Myntra Tech Threads 2026 brings brands together to discuss tech-led fashion, beauty and lifestyle commerce",
+          "summary": "Myntra’s flagship brand conclave featured discussions on AI, personalization, creator-led commerce, and faster fulfilment, along with Myntra’s latest technology offerings for brand...",
+          "link": "https://yourstory.com/2026/08/myntra-tech-threads-2026-brings-brands-together-discuss-tech-led-fashion-commerce",
           "source": "YourStory"
         },
         {
-          "title": "When you cannot change life, learn to change yourself",
-          "summary": "When circumstances cannot be changed, changing our perspective, habits, and responses can help us find strength and meaning within difficulty....",
-          "link": "https://yourstory.com/2026/08/cannot-change-situations",
+          "title": "(Weekly funding roundup Aug 22-28) Marginal rise in VC inflow",
+          "summary": "The total funding for the week was $245 million across 27 deals, compared to $187 million raised in the previous week....",
+          "link": "https://yourstory.com/2026/08/weekly-funding-roundup-aug-22-28-marginal-rise-in-vc-inflow",
           "source": "YourStory"
         },
         {
-          "title": "Jio Platforms Gets SEBI Nod For IPO",
-          "summary": "Reliance Industries’ (RIL) digital and telecom services arm Jio Platforms has received SEBI’s approval for its proposed IPO, moving closer&#8230;...",
-          "link": "https://inc42.com/buzz/jio-platforms-gets-sebi-nod-for-ipo/",
+          "title": "From Third Wave Coffee To MATTER — Indian Startups Raised Over $210 Mn This Week",
+          "summary": "Indian startup funding activity took a minor hit in the last week of August. Twenty three startups managed to raise&#8230;...",
+          "link": "https://inc42.com/buzz/from-third-wave-coffee-to-matter-indian-startups-raised-over-210-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -235,7 +235,7 @@
           "thumbnail": "https://i3.ytimg.com/vi/v-_d2e7x4KA/hqdefault.jpg"
         },
         {
-          "title": "This Free AI Just Caught The Billion Dollar Giants",
+          "title": "The Billion Dollar AI Gap Is Collapsing",
           "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper and Qwen3.8-Flash-Next are available here:\nhttps://github.com/QwenLM/Qwen3.8-Fl...",
           "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
           "source": "Two Minute Papers (AI)",
