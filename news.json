@@ -1,27 +1,27 @@
 {
-  "last_updated": "Saturday, August 29, 2026 at 01:42 PM IST",
-  "last_updated_iso": "2026-08-29T13:42:53.313170",
+  "last_updated": "Sunday, August 30, 2026 at 12:42 PM IST",
+  "last_updated_iso": "2026-08-30T12:42:16.313164",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
         "price": 24175.65,
-        "change": 84.85000000000218,
-        "change_pct": 0.352209142079143,
+        "change": 84.80000000000291,
+        "change_pct": 0.3520008633983563,
         "is_up": true
       },
       {
         "name": "Sensex",
         "price": 77264.51,
-        "change": 330.90999999998894,
-        "change_pct": 0.43012415901503237,
+        "change": 330.91999999999825,
+        "change_pct": 0.430137213147077,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
         "price": 57496.3,
-        "change": -13.599999999998545,
-        "change_pct": -0.023648102326727302,
+        "change": -13.64999999999418,
+        "change_pct": -0.023735023243793778,
         "is_up": false
       }
     ],
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-          "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers....",
-          "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+          "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+          "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy....",
+          "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
           "source": "TechCrunch"
         },
         {
-          "title": "Is the best way to watch a movie on a pair of sunglasses?",
-          "summary": "Are XREAL's smart glasses the way of the future for home entertainment?...",
-          "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+          "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+          "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI....",
+          "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
           "source": "TechCrunch"
         },
         {
-          "title": "Google further buries search results under AI mode",
+          "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
           "summary": "",
-          "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+          "link": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
           "source": "The Verge"
         },
         {
-          "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+          "title": "Alt-right troll Milo Yiannopoulos has been deported",
           "summary": "",
-          "link": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+          "link": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
           "source": "The Verge"
         },
         {
-          "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
-          "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule....",
-          "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+          "title": "I asked 100 companies for my data. Some deleted it instead.",
+          "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends....",
+          "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "BlackRock helps pull more Bitcoin wealth deeper into Wall Street",
-          "summary": "BlackRock and other Wall Street firms are making it easier for large Bitcoin holders to move crypto wealth into spot Bitcoin ETFs through in-kind transactions. Lower minimums, expa...",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/blackrock-helps-pull-more-bitcoin-wealth-deeper-into-wall-street/articleshow/133607321.cms",
+          "title": "Warren Buffett turns 96: Top 10 investing lessons from the Oracle of Omaha",
+          "summary": "As Warren Buffett turns 96 in his first birthday since stepping down as Berkshire Hathaway's CEO, the piece revisits the investing principles behind his six-decade run — patience, ...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-turns-96-top-10-investing-lessons-from-the-oracle-of-omaha/articleshow/133624955.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "India’s housing market sees structural shift towards premium, luxury homes: CareEdge Ratings",
-          "summary": "India’s housing market is seeing a structural shift towards premium and luxury homes, with affordable housing losing share in new launches. CareEdge Ratings said stronger demand fr...",
-          "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-housing-market-sees-structural-shift-towards-premium-luxury-homes-careedge-ratings/articleshow/133607165.cms",
+          "title": "SBI, SBI Capital Markets plan 1% NSE stake sale via IPO: Bank Chairman C S Setty",
+          "summary": "State Bank of India plans to divest nearly one percent of its National Stock Exchange stake. This divestment will occur as part of the exchange's upcoming initial public offering. ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-sbi-capital-markets-plan-1-nse-stake-sale-via-ipo/articleshow/133624789.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Ashoka Buildcon receives LoA from RVNL",
-          "summary": "For Rishikesh Karnprayag New BG Rail Line Project...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/ashoka-buildcon-receives-loa-from-rvnl-126082900348_1.html",
+          "title": "Mcap of 7 of top 10 most valued firms erodes ₹1.13 trn, Airtel worst hit",
+          "summary": "The combined market valuation of seven of the top-10 most-valued firms eroded by Rs 1.13 lakh crore last week, with Bharti Airtel and Reliance Industries emerging as the biggest la...",
+          "link": "https://www.business-standard.com/markets/news/mcap-of-7-of-top-10-most-valued-firms-erodes-1-13-trn-airtel-worst-hit-126083000140_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Myntra Tech Threads 2026 brings brands together to discuss tech-led fashion, beauty and lifestyle commerce",
-          "summary": "Myntra’s flagship brand conclave featured discussions on AI, personalization, creator-led commerce, and faster fulfilment, along with Myntra’s latest technology offerings for brand...",
-          "link": "https://yourstory.com/2026/08/myntra-tech-threads-2026-brings-brands-together-discuss-tech-led-fashion-commerce",
+          "title": "Services, automation, credit: Test your business creativity with Edition 247 of our weekly quiz!",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 247th quiz. Ready?...",
+          "link": "https://yourstory.com/2026/08/services-automation-credit-business-creativity-entrepreneur-quiz",
           "source": "YourStory"
         },
         {
-          "title": "(Weekly funding roundup Aug 22-28) Marginal rise in VC inflow",
-          "summary": "The total funding for the week was $245 million across 27 deals, compared to $187 million raised in the previous week....",
-          "link": "https://yourstory.com/2026/08/weekly-funding-roundup-aug-22-28-marginal-rise-in-vc-inflow",
+          "title": "Narrate the story behind the brand: Gifts World Expo highlights shifting customer expectations",
+          "summary": "In this photo essay, we showcase more highlights from a leading gifting platform at Palace Grounds, Bengaluru....",
+          "link": "https://yourstory.com/2026/08/brand-story-gifts-exhibition-customer-photography",
           "source": "YourStory"
         },
         {
-          "title": "From Third Wave Coffee To MATTER — Indian Startups Raised Over $210 Mn This Week",
-          "summary": "Indian startup funding activity took a minor hit in the last week of August. Twenty three startups managed to raise&#8230;...",
-          "link": "https://inc42.com/buzz/from-third-wave-coffee-to-matter-indian-startups-raised-over-210-mn-this-week/",
+          "title": "Zerodha’s Diversification Clock Is Ticking",
+          "summary": "Zerodha’s core business is no longer growing. Regulatory curbs and changing investor behaviour are cooling trading activity and squeezing brokerage&#8230;...",
+          "link": "https://inc42.com/features/zerodhas-diversification-clock-is-ticking/",
           "source": "Inc42"
         }
       ]
