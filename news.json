@@ -1,91 +1,91 @@
 {
-  "last_updated": "Sunday, August 30, 2026 at 12:42 PM IST",
-  "last_updated_iso": "2026-08-30T12:42:16.313164",
+  "last_updated": "Monday, August 31, 2026 at 12:56 PM IST",
+  "last_updated_iso": "2026-08-31T12:56:23.988805",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24175.65,
-        "change": 84.80000000000291,
-        "change_pct": 0.3520008633983563,
-        "is_up": true
+        "price": 24073.25,
+        "change": -102.40000000000146,
+        "change_pct": -0.42356668796909885,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 77264.51,
-        "change": 330.91999999999825,
-        "change_pct": 0.430137213147077,
-        "is_up": true
+        "price": 76992.72,
+        "change": -271.7899999999936,
+        "change_pct": -0.3517656424663712,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57496.3,
-        "change": -13.64999999999418,
-        "change_pct": -0.023735023243793778,
+        "price": 57355.3,
+        "change": -141.0,
+        "change_pct": -0.2452331715258199,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "TCS",
-        "price": 2342.0,
-        "change": 93.59999999999991,
-        "change_pct": 4.162960327343885,
+        "name": "ICICI Bank",
+        "price": 1436.4,
+        "change": 13.600000000000136,
+        "change_pct": 0.9558616811920254,
         "is_up": true
       },
       {
-        "name": "Infosys",
-        "price": 1144.0,
-        "change": 33.200000000000045,
-        "change_pct": 2.9888368743248153,
+        "name": "Maruti",
+        "price": 13442.0,
+        "change": 66.0,
+        "change_pct": 0.4934210526315789,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 180.95,
-        "change": 4.549999999999983,
-        "change_pct": 2.5793650793650693,
+        "name": "Sun Pharma",
+        "price": 1927.3,
+        "change": 7.2999999999999545,
+        "change_pct": 0.380208333333331,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "ICICI Bank",
-        "price": 1422.8,
-        "change": -20.200000000000045,
-        "change_pct": -1.399861399861403,
+        "name": "Infosys",
+        "price": 1122.2,
+        "change": -21.799999999999955,
+        "change_pct": -1.9055944055944014,
         "is_up": false
       },
       {
-        "name": "Maruti",
-        "price": 13376.0,
-        "change": -64.0,
-        "change_pct": -0.4761904761904762,
+        "name": "Wipro",
+        "price": 178.62,
+        "change": -2.329999999999984,
+        "change_pct": -1.287648521691066,
         "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1882.4,
-        "change": 4.100000000000136,
-        "change_pct": 0.21828248948518003,
-        "is_up": true
+        "name": "L&T",
+        "price": 4001.9,
+        "change": -43.90000000000009,
+        "change_pct": -1.085075881160712,
+        "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.38,
-        "change": -0.15000000000000568,
-        "change_pct": -0.1570187375693559,
+        "price": 95.2125,
+        "change": -0.14749999999999375,
+        "change_pct": -0.15467701342281223,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4529.9,
-        "change": -134.10000000000036,
-        "change_pct": -2.875214408233284,
+        "price": 4485.9,
+        "change": -44.0,
+        "change_pct": -0.9713238702841123,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-          "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy....",
-          "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+          "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+          "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere....",
+          "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
           "source": "TechCrunch"
         },
         {
-          "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-          "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI....",
-          "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+          "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+          "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, an...",
+          "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
           "source": "TechCrunch"
         },
         {
-          "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+          "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+          "link": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
           "source": "The Verge"
         },
         {
-          "title": "Alt-right troll Milo Yiannopoulos has been deported",
+          "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
           "summary": "",
-          "link": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+          "link": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
           "source": "The Verge"
         },
         {
-          "title": "I asked 100 companies for my data. Some deleted it instead.",
-          "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends....",
-          "link": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+          "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+          "summary": "Cut content from Portal 2 , hints of Half Life 2: Episode 3 , and so much more....",
+          "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Warren Buffett turns 96: Top 10 investing lessons from the Oracle of Omaha",
-          "summary": "As Warren Buffett turns 96 in his first birthday since stepping down as Berkshire Hathaway's CEO, the piece revisits the investing principles behind his six-decade run — patience, ...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-turns-96-top-10-investing-lessons-from-the-oracle-of-omaha/articleshow/133624955.cms",
+          "title": "India bonds slump on Fed rate hike bets, benchmark trades at discount",
+          "summary": "Indian government bonds faced a downturn on Monday as yields spiked significantly. Hawkish statements from the head of the U.S. Federal Reserve ignited concerns about imminent rate...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-on-fed-rate-hike-bets-benchmark-trades-at-discount/articleshow/133645246.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "SBI, SBI Capital Markets plan 1% NSE stake sale via IPO: Bank Chairman C S Setty",
-          "summary": "State Bank of India plans to divest nearly one percent of its National Stock Exchange stake. This divestment will occur as part of the exchange's upcoming initial public offering. ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-sbi-capital-markets-plan-1-nse-stake-sale-via-ipo/articleshow/133624789.cms",
+          "title": "Zee Entertainment shares crash 14% amid Subhash Chandra’s 99.97% loan haircut row",
+          "summary": "Zee Entertainment shares crashed on Monday after the NCLT approved a repayment plan involving founder Subhash Chandra. The plan entails a recovery of around Rs 6.5 crore against ad...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-shares-crash-14-amid-subhash-chandras-99-97-loan-haircut-row/articleshow/133644854.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Mcap of 7 of top 10 most valued firms erodes ₹1.13 trn, Airtel worst hit",
-          "summary": "The combined market valuation of seven of the top-10 most-valued firms eroded by Rs 1.13 lakh crore last week, with Bharti Airtel and Reliance Industries emerging as the biggest la...",
-          "link": "https://www.business-standard.com/markets/news/mcap-of-7-of-top-10-most-valued-firms-erodes-1-13-trn-airtel-worst-hit-126083000140_1.html",
+          "title": "Sensex slides 291 pts; realty shares decline for 3rd day",
+          "summary": "Market participants remained cautious ahead of the MSCI index rebalancing, which is expected to trigger sizeable passive fund flows under the new Closing Auction Session (CAS) mech...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-291-pts-realty-shares-decline-for-3rd-day-126083100478_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Services, automation, credit: Test your business creativity with Edition 247 of our weekly quiz!",
-          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 247th quiz. Ready?...",
-          "link": "https://yourstory.com/2026/08/services-automation-credit-business-creativity-entrepreneur-quiz",
+          "title": "Pet insurance guide: Why every pet owner should consider coverage",
+          "summary": "From routine veterinary consultations to unexpected treatments, the right insurance coverage can help pet owners plan for healthcare expenses. Pets are valued companions who bring ...",
+          "link": "https://yourstory.com/2026/08/pet-insurance-guide-why-every-pet-owner-should-consider-coverage",
           "source": "YourStory"
         },
         {
-          "title": "Narrate the story behind the brand: Gifts World Expo highlights shifting customer expectations",
-          "summary": "In this photo essay, we showcase more highlights from a leading gifting platform at Palace Grounds, Bengaluru....",
-          "link": "https://yourstory.com/2026/08/brand-story-gifts-exhibition-customer-photography",
+          "title": "7 Quotes from Meditations by Marcus Aurelius for resilience",
+          "summary": "Discover 7 powerful quotes from Meditations by Marcus Aurelius that offer timeless lessons on resilience, adversity, and inner strength....",
+          "link": "https://yourstory.com/2026/08/7-quotes-from-meditations-by-marcus-aurelius",
           "source": "YourStory"
         },
         {
-          "title": "Zerodha’s Diversification Clock Is Ticking",
-          "summary": "Zerodha’s core business is no longer growing. Regulatory curbs and changing investor behaviour are cooling trading activity and squeezing brokerage&#8230;...",
-          "link": "https://inc42.com/features/zerodhas-diversification-clock-is-ticking/",
+          "title": "NPCI To Let Users Port UPI AutoPay Mandates Across Apps: Report",
+          "summary": "The National Payments Corporation of India (NPCI) is reportedly set to make UPI AutoPay interoperable, allowing users to port their&#8230;...",
+          "link": "https://inc42.com/buzz/npci-to-let-users-port-upi-autopay-mandates-across-apps-report/",
           "source": "Inc42"
         }
       ]
