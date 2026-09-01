@@ -1,91 +1,91 @@
 {
-  "last_updated": "Monday, August 31, 2026 at 12:56 PM IST",
-  "last_updated_iso": "2026-08-31T12:56:23.988805",
+  "last_updated": "Tuesday, September 01, 2026 at 12:10 PM IST",
+  "last_updated_iso": "2026-09-01T12:10:00.744583",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24073.25,
-        "change": -102.40000000000146,
-        "change_pct": -0.42356668796909885,
-        "is_up": false
+        "price": 24127.85,
+        "change": 47.44999999999709,
+        "change_pct": 0.1970482217903236,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 76992.72,
-        "change": -271.7899999999936,
-        "change_pct": -0.3517656424663712,
-        "is_up": false
+        "price": 77170.4,
+        "change": 213.1299999999901,
+        "change_pct": 0.27694589478029835,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57355.3,
-        "change": -141.0,
-        "change_pct": -0.2452331715258199,
+        "price": 57645.05,
+        "change": -379.8999999999942,
+        "change_pct": -0.6547183582234783,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "ICICI Bank",
-        "price": 1436.4,
-        "change": 13.600000000000136,
-        "change_pct": 0.9558616811920254,
+        "name": "Bharti Airtel",
+        "price": 1867.8,
+        "change": 55.899999999999864,
+        "change_pct": 3.085159225122792,
         "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 13442.0,
-        "change": 66.0,
-        "change_pct": 0.4934210526315789,
+        "name": "Reliance",
+        "price": 1307.0,
+        "change": 30.0,
+        "change_pct": 2.3492560689115116,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1927.3,
-        "change": 7.2999999999999545,
-        "change_pct": 0.380208333333331,
+        "name": "Infosys",
+        "price": 1148.0,
+        "change": 14.200000000000045,
+        "change_pct": 1.2524254718645305,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1122.2,
-        "change": -21.799999999999955,
-        "change_pct": -1.9055944055944014,
+        "name": "Sun Pharma",
+        "price": 1938.9,
+        "change": -45.899999999999864,
+        "change_pct": -2.3125755743651686,
         "is_up": false
       },
       {
         "name": "Wipro",
-        "price": 178.62,
-        "change": -2.329999999999984,
-        "change_pct": -1.287648521691066,
+        "price": 181.5,
+        "change": -3.0,
+        "change_pct": -1.6260162601626018,
         "is_up": false
       },
       {
-        "name": "L&T",
-        "price": 4001.9,
-        "change": -43.90000000000009,
-        "change_pct": -1.085075881160712,
+        "name": "TCS",
+        "price": 2361.8,
+        "change": -37.5,
+        "change_pct": -1.5629558621264534,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.2125,
-        "change": -0.14749999999999375,
-        "change_pct": -0.15467701342281223,
+        "price": 94.8775,
+        "change": -0.2745000000000033,
+        "change_pct": -0.2884857911552077,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4485.9,
-        "change": -44.0,
-        "change_pct": -0.9713238702841123,
+        "price": 4477.7,
+        "change": -3.800000000000182,
+        "change_pct": -0.08479303804530139,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-          "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere....",
-          "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+          "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
+          "summary": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm....",
+          "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
           "source": "TechCrunch"
         },
         {
-          "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-          "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, an...",
-          "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+          "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+          "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months....",
+          "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
           "source": "TechCrunch"
         },
         {
-          "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+          "title": "The Google TV Streamer now costs $50 more",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+          "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
           "source": "The Verge"
         },
         {
-          "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+          "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
           "summary": "",
-          "link": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+          "link": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
           "source": "The Verge"
         },
         {
-          "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
-          "summary": "Cut content from Portal 2 , hints of Half Life 2: Episode 3 , and so much more....",
-          "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+          "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
+          "summary": "It's the lightest Bentley in 85 years....",
+          "link": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "India bonds slump on Fed rate hike bets, benchmark trades at discount",
-          "summary": "Indian government bonds faced a downturn on Monday as yields spiked significantly. Hawkish statements from the head of the U.S. Federal Reserve ignited concerns about imminent rate...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-on-fed-rate-hike-bets-benchmark-trades-at-discount/articleshow/133645246.cms",
+          "title": "Alpha Wealth Summit 2.0: How AI is reshaping portfolio management and the role of human judgement",
+          "summary": "Alpha Wealth Summit 2.0 brings together leading investment voices to explore a fundamental question for modern portfolio management: where can AI create a genuine investment advant...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/alpha-wealth-summit-2-0-how-ai-is-reshaping-portfolio-management-and-the-role-of-human-judgement/articleshow/133669730.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Zee Entertainment shares crash 14% amid Subhash Chandra’s 99.97% loan haircut row",
-          "summary": "Zee Entertainment shares crashed on Monday after the NCLT approved a repayment plan involving founder Subhash Chandra. The plan entails a recovery of around Rs 6.5 crore against ad...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-shares-crash-14-amid-subhash-chandras-99-97-loan-haircut-row/articleshow/133644854.cms",
+          "title": "Titan Company, Sky Gold, other shares fall up to 6% on PM Modi’s second appeal to avoid gold",
+          "summary": "Jewellery stocks fell after Prime Minister Narendra Modi urged citizens to avoid non-essential gold purchases. The appeal, aimed at conserving foreign exchange, follows a similar c...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/titan-company-sky-gold-other-shares-fall-up-to-6-on-pm-modis-second-appeal-to-avoid-gold/articleshow/133670706.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Sensex slides 291 pts; realty shares decline for 3rd day",
-          "summary": "Market participants remained cautious ahead of the MSCI index rebalancing, which is expected to trigger sizeable passive fund flows under the new Closing Auction Session (CAS) mech...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-291-pts-realty-shares-decline-for-3rd-day-126083100478_1.html",
+          "title": "NSE SME Madhur Knit Crafts starts on a frayed note",
+          "summary": "Madhur Knit Crafts traded at Rs 95 on the NSE, a 5% discount to the issue price of Rs 100....",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nse-sme-madhur-knit-crafts-starts-on-a-frayed-note-126090100380_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "ESC 2026: Identifying ‘silent’ atherosclerosis may help reduce global CVD burden",
-          "summary": "The REACT study measured silent atherosclerosis in 16,808 adults without known CVD aged 18 to 70 years old. The post ESC 2026: Identifying ‘silent’ atherosclerosis may help reduce ...",
-          "link": "https://www.medicaldevice-network.com/news/esc-2026-identifying-silent-atherosclerosis-may-help-reduce-global-cvd-burden/",
+          "title": "Vesalio’s NATURE trial of enVast achieves primary endpoint",
+          "summary": "Vesalio has reported that the NATURE randomised controlled trial of its enVast Coronary Clot Retriever met the primary endpoint. The post Vesalio’s NATURE trial of enVast achieves ...",
+          "link": "https://www.medicaldevice-network.com/news/vesalios-nature-trial-achieves-primary-endpoint/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Pet insurance guide: Why every pet owner should consider coverage",
-          "summary": "From routine veterinary consultations to unexpected treatments, the right insurance coverage can help pet owners plan for healthcare expenses. Pets are valued companions who bring ...",
-          "link": "https://yourstory.com/2026/08/pet-insurance-guide-why-every-pet-owner-should-consider-coverage",
+          "title": "How new broadcast technology is changing the way fans watch cricket",
+          "summary": "The India-Afghanistan cricket series will bring together immersive camera angles, AI-led graphics, and a fan-powered sight screen to create new ways for audiences and brands to eng...",
+          "link": "https://yourstory.com/2026/08/how-new-broadcast-technology-is-changing-the-way-fans-watch-cricket",
           "source": "YourStory"
         },
         {
-          "title": "7 Quotes from Meditations by Marcus Aurelius for resilience",
-          "summary": "Discover 7 powerful quotes from Meditations by Marcus Aurelius that offer timeless lessons on resilience, adversity, and inner strength....",
-          "link": "https://yourstory.com/2026/08/7-quotes-from-meditations-by-marcus-aurelius",
+          "title": "As Tim Cook steps down, India stands at the heart of Apple’s next chapter",
+          "summary": "Tim Cook, once Steve Jobs’ operations man who made Apple’s ‘trains run on time’, turned India from a market of promise into a key centre for sales and production. His successor mus...",
+          "link": "https://yourstory.com/2026/08/tim-cook-steps-down-india-heart-of-apples-next-chapter",
           "source": "YourStory"
         },
         {
-          "title": "NPCI To Let Users Port UPI AutoPay Mandates Across Apps: Report",
-          "summary": "The National Payments Corporation of India (NPCI) is reportedly set to make UPI AutoPay interoperable, allowing users to port their&#8230;...",
-          "link": "https://inc42.com/buzz/npci-to-let-users-port-upi-autopay-mandates-across-apps-report/",
+          "title": "UPI Transactions Rise 4% MoM To Record 24.51 Bn In August",
+          "summary": "UPI transactions touched a fresh all-time high in August, with transaction volume rising nearly 4% MoM to 24.51 Bn from&#8230;...",
+          "link": "https://inc42.com/buzz/upi-transactions-rise-4-mom-to-record-24-51-bn-in-august/",
           "source": "Inc42"
         }
       ]
@@ -211,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Koford adds frameless 60 mm motor rated to 1,219 W continuous",
-          "summary": "Koford Engineering LLC has introduced a frameless version of its 10-pole, 60 mm motor, rated up to 1,219 W continuous power with 91% efficiency. The frameless model has a 3.130 in....",
-          "link": "https://www.designworldonline.com/koford-adds-frameless-60-mm-motor-rated-to-1219-w-continuous/",
+          "title": "Proximity sensor integrates VCSEL, photodiode and 16-bit ADC",
+          "summary": "Vishay Intertechnology, Inc. has introduced the Vishay Semiconductors VCNL36829UM, a fully integrated short-distance proximity sensor in a 1.6 mm x 1.0 mm x 0.35 mm transparent mol...",
+          "link": "https://www.designworldonline.com/proximity-sensor-integrates-vcsel-photodiode-and-16-bit-adc/",
           "source": "Design World"
         },
         {
-          "title": "AutomationDirect adds Konnect-It terminal blocks and MPB4 connectors",
-          "summary": "AutomationDirect has added Konnect-It 1mm, 4mm, and 6mm push-in terminal blocks which are designed to simplify installation while ensuring secure connections. Intuitive push-in tec...",
-          "link": "https://www.designworldonline.com/automationdirect-adds-konnect-it-terminal-blocks-and-mpb4-connectors/",
+          "title": "4.5 mm pitch helps shrink high-voltage assemblies",
+          "summary": "Hirose has announced commercial availability of the ZE150HV series wire-to-board connector for EV and HEV powertrains, with 4.5 mm pitch, 1000V AC/DC support, 10A per pin and opera...",
+          "link": "https://www.designworldonline.com/4-5-mm-pitch-helps-shrink-high-voltage-assemblies/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "The Wildest Camera Robot",
-          "summary": "It can do flips, etc...",
-          "link": "https://www.youtube.com/shorts/v-_d2e7x4KA",
-          "source": "MKBHD",
-          "thumbnail": "https://i3.ytimg.com/vi/v-_d2e7x4KA/hqdefault.jpg"
-        },
-        {
-          "title": "The Billion Dollar AI Gap Is Collapsing",
-          "summary": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The paper and Qwen3.8-Flash-Next are available here:\nhttps://github.com/QwenLM/Qwen3.8-Fl...",
-          "link": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg"
         }
       ]
     }
