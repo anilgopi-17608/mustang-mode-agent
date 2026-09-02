@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, September 01, 2026 at 12:10 PM IST",
-  "last_updated_iso": "2026-09-01T12:10:00.744583",
+  "last_updated": "Wednesday, September 02, 2026 at 11:46 AM IST",
+  "last_updated_iso": "2026-09-02T11:46:36.193306",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24127.85,
-        "change": 47.44999999999709,
-        "change_pct": 0.1970482217903236,
-        "is_up": true
+        "price": 23809.2,
+        "change": -246.59999999999854,
+        "change_pct": -1.0251166038959358,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 77170.4,
-        "change": 213.1299999999901,
-        "change_pct": 0.27694589478029835,
-        "is_up": true
+        "price": 76268.26,
+        "change": -676.0200000000041,
+        "change_pct": -0.8785838271538886,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57645.05,
-        "change": -379.8999999999942,
-        "change_pct": -0.6547183582234783,
+        "price": 56961.7,
+        "change": -447.90000000000146,
+        "change_pct": -0.7801831052646273,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1867.8,
-        "change": 55.899999999999864,
-        "change_pct": 3.085159225122792,
+        "name": "Sun Pharma",
+        "price": 1931.7,
+        "change": 2.7000000000000455,
+        "change_pct": 0.1399688958009355,
         "is_up": true
       },
       {
         "name": "Reliance",
-        "price": 1307.0,
-        "change": 30.0,
-        "change_pct": 2.3492560689115116,
-        "is_up": true
+        "price": 1303.6,
+        "change": -5.400000000000091,
+        "change_pct": -0.41252864782277243,
+        "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 1148.0,
-        "change": 14.200000000000045,
-        "change_pct": 1.2524254718645305,
-        "is_up": true
+        "name": "L&T",
+        "price": 3961.8,
+        "change": -18.299999999999727,
+        "change_pct": -0.45978744252656284,
+        "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "Sun Pharma",
-        "price": 1938.9,
-        "change": -45.899999999999864,
-        "change_pct": -2.3125755743651686,
+        "name": "Maruti",
+        "price": 12654.0,
+        "change": -296.0,
+        "change_pct": -2.2857142857142856,
         "is_up": false
       },
       {
         "name": "Wipro",
-        "price": 181.5,
-        "change": -3.0,
-        "change_pct": -1.6260162601626018,
+        "price": 177.56,
+        "change": -4.139999999999986,
+        "change_pct": -2.2784810126582205,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2361.8,
-        "change": -37.5,
-        "change_pct": -1.5629558621264534,
+        "name": "Infosys",
+        "price": 1137.2,
+        "change": -18.799999999999955,
+        "change_pct": -1.6262975778546673,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.8775,
-        "change": -0.2745000000000033,
-        "change_pct": -0.2884857911552077,
-        "is_up": false
+        "price": 94.96,
+        "change": 0.01999999999999602,
+        "change_pct": 0.02106593638086794,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4477.7,
-        "change": -3.800000000000182,
-        "change_pct": -0.08479303804530139,
+        "price": 4365.8,
+        "change": -30.599999999999454,
+        "change_pct": -0.6960240196524305,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
-          "summary": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm....",
-          "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
+          "title": "Larry Page’s flying car company Pivotal loses its CEO",
+          "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors...",
+          "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
           "source": "TechCrunch"
         },
         {
-          "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-          "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months....",
-          "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+          "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+          "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore....",
+          "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
           "source": "TechCrunch"
         },
         {
-          "title": "The Google TV Streamer now costs $50 more",
+          "title": "This new Roomba seals itself to your carpet",
           "summary": "",
-          "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+          "link": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
           "source": "The Verge"
         },
         {
-          "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
+          "title": "Google needs Hollywood more than the studios need AI",
           "summary": "",
-          "link": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
+          "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
           "source": "The Verge"
         },
         {
-          "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
-          "summary": "It's the lightest Bentley in 85 years....",
-          "link": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
+          "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
+          "summary": "333 miles of real-world range with uncompromised comfort and off-road ability....",
+          "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Alpha Wealth Summit 2.0: How AI is reshaping portfolio management and the role of human judgement",
-          "summary": "Alpha Wealth Summit 2.0 brings together leading investment voices to explore a fundamental question for modern portfolio management: where can AI create a genuine investment advant...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/alpha-wealth-summit-2-0-how-ai-is-reshaping-portfolio-management-and-the-role-of-human-judgement/articleshow/133669730.cms",
+          "title": "Swiggy shares drop 4%, market value down Rs 5,000 crore in 2 days. Here’s why",
+          "summary": "Swiggy shares fell sharply on Wednesday, extending their two-session decline to 6% and erasing nearly Rs 5,000 crore in market value. The stock faces potential foreign outflows aft...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-drop-4-market-value-down-rs-5000-crore-in-2-days-heres-why/articleshow/133700114.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Titan Company, Sky Gold, other shares fall up to 6% on PM Modi’s second appeal to avoid gold",
-          "summary": "Jewellery stocks fell after Prime Minister Narendra Modi urged citizens to avoid non-essential gold purchases. The appeal, aimed at conserving foreign exchange, follows a similar c...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/titan-company-sky-gold-other-shares-fall-up-to-6-on-pm-modis-second-appeal-to-avoid-gold/articleshow/133670706.cms",
+          "title": "Hero MotoCorp shares fall over 4% as August exports, motorcycle dispatches decline",
+          "summary": "Hero MotoCorp shares fell after August dispatch data showed year-on-year declines in motorcycle and export volumes, despite strong scooter sales keeping overall dispatches positive...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hero-motocorp-shares-fall-over-4-as-august-exports-motorcycle-dispatches-decline/articleshow/133700041.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "NSE SME Madhur Knit Crafts starts on a frayed note",
-          "summary": "Madhur Knit Crafts traded at Rs 95 on the NSE, a 5% discount to the issue price of Rs 100....",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nse-sme-madhur-knit-crafts-starts-on-a-frayed-note-126090100380_1.html",
+          "title": "NSE SME Sumax Engineering makes a polished debut but struggles to accelerate",
+          "summary": "Sumax Engineering traded at Rs 111.10 on the NSE, representing a 10% premium over its issue price of Rs 101....",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nse-sme-sumax-engineering-makes-a-polished-debut-but-struggles-to-accelerate-126090200383_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Vesalio’s NATURE trial of enVast achieves primary endpoint",
-          "summary": "Vesalio has reported that the NATURE randomised controlled trial of its enVast Coronary Clot Retriever met the primary endpoint. The post Vesalio’s NATURE trial of enVast achieves ...",
-          "link": "https://www.medicaldevice-network.com/news/vesalios-nature-trial-achieves-primary-endpoint/",
+          "title": "ESC 2026: Abbott presents positive longer-term dual ablation catheter data",
+          "summary": "Abbott’s TactiFlex Duo provides pulsed-field ablation and radiofrequency to offer greater flexibility in treating atrial fibrillation. The post ESC 2026: Abbott presents positive l...",
+          "link": "https://www.medicaldevice-network.com/news/esc-2026-abbott-presents-positive-longer-term-dual-ablation-catheter-data/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
+          "title": "EquityList launches AI-native cap table and compliance OS",
+          "summary": "EquityList launches AI-native cap table and compliance platform The company, which manages more than $20 billion in securities across 650+ companies and 80,000+ stakeholders, has i...",
+          "link": "https://yourstory.com/2026/08/equitylist-launches-ai-native-cap-table-and-compliance-platform",
+          "source": "YourStory"
+        },
+        {
           "title": "How new broadcast technology is changing the way fans watch cricket",
           "summary": "The India-Afghanistan cricket series will bring together immersive camera angles, AI-led graphics, and a fan-powered sight screen to create new ways for audiences and brands to eng...",
           "link": "https://yourstory.com/2026/08/how-new-broadcast-technology-is-changing-the-way-fans-watch-cricket",
           "source": "YourStory"
         },
         {
-          "title": "As Tim Cook steps down, India stands at the heart of Apple’s next chapter",
-          "summary": "Tim Cook, once Steve Jobs’ operations man who made Apple’s ‘trains run on time’, turned India from a market of promise into a key centre for sales and production. His successor mus...",
-          "link": "https://yourstory.com/2026/08/tim-cook-steps-down-india-heart-of-apples-next-chapter",
-          "source": "YourStory"
-        },
-        {
-          "title": "UPI Transactions Rise 4% MoM To Record 24.51 Bn In August",
-          "summary": "UPI transactions touched a fresh all-time high in August, with transaction volume rising nearly 4% MoM to 24.51 Bn from&#8230;...",
-          "link": "https://inc42.com/buzz/upi-transactions-rise-4-mom-to-record-24-51-bn-in-august/",
+          "title": "The Ad Break Comes To AI",
+          "summary": "If you asked ChatGPT for a new phone, a family car or the best way to plan a holiday, you&#8230;...",
+          "link": "https://inc42.com/features/the-ad-break-comes-to-ai/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Proximity sensor integrates VCSEL, photodiode and 16-bit ADC",
-          "summary": "Vishay Intertechnology, Inc. has introduced the Vishay Semiconductors VCNL36829UM, a fully integrated short-distance proximity sensor in a 1.6 mm x 1.0 mm x 0.35 mm transparent mol...",
-          "link": "https://www.designworldonline.com/proximity-sensor-integrates-vcsel-photodiode-and-16-bit-adc/",
+          "title": "North American companies race with China in automation spending",
+          "summary": "North American manufacturers show definite intent to keep pace with global automation investment. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn mo...",
+          "link": "https://www.designworldonline.com/north-american-companies-race-with-china-in-automation-spending/",
           "source": "Design World"
         },
         {
-          "title": "4.5 mm pitch helps shrink high-voltage assemblies",
-          "summary": "Hirose has announced commercial availability of the ZE150HV series wire-to-board connector for EV and HEV powertrains, with 4.5 mm pitch, 1000V AC/DC support, 10A per pin and opera...",
-          "link": "https://www.designworldonline.com/4-5-mm-pitch-helps-shrink-high-voltage-assemblies/",
+          "title": "Packaging Without Pneumatics: A Smarter Approach to Flexible Automation",
+          "summary": "The Shift Away from Pneumatic Packaging Systems By SEW-EURODRIVE In packaging automation, speed and output often get the spotlight. But behind every high-performing machine is anot...",
+          "link": "https://www.designworldonline.com/packaging-without-pneumatics-a-smarter-approach-to-flexible-automation/",
           "source": "Design World"
         }
       ]
