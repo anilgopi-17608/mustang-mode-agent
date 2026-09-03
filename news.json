@@ -1,92 +1,92 @@
 {
-  "last_updated": "Wednesday, September 02, 2026 at 11:46 AM IST",
-  "last_updated_iso": "2026-09-02T11:46:36.193306",
+  "last_updated": "Thursday, September 03, 2026 at 11:49 AM IST",
+  "last_updated_iso": "2026-09-03T11:49:36.749432",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23809.2,
-        "change": -246.59999999999854,
-        "change_pct": -1.0251166038959358,
-        "is_up": false
+        "price": 23969.9,
+        "change": 55.45000000000073,
+        "change_pct": 0.23186818011704524,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 76268.26,
-        "change": -676.0200000000041,
-        "change_pct": -0.8785838271538886,
-        "is_up": false
+        "price": 76761.7,
+        "change": 191.34999999999127,
+        "change_pct": 0.24990090811912347,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 56961.7,
-        "change": -447.90000000000146,
-        "change_pct": -0.7801831052646273,
-        "is_up": false
+        "price": 57634.5,
+        "change": 462.5,
+        "change_pct": 0.8089624291611278,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Sun Pharma",
-        "price": 1931.7,
-        "change": 2.7000000000000455,
-        "change_pct": 0.1399688958009355,
+        "name": "HDFC Bank",
+        "price": 709.3,
+        "change": 8.5,
+        "change_pct": 1.2128995433789955,
         "is_up": true
       },
       {
-        "name": "Reliance",
-        "price": 1303.6,
-        "change": -5.400000000000091,
-        "change_pct": -0.41252864782277243,
-        "is_up": false
+        "name": "ICICI Bank",
+        "price": 1443.2,
+        "change": 16.700000000000045,
+        "change_pct": 1.1706975113915208,
+        "is_up": true
       },
       {
         "name": "L&T",
-        "price": 3961.8,
-        "change": -18.299999999999727,
-        "change_pct": -0.45978744252656284,
-        "is_up": false
+        "price": 4008.3,
+        "change": 27.300000000000182,
+        "change_pct": 0.6857573474001553,
+        "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 12654.0,
-        "change": -296.0,
-        "change_pct": -2.2857142857142856,
-        "is_up": false
-      },
-      {
-        "name": "Wipro",
-        "price": 177.56,
-        "change": -4.139999999999986,
-        "change_pct": -2.2784810126582205,
-        "is_up": false
-      },
-      {
         "name": "Infosys",
-        "price": 1137.2,
-        "change": -18.799999999999955,
-        "change_pct": -1.6262975778546673,
+        "price": 1131.1,
+        "change": -8.900000000000091,
+        "change_pct": -0.7807017543859729,
+        "is_up": false
+      },
+      {
+        "name": "Sun Pharma",
+        "price": 1918.4,
+        "change": -13.299999999999955,
+        "change_pct": -0.6885127090127843,
+        "is_up": false
+      },
+      {
+        "name": "TCS",
+        "price": 2341.3,
+        "change": -6.699999999999818,
+        "change_pct": -0.28534923339011153,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.96,
-        "change": 0.01999999999999602,
-        "change_pct": 0.02106593638086794,
-        "is_up": true
+        "price": 94.465,
+        "change": -0.49499999999999034,
+        "change_pct": -0.5212721145745476,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4365.8,
-        "change": -30.599999999999454,
-        "change_pct": -0.6960240196524305,
-        "is_up": false
+        "price": 4478.7,
+        "change": 64.09999999999945,
+        "change_pct": 1.4520001812168588,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Larry Page’s flying car company Pivotal loses its CEO",
-          "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors...",
-          "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+          "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale....",
+          "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
           "source": "TechCrunch"
         },
         {
-          "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
-          "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore....",
-          "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+          "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe....",
+          "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
           "source": "TechCrunch"
         },
         {
-          "title": "This new Roomba seals itself to your carpet",
+          "title": "Uber beats Waymo as first to launch robotaxis in London",
           "summary": "",
-          "link": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
+          "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
           "source": "The Verge"
         },
         {
-          "title": "Google needs Hollywood more than the studios need AI",
+          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
           "summary": "",
-          "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
           "source": "The Verge"
         },
         {
-          "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-          "summary": "333 miles of real-world range with uncompromised comfort and off-road ability....",
-          "link": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
+          "title": "Spending deal comes with a bonus: Blocking political control of grants",
+          "summary": "Congress pauses the OMB's attempt to rewrite how research is funded....",
+          "link": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Swiggy shares drop 4%, market value down Rs 5,000 crore in 2 days. Here’s why",
-          "summary": "Swiggy shares fell sharply on Wednesday, extending their two-session decline to 6% and erasing nearly Rs 5,000 crore in market value. The stock faces potential foreign outflows aft...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-drop-4-market-value-down-rs-5000-crore-in-2-days-heres-why/articleshow/133700114.cms",
+          "title": "Lumino Industries shares soar 40% from IPO price after strong market debut. Should you buy or wait?",
+          "summary": "Lumino Industries shares extended their strong debut gains, rising another 4% after listing at a 34% premium to the IPO price. While analysts see attractive valuations, strong prof...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lumino-industries-shares-soar-40-from-ipo-price-after-strong-market-debut-should-you-buy-or-wait/articleshow/133726784.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Hero MotoCorp shares fall over 4% as August exports, motorcycle dispatches decline",
-          "summary": "Hero MotoCorp shares fell after August dispatch data showed year-on-year declines in motorcycle and export volumes, despite strong scooter sales keeping overall dispatches positive...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hero-motocorp-shares-fall-over-4-as-august-exports-motorcycle-dispatches-decline/articleshow/133700041.cms",
+          "title": "Nominal GDP growth set to surge to 12%. Why the stock market may still struggle to rally",
+          "summary": "India’s nominal GDP growth could accelerate to 11.5%-12% in FY27, supporting stronger corporate earnings. However, elevated valuations, rising equity supply and potentially slower ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nominal-gdp-growth-set-to-surge-to-12-why-the-stock-market-may-still-struggle-to-rally/articleshow/133726572.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "NSE SME Sumax Engineering makes a polished debut but struggles to accelerate",
-          "summary": "Sumax Engineering traded at Rs 111.10 on the NSE, representing a 10% premium over its issue price of Rs 101....",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nse-sme-sumax-engineering-makes-a-polished-debut-but-struggles-to-accelerate-126090200383_1.html",
+          "title": "Bank of Baroda intimates of strike notice from United Forum of Bank Unions",
+          "summary": "",
+          "link": "https://www.business-standard.com/markets/capital-market-news/bank-of-baroda-intimates-of-strike-notice-from-united-forum-of-bank-unions-126090300384_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "ESC 2026: Abbott presents positive longer-term dual ablation catheter data",
-          "summary": "Abbott’s TactiFlex Duo provides pulsed-field ablation and radiofrequency to offer greater flexibility in treating atrial fibrillation. The post ESC 2026: Abbott presents positive l...",
-          "link": "https://www.medicaldevice-network.com/news/esc-2026-abbott-presents-positive-longer-term-dual-ablation-catheter-data/",
+          "title": "Flosonics awarded $70m BARDA contract for wearable’s advance into trauma care",
+          "summary": "Under the contract’s terms, Flosonics will develop FloPredict, an AI algorithm to support trauma care and mass casualty event response. The post Flosonics awarded $70m BARDA contra...",
+          "link": "https://www.medicaldevice-network.com/news/flosonics-awarded-70m-barda-contract-for-wearable-advance-into-trauma-care/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "EquityList launches AI-native cap table and compliance OS",
-          "summary": "EquityList launches AI-native cap table and compliance platform The company, which manages more than $20 billion in securities across 650+ companies and 80,000+ stakeholders, has i...",
-          "link": "https://yourstory.com/2026/08/equitylist-launches-ai-native-cap-table-and-compliance-platform",
+          "title": "How Cashfree Payments is helping India’s next wave of SMBs build and scale",
+          "summary": "As India’s SMB ecosystem grows, Cashfree Payments helps businesses build trust, boost conversions, reduce friction, and expand globally....",
+          "link": "https://yourstory.com/2026/09/cashfree-payments-helping-indias-next-wave-smbs-build-scale",
           "source": "YourStory"
         },
         {
-          "title": "How new broadcast technology is changing the way fans watch cricket",
-          "summary": "The India-Afghanistan cricket series will bring together immersive camera angles, AI-led graphics, and a fan-powered sight screen to create new ways for audiences and brands to eng...",
-          "link": "https://yourstory.com/2026/08/how-new-broadcast-technology-is-changing-the-way-fans-watch-cricket",
+          "title": "TechSparks 2026: Priyank Kharge, Krishna Byre Gowda, Sameer Nigam, Pramod Varma, and more to take the stage",
+          "summary": "Join India's leading policymakers, entrepreneurs, investors, and technology leaders as they unpack 'The New Tech Order' and what it means for India's next phase of innovation at Yo...",
+          "link": "https://yourstory.com/2026/09/techsparks-2026-priyank-kharge-krishna-byre-gowda-sameer-nigam-pramod-varma",
           "source": "YourStory"
         },
         {
-          "title": "The Ad Break Comes To AI",
-          "summary": "If you asked ChatGPT for a new phone, a family car or the best way to plan a holiday, you&#8230;...",
-          "link": "https://inc42.com/features/the-ad-break-comes-to-ai/",
+          "title": "Flipkart’s Microdrama Foray, Purple Style Labs’ IPO & More",
+          "summary": "Flipkart Enters The Microdrama Fray India’s microdrama war has a new challenger. Flipkart is diving into the entertainment industry with&#8230;...",
+          "link": "https://inc42.com/buzz/flipkarts-microdrama-foray-purple-style-labs-ipo-more/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "North American companies race with China in automation spending",
-          "summary": "North American manufacturers show definite intent to keep pace with global automation investment. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn mo...",
-          "link": "https://www.designworldonline.com/north-american-companies-race-with-china-in-automation-spending/",
+          "title": "mayr presents safety brakes and monitoring systems for wind turbines",
+          "summary": "Renewable energy systems must meet requirements for safe and efficient operation. Technical developments and standards such as DIN EN 81-44 create additional requirements for compo...",
+          "link": "https://www.designworldonline.com/mayr-presents-safety-brakes-and-monitoring-systems-for-wind-turbines/",
           "source": "Design World"
         },
         {
-          "title": "Packaging Without Pneumatics: A Smarter Approach to Flexible Automation",
-          "summary": "The Shift Away from Pneumatic Packaging Systems By SEW-EURODRIVE In packaging automation, speed and output often get the spotlight. But behind every high-performing machine is anot...",
-          "link": "https://www.designworldonline.com/packaging-without-pneumatics-a-smarter-approach-to-flexible-automation/",
+          "title": "North American companies race with China in automation spending",
+          "summary": "North American manufacturers show definite intent to keep pace with global automation investment. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn mo...",
+          "link": "https://www.designworldonline.com/north-american-companies-race-with-china-in-automation-spending/",
           "source": "Design World"
         }
       ]
