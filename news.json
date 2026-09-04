@@ -1,92 +1,92 @@
 {
-  "last_updated": "Thursday, September 03, 2026 at 11:49 AM IST",
-  "last_updated_iso": "2026-09-03T11:49:36.749432",
+  "last_updated": "Friday, September 04, 2026 at 11:53 AM IST",
+  "last_updated_iso": "2026-09-04T11:53:29.616281",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23969.9,
-        "change": 55.45000000000073,
-        "change_pct": 0.23186818011704524,
+        "price": 23984.15,
+        "change": 110.70000000000073,
+        "change_pct": 0.4636950252267717,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 76761.7,
-        "change": 191.34999999999127,
-        "change_pct": 0.24990090811912347,
+        "price": 76845.18,
+        "change": 692.3199999999924,
+        "change_pct": 0.909118843336931,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57634.5,
-        "change": 462.5,
-        "change_pct": 0.8089624291611278,
+        "price": 57592.7,
+        "change": 212.09999999999854,
+        "change_pct": 0.36963712474250626,
         "is_up": true
       }
     ],
     "gainers": [
       {
+        "name": "Reliance",
+        "price": 1328.0,
+        "change": 25.5,
+        "change_pct": 1.9577735124760076,
+        "is_up": true
+      },
+      {
+        "name": "Wipro",
+        "price": 177.98,
+        "change": 2.259999999999991,
+        "change_pct": 1.2861370361939397,
+        "is_up": true
+      },
+      {
         "name": "HDFC Bank",
-        "price": 709.3,
-        "change": 8.5,
-        "change_pct": 1.2128995433789955,
-        "is_up": true
-      },
-      {
-        "name": "ICICI Bank",
-        "price": 1443.2,
-        "change": 16.700000000000045,
-        "change_pct": 1.1706975113915208,
-        "is_up": true
-      },
-      {
-        "name": "L&T",
-        "price": 4008.3,
-        "change": 27.300000000000182,
-        "change_pct": 0.6857573474001553,
+        "price": 715.3,
+        "change": 8.649999999999977,
+        "change_pct": 1.2240854737139995,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1131.1,
-        "change": -8.900000000000091,
-        "change_pct": -0.7807017543859729,
-        "is_up": false
-      },
-      {
         "name": "Sun Pharma",
-        "price": 1918.4,
-        "change": -13.299999999999955,
-        "change_pct": -0.6885127090127843,
+        "price": 1904.1,
+        "change": -11.900000000000091,
+        "change_pct": -0.6210855949895664,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2341.3,
-        "change": -6.699999999999818,
-        "change_pct": -0.28534923339011153,
+        "name": "Maruti",
+        "price": 12791.0,
+        "change": -66.0,
+        "change_pct": -0.5133390371004122,
+        "is_up": false
+      },
+      {
+        "name": "Bharti Airtel",
+        "price": 1865.6,
+        "change": -3.400000000000091,
+        "change_pct": -0.1819154628143441,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.465,
-        "change": -0.49499999999999034,
-        "change_pct": -0.5212721145745476,
-        "is_up": false
+        "price": 94.485,
+        "change": 0.010000000000005116,
+        "change_pct": 0.010584810796512429,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4478.7,
-        "change": 64.09999999999945,
-        "change_pct": 1.4520001812168588,
-        "is_up": true
+        "price": 4513.7,
+        "change": -26.199999999999818,
+        "change_pct": -0.5771052225819913,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-          "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale....",
-          "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+          "title": "The sameness problem behind those unappetizing AI-generated menus",
+          "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food....",
+          "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
           "source": "TechCrunch"
         },
         {
-          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-          "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe....",
-          "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+          "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+          "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street....",
+          "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
           "source": "TechCrunch"
         },
         {
-          "title": "Uber beats Waymo as first to launch robotaxis in London",
+          "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
           "summary": "",
-          "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+          "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
           "source": "The Verge"
         },
         {
-          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+          "title": "The unusually muted Tesla Cybercab launch",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+          "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
           "source": "The Verge"
         },
         {
-          "title": "Spending deal comes with a bonus: Blocking political control of grants",
-          "summary": "Congress pauses the OMB's attempt to rewrite how research is funded....",
-          "link": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
+          "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+          "summary": "CDC staff had already accepted the measles death reports when RFK Jr. meddled....",
+          "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Lumino Industries shares soar 40% from IPO price after strong market debut. Should you buy or wait?",
-          "summary": "Lumino Industries shares extended their strong debut gains, rising another 4% after listing at a 34% premium to the IPO price. While analysts see attractive valuations, strong prof...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/lumino-industries-shares-soar-40-from-ipo-price-after-strong-market-debut-should-you-buy-or-wait/articleshow/133726784.cms",
+          "title": "India bonds pause before weekly debt supply",
+          "summary": "Indian government bond yields remained steady on Friday morning, with traders eyeing an impending debt sale that could reveal market demand. The recent stabilization of oil prices ...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-pause-before-weekly-debt-supply/articleshow/133753419.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Nominal GDP growth set to surge to 12%. Why the stock market may still struggle to rally",
-          "summary": "India’s nominal GDP growth could accelerate to 11.5%-12% in FY27, supporting stronger corporate earnings. However, elevated valuations, rising equity supply and potentially slower ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nominal-gdp-growth-set-to-surge-to-12-why-the-stock-market-may-still-struggle-to-rally/articleshow/133726572.cms",
+          "title": "Global Market: JGB yields extend fall as stronger yen, hawkish BOJ outlook lift sentiment",
+          "summary": "Japanese government bond yields extended their decline on Friday as a stronger yen and expectations of a hawkish Bank of Japan stance lifted sentiment. The benchmark 10-year JGB yi...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-jgb-yields-extend-fall-as-stronger-yen-hawkish-boj-outlook-lift-sentiment/articleshow/133753277.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Bank of Baroda intimates of strike notice from United Forum of Bank Unions",
-          "summary": "",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bank-of-baroda-intimates-of-strike-notice-from-united-forum-of-bank-unions-126090300384_1.html",
+          "title": "IMD highlights continued strengthening of El Nino conditions throughout remaining Southwest Monsoon season",
+          "summary": "Powered by Capital Market - Live News...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/imd-highlights-continued-strengthening-of-el-nino-conditions-throughout-remaining-southwest-monsoon-season-126090400399_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -165,21 +165,21 @@
       "color": "#16a34a",
       "items": [
         {
-          "title": "How to Secure a Medical Device You Can’t Patch",
-          "summary": "By Joseph M. Saunders, Founder and CEO, RunSafe Security A medical device cleared today may stay in clinical service for 15 years or more, but the software inside it does not alway...",
-          "link": "https://www.medicaldesignandoutsourcing.com/how-to-secure-a-medical-device-you-cant-patch/",
+          "title": "How Vitestro’s first-of-its-kind Aletta robot autonomously draws blood",
+          "summary": "Vitestro’s first-of-its-kind Aletta robotic phlebotomy device draws blood autonomously from “placing the tourniquet to applying the bandage,” in the company&#8217;s words. FDA gran...",
+          "link": "https://www.medicaldesignandoutsourcing.com/vitestro-aletta-autonomous-robotic-phlebotomy-blood-draws/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Quasar Medical buys Medres Nitinol Design and Development Center",
-          "summary": "Quasar Medical said it has purchased the Medres Nitinol Design and Development Center near San Diego, California. Medres established the 10,000-square-foot Carlsbad site in 2024 an...",
-          "link": "https://www.medicaldesignandoutsourcing.com/quasar-medical-buys-medres-nitinol-design-and-development-center/",
+          "title": "Medical device CDMO Lighteum Medical hires new CEO",
+          "summary": "Nitinol supplier Lighteum Medical has hired Gaurav Agarwal as CEO effective Aug. 31, 2026. “Gaurav is an accomplished medtech leader and proven growth-oriented operator with a trac...",
+          "link": "https://www.medicaldesignandoutsourcing.com/lighteum-hires-gaurav-agarwal-ceo/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Flosonics awarded $70m BARDA contract for wearable’s advance into trauma care",
-          "summary": "Under the contract’s terms, Flosonics will develop FloPredict, an AI algorithm to support trauma care and mass casualty event response. The post Flosonics awarded $70m BARDA contra...",
-          "link": "https://www.medicaldevice-network.com/news/flosonics-awarded-70m-barda-contract-for-wearable-advance-into-trauma-care/",
+          "title": "FDA clears Heartvue’s cardiac image evaluation software",
+          "summary": "Heartvue.Proton is designed to streamline cardiovascular MRI evaluation. The post FDA clears Heartvue’s cardiac image evaluation software appeared first on Medical Device Network ....",
+          "link": "https://www.medicaldevice-network.com/news/fda-clears-heartvue-cardiac-image-evaluation-software/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "How Cashfree Payments is helping India’s next wave of SMBs build and scale",
-          "summary": "As India’s SMB ecosystem grows, Cashfree Payments helps businesses build trust, boost conversions, reduce friction, and expand globally....",
-          "link": "https://yourstory.com/2026/09/cashfree-payments-helping-indias-next-wave-smbs-build-scale",
+          "title": "8 Taylor Jenkins Reid quotes to help men understand women",
+          "summary": "Explore 8 Taylor Jenkins Reid quotes that capture the complexities of womanhood, from love and ambition to identity, independence, & self-worth....",
+          "link": "https://yourstory.com/2026/09/taylor-jenkins-quotes",
           "source": "YourStory"
         },
         {
-          "title": "TechSparks 2026: Priyank Kharge, Krishna Byre Gowda, Sameer Nigam, Pramod Varma, and more to take the stage",
-          "summary": "Join India's leading policymakers, entrepreneurs, investors, and technology leaders as they unpack 'The New Tech Order' and what it means for India's next phase of innovation at Yo...",
-          "link": "https://yourstory.com/2026/09/techsparks-2026-priyank-kharge-krishna-byre-gowda-sameer-nigam-pramod-varma",
+          "title": "BITS Pilani-incubated Apollyon Dynamics sets new speed record in India with 498 km/h interceptor drone",
+          "summary": "Evolving from a Rs 2 lakh student grant to a defence-tech breakthrough, the startup’s electric interceptor drone Ahuti Mk II is South Asia’s fastest multirotor UAV....",
+          "link": "https://yourstory.com/2026/09/bits-pilani-incubated-apollyon-dynamics-sets-india-record-with-498-kmh-interceptor-drone",
           "source": "YourStory"
         },
         {
-          "title": "Flipkart’s Microdrama Foray, Purple Style Labs’ IPO & More",
-          "summary": "Flipkart Enters The Microdrama Fray India’s microdrama war has a new challenger. Flipkart is diving into the entertainment industry with&#8230;...",
-          "link": "https://inc42.com/buzz/flipkarts-microdrama-foray-purple-style-labs-ipo-more/",
+          "title": "ESDS Software Makes Stellar Debut, Lists At 76% Premium On NSE",
+          "summary": "Enterprise cloud and AI company ESDS Software Solution made a bumper stock market debut today, with its shares listing at&#8230;...",
+          "link": "https://inc42.com/buzz/esds-software-makes-stellar-debut-lists-at-76-premium-on-nse/",
           "source": "Inc42"
         }
       ]
