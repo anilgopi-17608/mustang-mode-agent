@@ -1,91 +1,91 @@
 {
-  "last_updated": "Friday, September 04, 2026 at 11:53 AM IST",
-  "last_updated_iso": "2026-09-04T11:53:29.616281",
+  "last_updated": "Saturday, September 05, 2026 at 11:41 AM IST",
+  "last_updated_iso": "2026-09-05T11:41:52.689979",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23984.15,
-        "change": 110.70000000000073,
-        "change_pct": 0.4636950252267717,
+        "price": 23897.7,
+        "change": 24.25,
+        "change_pct": 0.10157727517388564,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 76845.18,
-        "change": 692.3199999999924,
-        "change_pct": 0.909118843336931,
+        "price": 76515.43,
+        "change": 362.56999999999243,
+        "change_pct": 0.47610818556255463,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57592.7,
-        "change": 212.09999999999854,
-        "change_pct": 0.36963712474250626,
-        "is_up": true
+        "price": 57369.65,
+        "change": -10.94999999999709,
+        "change_pct": -0.01908310474271285,
+        "is_up": false
       }
     ],
     "gainers": [
       {
         "name": "Reliance",
-        "price": 1328.0,
-        "change": 25.5,
-        "change_pct": 1.9577735124760076,
-        "is_up": true
-      },
-      {
-        "name": "Wipro",
-        "price": 177.98,
-        "change": 2.259999999999991,
-        "change_pct": 1.2861370361939397,
+        "price": 1322.0,
+        "change": 19.5,
+        "change_pct": 1.4971209213051824,
         "is_up": true
       },
       {
         "name": "HDFC Bank",
-        "price": 715.3,
-        "change": 8.649999999999977,
-        "change_pct": 1.2240854737139995,
+        "price": 712.1,
+        "change": 5.4500000000000455,
+        "change_pct": 0.771244604825592,
+        "is_up": true
+      },
+      {
+        "name": "Wipro",
+        "price": 176.4,
+        "change": 0.6800000000000068,
+        "change_pct": 0.3869792852265006,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Sun Pharma",
-        "price": 1904.1,
-        "change": -11.900000000000091,
-        "change_pct": -0.6210855949895664,
+        "name": "Bharti Airtel",
+        "price": 1840.0,
+        "change": -29.0,
+        "change_pct": -1.5516318887105405,
         "is_up": false
       },
       {
         "name": "Maruti",
-        "price": 12791.0,
-        "change": -66.0,
-        "change_pct": -0.5133390371004122,
+        "price": 12694.0,
+        "change": -163.0,
+        "change_pct": -1.2677918643540484,
         "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1865.6,
-        "change": -3.400000000000091,
-        "change_pct": -0.1819154628143441,
+        "name": "Sun Pharma",
+        "price": 1899.0,
+        "change": -17.0,
+        "change_pct": -0.8872651356993737,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.485,
-        "change": 0.010000000000005116,
-        "change_pct": 0.010584810796512429,
+        "price": 94.49,
+        "change": 0.015000000000000568,
+        "change_pct": 0.015877216194761123,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4513.7,
-        "change": -26.199999999999818,
-        "change_pct": -0.5771052225819913,
+        "price": 4476.6,
+        "change": -63.29999999999927,
+        "change_pct": -1.3943038392915985,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "The sameness problem behind those unappetizing AI-generated menus",
-          "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food....",
-          "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+          "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+          "summary": "The round is being raised just months after the robot data startup exited from stealth....",
+          "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
           "source": "TechCrunch"
         },
         {
-          "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-          "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street....",
-          "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+          "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+          "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their ow...",
+          "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
           "source": "TechCrunch"
         },
         {
-          "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+          "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
           "summary": "",
-          "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+          "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
           "source": "The Verge"
         },
         {
-          "title": "The unusually muted Tesla Cybercab launch",
+          "title": "The White House is making arcade games racist",
           "summary": "",
-          "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+          "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
           "source": "The Verge"
         },
         {
-          "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
-          "summary": "CDC staff had already accepted the measles death reports when RFK Jr. meddled....",
-          "link": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+          "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+          "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"...",
+          "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "India bonds pause before weekly debt supply",
-          "summary": "Indian government bond yields remained steady on Friday morning, with traders eyeing an impending debt sale that could reveal market demand. The recent stabilization of oil prices ...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-pause-before-weekly-debt-supply/articleshow/133753419.cms",
+          "title": "Concurrent Gainers: 9 smallcap stocks that gained for 5 days in a row",
+          "summary": "Ten BSE SmallCap stocks gained across all five sessions through September 4, outperforming a falling Sensex. The strongest performers delivered cumulative gains of up to 57%, highl...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-smallcap-stocks-that-gained-for-5-days-in-a-row/slideshow/133790365.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: JGB yields extend fall as stronger yen, hawkish BOJ outlook lift sentiment",
-          "summary": "Japanese government bond yields extended their decline on Friday as a stronger yen and expectations of a hawkish Bank of Japan stance lifted sentiment. The benchmark 10-year JGB yi...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-jgb-yields-extend-fall-as-stronger-yen-hawkish-boj-outlook-lift-sentiment/articleshow/133753277.cms",
+          "title": "Nifty’s 21-day calm before the storm? History warns of a sharp move ahead",
+          "summary": "Nifty 50’s August 2026 stability historically signals significant volatility ahead. With future direction unclear, analysts advise shifting investment strategies toward earnings-le...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/niftys-21-day-calm-before-the-storm-history-warns-of-a-sharp-move-ahead/articleshow/133789812.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "IMD highlights continued strengthening of El Nino conditions throughout remaining Southwest Monsoon season",
-          "summary": "Powered by Capital Market - Live News...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/imd-highlights-continued-strengthening-of-el-nino-conditions-throughout-remaining-southwest-monsoon-season-126090400399_1.html",
+          "title": "Tata Motors arm launches tender offer to acquire Iveco Group.",
+          "summary": "Tata Motors has announced that its subsidiary, TML CV Holdings B.V., has launched a tender offer to acquire Italian commercial vehicle manufacturer, Iveco Group at EUR 14.1 per com...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/tata-motors-arm-launches-tender-offer-to-acquire-iveco-group-126090500261_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA clears Heartvue’s cardiac image evaluation software",
-          "summary": "Heartvue.Proton is designed to streamline cardiovascular MRI evaluation. The post FDA clears Heartvue’s cardiac image evaluation software appeared first on Medical Device Network ....",
-          "link": "https://www.medicaldevice-network.com/news/fda-clears-heartvue-cardiac-image-evaluation-software/",
+          "title": "Boston Scientific’s SCS leads linked to 1,081 serious injuries in FDA alert",
+          "summary": "Boston’s recall comes at a time where several players in the medtech industry are facing personal injury lawsuits over SCS system malfunctions. The post Boston Scientific’s SCS lea...",
+          "link": "https://www.medicaldevice-network.com/news/boston-scientific-scs-leads-linked-to-1000-serious-injuries-in-fda-alert/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,9 +188,9 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "8 Taylor Jenkins Reid quotes to help men understand women",
-          "summary": "Explore 8 Taylor Jenkins Reid quotes that capture the complexities of womanhood, from love and ambition to identity, independence, & self-worth....",
-          "link": "https://yourstory.com/2026/09/taylor-jenkins-quotes",
+          "title": "Google Cloud Startup Summit to explore how agentic AI can reshape startup growth",
+          "summary": "At Google Cloud Startup Summit 2026, founders will explore how agentic AI can help startups move beyond AI wrappers, reduce operational friction, and build more capital-efficient b...",
+          "link": "https://yourstory.com/2026/09/google-cloud-startup-summit-to-explore-how-agentic-ai-can-reshape-startup-growth",
           "source": "YourStory"
         },
         {
@@ -200,9 +200,9 @@
           "source": "YourStory"
         },
         {
-          "title": "ESDS Software Makes Stellar Debut, Lists At 76% Premium On NSE",
-          "summary": "Enterprise cloud and AI company ESDS Software Solution made a bumper stock market debut today, with its shares listing at&#8230;...",
-          "link": "https://inc42.com/buzz/esds-software-makes-stellar-debut-lists-at-76-premium-on-nse/",
+          "title": "From Ultrahuman To Comet — Indian Startups Raised Over $177 Mn This Week",
+          "summary": "India’s startup funding market opened September on a softer note, extending its decline for a second straight week. Between August&#8230;...",
+          "link": "https://inc42.com/buzz/from-ultrahuman-to-comet-indian-startups-raised-over-177-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +211,28 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "mayr presents safety brakes and monitoring systems for wind turbines",
-          "summary": "Renewable energy systems must meet requirements for safe and efficient operation. Technical developments and standards such as DIN EN 81-44 create additional requirements for compo...",
-          "link": "https://www.designworldonline.com/mayr-presents-safety-brakes-and-monitoring-systems-for-wind-turbines/",
+          "title": "Selecting UHV-compatible encoders for demanding semiconductor and scientific applications",
+          "summary": "Many high-end semiconductor manufacturing processes require the processing environment to be completely free of any contaminants that cause imperfections within the semiconductor w...",
+          "link": "https://www.designworldonline.com/selecting-uhv-compatible-encoders-for-demanding-semiconductor-and-scientific-applications/",
           "source": "Design World"
         },
         {
-          "title": "North American companies race with China in automation spending",
-          "summary": "North American manufacturers show definite intent to keep pace with global automation investment. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn mo...",
-          "link": "https://www.designworldonline.com/north-american-companies-race-with-china-in-automation-spending/",
+          "title": "What Makes PCB Design Software User-Friendly?",
+          "summary": "By Alexsander Tamari, Technical Marketing Engineer, Altium A clean interface is only part of the picture. The rest, whether libraries are reliable, whether the software catches rul...",
+          "link": "https://www.designworldonline.com/what-makes-pcb-design-software-user-friendly/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Claude Fable 5.1 paper is available here:\nhttps://www.anthropic.com/claude-fable-and-mytho...",
+          "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i3.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg"
         }
       ]
     }
