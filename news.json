@@ -1,20 +1,20 @@
 {
-  "last_updated": "Saturday, September 05, 2026 at 11:41 AM IST",
-  "last_updated_iso": "2026-09-05T11:41:52.689979",
+  "last_updated": "Sunday, September 06, 2026 at 11:54 AM IST",
+  "last_updated_iso": "2026-09-06T11:54:14.053393",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
         "price": 23897.7,
-        "change": 24.25,
-        "change_pct": 0.10157727517388564,
+        "change": 24.299999999999272,
+        "change_pct": 0.1017869260348307,
         "is_up": true
       },
       {
         "name": "Sensex",
         "price": 76515.43,
-        "change": 362.56999999999243,
-        "change_pct": 0.47610818556255463,
+        "change": 362.52999999999884,
+        "change_pct": 0.47605540957730946,
         "is_up": true
       },
       {
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-          "summary": "The round is being raised just months after the robot data startup exited from stealth....",
-          "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI....",
+          "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-          "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their ow...",
-          "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"...",
+          "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
           "source": "TechCrunch"
         },
         {
-          "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+          "title": "Explore the globe in field recordings",
           "summary": "",
-          "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+          "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
           "source": "The Verge"
         },
         {
-          "title": "The White House is making arcade games racist",
+          "title": "iPhone Handoff will seamlessly share one number between two phones",
           "summary": "",
-          "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+          "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
           "source": "The Verge"
         },
         {
-          "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-          "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"...",
-          "link": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+          "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+          "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards....",
+          "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Concurrent Gainers: 9 smallcap stocks that gained for 5 days in a row",
-          "summary": "Ten BSE SmallCap stocks gained across all five sessions through September 4, outperforming a falling Sensex. The strongest performers delivered cumulative gains of up to 57%, highl...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-smallcap-stocks-that-gained-for-5-days-in-a-row/slideshow/133790365.cms",
+          "title": "Largecaps look better as smallcaps price in strong growth: Franklin Templeton’s Arihant Jain",
+          "summary": "Largecap stocks offer a better risk-reward balance than mid- and small-caps as higher growth expectations are already priced into smaller companies, according to Arihant Jain of Fr...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/largecaps-look-better-as-smallcaps-price-in-strong-growth-franklin-templetons-arihant-jain/articleshow/133827224.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Nifty’s 21-day calm before the storm? History warns of a sharp move ahead",
-          "summary": "Nifty 50’s August 2026 stability historically signals significant volatility ahead. With future direction unclear, analysts advise shifting investment strategies toward earnings-le...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/niftys-21-day-calm-before-the-storm-history-warns-of-a-sharp-move-ahead/articleshow/133789812.cms",
+          "title": "Crude oil rally nears $100: Will geopolitical risks push prices higher?",
+          "summary": "Crude oil prices are nearing $100 per barrel, driven by escalating geopolitical tensions between the US and Iran. While physical supply remains intact, fears of disruptions in the ...",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-rally-nears-100-will-geopolitical-risks-push-prices-higher/articleshow/133826020.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Tata Motors arm launches tender offer to acquire Iveco Group.",
-          "summary": "Tata Motors has announced that its subsidiary, TML CV Holdings B.V., has launched a tender offer to acquire Italian commercial vehicle manufacturer, Iveco Group at EUR 14.1 per com...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/tata-motors-arm-launches-tender-offer-to-acquire-iveco-group-126090500261_1.html",
+          "title": "IPO action intensifies as 11 companies set to raise ₹7,055 cr next week",
+          "summary": "The primary market is poised for another action-packed week, with 11 main-board companies, including Rentomojo, Karamtara Engineering and Kanohar Electricals, set to raise Rs 7,055...",
+          "link": "https://www.business-standard.com/markets/ipo/ipo-action-intensifies-as-11-companies-set-to-raise-7-055-cr-next-week-126090600125_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Google Cloud Startup Summit to explore how agentic AI can reshape startup growth",
-          "summary": "At Google Cloud Startup Summit 2026, founders will explore how agentic AI can help startups move beyond AI wrappers, reduce operational friction, and build more capital-efficient b...",
-          "link": "https://yourstory.com/2026/09/google-cloud-startup-summit-to-explore-how-agentic-ai-can-reshape-startup-growth",
+          "title": "NCLT stays disposal of Byju's K3-linked assets auctioned for Rs 16 Cr",
+          "summary": "The Bengaluru-based bench of the NCLT has put a hold on any further disposal of Byju's K3 Education's assets till the next hearing on September 21 amid allegations that assets wort...",
+          "link": "https://yourstory.com/2026/09/nclt-stays-disposal-of-byjus-k3-linked-assets-auctioned-for-rs-16-cr-flags-valuation-concern",
           "source": "YourStory"
         },
         {
-          "title": "BITS Pilani-incubated Apollyon Dynamics sets new speed record in India with 498 km/h interceptor drone",
-          "summary": "Evolving from a Rs 2 lakh student grant to a defence-tech breakthrough, the startup’s electric interceptor drone Ahuti Mk II is South Asia’s fastest multirotor UAV....",
-          "link": "https://yourstory.com/2026/09/bits-pilani-incubated-apollyon-dynamics-sets-india-record-with-498-kmh-interceptor-drone",
+          "title": "How India’s Rs 5 lakh crore alcohol industry works - 8X bigger than Bollywood and jewellery",
+          "summary": "This episode of Prime Venture Partners Podcast features Ankur Sachdeva, Co-founder & CEO of Uppal Brewers & Distillers who brought Glenfiddich and The Balvenie to India. This conve...",
+          "link": "https://yourstory.com/2026/09/india-rs-5-lakh-crore-alcohol-industry-8x-bigger-than-bollywood-jewellery",
           "source": "YourStory"
         },
         {
-          "title": "From Ultrahuman To Comet — Indian Startups Raised Over $177 Mn This Week",
-          "summary": "India’s startup funding market opened September on a softer note, extending its decline for a second straight week. Between August&#8230;...",
-          "link": "https://inc42.com/buzz/from-ultrahuman-to-comet-indian-startups-raised-over-177-mn-this-week/",
+          "title": "Flipkart’s Next Video Commerce Bet: Microdramas",
+          "summary": "What if the next thing you buy on Flipkart starts with a love story, a cliffhanger or a 90-second drama?&#8230;...",
+          "link": "https://inc42.com/features/flipkarts-next-video-commerce-bet-microdramas/",
           "source": "Inc42"
         }
       ]
@@ -221,18 +221,6 @@
           "summary": "By Alexsander Tamari, Technical Marketing Engineer, Altium A clean interface is only part of the picture. The rest, whether libraries are reliable, whether the software catches rul...",
           "link": "https://www.designworldonline.com/what-makes-pcb-design-software-user-friendly/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Claude Fable 5.1 paper is available here:\nhttps://www.anthropic.com/claude-fable-and-mytho...",
-          "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i3.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg"
         }
       ]
     }
