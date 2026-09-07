@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, September 06, 2026 at 11:54 AM IST",
-  "last_updated_iso": "2026-09-06T11:54:14.053393",
+  "last_updated": "Monday, September 07, 2026 at 12:02 PM IST",
+  "last_updated_iso": "2026-09-07T12:02:01.192705",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23897.7,
-        "change": 24.299999999999272,
-        "change_pct": 0.1017869260348307,
-        "is_up": true
+        "price": 23773.1,
+        "change": -124.60000000000218,
+        "change_pct": -0.5213890876527958,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 76515.43,
-        "change": 362.52999999999884,
-        "change_pct": 0.47605540957730946,
-        "is_up": true
+        "price": 76112.45,
+        "change": -402.9799999999959,
+        "change_pct": -0.5266650138409938,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57369.65,
-        "change": -10.94999999999709,
-        "change_pct": -0.01908310474271285,
+        "price": 57074.7,
+        "change": -294.95000000000437,
+        "change_pct": -0.5141220139917262,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Reliance",
-        "price": 1322.0,
-        "change": 19.5,
-        "change_pct": 1.4971209213051824,
+        "name": "Maruti",
+        "price": 12770.0,
+        "change": 76.0,
+        "change_pct": 0.598708051047739,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 712.1,
-        "change": 5.4500000000000455,
-        "change_pct": 0.771244604825592,
+        "name": "L&T",
+        "price": 3977.0,
+        "change": 12.900000000000091,
+        "change_pct": 0.32542065033677486,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 176.4,
-        "change": 0.6800000000000068,
-        "change_pct": 0.3869792852265006,
+        "name": "ICICI Bank",
+        "price": 1427.0,
+        "change": 3.7999999999999545,
+        "change_pct": 0.26700393479482537,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1840.0,
-        "change": -29.0,
-        "change_pct": -1.5516318887105405,
+        "name": "Infosys",
+        "price": 1090.9,
+        "change": -39.09999999999991,
+        "change_pct": -3.4601769911504343,
         "is_up": false
       },
       {
-        "name": "Maruti",
-        "price": 12694.0,
-        "change": -163.0,
-        "change_pct": -1.2677918643540484,
+        "name": "TCS",
+        "price": 2264.8,
+        "change": -39.19999999999982,
+        "change_pct": -1.701388888888881,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1899.0,
-        "change": -17.0,
-        "change_pct": -0.8872651356993737,
+        "name": "Wipro",
+        "price": 173.77,
+        "change": -2.6299999999999955,
+        "change_pct": -1.490929705215417,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.49,
-        "change": 0.015000000000000568,
-        "change_pct": 0.015877216194761123,
-        "is_up": true
+        "price": 94.445,
+        "change": -0.0350000000000108,
+        "change_pct": -0.03704487722270406,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
         "price": 4476.6,
-        "change": -63.29999999999927,
-        "change_pct": -1.3943038392915985,
-        "is_up": false
+        "change": 0.0,
+        "change_pct": 0.0,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-          "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI....",
-          "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+          "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+          "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store....",
+          "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
           "source": "TechCrunch"
         },
         {
-          "title": "Hikers rescued after using Google Gemini for planning",
-          "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"...",
-          "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments....",
+          "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
           "source": "TechCrunch"
         },
         {
-          "title": "Explore the globe in field recordings",
+          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
           "summary": "",
-          "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
           "source": "The Verge"
         },
         {
-          "title": "iPhone Handoff will seamlessly share one number between two phones",
+          "title": "An Amazon cargo plane crashed at Miami International Airport",
           "summary": "",
-          "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+          "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
           "source": "The Verge"
         },
         {
-          "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-          "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards....",
-          "link": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+          "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+          "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"...",
+          "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Largecaps look better as smallcaps price in strong growth: Franklin Templeton’s Arihant Jain",
-          "summary": "Largecap stocks offer a better risk-reward balance than mid- and small-caps as higher growth expectations are already priced into smaller companies, according to Arihant Jain of Fr...",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/largecaps-look-better-as-smallcaps-price-in-strong-growth-franklin-templetons-arihant-jain/articleshow/133827224.cms",
+          "title": "Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why",
+          "summary": "Indian IT stocks dropped on Monday as stronger-than-expected US jobs data revived concerns over a September Federal Reserve rate hike. The Nifty IT index dropped over 2%, with Info...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcltech-tcs-other-it-stocks-drop-up-to-3-as-fed-rate-hike-worries-return-heres-why/articleshow/133866433.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Crude oil rally nears $100: Will geopolitical risks push prices higher?",
-          "summary": "Crude oil prices are nearing $100 per barrel, driven by escalating geopolitical tensions between the US and Iran. While physical supply remains intact, fears of disruptions in the ...",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-rally-nears-100-will-geopolitical-risks-push-prices-higher/articleshow/133826020.cms",
+          "title": "Did HEG shares really crash 64% in one day? Here’s how the demerger math works",
+          "summary": "HEG shares opened nearly 64% lower on Monday as the stock adjusted for the company’s demerger, which split its businesses into two separately listed entities. The graphite electrod...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/did-heg-shares-really-crash-64-in-one-day-heres-how-the-demerger-math-works/articleshow/133866176.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "IPO action intensifies as 11 companies set to raise ₹7,055 cr next week",
-          "summary": "The primary market is poised for another action-packed week, with 11 main-board companies, including Rentomojo, Karamtara Engineering and Kanohar Electricals, set to raise Rs 7,055...",
-          "link": "https://www.business-standard.com/markets/ipo/ipo-action-intensifies-as-11-companies-set-to-raise-7-055-cr-next-week-126090600125_1.html",
+          "title": "Pranav Constructions IPO bags 'subscribe' tag from experts; here's why",
+          "summary": "Pranav Constructions IPO: Analysts have assigned a 'subscribe' tag to the offer based on its scalable business model, strong brand positioning, and high entry barriers in redevelop...",
+          "link": "https://www.business-standard.com/markets/ipo/pranav-constructions-ipo-bags-subscribe-tag-from-experts-here-s-why-126090700306_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "NCLT stays disposal of Byju's K3-linked assets auctioned for Rs 16 Cr",
-          "summary": "The Bengaluru-based bench of the NCLT has put a hold on any further disposal of Byju's K3 Education's assets till the next hearing on September 21 amid allegations that assets wort...",
-          "link": "https://yourstory.com/2026/09/nclt-stays-disposal-of-byjus-k3-linked-assets-auctioned-for-rs-16-cr-flags-valuation-concern",
-          "source": "YourStory"
-        },
-        {
           "title": "How India’s Rs 5 lakh crore alcohol industry works - 8X bigger than Bollywood and jewellery",
           "summary": "This episode of Prime Venture Partners Podcast features Ankur Sachdeva, Co-founder & CEO of Uppal Brewers & Distillers who brought Glenfiddich and The Balvenie to India. This conve...",
           "link": "https://yourstory.com/2026/09/india-rs-5-lakh-crore-alcohol-industry-8x-bigger-than-bollywood-jewellery",
           "source": "YourStory"
         },
         {
-          "title": "Flipkart’s Next Video Commerce Bet: Microdramas",
-          "summary": "What if the next thing you buy on Flipkart starts with a love story, a cliffhanger or a 90-second drama?&#8230;...",
-          "link": "https://inc42.com/features/flipkarts-next-video-commerce-bet-microdramas/",
+          "title": "One impulse, many manifestations: Indian Habitat Centre exhibition celebrates artistic creativity",
+          "summary": "In this photo essay, we showcase artistic highlights from the ‘One | Many’ exhibition in New Delhi....",
+          "link": "https://yourstory.com/2026/09/art-exhibition-creativity-india-habitat-centre-photography",
+          "source": "YourStory"
+        },
+        {
+          "title": "Nua Raises $50 Mn To Expand Women’s Wellness Portfolio, Distribution",
+          "summary": "Omnichannel femtech startup Nua has raised $50 Mn (around ₹472 Cr) in its Series C funding round led by Peak&#8230;...",
+          "link": "https://inc42.com/buzz/nua-raises-50-mn-to-expand-womens-wellness-portfolio-distribution/",
           "source": "Inc42"
         }
       ]
@@ -221,6 +221,25 @@
           "summary": "By Alexsander Tamari, Technical Marketing Engineer, Altium A clean interface is only part of the picture. The rest, whether libraries are reliable, whether the software catches rul...",
           "link": "https://www.designworldonline.com/what-makes-pcb-design-software-user-friendly/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "Google Pixel 11/Pro Review: Poker Face",
+          "summary": "Pixel 11 proves Google is going all in in one thing.\n\nEnter for free for a chance to win $100,000 or 1 of 3 cars at https://ridge.com/MKBHD \n\nMKBHD Merch: http://shop.MKBHD.com\n\nPl...",
+          "link": "https://www.youtube.com/watch?v=ANmTVYkEtLw",
+          "source": "MKBHD",
+          "thumbnail": "https://i2.ytimg.com/vi/ANmTVYkEtLw/hqdefault.jpg"
+        },
+        {
+          "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Claude Fable 5.1 paper is available here:\nhttps://www.anthropic.com/claude-fable-and-mytho...",
+          "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i3.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg"
         }
       ]
     }
