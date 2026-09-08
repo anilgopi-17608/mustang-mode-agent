@@ -1,92 +1,92 @@
 {
-  "last_updated": "Monday, September 07, 2026 at 12:02 PM IST",
-  "last_updated_iso": "2026-09-07T12:02:01.192705",
+  "last_updated": "Tuesday, September 08, 2026 at 11:54 AM IST",
+  "last_updated_iso": "2026-09-08T11:54:53.770380",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23773.1,
-        "change": -124.60000000000218,
-        "change_pct": -0.5213890876527958,
+        "price": 23665.3,
+        "change": -113.85000000000218,
+        "change_pct": -0.47878078064187396,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 76112.45,
-        "change": -402.9799999999959,
-        "change_pct": -0.5266650138409938,
+        "price": 75698.45,
+        "change": -434.3600000000006,
+        "change_pct": -0.5705293158100964,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 57074.7,
-        "change": -294.95000000000437,
-        "change_pct": -0.5141220139917262,
+        "price": 56890.0,
+        "change": -198.3000000000029,
+        "change_pct": -0.34735663875085243,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Maruti",
-        "price": 12770.0,
-        "change": 76.0,
-        "change_pct": 0.598708051047739,
+        "name": "TCS",
+        "price": 2270.0,
+        "change": 0.0,
+        "change_pct": 0.0,
         "is_up": true
       },
       {
-        "name": "L&T",
-        "price": 3977.0,
-        "change": 12.900000000000091,
-        "change_pct": 0.32542065033677486,
-        "is_up": true
+        "name": "Sun Pharma",
+        "price": 1889.9,
+        "change": -5.099999999999909,
+        "change_pct": -0.2691292875989398,
+        "is_up": false
       },
       {
-        "name": "ICICI Bank",
-        "price": 1427.0,
-        "change": 3.7999999999999545,
-        "change_pct": 0.26700393479482537,
-        "is_up": true
+        "name": "Infosys",
+        "price": 1083.9,
+        "change": -3.599999999999909,
+        "change_pct": -0.3310344827586123,
+        "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1090.9,
-        "change": -39.09999999999991,
-        "change_pct": -3.4601769911504343,
+        "name": "ICICI Bank",
+        "price": 1404.1,
+        "change": -23.40000000000009,
+        "change_pct": -1.6392294220665564,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2264.8,
-        "change": -39.19999999999982,
-        "change_pct": -1.701388888888881,
+        "name": "Reliance",
+        "price": 1291.6,
+        "change": -17.90000000000009,
+        "change_pct": -1.3669339442535389,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 173.77,
-        "change": -2.6299999999999955,
-        "change_pct": -1.490929705215417,
+        "name": "Maruti",
+        "price": 12642.0,
+        "change": -118.0,
+        "change_pct": -0.9247648902821317,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.445,
-        "change": -0.0350000000000108,
-        "change_pct": -0.03704487722270406,
-        "is_up": false
+        "price": 94.72,
+        "change": 0.24500000000000455,
+        "change_pct": 0.25932786451442663,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4476.6,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "is_up": true
+        "price": 4456.2,
+        "change": -20.400000000000546,
+        "change_pct": -0.455702988875498,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-          "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store....",
-          "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+          "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+          "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction worker...",
+          "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
           "source": "TechCrunch"
         },
         {
-          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-          "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments....",
-          "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+          "title": "Opaque recurrence, and other AI terms that you should probably know",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....",
+          "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
           "source": "TechCrunch"
         },
         {
-          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+          "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+          "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
           "source": "The Verge"
         },
         {
-          "title": "An Amazon cargo plane crashed at Miami International Airport",
+          "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
           "summary": "",
-          "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+          "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
           "source": "The Verge"
         },
         {
-          "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-          "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"...",
-          "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+          "title": "The complex corporate web behind a $3.2 billion AI data center",
+          "summary": "When multiple companies are behind one project, who bears responsibility for problems?...",
+          "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why",
-          "summary": "Indian IT stocks dropped on Monday as stronger-than-expected US jobs data revived concerns over a September Federal Reserve rate hike. The Nifty IT index dropped over 2%, with Info...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcltech-tcs-other-it-stocks-drop-up-to-3-as-fed-rate-hike-worries-return-heres-why/articleshow/133866433.cms",
+          "title": "India bonds stuck in narrow range, focus on oil, RBI liquidity moves",
+          "summary": "Indian bond traders are navigating uncertain waters as soaring oil prices weigh heavily on market sentiment. In response, the Reserve Bank of India is tightening liquidity to comba...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-stuck-in-narrow-range-focus-on-oil-rbi-liquidity-moves/articleshow/133910360.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Did HEG shares really crash 64% in one day? Here’s how the demerger math works",
-          "summary": "HEG shares opened nearly 64% lower on Monday as the stock adjusted for the company’s demerger, which split its businesses into two separately listed entities. The graphite electrod...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/did-heg-shares-really-crash-64-in-one-day-heres-how-the-demerger-math-works/articleshow/133866176.cms",
+          "title": "Global Market: China stocks edge higher as agriculture, energy and gold shares offset tech weakness",
+          "summary": "China’s stock markets edged higher on Tuesday, led by agriculture, energy and gold-related shares, while technology stocks declined. The CSI 300 rose 0.1% and the Shanghai Composit...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-edge-higher-as-agriculture-energy-and-gold-shares-offset-tech-weakness/articleshow/133910045.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Pranav Constructions IPO bags 'subscribe' tag from experts; here's why",
-          "summary": "Pranav Constructions IPO: Analysts have assigned a 'subscribe' tag to the offer based on its scalable business model, strong brand positioning, and high entry barriers in redevelop...",
-          "link": "https://www.business-standard.com/markets/ipo/pranav-constructions-ipo-bags-subscribe-tag-from-experts-here-s-why-126090700306_1.html",
+          "title": "BSE SME Farm Peace reaps premium listing",
+          "summary": "Farm Peace traded at Rs 106.50 on the BSE, a 80.51% premium to the issue price of Rs 59....",
+          "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-farm-peace-reaps-premium-listing-126090800375_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Boston Scientific’s SCS leads linked to 1,081 serious injuries in FDA alert",
-          "summary": "Boston’s recall comes at a time where several players in the medtech industry are facing personal injury lawsuits over SCS system malfunctions. The post Boston Scientific’s SCS lea...",
-          "link": "https://www.medicaldevice-network.com/news/boston-scientific-scs-leads-linked-to-1000-serious-injuries-in-fda-alert/",
+          "title": "Remedying the paper trail: Manufacturing a digital route to compliance",
+          "summary": "As regulatory enforcement surges, life science manufacturers must shift away from paper-based systems to ensure compliance. The post Remedying the paper trail: Manufacturing a digi...",
+          "link": "https://www.medicaldevice-network.com/sponsored/remedying-the-paper-trail-manufacturing-a-digital-route-to-compliance/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "How India’s Rs 5 lakh crore alcohol industry works - 8X bigger than Bollywood and jewellery",
-          "summary": "This episode of Prime Venture Partners Podcast features Ankur Sachdeva, Co-founder & CEO of Uppal Brewers & Distillers who brought Glenfiddich and The Balvenie to India. This conve...",
-          "link": "https://yourstory.com/2026/09/india-rs-5-lakh-crore-alcohol-industry-8x-bigger-than-bollywood-jewellery",
+          "title": "Got an AI Solution for Infrastructure? Rodic Consultants and Nasscom Are Opening the Door",
+          "summary": "Rodic Consultants and Nasscom are calling on India's AI and deep-tech innovators to take on real infrastructure problems through the InfraAI Innovation Challenge, with applications...",
+          "link": "https://yourstory.com/2026/09/got-an-ai-solution-for-infrastructure-rodic-consultants-and-nasscom-are-opening-the-door",
           "source": "YourStory"
         },
         {
-          "title": "One impulse, many manifestations: Indian Habitat Centre exhibition celebrates artistic creativity",
-          "summary": "In this photo essay, we showcase artistic highlights from the ‘One | Many’ exhibition in New Delhi....",
-          "link": "https://yourstory.com/2026/09/art-exhibition-creativity-india-habitat-centre-photography",
+          "title": "Why these 5 books keep readers hooked till the last page",
+          "summary": "Discover 5 gripping books readers can finish in one sitting, from unforgettable stories to page-turning plots that make stopping nearly impossible....",
+          "link": "https://yourstory.com/2026/09/books-finish-one-sitting",
           "source": "YourStory"
         },
         {
-          "title": "Nua Raises $50 Mn To Expand Women’s Wellness Portfolio, Distribution",
-          "summary": "Omnichannel femtech startup Nua has raised $50 Mn (around ₹472 Cr) in its Series C funding round led by Peak&#8230;...",
-          "link": "https://inc42.com/buzz/nua-raises-50-mn-to-expand-womens-wellness-portfolio-distribution/",
+          "title": "The 90-Day Festive Season Marketing Test",
+          "summary": "A pair of heels, a saree or a kurta bought for Diwali could easily be worn again at a wedding&#8230;...",
+          "link": "https://inc42.com/features/the-90-day-festive-season-marketing-test/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Selecting UHV-compatible encoders for demanding semiconductor and scientific applications",
-          "summary": "Many high-end semiconductor manufacturing processes require the processing environment to be completely free of any contaminants that cause imperfections within the semiconductor w...",
-          "link": "https://www.designworldonline.com/selecting-uhv-compatible-encoders-for-demanding-semiconductor-and-scientific-applications/",
+          "title": "Banner introduces Q2F flat pack photoelectric sensor",
+          "summary": "Banner Engineering has introduced the Q2F flat pack photoelectric sensor, a fixed-field photoelectric sensor designed for embedded and space-constrained installations where convent...",
+          "link": "https://www.designworldonline.com/banner-introduces-q2f-flat-pack-photoelectric-sensor/",
           "source": "Design World"
         },
         {
-          "title": "What Makes PCB Design Software User-Friendly?",
-          "summary": "By Alexsander Tamari, Technical Marketing Engineer, Altium A clean interface is only part of the picture. The rest, whether libraries are reliable, whether the software catches rul...",
-          "link": "https://www.designworldonline.com/what-makes-pcb-design-software-user-friendly/",
+          "title": "Selecting UHV-compatible encoders for demanding semiconductor and scientific applications",
+          "summary": "Many high-end semiconductor manufacturing processes require the processing environment to be completely free of any contaminants that cause imperfections within the semiconductor w...",
+          "link": "https://www.designworldonline.com/selecting-uhv-compatible-encoders-for-demanding-semiconductor-and-scientific-applications/",
           "source": "Design World"
         }
       ]
@@ -233,13 +233,6 @@
           "link": "https://www.youtube.com/watch?v=ANmTVYkEtLw",
           "source": "MKBHD",
           "thumbnail": "https://i2.ytimg.com/vi/ANmTVYkEtLw/hqdefault.jpg"
-        },
-        {
-          "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Claude Fable 5.1 paper is available here:\nhttps://www.anthropic.com/claude-fable-and-mytho...",
-          "link": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i3.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg"
         }
       ]
     }
