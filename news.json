@@ -1,92 +1,92 @@
 {
-  "last_updated": "Tuesday, September 08, 2026 at 11:54 AM IST",
-  "last_updated_iso": "2026-09-08T11:54:53.770380",
+  "last_updated": "Wednesday, September 09, 2026 at 12:00 PM IST",
+  "last_updated_iso": "2026-09-09T12:00:43.722154",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23665.3,
-        "change": -113.85000000000218,
-        "change_pct": -0.47878078064187396,
+        "price": 23489.9,
+        "change": -145.1999999999971,
+        "change_pct": -0.6143405358978684,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 75698.45,
-        "change": -434.3600000000006,
-        "change_pct": -0.5705293158100964,
+        "price": 75097.12,
+        "change": -480.4600000000064,
+        "change_pct": -0.6357176294874834,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 56890.0,
-        "change": -198.3000000000029,
-        "change_pct": -0.34735663875085243,
+        "price": 56535.8,
+        "change": -241.75,
+        "change_pct": -0.4257844870023451,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "TCS",
-        "price": 2270.0,
-        "change": 0.0,
-        "change_pct": 0.0,
+        "name": "L&T",
+        "price": 3971.1,
+        "change": 25.0,
+        "change_pct": 0.6335369098603685,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1889.9,
-        "change": -5.099999999999909,
-        "change_pct": -0.2691292875989398,
+        "name": "Maruti",
+        "price": 12585.0,
+        "change": -56.0,
+        "change_pct": -0.44300292698362476,
         "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 1083.9,
-        "change": -3.599999999999909,
-        "change_pct": -0.3310344827586123,
+        "name": "ICICI Bank",
+        "price": 1393.1,
+        "change": -6.300000000000182,
+        "change_pct": -0.45019293983136927,
         "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "ICICI Bank",
-        "price": 1404.1,
-        "change": -23.40000000000009,
-        "change_pct": -1.6392294220665564,
+        "name": "Infosys",
+        "price": 1036.9,
+        "change": -45.09999999999991,
+        "change_pct": -4.1682070240295666,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1291.6,
-        "change": -17.90000000000009,
-        "change_pct": -1.3669339442535389,
+        "name": "TCS",
+        "price": 2200.9,
+        "change": -54.59999999999991,
+        "change_pct": -2.4207492795389007,
         "is_up": false
       },
       {
-        "name": "Maruti",
-        "price": 12642.0,
-        "change": -118.0,
-        "change_pct": -0.9247648902821317,
+        "name": "Wipro",
+        "price": 167.41,
+        "change": -4.090000000000003,
+        "change_pct": -2.3848396501457745,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.72,
-        "change": 0.24500000000000455,
-        "change_pct": 0.25932786451442663,
+        "price": 95.0775,
+        "change": 0.2674999999999983,
+        "change_pct": 0.2821432338360914,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4456.2,
-        "change": -20.400000000000546,
-        "change_pct": -0.455702988875498,
-        "is_up": false
+        "price": 4442.8,
+        "change": 3.800000000000182,
+        "change_pct": 0.08560486596080608,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
-          "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction worker...",
-          "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+          "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+          "summary": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster....",
+          "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
           "source": "TechCrunch"
         },
         {
-          "title": "Opaque recurrence, and other AI terms that you should probably know",
-          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter....",
-          "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+          "summary": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million....",
+          "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
           "source": "TechCrunch"
         },
         {
-          "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+          "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
           "summary": "",
-          "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+          "link": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
           "source": "The Verge"
         },
         {
-          "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+          "title": "Sony isn’t phasing out discs quite as quickly as we thought",
           "summary": "",
-          "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+          "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
           "source": "The Verge"
         },
         {
-          "title": "The complex corporate web behind a $3.2 billion AI data center",
-          "summary": "When multiple companies are behind one project, who bears responsibility for problems?...",
-          "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+          "title": "LG TV shown scanning LAN for third-party phones and other devices",
+          "summary": "“It doesn’t cost a lot to store text forever.”...",
+          "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "India bonds stuck in narrow range, focus on oil, RBI liquidity moves",
-          "summary": "Indian bond traders are navigating uncertain waters as soaring oil prices weigh heavily on market sentiment. In response, the Reserve Bank of India is tightening liquidity to comba...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-stuck-in-narrow-range-focus-on-oil-rbi-liquidity-moves/articleshow/133910360.cms",
+          "title": "PC Jeweller shares jump 4%, surge 38% in one week. What's polishing the stock's shine?",
+          "summary": "PC Jeweller shares have surged 38% in a week and 40% in a month as the company moves closer to becoming debt-free. The jeweller has repaid outstanding dues to 10 of 14 consortium b...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-jump-4-surge-38-in-one-week-whats-polishing-the-stocks-shine/articleshow/133955478.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: China stocks edge higher as agriculture, energy and gold shares offset tech weakness",
-          "summary": "China’s stock markets edged higher on Tuesday, led by agriculture, energy and gold-related shares, while technology stocks declined. The CSI 300 rose 0.1% and the Shanghai Composit...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-edge-higher-as-agriculture-energy-and-gold-shares-offset-tech-weakness/articleshow/133910045.cms",
+          "title": "Global Market: China stocks inch up after August inflation data; Hang Seng remains flat",
+          "summary": "China’s stock markets edged higher while Hong Kong equities remained subdued as August inflation data highlighted an uneven recovery. Rising commodity prices lifted headline inflat...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-inch-up-after-august-inflation-data-hang-seng-remains-flat/articleshow/133955042.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "BSE SME Farm Peace reaps premium listing",
-          "summary": "Farm Peace traded at Rs 106.50 on the BSE, a 80.51% premium to the issue price of Rs 59....",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-farm-peace-reaps-premium-listing-126090800375_1.html",
+          "title": "Rentomojo IPO a play on fast-growing rental economy; analysts bullish",
+          "summary": "IPO is a book build issue of ₹1,255 crores. Issue is a combination of fresh issue of 37.15 lakh shares aggregating to ₹150 crores and offer for sale of 2.74 crore shares aggregatin...",
+          "link": "https://www.business-standard.com/markets/ipo/rentomojo-ipo-a-play-on-fast-growing-rental-economy-analysts-bullish-126090900375_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Remedying the paper trail: Manufacturing a digital route to compliance",
-          "summary": "As regulatory enforcement surges, life science manufacturers must shift away from paper-based systems to ensure compliance. The post Remedying the paper trail: Manufacturing a digi...",
-          "link": "https://www.medicaldevice-network.com/sponsored/remedying-the-paper-trail-manufacturing-a-digital-route-to-compliance/",
+          "title": "ERS 2026: AI lung imaging shows utility in detecting pulmonary fibrosis candidate’s efficacy",
+          "summary": "Brainomix's e-Lung AI imaging tool was used to assess Endeavor's hedgehog pathway inhibitor, taladegib. The post ERS 2026: AI lung imaging shows utility in detecting pulmonary fibr...",
+          "link": "https://www.medicaldevice-network.com/news/ers-2026-ai-lung-imaging-shows-utility-in-detecting-pulmonary-fibrosis-candidate-efficacy/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Got an AI Solution for Infrastructure? Rodic Consultants and Nasscom Are Opening the Door",
-          "summary": "Rodic Consultants and Nasscom are calling on India's AI and deep-tech innovators to take on real infrastructure problems through the InfraAI Innovation Challenge, with applications...",
-          "link": "https://yourstory.com/2026/09/got-an-ai-solution-for-infrastructure-rodic-consultants-and-nasscom-are-opening-the-door",
+          "title": "India’s next growth story needs more credit for women-led businesses",
+          "summary": "India’s women-led mid-market businesses are proving their resilience, but formal finance has yet to catch up. Rethinking collateral, credit assessment and product design could help...",
+          "link": "https://yourstory.com/2026/08/india-growth-story-more-credit-for-women-led-businesses",
           "source": "YourStory"
         },
         {
-          "title": "Why these 5 books keep readers hooked till the last page",
-          "summary": "Discover 5 gripping books readers can finish in one sitting, from unforgettable stories to page-turning plots that make stopping nearly impossible....",
-          "link": "https://yourstory.com/2026/09/books-finish-one-sitting",
+          "title": "Bajaj Finance acquires 5% stake in TrueFan AI",
+          "summary": "Bajaj Finance and TrueFan AI will expand their collaboration across personalised marketing, video generation among other things with the goal of enhancing customer experiences....",
+          "link": "https://yourstory.com/2026/09/bajaj-finance-acquires-5-stake-in-truefan-ai",
           "source": "YourStory"
         },
         {
-          "title": "The 90-Day Festive Season Marketing Test",
-          "summary": "A pair of heels, a saree or a kurta bought for Diwali could easily be worn again at a wedding&#8230;...",
-          "link": "https://inc42.com/features/the-90-day-festive-season-marketing-test/",
+          "title": "Snap CBO Ajit Mohan To Step Down After Four-Year Stint",
+          "summary": "Former Meta India head and Hotstar CEO Ajit Mohan is stepping down as the CBO of Snapchat parent Snap after&#8230;...",
+          "link": "https://inc42.com/buzz/snap-cbo-ajit-mohan-to-step-down-after-four-year-stint/",
           "source": "Inc42"
         }
       ]
@@ -221,18 +221,6 @@
           "summary": "Many high-end semiconductor manufacturing processes require the processing environment to be completely free of any contaminants that cause imperfections within the semiconductor w...",
           "link": "https://www.designworldonline.com/selecting-uhv-compatible-encoders-for-demanding-semiconductor-and-scientific-applications/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "Google Pixel 11/Pro Review: Poker Face",
-          "summary": "Pixel 11 proves Google is going all in in one thing.\n\nEnter for free for a chance to win $100,000 or 1 of 3 cars at https://ridge.com/MKBHD \n\nMKBHD Merch: http://shop.MKBHD.com\n\nPl...",
-          "link": "https://www.youtube.com/watch?v=ANmTVYkEtLw",
-          "source": "MKBHD",
-          "thumbnail": "https://i2.ytimg.com/vi/ANmTVYkEtLw/hqdefault.jpg"
         }
       ]
     }
