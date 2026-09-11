@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, September 10, 2026 at 11:59 AM IST",
-  "last_updated_iso": "2026-09-10T11:59:36.475772",
+  "last_updated": "Friday, September 11, 2026 at 12:01 PM IST",
+  "last_updated_iso": "2026-09-11T12:01:22.165339",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23434.15,
-        "change": 2.650000000001455,
-        "change_pct": 0.011309561914522993,
-        "is_up": true
+        "price": 23350.9,
+        "change": -126.89999999999782,
+        "change_pct": -0.5405106100230763,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 74735.03,
-        "change": -29.19999999999709,
-        "change_pct": -0.039056110121106165,
+        "price": 74570.89,
+        "change": -331.6999999999971,
+        "change_pct": -0.44284182963499275,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 56461.05,
-        "change": 165.5,
-        "change_pct": 0.2939841603821261,
-        "is_up": true
+        "price": 56180.25,
+        "change": -291.6999999999971,
+        "change_pct": -0.5165396271954432,
+        "is_up": false
       }
     ],
     "gainers": [
       {
         "name": "Bharti Airtel",
-        "price": 1826.2,
-        "change": 11.5,
-        "change_pct": 0.6337135614702154,
+        "price": 1847.7,
+        "change": 8.700000000000045,
+        "change_pct": 0.4730831973898883,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 690.85,
-        "change": 3.75,
-        "change_pct": 0.545772085577063,
+        "name": "Wipro",
+        "price": 166.99,
+        "change": 0.6899999999999977,
+        "change_pct": 0.41491280817799014,
         "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 12675.0,
-        "change": 57.0,
-        "change_pct": 0.45173561578697097,
+        "name": "Infosys",
+        "price": 1040.8,
+        "change": 4.2999999999999545,
+        "change_pct": 0.4148576941630443,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Sun Pharma",
-        "price": 1849.4,
-        "change": -15.5,
-        "change_pct": -0.8311437610595742,
+        "name": "Maruti",
+        "price": 12410.0,
+        "change": -180.0,
+        "change_pct": -1.4297061159650517,
         "is_up": false
       },
       {
         "name": "Reliance",
-        "price": 1272.5,
-        "change": -6.5,
-        "change_pct": -0.508209538702111,
+        "price": 1258.4,
+        "change": -15.599999999999909,
+        "change_pct": -1.2244897959183603,
         "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 1031.5,
-        "change": -3.5,
-        "change_pct": -0.33816425120772947,
+        "name": "HDFC Bank",
+        "price": 685.6,
+        "change": -8.199999999999932,
+        "change_pct": -1.1818968002306043,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.2475,
-        "change": 0.11750000000000682,
-        "change_pct": 0.12351518974036248,
+        "price": 95.705,
+        "change": 0.26500000000000057,
+        "change_pct": 0.27766135792120766,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4458.3,
-        "change": -2.399999999999636,
-        "change_pct": -0.05380321474207269,
+        "price": 4397.2,
+        "change": -10.100000000000364,
+        "change_pct": -0.22916524856488926,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-          "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say....",
-          "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+          "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+          "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups....",
+          "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
           "source": "TechCrunch"
         },
         {
-          "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
-          "summary": "Mullenweg said in a company Slack message that it was against his will....",
-          "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+          "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular....",
+          "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
           "source": "TechCrunch"
         },
         {
-          "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+          "title": "Slack can now vibe-code interactive charts and reports inside chats",
           "summary": "",
-          "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+          "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
           "source": "The Verge"
         },
         {
-          "title": "The black iPhone Pro returns",
+          "title": "Schools are catching on to Big Tech’s playbook",
           "summary": "",
-          "link": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
+          "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
           "source": "The Verge"
         },
         {
-          "title": "4 groups caught using the same Chrome and Windows exploit kit",
-          "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors....",
-          "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+          "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+          "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful....",
+          "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "India bonds face twin drag from rising oil, US yields",
-          "summary": "Indian government bonds weakened for a second day on Thursday. Rising U.S. Treasury yields and crude prices above $100/barrel fueled inflation concerns. Higher oil prices threaten ...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-face-twin-drag-from-rising-oil-us-yields/articleshow/133995471.cms",
+          "title": "Global Market: China state insurers, banks to raise up to $54 billion to bolster capital",
+          "summary": "China’s Ministry of Finance will inject up to $10.4 billion into five state-owned insurers as part of a broader plan to strengthen financial stability. The recapitalisation comes a...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-state-insurers-banks-to-raise-up-to-54-billion-to-bolster-capital/articleshow/134049568.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Why Jefferies is bullish on Manipal Hospitals after its ₹9,000 crore acquisition spree",
-          "summary": "Manipal Hospitals’ acquisition-led expansion is entering a key phase, with Jefferies initiating coverage with a Buy rating and Rs 870 target. The brokerage expects strong earnings ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-jefferies-is-bullish-on-manipal-hospitals-after-its-9000-crore-acquisition-spree/articleshow/133995177.cms",
+          "title": "Is investing in stock market an art or science? What Peter Lynch says in 'One Up on Wall Street'",
+          "summary": "Legendary investor Peter Lynch believes successful stock-picking is more about logic than complex mathematics. In One Up on Wall Street, he explains why investors should ignore Wal...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-investing-in-stock-market-an-art-or-science-what-peter-lynch-says-in-one-up-on-wall-street/articleshow/134049329.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Nifty above 23,400 level; metal shares under pressure",
-          "summary": "At 11:30 IST, the barometer index, the S&P BSE Sensex, jumped 9.12 points or 0.02% to 74,762.18. The Nifty 50 index rose 4.60 points or 0.02% to 23,437.45....",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-above-23-400-level-metal-shares-under-pressure-126091000336_1.html",
+          "title": "Nifty below 23,350; metal shares under pressure",
+          "summary": "At 11:30 IST, the barometer index, the S&P BSE Sensex, tanked 385.82 points or 0.52% to 74,518.60. The Nifty 50 index lost 135.50 points or 0.58% to 23,342.30....",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-below-23-350-metal-shares-under-pressure-126091100434_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Abbott’s dual ablation catheter lands FDA approval",
-          "summary": "FDA clearance for Abbott’s TactiFlex Duo follows the dual ablation catheter’s receipt of a European CE mark in January 2026. The post Abbott’s dual ablation catheter lands FDA appr...",
-          "link": "https://www.medicaldevice-network.com/news/abbott-dual-ablation-catheter-lands-fda-approval/",
+          "title": "Siemens Healthineers completes $43.6m revamp of PET detector site in Tennessee",
+          "summary": "Siemens Healthineers’ Rockford, Tennessee campus is the sole manufacturing site worldwide for PET detectors used in its PET/CT scanners. The post Siemens Healthineers completes $43...",
+          "link": "https://www.medicaldevice-network.com/news/siemens-healthineers-completes-43m-revamp-of-pet-detector-site-in-tennessee/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "From AI pilots to production: Rebuilding the enterprise stack for intelligent agents",
-          "summary": "At DevSparks Hyderabad 2026, leaders from MetLife and Tiger Analytics explored what it will take to move enterprise AI from experimentation to production, from AI-ready data and se...",
-          "link": "https://yourstory.com/2026/09/ai-pilots-production-rebuilding-enterprise-stack-intelligent-agents",
+          "title": "Hero Motors’ Rs 1,000 Cr IPO to open on September 16; price band fixed at Rs 79–84 per share",
+          "summary": "The IPO comprises a fresh issue of equity shares worth up to Rs 600 crore, and an offer-for-sale of shares worth up to Rs 400 crore by promoters. Hero Motors’ initial public offeri...",
+          "link": "https://yourstory.com/2026/09/hero-motors-rs-1000-cr-ipo-to-open-on-september-16",
           "source": "YourStory"
         },
         {
-          "title": "Apple expands wearable ecosystem with AirPods 5, Watch Series 12, Ultra 4",
-          "summary": "Apple has expanded its wearable lineup with AirPods 5, featuring open-ear noise cancellation, alongside Apple Watch Series 12 and Ultra 4, introducing advanced health-sensing techn...",
-          "link": "https://yourstory.com/2026/09/apple-expands-wearable-ecosystem-with-airpods-5-watch-series-12-ultra-4",
+          "title": "Why Gen Z is talking about therapy more than ever before",
+          "summary": "Discover why Gen Z is embracing therapy, prioritising mental health, and changing conversations around emotional well-being....",
+          "link": "https://yourstory.com/2026/09/why-gen-z-is-talking-about-therapy-more-than-ever-before",
           "source": "YourStory"
         },
         {
-          "title": "Swish Raises $24 Mn To Expand Quick Food Delivery Network",
-          "summary": "Quick food delivery startup Swish has raised $24 Mn (about ₹228.4 Cr) in a funding round led by Bertelsmann India&#8230;...",
-          "link": "https://inc42.com/buzz/swish-raises-24-mn-to-expand-quick-food-delivery-network/",
+          "title": "UPI MDR May Be Set At 40 Bps; Banks Could Get Largest Share: Report",
+          "summary": "The government may soon notify a framework for levying a merchant discount rate (MDR) on select Unified Payments Interface (UPI)&#8230;...",
+          "link": "https://inc42.com/buzz/upi-mdr-may-be-set-at-40-bps-banks-could-get-largest-share-report/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Update on safety relays, signal processing, and controls",
-          "summary": "To satisfy common industrial safety standards and set reliably safe (yet maximally productive) operations, advanced safety functions today leverage the newest sensors, actuators, a...",
-          "link": "https://www.designworldonline.com/update-on-safety-relays-signal-processing-and-controls/",
+          "title": "September 2026 issue: The rise of cabinet-free automation",
+          "summary": "The September 2026 issue of Design World leads with cabinet-free automation, where Bosch Rexroth&#8217;s Joaquin Ocampo explains how mounting power electronics directly on the moto...",
+          "link": "https://www.designworldonline.com/september-2026-issue-the-rise-of-cabinet-free-automation/",
           "source": "Design World"
         },
         {
-          "title": "Machine-triggered sensors, switches, and perimeter components",
-          "summary": "We&#8217;ve already detailed the safety components with which human machine operators make direct contact. Now let’s review … Several machine-activated sensors and switches support...",
-          "link": "https://www.designworldonline.com/machine-triggered-sensors-switches-and-perimeter-components/",
+          "title": "Replace hard chrome and reimagine what coatings can do",
+          "summary": "Maxterial&#8217;s MaxShield coating turns thickness and uniformity into precise, tunable design variables, offering a single coating solution poised to simplify everything from hyd...",
+          "link": "https://www.designworldonline.com/replace-hard-chrome-and-reimagine-what-coatings-can-do/",
           "source": "Design World"
         }
       ]
