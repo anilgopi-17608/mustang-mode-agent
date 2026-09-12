@@ -1,92 +1,92 @@
 {
-  "last_updated": "Friday, September 11, 2026 at 12:01 PM IST",
-  "last_updated_iso": "2026-09-11T12:01:22.165339",
+  "last_updated": "Saturday, September 12, 2026 at 11:48 AM IST",
+  "last_updated_iso": "2026-09-12T11:48:16.041172",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23350.9,
-        "change": -126.89999999999782,
-        "change_pct": -0.5405106100230763,
+        "price": 23398.1,
+        "change": -79.70000000000073,
+        "change_pct": -0.33946962662600727,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 74570.89,
-        "change": -331.6999999999971,
-        "change_pct": -0.44284182963499275,
+        "price": 74781.76,
+        "change": -120.83000000000175,
+        "change_pct": -0.16131618412661267,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 56180.25,
-        "change": -291.6999999999971,
-        "change_pct": -0.5165396271954432,
-        "is_up": false
+        "price": 56606.55,
+        "change": 134.60000000000582,
+        "change_pct": 0.2383484189938648,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1847.7,
-        "change": 8.700000000000045,
-        "change_pct": 0.4730831973898883,
+        "name": "HDFC Bank",
+        "price": 708.25,
+        "change": 14.450000000000045,
+        "change_pct": 2.0827327760161496,
         "is_up": true
       },
       {
         "name": "Wipro",
-        "price": 166.99,
-        "change": 0.6899999999999977,
-        "change_pct": 0.41491280817799014,
+        "price": 167.4,
+        "change": 1.0999999999999943,
+        "change_pct": 0.6614552014431716,
         "is_up": true
       },
       {
         "name": "Infosys",
-        "price": 1040.8,
-        "change": 4.2999999999999545,
-        "change_pct": 0.4148576941630443,
+        "price": 1037.7,
+        "change": 1.2000000000000455,
+        "change_pct": 0.11577424023155287,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Maruti",
-        "price": 12410.0,
-        "change": -180.0,
-        "change_pct": -1.4297061159650517,
+        "price": 12400.0,
+        "change": -190.0,
+        "change_pct": -1.5091342335186657,
         "is_up": false
       },
       {
         "name": "Reliance",
-        "price": 1258.4,
-        "change": -15.599999999999909,
-        "change_pct": -1.2244897959183603,
+        "price": 1257.5,
+        "change": -16.5,
+        "change_pct": -1.2951334379905808,
         "is_up": false
       },
       {
-        "name": "HDFC Bank",
-        "price": 685.6,
-        "change": -8.199999999999932,
-        "change_pct": -1.1818968002306043,
+        "name": "Sun Pharma",
+        "price": 1840.0,
+        "change": -21.0,
+        "change_pct": -1.1284255776464267,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.705,
-        "change": 0.26500000000000057,
-        "change_pct": 0.27766135792120766,
+        "price": 95.54,
+        "change": 0.10000000000000853,
+        "change_pct": 0.10477787091367197,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4397.2,
-        "change": -10.100000000000364,
-        "change_pct": -0.22916524856488926,
-        "is_up": false
+        "price": 4408.9,
+        "change": 1.5999999999994543,
+        "change_pct": 0.03630340571323609,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-          "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups....",
-          "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A....",
+          "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
           "source": "TechCrunch"
         },
         {
-          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-          "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular....",
-          "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+          "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+          "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two....",
+          "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
           "source": "TechCrunch"
         },
         {
-          "title": "Slack can now vibe-code interactive charts and reports inside chats",
+          "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
           "summary": "",
-          "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
           "source": "The Verge"
         },
         {
-          "title": "Schools are catching on to Big Tech’s playbook",
+          "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
           "summary": "",
-          "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+          "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
           "source": "The Verge"
         },
         {
-          "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
-          "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful....",
-          "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+          "title": "Some satellite companies still have an appetite for boutique launch services",
+          "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"...",
+          "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: China state insurers, banks to raise up to $54 billion to bolster capital",
-          "summary": "China’s Ministry of Finance will inject up to $10.4 billion into five state-owned insurers as part of a broader plan to strengthen financial stability. The recapitalisation comes a...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-state-insurers-banks-to-raise-up-to-54-billion-to-bolster-capital/articleshow/134049568.cms",
+          "title": "Valuation question! Why did NSE cut its IPO size and price below unlisted market levels?",
+          "summary": "NSE MD and CEO Ashish Chauhan said the exchange had invited shareholders to tender shares before filing the draft red herring prospectus. He said bankers advised the exchange on pr...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/valuation-question-why-did-nse-cut-its-ipo-size-and-price-below-unlisted-market-levels/articleshow/134109696.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Is investing in stock market an art or science? What Peter Lynch says in 'One Up on Wall Street'",
-          "summary": "Legendary investor Peter Lynch believes successful stock-picking is more about logic than complex mathematics. In One Up on Wall Street, he explains why investors should ignore Wal...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-investing-in-stock-market-an-art-or-science-what-peter-lynch-says-in-one-up-on-wall-street/articleshow/134049329.cms",
+          "title": "De-dollarisation and its impact on commodities and global trade",
+          "summary": "For decades, the US dollar has dominated global trade and commodity markets. Most commodities, including crude oil, natural gas, gold, industrial metals, and agricultural products,...",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/de-dollarisation-and-its-impact-on-commodities-and-global-trade/articleshow/134109334.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Nifty below 23,350; metal shares under pressure",
-          "summary": "At 11:30 IST, the barometer index, the S&P BSE Sensex, tanked 385.82 points or 0.52% to 74,518.60. The Nifty 50 index lost 135.50 points or 0.58% to 23,342.30....",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-below-23-350-metal-shares-under-pressure-126091100434_1.html",
+          "title": "Vijaya Diagnostic Centre acquires Arya Wellness Centre in Guwahati",
+          "summary": "For a consideration of Rs 46 cr...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/vijaya-diagnostic-centre-acquires-arya-wellness-centre-in-guwahati-126091200226_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Siemens Healthineers completes $43.6m revamp of PET detector site in Tennessee",
-          "summary": "Siemens Healthineers’ Rockford, Tennessee campus is the sole manufacturing site worldwide for PET detectors used in its PET/CT scanners. The post Siemens Healthineers completes $43...",
-          "link": "https://www.medicaldevice-network.com/news/siemens-healthineers-completes-43m-revamp-of-pet-detector-site-in-tennessee/",
+          "title": "Axogen deepens nerve repair portfolio through $200m BioCircuit takeover",
+          "summary": "Through its BioCircuit buyout, Axogen hopes to extend sutureless peripheral nerve repair device, NerveTape's market uptake. The post Axogen deepens nerve repair portfolio through $...",
+          "link": "https://www.medicaldevice-network.com/news/axogen-acquires-biocircuit-200m-peripheral-nerver-repair-nervetape/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Hero Motors’ Rs 1,000 Cr IPO to open on September 16; price band fixed at Rs 79–84 per share",
-          "summary": "The IPO comprises a fresh issue of equity shares worth up to Rs 600 crore, and an offer-for-sale of shares worth up to Rs 400 crore by promoters. Hero Motors’ initial public offeri...",
-          "link": "https://yourstory.com/2026/09/hero-motors-rs-1000-cr-ipo-to-open-on-september-16",
+          "title": "NSE sets IPO price band at Rs 1,700-1,785; issue to open on September 17",
+          "summary": "The Rs 22,569-crore IPO will be the country's second-largest public issue after Hyundai Motor India's Rs 27,870-crore IPO. It will be entirely an offer for sale of up to 12.64 cror...",
+          "link": "https://yourstory.com/2026/09/nse-sets-ipo-price-band-at-rs-1700-1785-issue-to-open-on-sep-17",
           "source": "YourStory"
         },
         {
-          "title": "Why Gen Z is talking about therapy more than ever before",
-          "summary": "Discover why Gen Z is embracing therapy, prioritising mental health, and changing conversations around emotional well-being....",
-          "link": "https://yourstory.com/2026/09/why-gen-z-is-talking-about-therapy-more-than-ever-before",
+          "title": "Karnataka launches Rs 25 crore Government First startup initiative",
+          "summary": "Karnataka’s Government First initiative will support 100 startups with Rs 25 crore, helping them pilot solutions and enter government procurement....",
+          "link": "https://yourstory.com/2026/09/karnataka-government-first-startup-initiative",
           "source": "YourStory"
         },
         {
-          "title": "UPI MDR May Be Set At 40 Bps; Banks Could Get Largest Share: Report",
-          "summary": "The government may soon notify a framework for levying a merchant discount rate (MDR) on select Unified Payments Interface (UPI)&#8230;...",
-          "link": "https://inc42.com/buzz/upi-mdr-may-be-set-at-40-bps-banks-could-get-largest-share-report/",
+          "title": "From Pixxel To Swish — Indian Startups Raised Over $321.9 Mn This Week",
+          "summary": "Startup funding activity rebounded back sharply in the second week of September. Between September 7 and September 11, Indian startups&#8230;...",
+          "link": "https://inc42.com/buzz/from-pixxel-to-swish-indian-startups-raised-over-321-9-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "September 2026 issue: The rise of cabinet-free automation",
-          "summary": "The September 2026 issue of Design World leads with cabinet-free automation, where Bosch Rexroth&#8217;s Joaquin Ocampo explains how mounting power electronics directly on the moto...",
-          "link": "https://www.designworldonline.com/september-2026-issue-the-rise-of-cabinet-free-automation/",
+          "title": "EPC introduces field-programmable 36 mm incremental encoder",
+          "summary": "Encoder Products Company (EPC) has introduced the 36RT/H Accu-CoderPro, a field-programmable incremental encoder with a 36 mm housing. It is designed for applications that require ...",
+          "link": "https://www.designworldonline.com/epc-introduces-field-programmable-36-mm-incremental-encoder/",
           "source": "Design World"
         },
         {
-          "title": "Replace hard chrome and reimagine what coatings can do",
-          "summary": "Maxterial&#8217;s MaxShield coating turns thickness and uniformity into precise, tunable design variables, offering a single coating solution poised to simplify everything from hyd...",
-          "link": "https://www.designworldonline.com/replace-hard-chrome-and-reimagine-what-coatings-can-do/",
+          "title": "September 2026 issue: The rise of cabinet-free automation",
+          "summary": "The September 2026 issue of Design World leads with cabinet-free automation, where Bosch Rexroth&#8217;s Joaquin Ocampo explains how mounting power electronics directly on the moto...",
+          "link": "https://www.designworldonline.com/september-2026-issue-the-rise-of-cabinet-free-automation/",
           "source": "Design World"
         }
       ]
