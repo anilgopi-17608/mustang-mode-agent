@@ -1,6 +1,6 @@
 {
-  "last_updated": "Saturday, September 12, 2026 at 11:48 AM IST",
-  "last_updated_iso": "2026-09-12T11:48:16.041172",
+  "last_updated": "Sunday, September 13, 2026 at 12:09 PM IST",
+  "last_updated_iso": "2026-09-13T12:09:28.986242",
   "market": {
     "indices": [
       {
@@ -74,9 +74,9 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.54,
-        "change": 0.10000000000000853,
-        "change_pct": 0.10477787091367197,
+        "price": 95.55,
+        "change": 0.10999999999999943,
+        "change_pct": 0.11525565800502874,
         "is_up": true
       }
     ],
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-          "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A....",
-          "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+          "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"...",
+          "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
           "source": "TechCrunch"
         },
         {
-          "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-          "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two....",
-          "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman....",
+          "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
           "source": "TechCrunch"
         },
         {
-          "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+          "title": "OpenAI’s rogue AI tried to hack another company in May",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
           "source": "The Verge"
         },
         {
-          "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
+          "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
           "summary": "",
-          "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
           "source": "The Verge"
         },
         {
-          "title": "Some satellite companies still have an appetite for boutique launch services",
-          "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"...",
-          "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+          "title": "I spent $4,000 on a robot dog from China",
+          "summary": "Unitree might be the world’s most important robotics company....",
+          "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Valuation question! Why did NSE cut its IPO size and price below unlisted market levels?",
-          "summary": "NSE MD and CEO Ashish Chauhan said the exchange had invited shareholders to tender shares before filing the draft red herring prospectus. He said bankers advised the exchange on pr...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/valuation-question-why-did-nse-cut-its-ipo-size-and-price-below-unlisted-market-levels/articleshow/134109696.cms",
+          "title": "8 midcap stocks clock up to 245% EBITDA growth in June quarter. Do you own any?",
+          "summary": "Eight NSE midcap stocks reported year-on-year EBITDA growth of more than 80% in the June 2026 quarter. Lloyds Metals &amp; Energy led the list with a 245% surge, followed by Rail V...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-clock-up-to-245-ebitda-growth-in-june-quarter-do-you-own-any/slideshow/134182581.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "De-dollarisation and its impact on commodities and global trade",
-          "summary": "For decades, the US dollar has dominated global trade and commodity markets. Most commodities, including crude oil, natural gas, gold, industrial metals, and agricultural products,...",
-          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/de-dollarisation-and-its-impact-on-commodities-and-global-trade/articleshow/134109334.cms",
+          "title": "SML Ltd weighing IPO within 2 to 3 years, eyes new chemical entity pipeline",
+          "summary": "SML Ltd, a leading agri-inputs manufacturer, is contemplating a stock market listing in the next two to three years. With significant cash reserves, the company plans to invest in ...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sml-ltd-weighing-ipo-within-2-to-3-years-eyes-new-chemical-entity-pipeline/articleshow/134180833.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Vijaya Diagnostic Centre acquires Arya Wellness Centre in Guwahati",
-          "summary": "For a consideration of Rs 46 cr...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/vijaya-diagnostic-centre-acquires-arya-wellness-centre-in-guwahati-126091200226_1.html",
+          "title": "FPIs withdraw ₹13,138 crore from equities in Sep amid global uncertainty",
+          "summary": "Foreign investors pulled out Rs 13,138 crore from Indian equities in the first half of September, as heightened global uncertainty pushed crude oil prices higher, while rising US b...",
+          "link": "https://www.business-standard.com/markets/news/fpis-withdraw-13-138-crore-from-equities-in-sep-amid-global-uncertainty-126091300134_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Axogen deepens nerve repair portfolio through $200m BioCircuit takeover",
-          "summary": "Through its BioCircuit buyout, Axogen hopes to extend sutureless peripheral nerve repair device, NerveTape's market uptake. The post Axogen deepens nerve repair portfolio through $...",
-          "link": "https://www.medicaldevice-network.com/news/axogen-acquires-biocircuit-200m-peripheral-nerver-repair-nervetape/",
+          "title": "Nutromics’ drug monitoring patch secures FDA breakthrough designation",
+          "summary": "Breakthrough designation for Nutromics’ namesake patch applies to the wearable platform’s function in vancomycin drug monitoring. The post Nutromics’ drug monitoring patch secures ...",
+          "link": "https://www.medicaldevice-network.com/news/nutromics-drug-monitoring-patch-secures-fda-breakthrough-designation/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "NSE sets IPO price band at Rs 1,700-1,785; issue to open on September 17",
-          "summary": "The Rs 22,569-crore IPO will be the country's second-largest public issue after Hyundai Motor India's Rs 27,870-crore IPO. It will be entirely an offer for sale of up to 12.64 cror...",
-          "link": "https://yourstory.com/2026/09/nse-sets-ipo-price-band-at-rs-1700-1785-issue-to-open-on-sep-17",
+          "title": "PM Modi wants BRICS to help 100 startups scale yearly; Shuddh Swad turns Bihari thekua into a Rs 1 Cr D2C business",
+          "summary": "The New Delhi Declaration also proposes better access to finance for MSMEs, including through credit assessment frameworks and an invoice discounting mechanism....",
+          "link": "https://yourstory.com/2026/09/pm-modi-wants-brics-to-help-100-startups-scale-yearly",
           "source": "YourStory"
         },
         {
-          "title": "Karnataka launches Rs 25 crore Government First startup initiative",
-          "summary": "Karnataka’s Government First initiative will support 100 startups with Rs 25 crore, helping them pilot solutions and enter government procurement....",
-          "link": "https://yourstory.com/2026/09/karnataka-government-first-startup-initiative",
+          "title": "Health, AI, growth: test your business creativity with Edition 249 of our weekly quiz!",
+          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 249th quiz. Ready?...",
+          "link": "https://yourstory.com/2026/09/health-ai-growth-business-creativity-entrepreneur-quiz",
           "source": "YourStory"
         },
         {
-          "title": "From Pixxel To Swish — Indian Startups Raised Over $321.9 Mn This Week",
-          "summary": "Startup funding activity rebounded back sharply in the second week of September. Between September 7 and September 11, Indian startups&#8230;...",
-          "link": "https://inc42.com/buzz/from-pixxel-to-swish-indian-startups-raised-over-321-9-mn-this-week/",
+          "title": "Swish Buys Itself More Time At The Quick Food Table",
+          "summary": "In August 2024, Inc42 asked whether Swish could pull off what Zomato couldn&#8217;t. Two years on, the question has turned&#8230;...",
+          "link": "https://inc42.com/features/swish-buys-itself-more-time-at-the-quick-food-table/",
           "source": "Inc42"
         }
       ]
