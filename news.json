@@ -1,6 +1,6 @@
 {
-  "last_updated": "Sunday, September 13, 2026 at 12:09 PM IST",
-  "last_updated_iso": "2026-09-13T12:09:28.986242",
+  "last_updated": "Monday, September 14, 2026 at 12:21 PM IST",
+  "last_updated_iso": "2026-09-14T12:21:19.728027",
   "market": {
     "indices": [
       {
@@ -74,19 +74,19 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.55,
-        "change": 0.10999999999999943,
-        "change_pct": 0.11525565800502874,
+        "price": 95.54,
+        "change": 0.0,
+        "change_pct": 0.0,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4408.9,
-        "change": 1.5999999999994543,
-        "change_pct": 0.03630340571323609,
-        "is_up": true
+        "price": 4367.7,
+        "change": -41.19999999999982,
+        "change_pct": -0.9344734514277897,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-          "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"...",
-          "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+          "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+          "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI an...",
+          "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman....",
-          "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+          "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion....",
+          "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI’s rogue AI tried to hack another company in May",
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
           "source": "The Verge"
         },
         {
-          "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+          "title": "Apple is reportedly working on iPhone game controllers",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+          "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
           "source": "The Verge"
         },
         {
-          "title": "I spent $4,000 on a robot dog from China",
-          "summary": "Unitree might be the world’s most important robotics company....",
-          "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+          "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+          "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions....",
+          "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "8 midcap stocks clock up to 245% EBITDA growth in June quarter. Do you own any?",
-          "summary": "Eight NSE midcap stocks reported year-on-year EBITDA growth of more than 80% in the June 2026 quarter. Lloyds Metals &amp; Energy led the list with a 245% surge, followed by Rail V...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-clock-up-to-245-ebitda-growth-in-june-quarter-do-you-own-any/slideshow/134182581.cms",
+          "title": "Global Market: Samsung, SK Hynix reject $18.7 billion upfront power payment proposal",
+          "summary": "Samsung Electronics and SK Hynix have rejected KEPCO’s proposal for a 25 trillion won upfront payment to fund electricity infrastructure for planned semiconductor clusters. The mov...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-samsung-sk-hynix-reject-18-7-billion-upfront-power-payment-proposal/articleshow/134234539.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "SML Ltd weighing IPO within 2 to 3 years, eyes new chemical entity pipeline",
-          "summary": "SML Ltd, a leading agri-inputs manufacturer, is contemplating a stock market listing in the next two to three years. With significant cash reserves, the company plans to invest in ...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sml-ltd-weighing-ipo-within-2-to-3-years-eyes-new-chemical-entity-pipeline/articleshow/134180833.cms",
+          "title": "Global Market: China stocks mixed, Hong Kong shares edge higher as AI weakness weighs",
+          "summary": "China's mainland stocks traded mixed on Monday as AI and semiconductor shares fell, dragging the CSI AI Index down 1.2% and the STAR50 down 0.9%, even as banking stocks rose due to...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-mixed-hong-kong-shares-edge-higher-as-ai-weakness-weighs/articleshow/134234135.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "FPIs withdraw ₹13,138 crore from equities in Sep amid global uncertainty",
-          "summary": "Foreign investors pulled out Rs 13,138 crore from Indian equities in the first half of September, as heightened global uncertainty pushed crude oil prices higher, while rising US b...",
-          "link": "https://www.business-standard.com/markets/news/fpis-withdraw-13-138-crore-from-equities-in-sep-amid-global-uncertainty-126091300134_1.html",
+          "title": "Trump backs new ethics rules to push crypto bill, but it may not be enough",
+          "summary": "President Donald Trump had been hearing the message loud and clear for weeks about the sweeping cryptocurrency bill being written in the Senate: to get it across the line, he would...",
+          "link": "https://www.business-standard.com/world-news/trump-backs-new-ethics-rules-to-push-crypto-bill-but-it-may-not-be-enough-126091400155_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "PM Modi wants BRICS to help 100 startups scale yearly; Shuddh Swad turns Bihari thekua into a Rs 1 Cr D2C business",
-          "summary": "The New Delhi Declaration also proposes better access to finance for MSMEs, including through credit assessment frameworks and an invoice discounting mechanism....",
-          "link": "https://yourstory.com/2026/09/pm-modi-wants-brics-to-help-100-startups-scale-yearly",
+          "title": "Deepinder Goyal partners with Art of Living for Temple",
+          "summary": "The partnership will study the effects of meditation through Entropy, a biomarker of Temple....",
+          "link": "https://yourstory.com/2026/09/deepinder-goyal-partners-with-art-of-living-for-temple",
           "source": "YourStory"
         },
         {
-          "title": "Health, AI, growth: test your business creativity with Edition 249 of our weekly quiz!",
-          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 249th quiz. Ready?...",
-          "link": "https://yourstory.com/2026/09/health-ai-growth-business-creativity-entrepreneur-quiz",
+          "title": "Process and precision: Artisera exhibition showcases contemporary Indian printmaking",
+          "summary": "In this photo essay, we showcase artistic highlights from a printmaking exhibition at Bengaluru’s Artisera gallery....",
+          "link": "https://yourstory.com/2026/09/artisera-exhibition-printmaking-creativity-photography",
           "source": "YourStory"
         },
         {
-          "title": "Swish Buys Itself More Time At The Quick Food Table",
-          "summary": "In August 2024, Inc42 asked whether Swish could pull off what Zomato couldn&#8217;t. Two years on, the question has turned&#8230;...",
-          "link": "https://inc42.com/features/swish-buys-itself-more-time-at-the-quick-food-table/",
+          "title": "Lenskart Increases AjnaLens Stake To Over 9% To Deepen Smart Glasses Push",
+          "summary": "Lenskart has increased its stake in extended reality (XR) startup AjnaLens’ parent Dimension NXG with an ₹8 Cr investment to&#8230;...",
+          "link": "https://inc42.com/buzz/lenskart-increases-ajnalens-stake-to-over-9-to-deepen-smart-glasses-push/",
           "source": "Inc42"
         }
       ]
