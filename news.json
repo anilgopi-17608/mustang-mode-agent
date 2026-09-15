@@ -1,91 +1,91 @@
 {
-  "last_updated": "Monday, September 14, 2026 at 12:21 PM IST",
-  "last_updated_iso": "2026-09-14T12:21:19.728027",
+  "last_updated": "Tuesday, September 15, 2026 at 12:03 PM IST",
+  "last_updated_iso": "2026-09-15T12:03:31.053648",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23398.1,
-        "change": -79.70000000000073,
-        "change_pct": -0.33946962662600727,
+        "price": 23347.55,
+        "change": -50.54999999999927,
+        "change_pct": -0.21604318299348782,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 74781.76,
-        "change": -120.83000000000175,
-        "change_pct": -0.16131618412661267,
+        "price": 74677.35,
+        "change": -104.40999999998894,
+        "change_pct": -0.13961960777599905,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 56606.55,
-        "change": 134.60000000000582,
-        "change_pct": 0.2383484189938648,
-        "is_up": true
+        "price": 56173.4,
+        "change": -433.15000000000146,
+        "change_pct": -0.7651941338944017,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "HDFC Bank",
-        "price": 708.25,
-        "change": 14.450000000000045,
-        "change_pct": 2.0827327760161496,
-        "is_up": true
-      },
-      {
-        "name": "Wipro",
-        "price": 167.4,
-        "change": 1.0999999999999943,
-        "change_pct": 0.6614552014431716,
+        "name": "TCS",
+        "price": 2308.8,
+        "change": 108.0,
+        "change_pct": 4.90730643402399,
         "is_up": true
       },
       {
         "name": "Infosys",
-        "price": 1037.7,
-        "change": 1.2000000000000455,
-        "change_pct": 0.11577424023155287,
+        "price": 1081.5,
+        "change": 43.799999999999955,
+        "change_pct": 4.220873084706557,
+        "is_up": true
+      },
+      {
+        "name": "Wipro",
+        "price": 171.25,
+        "change": 3.8499999999999943,
+        "change_pct": 2.299880525686974,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 12400.0,
-        "change": -190.0,
-        "change_pct": -1.5091342335186657,
+        "name": "ICICI Bank",
+        "price": 1353.9,
+        "change": -25.399999999999864,
+        "change_pct": -1.8415138113535754,
+        "is_up": false
+      },
+      {
+        "name": "L&T",
+        "price": 3865.0,
+        "change": -65.69999999999982,
+        "change_pct": -1.6714580100236556,
         "is_up": false
       },
       {
         "name": "Reliance",
-        "price": 1257.5,
-        "change": -16.5,
-        "change_pct": -1.2951334379905808,
-        "is_up": false
-      },
-      {
-        "name": "Sun Pharma",
-        "price": 1840.0,
-        "change": -21.0,
-        "change_pct": -1.1284255776464267,
+        "price": 1256.5,
+        "change": -1.0,
+        "change_pct": -0.07952286282306163,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.54,
-        "change": 0.0,
-        "change_pct": 0.0,
+        "price": 95.91,
+        "change": 0.36999999999999034,
+        "change_pct": 0.3872723466610742,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4367.7,
-        "change": -41.19999999999982,
-        "change_pct": -0.9344734514277897,
+        "price": 4331.2,
+        "change": -20.699999999999818,
+        "change_pct": -0.4756543119097364,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-          "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI an...",
-          "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+          "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+          "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it....",
+          "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
           "source": "TechCrunch"
         },
         {
-          "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-          "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion....",
-          "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+          "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+          "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently....",
+          "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
           "source": "TechCrunch"
         },
         {
-          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
           "source": "The Verge"
         },
         {
-          "title": "Apple is reportedly working on iPhone game controllers",
+          "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
           "summary": "",
-          "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
           "source": "The Verge"
         },
         {
-          "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-          "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions....",
-          "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+          "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+          "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"...",
+          "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: Samsung, SK Hynix reject $18.7 billion upfront power payment proposal",
-          "summary": "Samsung Electronics and SK Hynix have rejected KEPCO’s proposal for a 25 trillion won upfront payment to fund electricity infrastructure for planned semiconductor clusters. The mov...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-samsung-sk-hynix-reject-18-7-billion-upfront-power-payment-proposal/articleshow/134234539.cms",
+          "title": "Hero Motors IPO opens tomorrow; GMP signals 29% potential listing upside. Check key details",
+          "summary": "Hero Motors’ Rs 1,000-crore IPO opens on September 16 with a price band of Rs 79–Rs 84 per share. Its Rs 23 grey market premium suggests a potential 27% listing gain, while fresh p...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hero-motors-ipo-opens-tomorrow-gmp-signals-29-potential-listing-upside-check-key-details/articleshow/134253888.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: China stocks mixed, Hong Kong shares edge higher as AI weakness weighs",
-          "summary": "China's mainland stocks traded mixed on Monday as AI and semiconductor shares fell, dragging the CSI AI Index down 1.2% and the STAR50 down 0.9%, even as banking stocks rose due to...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-mixed-hong-kong-shares-edge-higher-as-ai-weakness-weighs/articleshow/134234135.cms",
+          "title": "Goldman, Templeton, Fidelity said to plan buying into NSE IPO",
+          "summary": "Goldman Sachs Asset Management, Franklin Templeton and Fidelity International are among global investors expected to participate as anchor investors in NSE’s IPO. Norges Bank Inves...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/goldman-templeton-fidelity-said-to-plan-buying-into-nse-ipo/articleshow/134253848.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Trump backs new ethics rules to push crypto bill, but it may not be enough",
-          "summary": "President Donald Trump had been hearing the message loud and clear for weeks about the sweeping cryptocurrency bill being written in the Senate: to get it across the line, he would...",
-          "link": "https://www.business-standard.com/world-news/trump-backs-new-ethics-rules-to-push-crypto-bill-but-it-may-not-be-enough-126091400155_1.html",
+          "title": "Yash Highvoltage rises after subsidiary signs US sales representation agreement",
+          "summary": "Yash Highvoltage rose 2.33% to Rs 967.55 on Tuesday after the company said its US subsidiary entered into a strategic representation agreement....",
+          "link": "https://www.business-standard.com/markets/capital-market-news/yash-highvoltage-rises-after-subsidiary-signs-us-sales-representation-agreement-126091500336_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Nutromics’ drug monitoring patch secures FDA breakthrough designation",
-          "summary": "Breakthrough designation for Nutromics’ namesake patch applies to the wearable platform’s function in vancomycin drug monitoring. The post Nutromics’ drug monitoring patch secures ...",
-          "link": "https://www.medicaldevice-network.com/news/nutromics-drug-monitoring-patch-secures-fda-breakthrough-designation/",
+          "title": "Apollo rumoured to be eyeing $20bn takeover of J&J’s orthopaedics business",
+          "summary": "These alleged talks come as J&J considers what direction to take orthopaedic specialist, Depuy Synthes in as it spins the unit out. The post Apollo rumoured to be eyeing $20bn take...",
+          "link": "https://www.medicaldevice-network.com/news/apollo-in-talks-to-acquire-j-and-j-orthopaedics-unit-depuy-synthes/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Deepinder Goyal partners with Art of Living for Temple",
-          "summary": "The partnership will study the effects of meditation through Entropy, a biomarker of Temple....",
-          "link": "https://yourstory.com/2026/09/deepinder-goyal-partners-with-art-of-living-for-temple",
+          "title": "Meta agrees to report child sexual abuse cases to law enforcement agencies: Govt sources",
+          "summary": "The government will take action against platforms that fail to take proactive steps to ensure children's safety online, the sources said, underlining its tough stance on platforms'...",
+          "link": "https://yourstory.com/2026/09/meta-report-child-sexual-abuse-cases-law-enforcement-agencies",
           "source": "YourStory"
         },
         {
-          "title": "Process and precision: Artisera exhibition showcases contemporary Indian printmaking",
-          "summary": "In this photo essay, we showcase artistic highlights from a printmaking exhibition at Bengaluru’s Artisera gallery....",
-          "link": "https://yourstory.com/2026/09/artisera-exhibition-printmaking-creativity-photography",
+          "title": "Personal loan for home renovation: Costs and benefits",
+          "summary": "Subtitle: A Personal Loan for Home Renovation can be used for painting, repair work, or home upgrades. The good news is there are tonnes of lenders willing to offer this loan. Here...",
+          "link": "https://yourstory.com/2026/09/personal-loan-home-renovation-costs-and-benefits",
           "source": "YourStory"
         },
         {
-          "title": "Lenskart Increases AjnaLens Stake To Over 9% To Deepen Smart Glasses Push",
-          "summary": "Lenskart has increased its stake in extended reality (XR) startup AjnaLens’ parent Dimension NXG with an ₹8 Cr investment to&#8230;...",
-          "link": "https://inc42.com/buzz/lenskart-increases-ajnalens-stake-to-over-9-to-deepen-smart-glasses-push/",
+          "title": "Kids’ Nutrition Brands Face A Familiar Struggle",
+          "summary": "Kids want a bar of chocolate, but parents want a healthier snacking option. For years, this has been one of&#8230;...",
+          "link": "https://inc42.com/features/kids-nutrition-brands-face-a-familiar-struggle/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "EPC introduces field-programmable 36 mm incremental encoder",
-          "summary": "Encoder Products Company (EPC) has introduced the 36RT/H Accu-CoderPro, a field-programmable incremental encoder with a 36 mm housing. It is designed for applications that require ...",
-          "link": "https://www.designworldonline.com/epc-introduces-field-programmable-36-mm-incremental-encoder/",
+          "title": "The ethics around DEI — or the absence of DEI",
+          "summary": "This is part of our regular series where our ethics panel of experts weigh in on some topic or question of concern to working engineers. For this edition, the problem is one that w...",
+          "link": "https://www.designworldonline.com/the-ethics-around-dei-or-the-absence-of-dei/",
           "source": "Design World"
         },
         {
-          "title": "September 2026 issue: The rise of cabinet-free automation",
-          "summary": "The September 2026 issue of Design World leads with cabinet-free automation, where Bosch Rexroth&#8217;s Joaquin Ocampo explains how mounting power electronics directly on the moto...",
-          "link": "https://www.designworldonline.com/september-2026-issue-the-rise-of-cabinet-free-automation/",
+          "title": "binder adds angled M12 connectors for centered PCB mounting",
+          "summary": "binder is expanding its M12 product range with angled panel-mount connectors for centered PCB mounting. The connectors receive the circuit board at its edge and align with the boar...",
+          "link": "https://www.designworldonline.com/binder-adds-angled-m12-connectors-for-centered-pcb-mounting/",
           "source": "Design World"
         }
       ]
