@@ -1,92 +1,92 @@
 {
-  "last_updated": "Tuesday, September 15, 2026 at 12:03 PM IST",
-  "last_updated_iso": "2026-09-15T12:03:31.053648",
+  "last_updated": "Wednesday, September 16, 2026 at 12:02 PM IST",
+  "last_updated_iso": "2026-09-16T12:02:10.187155",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23347.55,
-        "change": -50.54999999999927,
-        "change_pct": -0.21604318299348782,
-        "is_up": false
+        "price": 23213.75,
+        "change": 95.15000000000146,
+        "change_pct": 0.4115733651691774,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 74677.35,
-        "change": -104.40999999998894,
-        "change_pct": -0.13961960777599905,
-        "is_up": false
+        "price": 74315.18,
+        "change": 311.35999999998603,
+        "change_pct": 0.4207350377318171,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 56173.4,
-        "change": -433.15000000000146,
-        "change_pct": -0.7651941338944017,
-        "is_up": false
+        "price": 56097.35,
+        "change": 302.59999999999854,
+        "change_pct": 0.5423449338871462,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "TCS",
-        "price": 2308.8,
-        "change": 108.0,
-        "change_pct": 4.90730643402399,
+        "name": "Reliance",
+        "price": 1250.0,
+        "change": 14.700000000000045,
+        "change_pct": 1.1899943333603211,
         "is_up": true
       },
       {
-        "name": "Infosys",
-        "price": 1081.5,
-        "change": 43.799999999999955,
-        "change_pct": 4.220873084706557,
+        "name": "Sun Pharma",
+        "price": 1849.6,
+        "change": 14.599999999999909,
+        "change_pct": 0.7956403269754719,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 171.25,
-        "change": 3.8499999999999943,
-        "change_pct": 2.299880525686974,
+        "name": "Maruti",
+        "price": 12280.0,
+        "change": 49.0,
+        "change_pct": 0.40062137192380015,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "ICICI Bank",
-        "price": 1353.9,
-        "change": -25.399999999999864,
-        "change_pct": -1.8415138113535754,
+        "name": "Wipro",
+        "price": 167.08,
+        "change": -2.9199999999999875,
+        "change_pct": -1.717647058823522,
         "is_up": false
       },
       {
-        "name": "L&T",
-        "price": 3865.0,
-        "change": -65.69999999999982,
-        "change_pct": -1.6714580100236556,
+        "name": "TCS",
+        "price": 2213.4,
+        "change": -37.59999999999991,
+        "change_pct": -1.6703687250111021,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1256.5,
-        "change": -1.0,
-        "change_pct": -0.07952286282306163,
+        "name": "Infosys",
+        "price": 1066.5,
+        "change": -10.5,
+        "change_pct": -0.9749303621169917,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.91,
-        "change": 0.36999999999999034,
-        "change_pct": 0.3872723466610742,
+        "price": 95.925,
+        "change": 0.0759999999999934,
+        "change_pct": 0.07929138540829159,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4331.2,
-        "change": -20.699999999999818,
-        "change_pct": -0.4756543119097364,
-        "is_up": false
+        "price": 4368.9,
+        "change": 36.099999999999454,
+        "change_pct": 0.8331794682422325,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-          "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it....",
-          "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+          "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker....",
+          "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
           "source": "TechCrunch"
         },
         {
-          "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-          "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently....",
-          "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+          "title": "The AI data center boom is colliding with cities scarred by big industry",
+          "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil...",
+          "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
           "source": "TechCrunch"
         },
         {
-          "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+          "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
           "summary": "",
-          "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+          "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
           "source": "The Verge"
         },
         {
-          "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
           "source": "The Verge"
         },
         {
-          "title": "For the first time, the US military confirms it has deployed weapons in orbit",
-          "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"...",
-          "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+          "title": "How chimps teach their kids tool tricks",
+          "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior....",
+          "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Hero Motors IPO opens tomorrow; GMP signals 29% potential listing upside. Check key details",
-          "summary": "Hero Motors’ Rs 1,000-crore IPO opens on September 16 with a price band of Rs 79–Rs 84 per share. Its Rs 23 grey market premium suggests a potential 27% listing gain, while fresh p...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hero-motors-ipo-opens-tomorrow-gmp-signals-29-potential-listing-upside-check-key-details/articleshow/134253888.cms",
+          "title": "Sensex rises 400 points, Nifty nears 23,250 as investors await Fed meeting outcome. What to expect?",
+          "summary": "Sensex and Nifty rebounded around 0.5% on Wednesday after Tuesday’s selloff wiped out more than Rs 9 lakh crore from Dalal Street. Investors await the Federal Reserve’s policy deci...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-400-points-nifty-nears-23250-as-investors-await-fed-meeting-outcome-what-to-expect/articleshow/134279785.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Goldman, Templeton, Fidelity said to plan buying into NSE IPO",
-          "summary": "Goldman Sachs Asset Management, Franklin Templeton and Fidelity International are among global investors expected to participate as anchor investors in NSE’s IPO. Norges Bank Inves...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/goldman-templeton-fidelity-said-to-plan-buying-into-nse-ipo/articleshow/134253848.cms",
+          "title": "Hero Motors IPO Day 1: Check subscription status, GMP at 23%. Should you subscribe?",
+          "summary": "Hero Motors IPO opened for subscription on September 16 and was subscribed 17% on Day 1. The Rs 1,000 crore issue has a grey market premium of 23%, while brokerages cite its automo...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hero-motors-ipo-day-1-check-subscription-status-gmp-at-23-should-you-subscribe/articleshow/134279544.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Yash Highvoltage rises after subsidiary signs US sales representation agreement",
-          "summary": "Yash Highvoltage rose 2.33% to Rs 967.55 on Tuesday after the company said its US subsidiary entered into a strategic representation agreement....",
-          "link": "https://www.business-standard.com/markets/capital-market-news/yash-highvoltage-rises-after-subsidiary-signs-us-sales-representation-agreement-126091500336_1.html",
+          "title": "HFCL, Sterlite Tech, HEG, MTAR Technologies locked in 5% lower circuits",
+          "summary": "Despite of the recent correction, thus far in the calendar year 2026, the stock price of Sterlite Technologies has skyrocketed 690%, while HFCL has zoomed 142%....",
+          "link": "https://www.business-standard.com/markets/news/hfcl-sterlite-tech-heg-mtar-technologies-locked-in-5-lower-circuits-126091600287_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Apollo rumoured to be eyeing $20bn takeover of J&J’s orthopaedics business",
-          "summary": "These alleged talks come as J&J considers what direction to take orthopaedic specialist, Depuy Synthes in as it spins the unit out. The post Apollo rumoured to be eyeing $20bn take...",
-          "link": "https://www.medicaldevice-network.com/news/apollo-in-talks-to-acquire-j-and-j-orthopaedics-unit-depuy-synthes/",
+          "title": "Agentic AI trust gap slowing healthcare provider adoption, survey reveals",
+          "summary": "As healthcare providers begin to embed agentic AI into their workflows, effective governance and accountability becomes key. The post Agentic AI trust gap slowing healthcare provid...",
+          "link": "https://www.medicaldevice-network.com/news/agentic-ai-trust-gap-slowing-healthcare-provider-adoption-imprivata-survey/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Meta agrees to report child sexual abuse cases to law enforcement agencies: Govt sources",
-          "summary": "The government will take action against platforms that fail to take proactive steps to ensure children's safety online, the sources said, underlining its tough stance on platforms'...",
-          "link": "https://yourstory.com/2026/09/meta-report-child-sexual-abuse-cases-law-enforcement-agencies",
+          "title": "Beyond the hype: Practical Gemini Enterprise AI recipes for SMBs",
+          "summary": "Join Google's SMB experts for a hands-on look at three practical Gemini Enterprise use cases you can set up in 10 minutes or less....",
+          "link": "https://yourstory.com/2026/09/beyond-the-hype-practical-gemini-enterprise-recipes-smbs",
           "source": "YourStory"
         },
         {
-          "title": "Personal loan for home renovation: Costs and benefits",
-          "summary": "Subtitle: A Personal Loan for Home Renovation can be used for painting, repair work, or home upgrades. The good news is there are tonnes of lenders willing to offer this loan. Here...",
-          "link": "https://yourstory.com/2026/09/personal-loan-home-renovation-costs-and-benefits",
+          "title": "Canada’s Teachers’ Venture Growth makes follow-on investment into Darwinbox",
+          "summary": "The Hyderabad-based human capital management tech platform has more than 1,400 customers globally....",
+          "link": "https://yourstory.com/2026/09/teachers-venture-growth-follow-on-investment-darwinbox",
           "source": "YourStory"
         },
         {
-          "title": "Kids’ Nutrition Brands Face A Familiar Struggle",
-          "summary": "Kids want a bar of chocolate, but parents want a healthier snacking option. For years, this has been one of&#8230;...",
-          "link": "https://inc42.com/features/kids-nutrition-brands-face-a-familiar-struggle/",
+          "title": "The Latest Payments Battle Point: AI Agents For Merchants",
+          "summary": "Almost every Indian payments giant delivered a similar pitch at the Global Fintech Fest 2026 organised last week: merchants no&#8230;...",
+          "link": "https://inc42.com/features/the-latest-payments-battle-point-ai-agents-for-merchants/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "The ethics around DEI — or the absence of DEI",
-          "summary": "This is part of our regular series where our ethics panel of experts weigh in on some topic or question of concern to working engineers. For this edition, the problem is one that w...",
-          "link": "https://www.designworldonline.com/the-ethics-around-dei-or-the-absence-of-dei/",
+          "title": "Wrapping our heads around AI in packaging",
+          "summary": "This quick read explains how CPGs and OEMs are moving AI from pilot projects to the plant floor. To start off, this infographic from PMMI summarizes the organization&#8217;s key fi...",
+          "link": "https://www.designworldonline.com/wrapping-our-heads-around-ai-in-packaging/",
           "source": "Design World"
         },
         {
-          "title": "binder adds angled M12 connectors for centered PCB mounting",
-          "summary": "binder is expanding its M12 product range with angled panel-mount connectors for centered PCB mounting. The connectors receive the circuit board at its edge and align with the boar...",
-          "link": "https://www.designworldonline.com/binder-adds-angled-m12-connectors-for-centered-pcb-mounting/",
+          "title": "Redex USA introduces modular tension leveler for continuous lines",
+          "summary": "Redex USA has introduced Levelflex, a modular multi-zone tension leveler for continuous processing lines. The system stretches material to up to 95% of its yield strength to correc...",
+          "link": "https://www.designworldonline.com/redex-usa-introduces-modular-tension-leveler-for-continuous-lines/",
           "source": "Design World"
         }
       ]
