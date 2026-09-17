@@ -1,92 +1,92 @@
 {
-  "last_updated": "Wednesday, September 16, 2026 at 12:02 PM IST",
-  "last_updated_iso": "2026-09-16T12:02:10.187155",
+  "last_updated": "Thursday, September 17, 2026 at 12:01 PM IST",
+  "last_updated_iso": "2026-09-17T12:01:38.599045",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23213.75,
-        "change": 95.15000000000146,
-        "change_pct": 0.4115733651691774,
+        "price": 23311.1,
+        "change": 93.5,
+        "change_pct": 0.4027117359244711,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 74315.18,
-        "change": 311.35999999998603,
-        "change_pct": 0.4207350377318171,
+        "price": 74388.12,
+        "change": 51.669999999998254,
+        "change_pct": 0.06950829640102299,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 56097.35,
-        "change": 302.59999999999854,
-        "change_pct": 0.5423449338871462,
-        "is_up": true
+        "price": 56261.6,
+        "change": -30.849999999998545,
+        "change_pct": -0.05480308638191897,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Reliance",
-        "price": 1250.0,
-        "change": 14.700000000000045,
-        "change_pct": 1.1899943333603211,
-        "is_up": true
-      },
-      {
-        "name": "Sun Pharma",
-        "price": 1849.6,
-        "change": 14.599999999999909,
-        "change_pct": 0.7956403269754719,
-        "is_up": true
-      },
-      {
         "name": "Maruti",
-        "price": 12280.0,
-        "change": 49.0,
-        "change_pct": 0.40062137192380015,
+        "price": 12363.0,
+        "change": 197.0,
+        "change_pct": 1.619266809140227,
+        "is_up": true
+      },
+      {
+        "name": "L&T",
+        "price": 3855.4,
+        "change": 47.70000000000027,
+        "change_pct": 1.2527247419702254,
+        "is_up": true
+      },
+      {
+        "name": "Reliance",
+        "price": 1246.3,
+        "change": 6.2999999999999545,
+        "change_pct": 0.5080645161290286,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Wipro",
-        "price": 167.08,
-        "change": -2.9199999999999875,
-        "change_pct": -1.717647058823522,
-        "is_up": false
-      },
-      {
-        "name": "TCS",
-        "price": 2213.4,
-        "change": -37.59999999999991,
-        "change_pct": -1.6703687250111021,
+        "name": "HDFC Bank",
+        "price": 716.25,
+        "change": -5.25,
+        "change_pct": -0.7276507276507277,
         "is_up": false
       },
       {
         "name": "Infosys",
-        "price": 1066.5,
-        "change": -10.5,
-        "change_pct": -0.9749303621169917,
+        "price": 1057.2,
+        "change": -2.7999999999999545,
+        "change_pct": -0.26415094339622214,
+        "is_up": false
+      },
+      {
+        "name": "TCS",
+        "price": 2184.5,
+        "change": -4.300000000000182,
+        "change_pct": -0.1964546783625814,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.925,
-        "change": 0.0759999999999934,
-        "change_pct": 0.07929138540829159,
-        "is_up": true
+        "price": 95.885,
+        "change": -0.05499999999999261,
+        "change_pct": -0.0573274963518789,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4368.9,
-        "change": 36.099999999999454,
-        "change_pct": 0.8331794682422325,
-        "is_up": true
+        "price": 4345.0,
+        "change": -42.5,
+        "change_pct": -0.9686609686609686,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-          "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker....",
-          "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+          "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+          "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies...",
+          "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
           "source": "TechCrunch"
         },
         {
-          "title": "The AI data center boom is colliding with cities scarred by big industry",
-          "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil...",
-          "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+          "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+          "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed...",
+          "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
           "source": "TechCrunch"
         },
         {
-          "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+          "title": "The streamers are fighting over Halloween",
           "summary": "",
-          "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+          "link": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
           "source": "The Verge"
         },
         {
-          "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+          "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
           "summary": "",
-          "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+          "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
           "source": "The Verge"
         },
         {
-          "title": "How chimps teach their kids tool tricks",
-          "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior....",
-          "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+          "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+          "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades....",
+          "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Sensex rises 400 points, Nifty nears 23,250 as investors await Fed meeting outcome. What to expect?",
-          "summary": "Sensex and Nifty rebounded around 0.5% on Wednesday after Tuesday’s selloff wiped out more than Rs 9 lakh crore from Dalal Street. Investors await the Federal Reserve’s policy deci...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-400-points-nifty-nears-23250-as-investors-await-fed-meeting-outcome-what-to-expect/articleshow/134279785.cms",
+          "title": "Kaynes Tech, Syrma SGS, MosChip, others rally up to 10% as PM Modi set to inaugurate Semicon 2026",
+          "summary": "Semiconductor stocks, including Kaynes Technology, Syrma SGS Technology and MosChip Technologies, rallied up to 10% as investor attention turned to India’s semiconductor ecosystem ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-syrma-sgs-moschip-others-rally-up-to-10-as-pm-modi-set-to-inaugurate-semicon-2026/articleshow/134302961.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Hero Motors IPO Day 1: Check subscription status, GMP at 23%. Should you subscribe?",
-          "summary": "Hero Motors IPO opened for subscription on September 16 and was subscribed 17% on Day 1. The Rs 1,000 crore issue has a grey market premium of 23%, while brokerages cite its automo...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hero-motors-ipo-day-1-check-subscription-status-gmp-at-23-should-you-subscribe/articleshow/134279544.cms",
+          "title": "Global Market: BOJ rate hike bets lift short-term JGB yields to multi-decade highs",
+          "summary": "Japanese government bond yields rose at the short end of the curve, with the 2-year yield reaching its highest level in more than three decades as investors raised bets on a Bank o...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-rate-hike-bets-lift-short-term-jgb-yields-to-multi-decade-highs/articleshow/134302986.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "HFCL, Sterlite Tech, HEG, MTAR Technologies locked in 5% lower circuits",
-          "summary": "Despite of the recent correction, thus far in the calendar year 2026, the stock price of Sterlite Technologies has skyrocketed 690%, while HFCL has zoomed 142%....",
-          "link": "https://www.business-standard.com/markets/news/hfcl-sterlite-tech-heg-mtar-technologies-locked-in-5-lower-circuits-126091600287_1.html",
+          "title": "Barometers trade sideways; auto shares rally for 2nd day",
+          "summary": "The Feds indication of another rate hike in 2026 is likely to keep investors cautious, particularly in rate-sensitive and foreign-portfolio-investment-driven segments. However, buy...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/barometers-trade-sideways-auto-shares-rally-for-2nd-day-126091700380_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Agentic AI trust gap slowing healthcare provider adoption, survey reveals",
-          "summary": "As healthcare providers begin to embed agentic AI into their workflows, effective governance and accountability becomes key. The post Agentic AI trust gap slowing healthcare provid...",
-          "link": "https://www.medicaldevice-network.com/news/agentic-ai-trust-gap-slowing-healthcare-provider-adoption-imprivata-survey/",
+          "title": "Evvy secures $40m to validate AI-based women’s health diagnostics",
+          "summary": "Evvy has raised $40m in an oversubscribed Series B round to advance and validate its AI-powered diagnostic and care models for women’s health. The post Evvy secures $40m to validat...",
+          "link": "https://www.medicaldevice-network.com/news/evvy-secures-40m-ai-womens-health-diagnostics/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Beyond the hype: Practical Gemini Enterprise AI recipes for SMBs",
-          "summary": "Join Google's SMB experts for a hands-on look at three practical Gemini Enterprise use cases you can set up in 10 minutes or less....",
-          "link": "https://yourstory.com/2026/09/beyond-the-hype-practical-gemini-enterprise-recipes-smbs",
+          "title": "Yaanendriya is building the sensors that help robots know where they are",
+          "summary": "Bengaluru deeptech startup Yaanendriya builds inertial sensors and navigation systems for drones, defence, and robots, raising Rs 15 crore in seed funding....",
+          "link": "https://yourstory.com/2026/09/yaanendriya-sensors-navigation-startup",
           "source": "YourStory"
         },
         {
-          "title": "Canada’s Teachers’ Venture Growth makes follow-on investment into Darwinbox",
-          "summary": "The Hyderabad-based human capital management tech platform has more than 1,400 customers globally....",
-          "link": "https://yourstory.com/2026/09/teachers-venture-growth-follow-on-investment-darwinbox",
+          "title": "[Breaking] Applied Materials commits $5B to India semiconductor push",
+          "summary": "The US chip equipment major is planning a 140-acre advanced research park, a 10X expansion of its India supply-chain capacity, and a doubling of its R&D workforce by 2035....",
+          "link": "https://yourstory.com/2026/09/applied-materials-commits-usd-5b-to-india-semiconductor-push",
           "source": "YourStory"
         },
         {
-          "title": "The Latest Payments Battle Point: AI Agents For Merchants",
-          "summary": "Almost every Indian payments giant delivered a similar pitch at the Global Fintech Fest 2026 organised last week: merchants no&#8230;...",
-          "link": "https://inc42.com/features/the-latest-payments-battle-point-ai-agents-for-merchants/",
+          "title": "RentoMojo Makes Strong Market Debut, Lists At Nearly 19% Premium",
+          "summary": "Furniture and appliance rental startup RentoMojo made a strong stock market debut, with its shares listing at a premium of&#8230;...",
+          "link": "https://inc42.com/buzz/rentomojo-makes-strong-market-debut-lists-at-nearly-19-premium/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Wrapping our heads around AI in packaging",
-          "summary": "This quick read explains how CPGs and OEMs are moving AI from pilot projects to the plant floor. To start off, this infographic from PMMI summarizes the organization&#8217;s key fi...",
-          "link": "https://www.designworldonline.com/wrapping-our-heads-around-ai-in-packaging/",
+          "title": "Finally, hard data on humanoid robot cost in the factory",
+          "summary": "Agility Robotics sets benchmark pricing for humanoids for industrial applications. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. The advanta...",
+          "link": "https://www.designworldonline.com/finally-hard-data-on-humanoid-robot-cost-in-the-factory/",
           "source": "Design World"
         },
         {
-          "title": "Redex USA introduces modular tension leveler for continuous lines",
-          "summary": "Redex USA has introduced Levelflex, a modular multi-zone tension leveler for continuous processing lines. The system stretches material to up to 95% of its yield strength to correc...",
-          "link": "https://www.designworldonline.com/redex-usa-introduces-modular-tension-leveler-for-continuous-lines/",
+          "title": "Side hustle to startup: How one design engineer turned 3D printing into a business",
+          "summary": "Here’s a story about David Helmers, a mechanical design engineer who couldn’t shake his entrepreneurial itch and started Wolfpack Workshop with his wife, learning lifelong lessons ...",
+          "link": "https://www.designworldonline.com/side-hustle-to-startup-how-one-design-engineer-turned-3d-printing-into-a-business/",
           "source": "Design World"
         }
       ]
