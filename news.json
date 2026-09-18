@@ -1,92 +1,92 @@
 {
-  "last_updated": "Thursday, September 17, 2026 at 12:01 PM IST",
-  "last_updated_iso": "2026-09-17T12:01:38.599045",
+  "last_updated": "Friday, September 18, 2026 at 11:56 AM IST",
+  "last_updated_iso": "2026-09-18T11:56:48.763565",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23311.1,
-        "change": 93.5,
-        "change_pct": 0.4027117359244711,
+        "price": 23319.85,
+        "change": 49.25,
+        "change_pct": 0.21164043900887816,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 74388.12,
-        "change": 51.669999999998254,
-        "change_pct": 0.06950829640102299,
+        "price": 74426.73,
+        "change": 112.13999999999942,
+        "change_pct": 0.15089903611121236,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 56261.6,
-        "change": -30.849999999998545,
-        "change_pct": -0.05480308638191897,
-        "is_up": false
+        "price": 56176.3,
+        "change": 120.55000000000291,
+        "change_pct": 0.2150537634408654,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Maruti",
-        "price": 12363.0,
-        "change": 197.0,
-        "change_pct": 1.619266809140227,
+        "name": "HDFC Bank",
+        "price": 723.95,
+        "change": 10.950000000000045,
+        "change_pct": 1.5357643758765842,
         "is_up": true
       },
       {
         "name": "L&T",
-        "price": 3855.4,
-        "change": 47.70000000000027,
-        "change_pct": 1.2527247419702254,
+        "price": 3869.8,
+        "change": 33.600000000000364,
+        "change_pct": 0.875866743131233,
         "is_up": true
       },
       {
-        "name": "Reliance",
-        "price": 1246.3,
-        "change": 6.2999999999999545,
-        "change_pct": 0.5080645161290286,
+        "name": "Bharti Airtel",
+        "price": 1840.3,
+        "change": 4.2999999999999545,
+        "change_pct": 0.23420479302831998,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "HDFC Bank",
-        "price": 716.25,
-        "change": -5.25,
-        "change_pct": -0.7276507276507277,
+        "name": "TCS",
+        "price": 2130.2,
+        "change": -59.80000000000018,
+        "change_pct": -2.7305936073059445,
+        "is_up": false
+      },
+      {
+        "name": "Wipro",
+        "price": 163.88,
+        "change": -2.5200000000000102,
+        "change_pct": -1.514423076923083,
         "is_up": false
       },
       {
         "name": "Infosys",
-        "price": 1057.2,
-        "change": -2.7999999999999545,
-        "change_pct": -0.26415094339622214,
-        "is_up": false
-      },
-      {
-        "name": "TCS",
-        "price": 2184.5,
-        "change": -4.300000000000182,
-        "change_pct": -0.1964546783625814,
+        "price": 1044.0,
+        "change": -14.599999999999909,
+        "change_pct": -1.3791800491214727,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.885,
-        "change": -0.05499999999999261,
-        "change_pct": -0.0573274963518789,
+        "price": 95.7825,
+        "change": -0.13750000000000284,
+        "change_pct": -0.14334862385321395,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4345.0,
-        "change": -42.5,
-        "change_pct": -0.9686609686609686,
-        "is_up": false
+        "price": 4424.9,
+        "change": 25.199999999999818,
+        "change_pct": 0.5727663249766989,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-          "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies...",
-          "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+          "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+          "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7....",
+          "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
           "source": "TechCrunch"
         },
         {
-          "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-          "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed...",
-          "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+          "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+          "summary": "The round values the data center giant at $30.9 billion....",
+          "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
           "source": "TechCrunch"
         },
         {
-          "title": "The streamers are fighting over Halloween",
+          "title": "Waymo says Singapore will be its next international robotaxi city",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+          "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
           "source": "The Verge"
         },
         {
-          "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+          "title": "The AI Superintelligence Slowdown",
           "summary": "",
-          "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
           "source": "The Verge"
         },
         {
-          "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-          "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades....",
-          "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+          "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+          "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies....",
+          "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Kaynes Tech, Syrma SGS, MosChip, others rally up to 10% as PM Modi set to inaugurate Semicon 2026",
-          "summary": "Semiconductor stocks, including Kaynes Technology, Syrma SGS Technology and MosChip Technologies, rallied up to 10% as investor attention turned to India’s semiconductor ecosystem ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-syrma-sgs-moschip-others-rally-up-to-10-as-pm-modi-set-to-inaugurate-semicon-2026/articleshow/134302961.cms",
+          "title": "Motilal Oswal sees surging steel prices to offset cost inflation for metal majors. Here are its top stock picks",
+          "summary": "Motilal Oswal expects firm steel prices, lean inventories and resilient demand to support a shift toward pricing- and cost-led earnings growth for domestic steelmakers. The brokera...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-sees-surging-steel-prices-to-offset-cost-inflation-for-metal-majors-here-are-its-top-stock-picks/articleshow/134327119.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: BOJ rate hike bets lift short-term JGB yields to multi-decade highs",
-          "summary": "Japanese government bond yields rose at the short end of the curve, with the 2-year yield reaching its highest level in more than three decades as investors raised bets on a Bank o...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-rate-hike-bets-lift-short-term-jgb-yields-to-multi-decade-highs/articleshow/134302986.cms",
+          "title": "Even JPMorgan can’t predict oil’s next move as Iran war crosses more red lines",
+          "summary": "JPMorgan says it no longer has a clear baseline for oil prices as Middle East tensions deepen supply risks. Brent remains above $100 a barrel, while lower demand and inventory buff...",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/even-jpmorgan-cant-predict-oils-next-move-as-iran-war-crosses-more-red-lines/articleshow/134327059.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Barometers trade sideways; auto shares rally for 2nd day",
-          "summary": "The Feds indication of another rate hike in 2026 is likely to keep investors cautious, particularly in rate-sensitive and foreign-portfolio-investment-driven segments. However, buy...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/barometers-trade-sideways-auto-shares-rally-for-2nd-day-126091700380_1.html",
+          "title": "DOW rebounds from three-month low",
+          "summary": "Powered by Capital Market - Live News...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/dow-rebounds-from-three-month-low-126091800377_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Evvy secures $40m to validate AI-based women’s health diagnostics",
-          "summary": "Evvy has raised $40m in an oversubscribed Series B round to advance and validate its AI-powered diagnostic and care models for women’s health. The post Evvy secures $40m to validat...",
-          "link": "https://www.medicaldevice-network.com/news/evvy-secures-40m-ai-womens-health-diagnostics/",
+          "title": "Everlywell and Waters team up for at-home HPV screening",
+          "summary": "Everlywell has partnered with Waters Corporation to provide patients with access to the Onclarity HPV Self-Collection Kit, an at-home cervical cancer screening option tested using ...",
+          "link": "https://www.medicaldevice-network.com/news/everlywell-waters-home-hpv-screening/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Yaanendriya is building the sensors that help robots know where they are",
-          "summary": "Bengaluru deeptech startup Yaanendriya builds inertial sensors and navigation systems for drones, defence, and robots, raising Rs 15 crore in seed funding....",
-          "link": "https://yourstory.com/2026/09/yaanendriya-sensors-navigation-startup",
+          "title": "7 Roald Dahl books that will reawaken your inner child",
+          "summary": "Revisit 7 magical Roald Dahl books filled with wonder, adventure, and imagination that can make any adult feel like a child again....",
+          "link": "https://yourstory.com/2026/09/roald-dahl-books",
           "source": "YourStory"
         },
         {
-          "title": "[Breaking] Applied Materials commits $5B to India semiconductor push",
-          "summary": "The US chip equipment major is planning a 140-acre advanced research park, a 10X expansion of its India supply-chain capacity, and a doubling of its R&D workforce by 2035....",
-          "link": "https://yourstory.com/2026/09/applied-materials-commits-usd-5b-to-india-semiconductor-push",
+          "title": "From idea to enterprise: Designing startup programmes that deliver long-term impact",
+          "summary": "A strong programme should progressively help founders by focusing on whether the problem is real, whether the product solves it, whether customers adopt it, whether they will pay f...",
+          "link": "https://yourstory.com/2026/09/from-idea-to-enterprise-designing-startup-programmes-that-deliver-long-term-impact",
           "source": "YourStory"
         },
         {
-          "title": "RentoMojo Makes Strong Market Debut, Lists At Nearly 19% Premium",
-          "summary": "Furniture and appliance rental startup RentoMojo made a strong stock market debut, with its shares listing at a premium of&#8230;...",
-          "link": "https://inc42.com/buzz/rentomojo-makes-strong-market-debut-lists-at-nearly-19-premium/",
+          "title": "UPI’s MDR Era, SEMICON India Day 1 Highlights & More",
+          "summary": "Who Will Foot The UPI MDR Bill? UPI transformed digital payments by making them virtually free. From October 15, this&#8230;...",
+          "link": "https://inc42.com/buzz/upis-mdr-era-semicon-india-day-1-highlights-more/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Finally, hard data on humanoid robot cost in the factory",
-          "summary": "Agility Robotics sets benchmark pricing for humanoids for industrial applications. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. The advanta...",
-          "link": "https://www.designworldonline.com/finally-hard-data-on-humanoid-robot-cost-in-the-factory/",
+          "title": "Mind over Machine: Igus at IMTS SPECIAL EDITION",
+          "summary": "In this special edition of Mind over Machine, filmed live at IMTS 2026, Design World Managing Editor Mike Santora catches up with Felix Brockmeyer, CEO of Igus, to dig into the sho...",
+          "link": "https://www.designworldonline.com/mind-over-machine-igus-at-imts-special-edition/",
           "source": "Design World"
         },
         {
-          "title": "Side hustle to startup: How one design engineer turned 3D printing into a business",
-          "summary": "Here’s a story about David Helmers, a mechanical design engineer who couldn’t shake his entrepreneurial itch and started Wolfpack Workshop with his wife, learning lifelong lessons ...",
-          "link": "https://www.designworldonline.com/side-hustle-to-startup-how-one-design-engineer-turned-3d-printing-into-a-business/",
+          "title": "Compact image sensor integrates embedded processing functions",
+          "summary": "STMicroelectronics has introduced ST SafeSense VD56GA, a 1.1 MP automotive image sensor for infrared driver and occupant monitoring. Housed in a 3.7 mm × 3.2 mm CSP package, the se...",
+          "link": "https://www.designworldonline.com/compact-image-sensor-integrates-embedded-processing-functions/",
           "source": "Design World"
         }
       ]
