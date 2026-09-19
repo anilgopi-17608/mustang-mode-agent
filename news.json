@@ -1,82 +1,82 @@
 {
-  "last_updated": "Friday, September 18, 2026 at 11:56 AM IST",
-  "last_updated_iso": "2026-09-18T11:56:48.763565",
+  "last_updated": "Saturday, September 19, 2026 at 11:55 AM IST",
+  "last_updated_iso": "2026-09-19T11:55:07.231050",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23319.85,
-        "change": 49.25,
-        "change_pct": 0.21164043900887816,
+        "price": 23346.4,
+        "change": 75.80000000000291,
+        "change_pct": 0.3257328990228138,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 74426.73,
-        "change": 112.13999999999942,
-        "change_pct": 0.15089903611121236,
-        "is_up": true
+        "price": 74294.96,
+        "change": -41.5399999999936,
+        "change_pct": -0.05588102748985168,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 56176.3,
-        "change": 120.55000000000291,
-        "change_pct": 0.2150537634408654,
+        "price": 56358.7,
+        "change": 302.9499999999971,
+        "change_pct": 0.5404441114426211,
         "is_up": true
       }
     ],
     "gainers": [
       {
+        "name": "Bharti Airtel",
+        "price": 1893.3,
+        "change": 57.299999999999955,
+        "change_pct": 3.1209150326797364,
+        "is_up": true
+      },
+      {
         "name": "HDFC Bank",
-        "price": 723.95,
-        "change": 10.950000000000045,
-        "change_pct": 1.5357643758765842,
+        "price": 731.0,
+        "change": 18.0,
+        "change_pct": 2.524544179523142,
         "is_up": true
       },
       {
         "name": "L&T",
-        "price": 3869.8,
-        "change": 33.600000000000364,
-        "change_pct": 0.875866743131233,
-        "is_up": true
-      },
-      {
-        "name": "Bharti Airtel",
-        "price": 1840.3,
-        "change": 4.2999999999999545,
-        "change_pct": 0.23420479302831998,
+        "price": 3885.0,
+        "change": 48.80000000000018,
+        "change_pct": 1.2720921745477343,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "TCS",
-        "price": 2130.2,
-        "change": -59.80000000000018,
-        "change_pct": -2.7305936073059445,
+        "price": 2105.0,
+        "change": -85.0,
+        "change_pct": -3.881278538812785,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 163.88,
-        "change": -2.5200000000000102,
-        "change_pct": -1.514423076923083,
+        "name": "Maruti",
+        "price": 12103.0,
+        "change": -235.0,
+        "change_pct": -1.9046847138920409,
         "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 1044.0,
-        "change": -14.599999999999909,
-        "change_pct": -1.3791800491214727,
+        "name": "Sun Pharma",
+        "price": 1837.3,
+        "change": -30.0,
+        "change_pct": -1.6065977614737856,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.7825,
-        "change": -0.13750000000000284,
-        "change_pct": -0.14334862385321395,
+        "price": 95.88,
+        "change": -0.04000000000000625,
+        "change_pct": -0.04170141784821336,
         "is_up": false
       }
     ],
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-          "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7....",
-          "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+          "title": "India forces caller-ID apps to feed spam reports to telcos",
+          "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators....",
+          "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
           "source": "TechCrunch"
         },
         {
-          "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-          "summary": "The round values the data center giant at $30.9 billion....",
-          "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+          "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+          "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese....",
+          "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
           "source": "TechCrunch"
         },
         {
-          "title": "Waymo says Singapore will be its next international robotaxi city",
+          "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
           "summary": "",
-          "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
           "source": "The Verge"
         },
         {
-          "title": "The AI Superintelligence Slowdown",
+          "title": "Virginia governor creates an AI task force and moves to restrain data centers",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+          "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
           "source": "The Verge"
         },
         {
-          "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
-          "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies....",
-          "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+          "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+          "summary": "But the military's overall use of AI seems to be accelerating....",
+          "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Motilal Oswal sees surging steel prices to offset cost inflation for metal majors. Here are its top stock picks",
-          "summary": "Motilal Oswal expects firm steel prices, lean inventories and resilient demand to support a shift toward pricing- and cost-led earnings growth for domestic steelmakers. The brokera...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-sees-surging-steel-prices-to-offset-cost-inflation-for-metal-majors-here-are-its-top-stock-picks/articleshow/134327119.cms",
+          "title": "Warren Buffett’s culture, values he championed will stay and his son will be the guardian, says CEO Greg Abel",
+          "summary": "Warren Buffett has stepped down as Berkshire Hathaway chairman after more than 60 years, handing the role to his son Howard Buffett while Greg Abel continues as CEO. Abel said Buff...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffetts-culture-values-he-championed-will-stay-and-his-son-will-be-the-guardian-says-ceo-greg-abel/articleshow/134348711.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Even JPMorgan can’t predict oil’s next move as Iran war crosses more red lines",
-          "summary": "JPMorgan says it no longer has a clear baseline for oil prices as Middle East tensions deepen supply risks. Brent remains above $100 a barrel, while lower demand and inventory buff...",
-          "link": "https://economictimes.indiatimes.com/markets/commodities/even-jpmorgan-cant-predict-oils-next-move-as-iran-war-crosses-more-red-lines/articleshow/134327059.cms",
+          "title": "Concurrent Gainers: 10 smallcap stocks that gain for 5 days in a row",
+          "summary": "Ten BSE SmallCap stocks, led by Moneyboxx Finance with a 47% gain, rose in each of the five trading sessions through September 18 despite broader market weakness....",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-10-smallcap-stocks-that-gain-for-5-days-in-a-row/slideshow/134348701.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "DOW rebounds from three-month low",
-          "summary": "Powered by Capital Market - Live News...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/dow-rebounds-from-three-month-low-126091800377_1.html",
+          "title": "Mazagon Dock inks MoU for greenfield shipbuilding cluster in Andhra Pradesh",
+          "summary": "Mazagon Dock Shipbuilders (MDL) has entered into an MoU with National Shipbuilding & Heavy Industries Park Andhra Pradesh (NSHIPAP) to serve as the anchor shipyard for the proposed...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/mazagon-dock-inks-mou-for-greenfield-shipbuilding-cluster-in-andhra-pradesh-126091900237_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -165,21 +165,21 @@
       "color": "#16a34a",
       "items": [
         {
-          "title": "How Vitestro’s first-of-its-kind Aletta robot autonomously draws blood",
-          "summary": "Vitestro’s first-of-its-kind Aletta robotic phlebotomy device draws blood autonomously from “placing the tourniquet to applying the bandage,” in the company&#8217;s words. FDA gran...",
-          "link": "https://www.medicaldesignandoutsourcing.com/vitestro-aletta-autonomous-robotic-phlebotomy-blood-draws/",
+          "title": "Yale-led study finds wearable sensors match motion capture for gait tracking in knee osteoarthritis",
+          "summary": "A group of international researchers found that foot-mounted wearable sensors could provide lab-quality gait data from patients with knee osteoarthritis without the use of sophisti...",
+          "link": "https://www.medicaldesignandoutsourcing.com/yale-wearable-sensors-versus-motion-capture-gait-tracking-knee-osteoarthritis/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Medical device CDMO Lighteum Medical hires new CEO",
-          "summary": "Nitinol supplier Lighteum Medical has hired Gaurav Agarwal as CEO effective Aug. 31, 2026. “Gaurav is an accomplished medtech leader and proven growth-oriented operator with a trac...",
-          "link": "https://www.medicaldesignandoutsourcing.com/lighteum-hires-gaurav-agarwal-ceo/",
+          "title": "Data breaches are killing more deals than anything else, these M&A lawyers say",
+          "summary": "Acquisitions and divestitures drove most of the big changes on Medical Design &#38; Outsourcing&#8216;s 2026 Medtech Big 100 ranking of the world&#8217;s largest device companies, ...",
+          "link": "https://www.medicaldesignandoutsourcing.com/medtech-mergers-trends-private-equity-data-breaches/",
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Everlywell and Waters team up for at-home HPV screening",
-          "summary": "Everlywell has partnered with Waters Corporation to provide patients with access to the Onclarity HPV Self-Collection Kit, an at-home cervical cancer screening option tested using ...",
-          "link": "https://www.medicaldevice-network.com/news/everlywell-waters-home-hpv-screening/",
+          "title": "FIZE Medical secures $20m funding to advance FIZE Optima system",
+          "summary": "FIZE Medical has completed the first close of its $20m Series B round to support the development of its next-generation FIZE Optima platform. The post FIZE Medical secures $20m fun...",
+          "link": "https://www.medicaldevice-network.com/news/fize-medical-20m-funding-fize-optima-system/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "7 Roald Dahl books that will reawaken your inner child",
-          "summary": "Revisit 7 magical Roald Dahl books filled with wonder, adventure, and imagination that can make any adult feel like a child again....",
-          "link": "https://yourstory.com/2026/09/roald-dahl-books",
+          "title": "10 Quotes to help you stop comparing yourself to others",
+          "summary": "Discover 10 powerful quotes that help you stop comparing yourself to others and focus on your own growth, confidence, and happiness....",
+          "link": "https://yourstory.com/2026/09/quotes-comparing-yourself",
           "source": "YourStory"
         },
         {
-          "title": "From idea to enterprise: Designing startup programmes that deliver long-term impact",
-          "summary": "A strong programme should progressively help founders by focusing on whether the problem is real, whether the product solves it, whether customers adopt it, whether they will pay f...",
-          "link": "https://yourstory.com/2026/09/from-idea-to-enterprise-designing-startup-programmes-that-deliver-long-term-impact",
+          "title": "Design with purpose: How Jaipur’s Saraswati Rugs places Indian craft on the global map",
+          "summary": "In this photo essay, we showcase the phases of rug making from Saraswati Rugs in Jaipur, along with leader insights....",
+          "link": "https://yourstory.com/2026/09/design-purpose-jaipur-saraswati-rugs-creativity-photography",
           "source": "YourStory"
         },
         {
-          "title": "UPI’s MDR Era, SEMICON India Day 1 Highlights & More",
-          "summary": "Who Will Foot The UPI MDR Bill? UPI transformed digital payments by making them virtually free. From October 15, this&#8230;...",
-          "link": "https://inc42.com/buzz/upis-mdr-era-semicon-india-day-1-highlights-more/",
+          "title": "From Flam To VerifAIX — Indian Startups Raised About $59 Mn This Week",
+          "summary": "While the introduction of MDR on UPI dominated India’s new-age tech discourse this week, startup funding fell sharply. Fourteen startups&#8230;...",
+          "link": "https://inc42.com/buzz/from-flam-to-verifaix-indian-startups-raised-about-59-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Mind over Machine: Igus at IMTS SPECIAL EDITION",
-          "summary": "In this special edition of Mind over Machine, filmed live at IMTS 2026, Design World Managing Editor Mike Santora catches up with Felix Brockmeyer, CEO of Igus, to dig into the sho...",
-          "link": "https://www.designworldonline.com/mind-over-machine-igus-at-imts-special-edition/",
+          "title": "Is technology value neutral?",
+          "summary": "One of the central ideas in the philosophy and ethics of technology is the question of technology&#8217;s moral and political value. Hence, the question of whether technology can b...",
+          "link": "https://www.designworldonline.com/is-technology-value-neutral/",
           "source": "Design World"
         },
         {
-          "title": "Compact image sensor integrates embedded processing functions",
-          "summary": "STMicroelectronics has introduced ST SafeSense VD56GA, a 1.1 MP automotive image sensor for infrared driver and occupant monitoring. Housed in a 3.7 mm × 3.2 mm CSP package, the se...",
-          "link": "https://www.designworldonline.com/compact-image-sensor-integrates-embedded-processing-functions/",
+          "title": "Banner introduces S100 multi-touch display for machine control",
+          "summary": "Banner Engineering has introduced the S100 Multi-Touch Display, an operator interface for point-of-use machine interaction. The display combines up to five touch zones with haptic ...",
+          "link": "https://www.designworldonline.com/banner-introduces-s100-multi-touch-display-for-machine-control/",
           "source": "Design World"
         }
       ]
