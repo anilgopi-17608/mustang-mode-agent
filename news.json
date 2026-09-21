@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, September 20, 2026 at 12:17 PM IST",
-  "last_updated_iso": "2026-09-20T12:17:40.001519",
+  "last_updated": "Monday, September 21, 2026 at 12:24 PM IST",
+  "last_updated_iso": "2026-09-21T12:24:37.215976",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23346.4,
-        "change": 75.80000000000291,
-        "change_pct": 0.3257328990228138,
+        "price": 23413.15,
+        "change": 66.75,
+        "change_pct": 0.28591131823321797,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 74294.96,
-        "change": -41.5399999999936,
-        "change_pct": -0.05588102748985168,
-        "is_up": false
+        "price": 74821.54,
+        "change": 526.5799999999872,
+        "change_pct": 0.7087694777680574,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 56358.7,
-        "change": 302.9499999999971,
-        "change_pct": 0.5404441114426211,
+        "price": 56413.7,
+        "change": 55.0,
+        "change_pct": 0.09758919208569396,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1893.3,
-        "change": 57.299999999999955,
-        "change_pct": 3.1209150326797364,
+        "name": "Sun Pharma",
+        "price": 1877.2,
+        "change": 39.90000000000009,
+        "change_pct": 2.171664943123066,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 731.0,
-        "change": 18.0,
-        "change_pct": 2.524544179523142,
+        "name": "Reliance",
+        "price": 1241.8,
+        "change": 15.399999999999864,
+        "change_pct": 1.2557077625570665,
         "is_up": true
       },
       {
-        "name": "L&T",
-        "price": 3885.0,
-        "change": 48.80000000000018,
-        "change_pct": 1.2720921745477343,
+        "name": "TCS",
+        "price": 2124.7,
+        "change": 19.699999999999818,
+        "change_pct": 0.935866983372913,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "TCS",
-        "price": 2105.0,
-        "change": -85.0,
-        "change_pct": -3.881278538812785,
+        "name": "Bharti Airtel",
+        "price": 1834.3,
+        "change": -59.0,
+        "change_pct": -3.116252046690963,
         "is_up": false
       },
       {
-        "name": "Maruti",
-        "price": 12103.0,
-        "change": -235.0,
-        "change_pct": -1.9046847138920409,
+        "name": "Wipro",
+        "price": 164.19,
+        "change": -2.640000000000015,
+        "change_pct": -1.58244919978422,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1837.3,
-        "change": -30.0,
-        "change_pct": -1.6065977614737856,
+        "name": "Infosys",
+        "price": 1037.3,
+        "change": -14.100000000000136,
+        "change_pct": -1.3410690507894365,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.88,
-        "change": -0.04000000000000625,
-        "change_pct": -0.04170141784821336,
+        "price": 95.825,
+        "change": -0.0379999999999967,
+        "change_pct": -0.03963990277791922,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4424.9,
-        "change": 25.199999999999818,
-        "change_pct": 0.5727663249766989,
-        "is_up": true
+        "price": 4388.5,
+        "change": -36.399999999999636,
+        "change_pct": -0.8226174602815802,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-          "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff....",
-          "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+          "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then....",
+          "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
           "source": "TechCrunch"
         },
         {
-          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax....",
-          "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "title": "World model companies are keeping a lot of secrets",
+          "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what t...",
+          "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+          "title": "No Dogs in Space is back to feed your need for obsessive music history",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+          "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
           "source": "The Verge"
         },
         {
-          "title": "Trump treads further on free speech with new journalist bans",
+          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
           "summary": "",
-          "link": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
           "source": "The Verge"
         },
         {
-          "title": "Learning another language may be one of the best ways to keep your brain healthy",
-          "summary": "Research suggests that bilingualism can offer cognitive benefits....",
-          "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+          "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+          "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle....",
+          "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Rs 4,169 crore IPO rush this week: 19 issues to open for subscription; NSE to lead 12 listings",
-          "summary": "India’s primary market is set for a busy week, with 19 IPOs aiming to raise around Rs 4,169 crore, led by Elevate Campuses and Varmora Granito. The week will also see 12 listings, ...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-4169-crore-ipo-rush-this-week-19-issues-to-open-for-subscription-nse-to-lead-12-listings/articleshow/134364576.cms",
+          "title": "OFSS shares tumble 7%; Wipro, Coforge, Infosys shares down up to 2%. Why are IT stocks under pressure today?",
+          "summary": "Shares of OFSS fell over 7% while top IT stocks including Infosys, Wipro, and Coforge dropped up to 2% on Monday. The drag comes following reports of Oracle's $18 billion data cent...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ofss-shares-tumble-7-wipro-coforge-infosys-shares-down-up-to-2-why-are-it-stocks-under-pressure-today/articleshow/134381888.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "NSE GMP falls to its lowest level since the IPO announcement. Is the listing pop fading?",
-          "summary": "NSE IPO’s grey market premium has fallen from Rs 192 to around Rs 58, implying a listing premium of just over 3% at the upper price band. The decline comes despite the Rs 22,562-cr...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-gmp-falls-to-its-lowest-level-since-the-ipo-announcement-is-the-listing-pop-fading/articleshow/134364080.cms",
+          "title": "Global Markets: 5 key things to watch out for this week",
+          "summary": "Global markets face a busy week as investors track US-China talks, Treasury yields, the UN General Assembly, AI risks and Indonesia’s rate decision, with geopolitical tensions and ...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-key-things-to-watch-out-for-this-week/slideshow/134382188.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "FPIs withdraw ₹20,974 crore from equities in Sep amid global uncertainty",
-          "summary": "Foreign Portfolio Investors (FPIs) have turned cautious again, pulling out Rs 20,974 crore from Indian equities so far in September amid global uncertainties, higher US interest ra...",
-          "link": "https://www.business-standard.com/markets/news/fpis-withdraw-20-974-crore-from-equities-in-sep-amid-global-uncertainty-126092000171_1.html",
+          "title": "Stallion India hits the roof after commencing commercial operations at Khalapur facility",
+          "summary": "Stallion India Fluorochemicals hit an upper circuit of 5% at Rs 230.50 after the company commenced commercial operations at its Semiconductor & Specialty Gas debulking and blending...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/stallion-india-hits-the-roof-after-commencing-commercial-operations-at-khalapur-facility-126092100343_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Who will build India’s next 100 chip companies? Giving robots a sense of direction",
-          "summary": "At Semicon India 2026 in New Delhi, MeitY Secretary S. Krishnan highlighted the rapid momentum of the India Semiconductor Mission (ISM), which has successfully transitioned from a ...",
-          "link": "https://yourstory.com/2026/09/who-will-build-indias-next-100-chip-companies",
+          "title": "His software is inside your router. Now he wants it inside much smaller things",
+          "summary": "Rajesh Subramaniam grew up in Triplicane in Chennai, reached Silicon Valley in 1994, and has spent 22 years building embedUR into a company of nearly 500 people without taking a ru...",
+          "link": "https://yourstory.com/2026/09/his-software-inside-your-router-he-wants-it-much-smaller-things",
           "source": "YourStory"
         },
         {
-          "title": "From an IIT Bombay lab to a Rs 1,000 Cr IPO",
-          "summary": "In this episode, Professor Shashikanth (IIT Bombay) shares his journey of building SEDEMAC, a deeptech startup that has crossed Rs 1,000 crore in annual revenue, Rs 1,087 crore IPO...",
-          "link": "https://yourstory.com/2026/09/from-an-iit-bombay-lab-to-a-1000-crore-ipo",
+          "title": "Connections and conversations: How effective curation creates impact for art exhibitions",
+          "summary": "In this photo essay, we showcase artistic highlights from the ‘One | Many’ exhibition at the India Habitat Centre....",
+          "link": "https://yourstory.com/2026/09/connections-conversations-curation-art-exhibitions-photography",
           "source": "YourStory"
         },
         {
-          "title": "The UPI Shake-Up Begins",
-          "summary": "A customer scans a QR code at a neighbourhood shop, enters a passcode and the payment is done. Similarly, a&#8230;...",
-          "link": "https://inc42.com/features/the-upi-shake-up-begins/",
+          "title": "Moneyview Sets ₹32-₹34 Price Band For ₹1,092 Cr IPO",
+          "summary": "Accel-backed fintech company Moneyview has fixed the price band for its IPO at ₹32-₹34 per equity share, with the issue&#8230;...",
+          "link": "https://inc42.com/buzz/moneyview-sets-%e2%82%b932-%e2%82%b934-price-band-for-%e2%82%b91092-cr-ipo/",
           "source": "Inc42"
         }
       ]
