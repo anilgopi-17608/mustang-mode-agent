@@ -1,91 +1,91 @@
 {
-  "last_updated": "Monday, September 21, 2026 at 12:24 PM IST",
-  "last_updated_iso": "2026-09-21T12:24:37.215976",
+  "last_updated": "Tuesday, September 22, 2026 at 12:10 PM IST",
+  "last_updated_iso": "2026-09-22T12:10:07.287794",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23413.15,
-        "change": 66.75,
-        "change_pct": 0.28591131823321797,
-        "is_up": true
+        "price": 23364.4,
+        "change": -49.89999999999782,
+        "change_pct": -0.21311762469942652,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 74821.54,
-        "change": 526.5799999999872,
-        "change_pct": 0.7087694777680574,
-        "is_up": true
+        "price": 74635.03,
+        "change": -223.9600000000064,
+        "change_pct": -0.2991758237721433,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 56413.7,
-        "change": 55.0,
-        "change_pct": 0.09758919208569396,
-        "is_up": true
+        "price": 56294.4,
+        "change": -176.25,
+        "change_pct": -0.31210903363074444,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Sun Pharma",
-        "price": 1877.2,
-        "change": 39.90000000000009,
-        "change_pct": 2.171664943123066,
+        "name": "HDFC Bank",
+        "price": 744.1,
+        "change": 4.600000000000023,
+        "change_pct": 0.6220419202163655,
         "is_up": true
       },
       {
-        "name": "Reliance",
-        "price": 1241.8,
-        "change": 15.399999999999864,
-        "change_pct": 1.2557077625570665,
+        "name": "Maruti",
+        "price": 12191.0,
+        "change": 38.0,
+        "change_pct": 0.3126799967086316,
         "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2124.7,
-        "change": 19.699999999999818,
-        "change_pct": 0.935866983372913,
-        "is_up": true
+        "name": "Bharti Airtel",
+        "price": 1826.5,
+        "change": -3.7000000000000455,
+        "change_pct": -0.20216369795650996,
+        "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1834.3,
-        "change": -59.0,
-        "change_pct": -3.116252046690963,
-        "is_up": false
-      },
-      {
-        "name": "Wipro",
-        "price": 164.19,
-        "change": -2.640000000000015,
-        "change_pct": -1.58244919978422,
-        "is_up": false
-      },
-      {
         "name": "Infosys",
-        "price": 1037.3,
-        "change": -14.100000000000136,
-        "change_pct": -1.3410690507894365,
+        "price": 1024.2,
+        "change": -14.299999999999955,
+        "change_pct": -1.3769860375541603,
+        "is_up": false
+      },
+      {
+        "name": "TCS",
+        "price": 2103.0,
+        "change": -25.699999999999818,
+        "change_pct": -1.2073096255930764,
+        "is_up": false
+      },
+      {
+        "name": "Sun Pharma",
+        "price": 1847.0,
+        "change": -21.90000000000009,
+        "change_pct": -1.1718122960030013,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.825,
-        "change": -0.0379999999999967,
-        "change_pct": -0.03963990277791922,
-        "is_up": false
+        "price": 95.8175,
+        "change": 0.012499999999988631,
+        "change_pct": 0.01304733573403124,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4388.5,
-        "change": -36.399999999999636,
-        "change_pct": -0.8226174602815802,
+        "price": 4354.5,
+        "change": -29.399999999999636,
+        "change_pct": -0.670635735304173,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-          "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then....",
-          "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+          "title": "Morphotonics raises €40M to expand its display tech into data centers",
+          "summary": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL....",
+          "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
           "source": "TechCrunch"
         },
         {
-          "title": "World model companies are keeping a lot of secrets",
-          "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what t...",
-          "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+          "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people....",
+          "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
           "source": "TechCrunch"
         },
         {
-          "title": "No Dogs in Space is back to feed your need for obsessive music history",
+          "title": "A cut cable disrupted hundreds of flights across the US",
           "summary": "",
-          "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+          "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
           "source": "The Verge"
         },
         {
-          "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
           "source": "The Verge"
         },
         {
-          "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-          "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle....",
-          "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+          "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "summary": "A simple ClickFix attack is only one way to completely hijack the new agent....",
+          "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "OFSS shares tumble 7%; Wipro, Coforge, Infosys shares down up to 2%. Why are IT stocks under pressure today?",
-          "summary": "Shares of OFSS fell over 7% while top IT stocks including Infosys, Wipro, and Coforge dropped up to 2% on Monday. The drag comes following reports of Oracle's $18 billion data cent...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ofss-shares-tumble-7-wipro-coforge-infosys-shares-down-up-to-2-why-are-it-stocks-under-pressure-today/articleshow/134381888.cms",
+          "title": "Indian bonds steady as RBI rate hike expectations strengthen",
+          "summary": "Bond yields for Indian government securities showed little fluctuation as markets brace for ongoing liquidity withdrawals. Specifically, the yield for the benchmark 2036 bond settl...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-steady-as-rbi-rate-hike-expectations-strengthen/articleshow/134404667.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Markets: 5 key things to watch out for this week",
-          "summary": "Global markets face a busy week as investors track US-China talks, Treasury yields, the UN General Assembly, AI risks and Indonesia’s rate decision, with geopolitical tensions and ...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-key-things-to-watch-out-for-this-week/slideshow/134382188.cms",
+          "title": "South Korean pension fund seeks India government bond investment licence: Report",
+          "summary": "South Korea's significant pension fund is looking to invest in Indian government bonds, as India strives to enhance foreign capital influx via streamlined registration processes. T...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/south-korean-pension-fund-seeks-india-government-bond-investment-licence-report/articleshow/134404611.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Stallion India hits the roof after commencing commercial operations at Khalapur facility",
-          "summary": "Stallion India Fluorochemicals hit an upper circuit of 5% at Rs 230.50 after the company commenced commercial operations at its Semiconductor & Specialty Gas debulking and blending...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/stallion-india-hits-the-roof-after-commencing-commercial-operations-at-khalapur-facility-126092100343_1.html",
+          "title": "BSE SME Quanto Agroworld loses its footing after debut",
+          "summary": "Quanto Agroworld traded at Rs 63.65 on the BSE, down 5% from its issue price of Rs 67....",
+          "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-quanto-agroworld-loses-its-footing-after-debut-126092200346_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FIZE Medical secures $20m funding to advance FIZE Optima system",
-          "summary": "FIZE Medical has completed the first close of its $20m Series B round to support the development of its next-generation FIZE Optima platform. The post FIZE Medical secures $20m fun...",
-          "link": "https://www.medicaldevice-network.com/news/fize-medical-20m-funding-fize-optima-system/",
+          "title": "Koning Health secures Australian TGA approval for breast CT system",
+          "summary": "Koning Health has received regulatory approval from Australia's Therapeutic Goods Administration for its Koning Breast CT System. The post Koning Health secures Australian TGA appr...",
+          "link": "https://www.medicaldevice-network.com/news/koning-health-australian-approval-breast-ct-system/",
           "source": "Medical Device Network"
         }
       ]
@@ -194,15 +194,15 @@
           "source": "YourStory"
         },
         {
-          "title": "Connections and conversations: How effective curation creates impact for art exhibitions",
-          "summary": "In this photo essay, we showcase artistic highlights from the ‘One | Many’ exhibition at the India Habitat Centre....",
-          "link": "https://yourstory.com/2026/09/connections-conversations-curation-art-exhibitions-photography",
+          "title": "Building intelligent enterprises: why developers must bridge code and business reality",
+          "summary": "Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era Strapline: At DevSpa...",
+          "link": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality",
           "source": "YourStory"
         },
         {
-          "title": "Moneyview Sets ₹32-₹34 Price Band For ₹1,092 Cr IPO",
-          "summary": "Accel-backed fintech company Moneyview has fixed the price band for its IPO at ₹32-₹34 per equity share, with the issue&#8230;...",
-          "link": "https://inc42.com/buzz/moneyview-sets-%e2%82%b932-%e2%82%b934-price-band-for-%e2%82%b91092-cr-ipo/",
+          "title": "Meesho Surges 9% After UBS Raises Target Price To ₹260",
+          "summary": "Shares of ecommerce major Meesho surged as much as 9.3% during the intraday trading after brokerage UBS maintained its ‘Buy’&#8230;...",
+          "link": "https://inc42.com/buzz/meesho-surges-9-after-ubs-raises-target-price-to-%e2%82%b9260/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +211,28 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Is technology value neutral?",
-          "summary": "One of the central ideas in the philosophy and ethics of technology is the question of technology&#8217;s moral and political value. Hence, the question of whether technology can b...",
-          "link": "https://www.designworldonline.com/is-technology-value-neutral/",
+          "title": "Are we progressing or backsliding on diversity and inclusion?",
+          "summary": "Design World sat down with New York Times bestselling author Dr. Lois Frankel, author of “Nice Girls Don’t Get the Corner Office,” to gain perspective on what’s changed, what hasn’...",
+          "link": "https://www.designworldonline.com/are-we-progressing-or-backsliding-on-diversity-and-inclusion/",
           "source": "Design World"
         },
         {
-          "title": "Banner introduces S100 multi-touch display for machine control",
-          "summary": "Banner Engineering has introduced the S100 Multi-Touch Display, an operator interface for point-of-use machine interaction. The display combines up to five touch zones with haptic ...",
-          "link": "https://www.designworldonline.com/banner-introduces-s100-multi-touch-display-for-machine-control/",
+          "title": "Wider industry shifts evident at Motion Ai",
+          "summary": "At the recent Automate Show in Chicago, we met with Steve Keeney, Motion Automation Intelligence (Motion Ai) director of product management, to discuss the rise of low-cost automat...",
+          "link": "https://www.designworldonline.com/wider-industry-shifts-evident-at-motion-ai/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "iPhone 18 Pro Review: All About that Chip",
+          "summary": "iPhone 18 Pro is basically an S year upgrade. And one part of it is really impressive.\n\nProtect your new iPhone 18 with a case or screen protector at http://dbrand.com/shop/iphone-...",
+          "link": "https://www.youtube.com/watch?v=ohqxP8EEumo",
+          "source": "MKBHD",
+          "thumbnail": "https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg"
         }
       ]
     }
