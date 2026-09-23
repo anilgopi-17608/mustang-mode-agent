@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, September 22, 2026 at 12:10 PM IST",
-  "last_updated_iso": "2026-09-22T12:10:07.287794",
+  "last_updated": "Wednesday, September 23, 2026 at 11:59 AM IST",
+  "last_updated_iso": "2026-09-23T11:59:21.612505",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23364.4,
-        "change": -49.89999999999782,
-        "change_pct": -0.21311762469942652,
-        "is_up": false
+        "price": 23428.3,
+        "change": 99.29999999999927,
+        "change_pct": 0.42565047794590116,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 74635.03,
-        "change": -223.9600000000064,
-        "change_pct": -0.2991758237721433,
-        "is_up": false
+        "price": 74889.06,
+        "change": 359.9799999999959,
+        "change_pct": 0.48300609641229425,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 56294.4,
-        "change": -176.25,
-        "change_pct": -0.31210903363074444,
-        "is_up": false
+        "price": 56529.8,
+        "change": 314.25,
+        "change_pct": 0.5590090286406519,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "HDFC Bank",
-        "price": 744.1,
-        "change": 4.600000000000023,
-        "change_pct": 0.6220419202163655,
+        "name": "L&T",
+        "price": 3925.8,
+        "change": 59.40000000000009,
+        "change_pct": 1.5363128491620135,
         "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 12191.0,
-        "change": 38.0,
-        "change_pct": 0.3126799967086316,
+        "name": "Reliance",
+        "price": 1249.0,
+        "change": 8.599999999999909,
+        "change_pct": 0.6933247339567807,
         "is_up": true
       },
       {
         "name": "Bharti Airtel",
-        "price": 1826.5,
-        "change": -3.7000000000000455,
-        "change_pct": -0.20216369795650996,
-        "is_up": false
+        "price": 1825.6,
+        "change": 8.399999999999864,
+        "change_pct": 0.4622496147919802,
+        "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1024.2,
-        "change": -14.299999999999955,
-        "change_pct": -1.3769860375541603,
-        "is_up": false
-      },
-      {
         "name": "TCS",
-        "price": 2103.0,
-        "change": -25.699999999999818,
-        "change_pct": -1.2073096255930764,
+        "price": 2091.0,
+        "change": -14.0,
+        "change_pct": -0.665083135391924,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1847.0,
-        "change": -21.90000000000009,
-        "change_pct": -1.1718122960030013,
+        "name": "Wipro",
+        "price": 164.93,
+        "change": -1.0699999999999932,
+        "change_pct": -0.6445783132530079,
+        "is_up": false
+      },
+      {
+        "name": "Infosys",
+        "price": 1023.0,
+        "change": -6.400000000000091,
+        "change_pct": -0.6217213911016214,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.8175,
-        "change": 0.012499999999988631,
-        "change_pct": 0.01304733573403124,
+        "price": 95.7075,
+        "change": 0.12749999999999773,
+        "change_pct": 0.13339610797237678,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4354.5,
-        "change": -29.399999999999636,
-        "change_pct": -0.670635735304173,
+        "price": 4366.7,
+        "change": -9.699999999999818,
+        "change_pct": -0.22164335983913308,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Morphotonics raises €40M to expand its display tech into data centers",
-          "summary": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL....",
-          "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+          "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+          "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what...",
+          "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
           "source": "TechCrunch"
         },
         {
-          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-          "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people....",
-          "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+          "title": "Discord’s age verification era is upon us, despite community backlash",
+          "summary": "According to Discord, 90% of users will not have to verify their age....",
+          "link": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
           "source": "TechCrunch"
         },
         {
-          "title": "A cut cable disrupted hundreds of flights across the US",
+          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
           "summary": "",
-          "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
           "source": "The Verge"
         },
         {
-          "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+          "title": "Paramount will need to release way more movies to make this merger work",
           "summary": "",
-          "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+          "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
           "source": "The Verge"
         },
         {
-          "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "summary": "A simple ClickFix attack is only one way to completely hijack the new agent....",
-          "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+          "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+          "summary": "There is no single definitive test for these worms, but the tail is fairly convincing....",
+          "link": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Indian bonds steady as RBI rate hike expectations strengthen",
-          "summary": "Bond yields for Indian government securities showed little fluctuation as markets brace for ongoing liquidity withdrawals. Specifically, the yield for the benchmark 2036 bond settl...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-steady-as-rbi-rate-hike-expectations-strengthen/articleshow/134404667.cms",
+          "title": "Global Market: China, Hong Kong stocks fall as investors temper Trump-Xi meeting hopes; property shares gain",
+          "summary": "China and Hong Kong stocks declined on Wednesday as investor expectations surrounding the upcoming summit between US President Donald Trump and Chinese President Xi Jinping cooled....",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-fall-as-investors-temper-trump-xi-meeting-hopes-property-shares-gain/articleshow/134427229.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "South Korean pension fund seeks India government bond investment licence: Report",
-          "summary": "South Korea's significant pension fund is looking to invest in Indian government bonds, as India strives to enhance foreign capital influx via streamlined registration processes. T...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/south-korean-pension-fund-seeks-india-government-bond-investment-licence-report/articleshow/134404611.cms",
+          "title": "IonQ's South Korea Push: What investors need to know",
+          "summary": "IonQ shares surged 9.3% following significant updates on its Asia-Pacific expansion and technological advancements. The quantum-computing firm is deepening its presence in South Ko...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ionqs-south-korea-push-what-investors-need-to-know/slideshow/134427429.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "BSE SME Quanto Agroworld loses its footing after debut",
-          "summary": "Quanto Agroworld traded at Rs 63.65 on the BSE, down 5% from its issue price of Rs 67....",
-          "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-quanto-agroworld-loses-its-footing-after-debut-126092200346_1.html",
+          "title": "Nifty above 23,400 level; FMCG shares advance",
+          "summary": "At 11:30 IST, the barometer index, the S&P BSE Sensex, jumped 328.91 points or 0.44% to 74,857.99. The Nifty 50 index rose 104.55 points or 0.40% to 23,432.05....",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-above-23-400-level-fmcg-shares-advance-126092300381_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Koning Health secures Australian TGA approval for breast CT system",
-          "summary": "Koning Health has received regulatory approval from Australia's Therapeutic Goods Administration for its Koning Breast CT System. The post Koning Health secures Australian TGA appr...",
-          "link": "https://www.medicaldevice-network.com/news/koning-health-australian-approval-breast-ct-system/",
+          "title": "Why Most FDA Warning Letters Share a Single — and Fixable — Root Cause",
+          "summary": "The post Why Most FDA Warning Letters Share a Single — and Fixable — Root Cause appeared first on Medical Device Network ....",
+          "link": "https://www.medicaldevice-network.com/sponsored/why-most-fda-warning-letters-share-a-single-and-fixable-root-cause/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "His software is inside your router. Now he wants it inside much smaller things",
-          "summary": "Rajesh Subramaniam grew up in Triplicane in Chennai, reached Silicon Valley in 1994, and has spent 22 years building embedUR into a company of nearly 500 people without taking a ru...",
-          "link": "https://yourstory.com/2026/09/his-software-inside-your-router-he-wants-it-much-smaller-things",
+          "title": "Silence Laboratories is building privacy-first cybersecurity technology",
+          "summary": "Palo Alto-based startup Silence Laboratories works with around 35 clients globally, including a top US bank, and has research published in more than 10 Tier-1 publications....",
+          "link": "https://yourstory.com/2026/09/silence-laboratories-is-building-privacy-first-cybersecurity-technology",
           "source": "YourStory"
         },
         {
-          "title": "Building intelligent enterprises: why developers must bridge code and business reality",
-          "summary": "Subish Ram, Digital Products and Services leader, EY Global Delivery Services (EY GDS), on why business knowledge is the developer's biggest edge in the AI era Strapline: At DevSpa...",
-          "link": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality",
+          "title": "4 Quotes from books that can help you through tough times",
+          "summary": "Discover 4 powerful book quotes that offer comfort, resilience, and perspective when life feels challenging and uncertain....",
+          "link": "https://yourstory.com/2026/09/quotes-tough-times",
           "source": "YourStory"
         },
         {
-          "title": "Meesho Surges 9% After UBS Raises Target Price To ₹260",
-          "summary": "Shares of ecommerce major Meesho surged as much as 9.3% during the intraday trading after brokerage UBS maintained its ‘Buy’&#8230;...",
-          "link": "https://inc42.com/buzz/meesho-surges-9-after-ubs-raises-target-price-to-%e2%82%b9260/",
+          "title": "Anthropic Launches Claude Opus 5.5, Touts 40% Lower Running Costs",
+          "summary": "Anthropic has launched Claude Opus 5.5, its latest flagship AI model, touting stronger performance, lower running costs, faster output, and&#8230;...",
+          "link": "https://inc42.com/buzz/anthropic-launches-claude-opus-5-5-touts-40-lower-running-costs/",
           "source": "Inc42"
         }
       ]
@@ -211,28 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "My week at IMTS 2026: Manufacturing’s biggest stage delivers again",
+          "summary": "Last week, I ordered a new pair of heavily padded shoes, an upgraded mic pack, and I set off to Chicago to tackle the labyrinthine manufacturing extravaganza known as IMTS. This ye...",
+          "link": "https://www.designworldonline.com/my-week-at-imts-2026-manufacturings-biggest-stage-delivers-again/",
+          "source": "Design World"
+        },
+        {
           "title": "Are we progressing or backsliding on diversity and inclusion?",
           "summary": "Design World sat down with New York Times bestselling author Dr. Lois Frankel, author of “Nice Girls Don’t Get the Corner Office,” to gain perspective on what’s changed, what hasn’...",
           "link": "https://www.designworldonline.com/are-we-progressing-or-backsliding-on-diversity-and-inclusion/",
           "source": "Design World"
-        },
-        {
-          "title": "Wider industry shifts evident at Motion Ai",
-          "summary": "At the recent Automate Show in Chicago, we met with Steve Keeney, Motion Automation Intelligence (Motion Ai) director of product management, to discuss the rise of low-cost automat...",
-          "link": "https://www.designworldonline.com/wider-industry-shifts-evident-at-motion-ai/",
-          "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "iPhone 18 Pro Review: All About that Chip",
-          "summary": "iPhone 18 Pro is basically an S year upgrade. And one part of it is really impressive.\n\nProtect your new iPhone 18 with a case or screen protector at http://dbrand.com/shop/iphone-...",
-          "link": "https://www.youtube.com/watch?v=ohqxP8EEumo",
-          "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg"
         }
       ]
     }
