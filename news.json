@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, September 24, 2026 at 12:05 PM IST",
-  "last_updated_iso": "2026-09-24T12:05:41.055313",
+  "last_updated": "Friday, September 25, 2026 at 11:59 AM IST",
+  "last_updated_iso": "2026-09-25T11:59:01.314283",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23211.2,
-        "change": -235.59999999999854,
-        "change_pct": -1.0048279509357292,
-        "is_up": false
+        "price": 23081.15,
+        "change": 18.05000000000291,
+        "change_pct": 0.07826354653105139,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 74109.08,
-        "change": -719.1699999999983,
-        "change_pct": -0.9610942391409638,
-        "is_up": false
+        "price": 73726.05,
+        "change": 145.5100000000093,
+        "change_pct": 0.1977560914883328,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 55607.05,
-        "change": -941.8499999999985,
-        "change_pct": -1.6655496393386937,
-        "is_up": false
+        "price": 55609.6,
+        "change": 171.09999999999854,
+        "change_pct": 0.3086302840084031,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "TCS",
-        "price": 2095.8,
-        "change": 6.200000000000273,
-        "change_pct": 0.296707503828497,
+        "name": "HDFC Bank",
+        "price": 734.8,
+        "change": 5.899999999999977,
+        "change_pct": 0.8094388805048672,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 165.19,
-        "change": 0.28999999999999204,
-        "change_pct": 0.17586416009702366,
+        "name": "Maruti",
+        "price": 12033.0,
+        "change": 43.0,
+        "change_pct": 0.3586321934945788,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1866.9,
-        "change": 1.900000000000091,
-        "change_pct": 0.10187667560322203,
+        "name": "Reliance",
+        "price": 1220.8,
+        "change": 1.599999999999909,
+        "change_pct": 0.13123359580051747,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "L&T",
-        "price": 3874.3,
-        "change": -55.59999999999991,
-        "change_pct": -1.4147942695742872,
+        "name": "Infosys",
+        "price": 1000.0,
+        "change": -14.5,
+        "change_pct": -1.429275505174963,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1232.0,
-        "change": -16.0,
-        "change_pct": -1.282051282051282,
+        "name": "ICICI Bank",
+        "price": 1328.1,
+        "change": -6.400000000000091,
+        "change_pct": -0.4795803671787255,
         "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1813.5,
-        "change": -19.700000000000045,
-        "change_pct": -1.0746236089897472,
+        "name": "Wipro",
+        "price": 163.13,
+        "change": -0.5099999999999909,
+        "change_pct": -0.3116597408946412,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.8875,
-        "change": 0.15749999999999886,
-        "change_pct": 0.16452522720150303,
-        "is_up": true
+        "price": 95.88,
+        "change": -0.06499999999999773,
+        "change_pct": -0.06774714680285343,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4318.4,
-        "change": 0.0,
-        "change_pct": 0.0,
+        "price": 4314.2,
+        "change": 16.199999999999818,
+        "change_pct": 0.3769194974406659,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Everything new coming to Meta’s AI agent Muse",
-          "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even comin...",
-          "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+          "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period....",
+          "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-          "summary": "The tiny hardware device creates another mobile home for its AI agent Muse....",
-          "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+          "title": "Waymo is scaling fast: Here’s what the fleet data shows",
+          "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well....",
+          "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
           "source": "TechCrunch"
         },
         {
-          "title": "Meta is making a standalone Muse AI gadget",
+          "title": "Here’s the Tesla Semi… again",
           "summary": "",
-          "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+          "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
           "source": "The Verge"
         },
         {
-          "title": "Meta Connect 2026: The 7 biggest announcements",
+          "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
           "summary": "",
-          "link": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
+          "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
           "source": "The Verge"
         },
         {
-          "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
-          "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"...",
-          "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+          "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+          "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"...",
+          "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "What Bitcoin’s $16 billion options expiry means for investors",
-          "summary": "Ahead of the $16 billion Bitcoin options expiry on September 25, low price volatility reflects dealer hedging and positive gamma rather than low risk. As Deribit contracts reset, m...",
-          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/what-bitcoins-16-billion-options-expiry-means-for-investors/articleshow/134453599.cms",
+          "title": "IPO multibagger ESDS shares hit 5% lower circuit as Q1 net profit more than halves. Time to sell?",
+          "summary": "Newly-listed ESDS Software Solution hit the 5% lower circuit at Rs 1,758 after Q1 FY27 net profit fell 57% sequentially to Rs 29.3 crore. Despite stellar post-IPO gains, analysts a...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-multibagger-esds-shares-hit-5-lower-circuit-as-q1-net-profit-more-than-halves-time-to-sell/articleshow/134475720.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Can Meta’s VR ambitions create a new catalyst for Unity stocks?",
-          "summary": "Unity shares gained nearly 5% after Meta Connect 2026 highlighted new VR, AI and wearable devices. Meta’s expanding ecosystem could boost Unity’s developer tools, VR content demand...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-metas-vr-ambitions-create-a-new-catalyst-for-unity-stocks/slideshow/134453567.cms",
+          "title": "Welspun Corp shares rise 4% after US subsidiary bags $412.5 million HFIW pipe order",
+          "summary": "Welspun Corp shares rose after its US subsidiary secured a record $412.5 million HFIW pipe order, lifting its global order book to $4.7 billion and strengthening its US manufacturi...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-rise-4-after-us-subsidiary-bags-412-5-million-hfiw-pipe-order/articleshow/134475500.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Indian economy has done exceptionally well despite multiple shocks, says RBI Deputy Governor",
-          "summary": "Poonam Gupta, Deputy Governor, Reserve Bank of India has stated that India has perhaps been among the most challenged emerging market economies over past year and a half. Whereas m...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/indian-economy-has-done-exceptionally-well-despite-multiple-shocks-says-rbi-deputy-governor-126092400397_1.html",
+          "title": "Waaree Clean Energy Solutions forays into specialty gases biz to",
+          "summary": "Aims to become one-stop supplier to the country's semiconductor and solar cell manufacturers...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/waaree-clean-energy-solutions-forays-into-specialty-gases-biz-to-126092500380_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "NET Recovery wins FDA breakthrough tag for psychostimulant addiction device",
-          "summary": "NET Recovery’s device applies neurostimulation to quell cravings in individuals with stimulant use disorder. The post NET Recovery wins FDA breakthrough tag for psychostimulant add...",
-          "link": "https://www.medicaldevice-network.com/news/net-recovery-wins-fda-breakthrough-tag-for-psychostimulant-addiction-device/",
+          "title": "Anaconda Biomed raises $56m for catheter portfolio’s advance",
+          "summary": "The funds will support Anaconda's clinical development aims and the completion of its pivotal IDE study. The post Anaconda Biomed raises $56m for catheter portfolio’s advance appea...",
+          "link": "https://www.medicaldevice-network.com/news/anaconda-biomed-raises-56m-for-catheter-portfolio-advance/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Tata tussle puts spotlight on Hanno’s TVS deal as filings reveal 29-year lease, build-to-suit structure",
-          "summary": "Regulatory filings reveal an arrangement in which TVS Motor is both the lessor of the underlying land and the customer for the facility Hanno is developing on it, with rental incom...",
-          "link": "https://yourstory.com/2026/09/tata-tussle-spotlight-hannos-tvs-deal-filings-reveal-29-year-lease",
+          "title": "5 Quotes on human connection from the Anxious Generation",
+          "summary": "Discover 5 powerful quotes on human connection from The Anxious Generation and why real relationships matter more than ever....",
+          "link": "https://yourstory.com/2026/09/anxious-generation-human-connection-quotes",
           "source": "YourStory"
         },
         {
-          "title": "AgInvest 2026 in Coimbatore puts farm economics at the centre of AgriTech investment",
-          "summary": "AgInvest 2026 brings AgriTech founders and investors to Coimbatore as funding shifts from scale to measurable value and new pilots...",
-          "link": "https://yourstory.com/2026/09/aginvest-2026-coimbatore-agritech-startups-investors-funding-india",
+          "title": "MDR on UPI payments above Rs 2,000 will not be passed on to consumers: Govt sources",
+          "summary": "Effective October 15, a 0.4% merchant discount rate will be levied on merchants for UPI transactions over Rs 2,000. However, no charge will be levied on person-to-person transactio...",
+          "link": "https://yourstory.com/2026/09/mdr-on-upi-payments-above-rs-2000-will-not-be-passed-on-to-consumers-govt-sources",
           "source": "YourStory"
         },
         {
-          "title": "OpenAI, Anthropic Leaders Warn UN Of AI Risks As Systems Grow More Powerful",
-          "summary": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei warned the United Nations Security Council that increasingly powerful AI systems&#8230;...",
-          "link": "https://inc42.com/buzz/openai-anthropic-leaders-warn-un-of-ai-risks-as-systems-grow-more-powerful/",
+          "title": "The Insurance Shuffle, Moneyview IPO Day 1 & More",
+          "summary": "IRDAI Resets Insurtech’s Economics The IRDAI has proposed a radical overhaul of the insurance tech sector. The draft norms threaten&#8230;...",
+          "link": "https://inc42.com/buzz/the-insurance-shuffle-moneyview-ipo-day-1-more/",
           "source": "Inc42"
         }
       ]
