@@ -1,91 +1,91 @@
 {
-  "last_updated": "Friday, September 25, 2026 at 11:59 AM IST",
-  "last_updated_iso": "2026-09-25T11:59:01.314283",
+  "last_updated": "Saturday, September 26, 2026 at 12:00 PM IST",
+  "last_updated_iso": "2026-09-26T12:00:38.367209",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23081.15,
-        "change": 18.05000000000291,
-        "change_pct": 0.07826354653105139,
+        "price": 23140.5,
+        "change": 77.40000000000146,
+        "change_pct": 0.3356010250139897,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 73726.05,
-        "change": 145.5100000000093,
-        "change_pct": 0.1977560914883328,
+        "price": 73895.74,
+        "change": 315.20000000001164,
+        "change_pct": 0.42837413261714535,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 55609.6,
-        "change": 171.09999999999854,
-        "change_pct": 0.3086302840084031,
+        "price": 55580.4,
+        "change": 141.90000000000146,
+        "change_pct": 0.25595930625828883,
         "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "HDFC Bank",
-        "price": 734.8,
-        "change": 5.899999999999977,
-        "change_pct": 0.8094388805048672,
+        "price": 735.6,
+        "change": 6.7000000000000455,
+        "change_pct": 0.9191933049801133,
         "is_up": true
       },
       {
         "name": "Maruti",
-        "price": 12033.0,
-        "change": 43.0,
-        "change_pct": 0.3586321934945788,
+        "price": 12065.0,
+        "change": 75.0,
+        "change_pct": 0.6255212677231026,
         "is_up": true
       },
       {
         "name": "Reliance",
-        "price": 1220.8,
-        "change": 1.599999999999909,
-        "change_pct": 0.13123359580051747,
+        "price": 1226.0,
+        "change": 6.7999999999999545,
+        "change_pct": 0.5577427821522273,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Infosys",
-        "price": 1000.0,
-        "change": -14.5,
-        "change_pct": -1.429275505174963,
+        "price": 1000.2,
+        "change": -14.299999999999955,
+        "change_pct": -1.4095613602759935,
+        "is_up": false
+      },
+      {
+        "name": "Bharti Airtel",
+        "price": 1785.4,
+        "change": -10.399999999999864,
+        "change_pct": -0.5791290789620149,
         "is_up": false
       },
       {
         "name": "ICICI Bank",
-        "price": 1328.1,
-        "change": -6.400000000000091,
-        "change_pct": -0.4795803671787255,
-        "is_up": false
-      },
-      {
-        "name": "Wipro",
-        "price": 163.13,
-        "change": -0.5099999999999909,
-        "change_pct": -0.3116597408946412,
+        "price": 1326.8,
+        "change": -7.7000000000000455,
+        "change_pct": -0.5769951292618992,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.88,
-        "change": -0.06499999999999773,
-        "change_pct": -0.06774714680285343,
+        "price": 95.82,
+        "change": -0.125,
+        "change_pct": -0.13028297462087654,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4314.2,
-        "change": 16.199999999999818,
-        "change_pct": 0.3769194974406659,
+        "price": 4321.2,
+        "change": 23.199999999999818,
+        "change_pct": 0.5397859469520665,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-          "summary": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period....",
-          "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+          "title": "At Meta Connect, the company’s smart glasses were everywhere",
+          "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses....",
+          "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
           "source": "TechCrunch"
         },
         {
-          "title": "Waymo is scaling fast: Here’s what the fleet data shows",
-          "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well....",
-          "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+          "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+          "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans....",
+          "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
           "source": "TechCrunch"
         },
         {
-          "title": "Here’s the Tesla Semi… again",
+          "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
           "summary": "",
-          "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+          "link": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
           "source": "The Verge"
         },
         {
-          "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+          "title": "Phones don’t have lights",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+          "link": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
           "source": "The Verge"
         },
         {
-          "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
-          "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"...",
-          "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+          "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
+          "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes....",
+          "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "IPO multibagger ESDS shares hit 5% lower circuit as Q1 net profit more than halves. Time to sell?",
-          "summary": "Newly-listed ESDS Software Solution hit the 5% lower circuit at Rs 1,758 after Q1 FY27 net profit fell 57% sequentially to Rs 29.3 crore. Despite stellar post-IPO gains, analysts a...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-multibagger-esds-shares-hit-5-lower-circuit-as-q1-net-profit-more-than-halves-time-to-sell/articleshow/134475720.cms",
+          "title": "JSW One Platforms files draft papers for Rs 3,054 crore IPO",
+          "summary": "JSW One Platforms Ltd has submitted its draft documents to SEBI for a substantial IPO, targeting to generate Rs 3,054 crore. This offering comprises a fresh share issue of Rs 1,300...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jsw-one-platforms-files-draft-papers-for-rs-3054-crore-ipo/articleshow/134498412.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Welspun Corp shares rise 4% after US subsidiary bags $412.5 million HFIW pipe order",
-          "summary": "Welspun Corp shares rose after its US subsidiary secured a record $412.5 million HFIW pipe order, lifting its global order book to $4.7 billion and strengthening its US manufacturi...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-rise-4-after-us-subsidiary-bags-412-5-million-hfiw-pipe-order/articleshow/134475500.cms",
+          "title": "Nifty logs 7th straight weekly loss for the first time in 6 years: Time to be fearful, or can bulls pull off a comeback?",
+          "summary": "Indian equities extended their losing streak to seven weeks as elevated crude prices, rising US Treasury yields, geopolitical uncertainty and FII outflows pressured sentiment. Next...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-logs-7th-straight-weekly-losses-for-the-first-time-in-6-years-time-to-be-fearful-or-can-bulls-pull-off-a-comeback/articleshow/134498300.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Waaree Clean Energy Solutions forays into specialty gases biz to",
-          "summary": "Aims to become one-stop supplier to the country's semiconductor and solar cell manufacturers...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/waaree-clean-energy-solutions-forays-into-specialty-gases-biz-to-126092500380_1.html",
+          "title": "Utkarsh Small Finance Bank allots NCDs aggregating to Rs 300 cr",
+          "summary": "On private placement basis...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/utkarsh-small-finance-bank-allots-ncds-aggregating-to-rs-300-cr-126092600328_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Anaconda Biomed raises $56m for catheter portfolio’s advance",
-          "summary": "The funds will support Anaconda's clinical development aims and the completion of its pivotal IDE study. The post Anaconda Biomed raises $56m for catheter portfolio’s advance appea...",
-          "link": "https://www.medicaldevice-network.com/news/anaconda-biomed-raises-56m-for-catheter-portfolio-advance/",
+          "title": "Aptar Pharma and Macquarie University partner on drug delivery project",
+          "summary": "Aptar and Macquarie's collaboration will evaluate how factors, including how formulation variables influence drug delivery with Aptar’s dry powder inhaler platform. The post Aptar ...",
+          "link": "https://www.medicaldevice-network.com/news/aptar-pharma-and-macquarie-university-partner-on-drug-delivery-project/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "5 Quotes on human connection from the Anxious Generation",
-          "summary": "Discover 5 powerful quotes on human connection from The Anxious Generation and why real relationships matter more than ever....",
-          "link": "https://yourstory.com/2026/09/anxious-generation-human-connection-quotes",
+          "title": "From tokenmaxxing to context engineering: Why enterprise AI needs better context, not bigger prompts",
+          "summary": "Drawing on Elastic's experience helping enterprises build AI for production, Head of Field Engineering Ravindra Ramnani explains why context engineering is emerging as the next cri...",
+          "link": "https://yourstory.com/2026/09/tokenmaxxing-context-engineering-why-enterprise-ai-needs-better-context-not-bigger-prompts",
           "source": "YourStory"
         },
         {
-          "title": "MDR on UPI payments above Rs 2,000 will not be passed on to consumers: Govt sources",
-          "summary": "Effective October 15, a 0.4% merchant discount rate will be levied on merchants for UPI transactions over Rs 2,000. However, no charge will be levied on person-to-person transactio...",
-          "link": "https://yourstory.com/2026/09/mdr-on-upi-payments-above-rs-2000-will-not-be-passed-on-to-consumers-govt-sources",
+          "title": "Per Annum targets Rs10,000Cr AUM as retail investors look beyond traditional assets",
+          "summary": "Alternative investment platform Per Annum, which reached Rs 1,500 crore in AUM in August 2026, is expanding across P2P lending, private credit, and fractional real estate as invest...",
+          "link": "https://yourstory.com/2026/09/per-annum-targets-rs10000cr-aum-retail-investors-look-beyond-traditional-assets",
           "source": "YourStory"
         },
         {
-          "title": "The Insurance Shuffle, Moneyview IPO Day 1 & More",
-          "summary": "IRDAI Resets Insurtech’s Economics The IRDAI has proposed a radical overhaul of the insurance tech sector. The draft norms threaten&#8230;...",
-          "link": "https://inc42.com/buzz/the-insurance-shuffle-moneyview-ipo-day-1-more/",
+          "title": "From Ultraviolette Automotive To GalaxEye — Indian Startups Raised Over $203 Mn This Week",
+          "summary": "Funding activity remained strong as Indian startups raised a combined $203.4 Mn across 21 deals between September 21 and September&#8230;...",
+          "link": "https://inc42.com/buzz/from-ultraviolette-automotive-to-galaxeye-indian-startups-raised-over-203-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Mobile robotics moves to the textile industry",
-          "summary": "PAL Robotics demonstrates complex motion and control next to human workers. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. Robotic automation...",
-          "link": "https://www.designworldonline.com/mobile-robotics-moves-to-the-textile-industry/",
+          "title": "AutomationDirect adds Murrplastik drag chains for dynamic applications",
+          "summary": "AutomationDirect now offers Murrplastik MP35 and MP45 series drag chains for managing and protecting cables and hoses in robotic, packaging and other dynamic motion applications. B...",
+          "link": "https://www.designworldonline.com/automationdirect-adds-murrplastik-drag-chains-for-dynamic-applications/",
           "source": "Design World"
         },
         {
-          "title": "Ruland modified oldham coupling reduces dialysis equipment costs",
-          "summary": "Ruland has supplied a modified oldham coupling for a dialysis equipment manufacturer’s pump-and-valve assembly, reducing the coupling cost by approximately $300 per unit while main...",
-          "link": "https://www.designworldonline.com/ruland-modified-oldham-coupling-reduces-dialysis-equipment-costs/",
+          "title": "Mobile robotics moves to the textile industry",
+          "summary": "PAL Robotics demonstrates complex motion and control next to human workers. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. Robotic automation...",
+          "link": "https://www.designworldonline.com/mobile-robotics-moves-to-the-textile-industry/",
           "source": "Design World"
         }
       ]
