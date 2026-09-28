@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, September 27, 2026 at 12:27 PM IST",
-  "last_updated_iso": "2026-09-27T12:27:58.735305",
+  "last_updated": "Monday, September 28, 2026 at 12:56 PM IST",
+  "last_updated_iso": "2026-09-28T12:56:22.879117",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23140.5,
-        "change": 77.40000000000146,
-        "change_pct": 0.3356010250139897,
-        "is_up": true
+        "price": 22831.55,
+        "change": -308.9500000000007,
+        "change_pct": -1.335105118731232,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 73895.74,
-        "change": 315.20000000001164,
-        "change_pct": 0.42837413261714535,
-        "is_up": true
+        "price": 72941.94,
+        "change": -953.8000000000029,
+        "change_pct": -1.2907374633503945,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 55580.4,
-        "change": 141.90000000000146,
-        "change_pct": 0.25595930625828883,
-        "is_up": true
+        "price": 54585.55,
+        "change": -994.8499999999985,
+        "change_pct": -1.7899295435081404,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "HDFC Bank",
-        "price": 735.6,
-        "change": 6.7000000000000455,
-        "change_pct": 0.9191933049801133,
-        "is_up": true
-      },
-      {
-        "name": "Maruti",
-        "price": 12065.0,
-        "change": 75.0,
-        "change_pct": 0.6255212677231026,
-        "is_up": true
-      },
-      {
-        "name": "Reliance",
-        "price": 1226.0,
-        "change": 6.7999999999999545,
-        "change_pct": 0.5577427821522273,
-        "is_up": true
-      }
-    ],
-    "losers": [
-      {
         "name": "Infosys",
-        "price": 1000.2,
-        "change": -14.299999999999955,
-        "change_pct": -1.4095613602759935,
+        "price": 1001.8,
+        "change": 1.599999999999909,
+        "change_pct": 0.15996800639871117,
+        "is_up": true
+      },
+      {
+        "name": "TCS",
+        "price": 2079.3,
+        "change": -2.699999999999818,
+        "change_pct": -0.12968299711814688,
         "is_up": false
       },
       {
         "name": "Bharti Airtel",
-        "price": 1785.4,
-        "change": -10.399999999999864,
-        "change_pct": -0.5791290789620149,
+        "price": 1777.7,
+        "change": -7.7000000000000455,
+        "change_pct": -0.43127590455920495,
+        "is_up": false
+      }
+    ],
+    "losers": [
+      {
+        "name": "L&T",
+        "price": 3796.2,
+        "change": -80.0,
+        "change_pct": -2.0638769929312217,
         "is_up": false
       },
       {
-        "name": "ICICI Bank",
-        "price": 1326.8,
-        "change": -7.7000000000000455,
-        "change_pct": -0.5769951292618992,
+        "name": "HDFC Bank",
+        "price": 720.95,
+        "change": -14.649999999999977,
+        "change_pct": -1.9915715062533954,
+        "is_up": false
+      },
+      {
+        "name": "Reliance",
+        "price": 1206.1,
+        "change": -19.90000000000009,
+        "change_pct": -1.6231647634584088,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.82,
-        "change": -0.125,
-        "change_pct": -0.13028297462087654,
-        "is_up": false
+        "price": 95.9525,
+        "change": 0.15049999999999386,
+        "change_pct": 0.15709484144380476,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4321.2,
-        "change": 23.199999999999818,
-        "change_pct": 0.5397859469520665,
-        "is_up": true
+        "price": 4196.3,
+        "change": -124.89999999999964,
+        "change_pct": -2.890400814588532,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-          "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that let...",
-          "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+          "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+          "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market....",
+          "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
           "source": "TechCrunch"
         },
         {
-          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-          "summary": "The limited test covers select products and users, with a broader rollout planned for later in October....",
-          "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+          "title": "Anthropic’s CEO is about to have dinner with President Trump",
+          "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump...",
+          "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple hit with $5.7 billion in damages over haptic patents",
+          "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+          "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
           "source": "The Verge"
         },
         {
-          "title": "Decap is the man behind the drums behind your favorite song",
+          "title": "Engram is a sampler that turns broken AI hallucinations into music",
           "summary": "",
-          "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
           "source": "The Verge"
         },
         {
-          "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-          "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking....",
-          "link": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+          "title": "How the Smithsonian became the latest front in Trump’s culture war",
+          "summary": "The Smithsonian has faced withering pressure from the Trump administration....",
+          "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Will Nifty, Sensex tumble on Monday? 5 factors which will drive D-Street action this week",
-          "summary": "Following a 7-week decline in Nifty, Dalal Street faces a holiday-shortened week driven by five key factors: escalating US-Iran conflict, Brent crude trading above $104, US 10-year...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-tumble-on-monday-5-factors-which-will-drive-d-street-action-this-week/articleshow/134515821.cms",
+          "title": "IPO allotments today: How to check allotment status for Elevate Campuses, Swastika Infra &amp; ArMee Infotech on NSE, BSE &amp; registrars?",
+          "summary": "IPO allotments for Elevate Campuses, Swastika Infra and ArMee Infotech are expected on September 28, following subscription between September 23 and 25. Investors can check status ...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-allotments-today-how-to-check-allotment-status-for-elevate-campuses-swastika-infra-armee-infotech-on-nse-bse-registrars/articleshow/134534834.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ETMarkets NRI Talk| Want to invest in US IPOs? Ankita Pathak on what Indian investors need to know",
-          "summary": "Under the Liberalised Remittance Scheme, Indian investors have the opportunity to participate in US IPOs, including Anthropic. However, the path for retail investors may be fraught...",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-nri-talk-want-to-invest-in-us-ipos-ankita-pathak-on-what-indian-investors-need-to-know/articleshow/134515708.cms",
+          "title": "Global Market: DayOne pushes ahead with potential November IPO amid data center scrutiny",
+          "summary": "Data center operator DayOne is preparing for a potential US IPO in November, targeting a valuation near $20 billion. The company plans to file with the SEC in October amid heighten...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-dayone-pushes-ahead-with-potential-november-ipo-amid-data-center-scrutiny/articleshow/134534726.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Sebi settlement overhaul may improve recovery in fund-diversion cases",
-          "summary": "The regulator's approved settlement framework includes changes on settlement amount calculation, wrongful gains, fast-track cases and wider access to settlement...",
-          "link": "https://www.business-standard.com/markets/news/markets-news-sebi-settlement-overhaul-may-aid-recovery-of-diverted-funds-126092700204_1.html",
+          "title": "Nifty slips below 23,000 as bank stocks tumble",
+          "summary": "The key equity benchmarks remained under pressure in the early afternoon session on Monday, weighed down by weak global cues, rising crude oil prices and weakness in global technol...",
+          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-slips-below-23-000-as-bank-stocks-tumble-126092800411_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "India’s connected car push: How simulation is preparing vehicles for real-world chaos",
-          "summary": "India’s proposed 2028 V2V/V2X mandate is pushing automakers to prove that connected safety systems can handle the country’s unpredictable roads before they reach public highways....",
-          "link": "https://yourstory.com/2026/09/connected-car-push-simulation-making-vehicles-safer-dspace",
-          "source": "YourStory"
-        },
-        {
           "title": "Tender247 brings Anupam Kher on board to expand access to India’s Rs 70 Lakh Cr tender market",
           "summary": "Anupam Kher becomes the face of Tender247, opening India’s ₹70 lakh crore Tender Market to more businesses The platform is using the actor’s association to make government and inst...",
           "link": "https://yourstory.com/2026/09/tender247-brings-anupam-kher-board-expand-access-indias-rs-70-lakh-cr-tender-market",
           "source": "YourStory"
         },
         {
-          "title": "Spinny’s IPO Ride, But What’s Under The Hood?",
-          "summary": "Five years ago, CarTrade became one of the first digital auto marketplaces to test India’s public markets. The company went&#8230;...",
-          "link": "https://inc42.com/features/spinnys-ipo-ride-but-whats-under-the-hood/",
+          "title": "What to keep in mind before applying for a personal loan",
+          "summary": "From EMI planning to hidden charges, here are the essentials every borrower should check to make smarter, stress‑free borrowing decisions. A personal loan can help cover planned ex...",
+          "link": "https://yourstory.com/2026/09/what-to-keep-in-mind-before-applying-for-a-personal-loan",
+          "source": "YourStory"
+        },
+        {
+          "title": "Cars24 Eyes April 2027 Reverse Flip Ahead Of IPO Filing",
+          "summary": "Used-car marketplace Cars24 expects to complete its reverse flip from Singapore to India by April 2027, following which it plans&#8230;...",
+          "link": "https://inc42.com/buzz/cars24-eyes-april-2027-reverse-flip-ahead-of-ipo-filing/",
           "source": "Inc42"
         }
       ]
@@ -233,6 +233,13 @@
           "link": "https://www.youtube.com/watch?v=DkUuOr21v4s",
           "source": "MKBHD",
           "thumbnail": "https://i1.ytimg.com/vi/DkUuOr21v4s/hqdefault.jpg"
+        },
+        {
+          "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nNote: in the walking creatures experiment, Astra used a simplified model and was unable to imple...",
+          "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i4.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg"
         }
       ]
     }
