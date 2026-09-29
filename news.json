@@ -1,92 +1,92 @@
 {
-  "last_updated": "Monday, September 28, 2026 at 12:56 PM IST",
-  "last_updated_iso": "2026-09-28T12:56:22.879117",
+  "last_updated": "Tuesday, September 29, 2026 at 12:52 PM IST",
+  "last_updated_iso": "2026-09-29T12:52:49.677257",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22831.55,
-        "change": -308.9500000000007,
-        "change_pct": -1.335105118731232,
+        "price": 22673.7,
+        "change": -466.7999999999993,
+        "change_pct": -2.01724249692098,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 72941.94,
-        "change": -953.8000000000029,
-        "change_pct": -1.2907374633503945,
+        "price": 72376.46,
+        "change": -1519.2399999999907,
+        "change_pct": -2.0559247696415226,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 54585.55,
-        "change": -994.8499999999985,
-        "change_pct": -1.7899295435081404,
+        "price": 54225.15,
+        "change": -1355.25,
+        "change_pct": -2.4383595656022625,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Infosys",
-        "price": 1001.8,
-        "change": 1.599999999999909,
-        "change_pct": 0.15996800639871117,
+        "name": "Bharti Airtel",
+        "price": 1782.3,
+        "change": 10.899999999999864,
+        "change_pct": 0.615332505362982,
         "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2079.3,
-        "change": -2.699999999999818,
-        "change_pct": -0.12968299711814688,
-        "is_up": false
+        "name": "L&T",
+        "price": 3770.3,
+        "change": 3.900000000000091,
+        "change_pct": 0.10354715378080107,
+        "is_up": true
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1777.7,
-        "change": -7.7000000000000455,
-        "change_pct": -0.43127590455920495,
-        "is_up": false
+        "name": "Sun Pharma",
+        "price": 1838.3,
+        "change": 0.2999999999999545,
+        "change_pct": 0.016322089227418637,
+        "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "L&T",
-        "price": 3796.2,
-        "change": -80.0,
-        "change_pct": -2.0638769929312217,
+        "name": "Infosys",
+        "price": 988.2,
+        "change": -15.0,
+        "change_pct": -1.4952153110047848,
+        "is_up": false
+      },
+      {
+        "name": "Wipro",
+        "price": 159.5,
+        "change": -2.0600000000000023,
+        "change_pct": -1.275068086159942,
         "is_up": false
       },
       {
         "name": "HDFC Bank",
-        "price": 720.95,
-        "change": -14.649999999999977,
-        "change_pct": -1.9915715062533954,
-        "is_up": false
-      },
-      {
-        "name": "Reliance",
-        "price": 1206.1,
-        "change": -19.90000000000009,
-        "change_pct": -1.6231647634584088,
+        "price": 711.1,
+        "change": -7.949999999999932,
+        "change_pct": -1.1056254780613215,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.9525,
-        "change": 0.15049999999999386,
-        "change_pct": 0.15709484144380476,
+        "price": 96.08,
+        "change": 0.10699999999999932,
+        "change_pct": 0.1114896898085913,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4196.3,
-        "change": -124.89999999999964,
-        "change_pct": -2.890400814588532,
-        "is_up": false
+        "price": 4174.9,
+        "change": 6.5,
+        "change_pct": 0.15593513098551004,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-          "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market....",
-          "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+          "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential r...",
+          "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic’s CEO is about to have dinner with President Trump",
-          "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump...",
-          "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+          "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India....",
+          "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
           "source": "TechCrunch"
         },
         {
-          "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+          "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
           "summary": "",
-          "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+          "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
           "source": "The Verge"
         },
         {
-          "title": "Engram is a sampler that turns broken AI hallucinations into music",
+          "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+          "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
           "source": "The Verge"
         },
         {
-          "title": "How the Smithsonian became the latest front in Trump’s culture war",
-          "summary": "The Smithsonian has faced withering pressure from the Trump administration....",
-          "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+          "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+          "summary": "\"We couldn't provide detailed pricing to the CLD suppliers.\"...",
+          "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "IPO allotments today: How to check allotment status for Elevate Campuses, Swastika Infra &amp; ArMee Infotech on NSE, BSE &amp; registrars?",
-          "summary": "IPO allotments for Elevate Campuses, Swastika Infra and ArMee Infotech are expected on September 28, following subscription between September 23 and 25. Investors can check status ...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-allotments-today-how-to-check-allotment-status-for-elevate-campuses-swastika-infra-armee-infotech-on-nse-bse-registrars/articleshow/134534834.cms",
+          "title": "Motilal Oswal sees Aster DM EBITDA rising 25% CAGR through FY28; sets Rs 910 target",
+          "summary": "Motilal Oswal has initiated coverage on Aster DM Quality Care with a Buy rating and Rs 910 target, citing merger synergies, capacity expansion and improving operating metrics. The ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-sees-aster-dm-ebitda-rising-25-cagr-through-fy28-sets-rs-910-target/articleshow/134559218.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: DayOne pushes ahead with potential November IPO amid data center scrutiny",
-          "summary": "Data center operator DayOne is preparing for a potential US IPO in November, targeting a valuation near $20 billion. The company plans to file with the SEC in October amid heighten...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-dayone-pushes-ahead-with-potential-november-ipo-amid-data-center-scrutiny/articleshow/134534726.cms",
+          "title": "Nifty Bank crashes 1,800 points in 2 days, slips below 54K for first time in 4 months. What’s next?",
+          "summary": "Banking stocks have come under heavy pressure, with the Nifty Bank index plunging nearly 1,800 points in two days and slipping below 54,000 for the first time since early June. The...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-crashes-1800-points-in-2-days-slips-below-54k-for-first-time-in-4-months-whats-next/articleshow/134559248.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Nifty slips below 23,000 as bank stocks tumble",
-          "summary": "The key equity benchmarks remained under pressure in the early afternoon session on Monday, weighed down by weak global cues, rising crude oil prices and weakness in global technol...",
-          "link": "https://www.business-standard.com/markets/capital-market-news/nifty-slips-below-23-000-as-bank-stocks-tumble-126092800411_1.html",
+          "title": "Pashupati Cotspin board to mull bonus share issue on Oct 03",
+          "summary": "Pashupati Cotspin said that the company's board will meet on Saturday, 03 October 2026, to consider a proposal for issue of bonus shares, subject to requisite approvals....",
+          "link": "https://www.business-standard.com/markets/capital-market-news/pashupati-cotspin-board-to-mull-bonus-share-issue-on-oct-03-126092900483_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Aptar Pharma and Macquarie University partner on drug delivery project",
-          "summary": "Aptar and Macquarie's collaboration will evaluate how factors, including how formulation variables influence drug delivery with Aptar’s dry powder inhaler platform. The post Aptar ...",
-          "link": "https://www.medicaldevice-network.com/news/aptar-pharma-and-macquarie-university-partner-on-drug-delivery-project/",
+          "title": "Intuitive re-enters European cardiac surgery market following da Vinci 5 CE mark",
+          "summary": "Intuitive’s CE mark for da Vinci 5 in cardiac procedures marks its clearest regulatory milestone in recent years, opening the door to a renewed push into European robotic cardiac s...",
+          "link": "https://www.medicaldevice-network.com/news/intuitive-re-enters-european-cardiac-surgery-market-following-da-vinci-5-ce-mark/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Tender247 brings Anupam Kher on board to expand access to India’s Rs 70 Lakh Cr tender market",
-          "summary": "Anupam Kher becomes the face of Tender247, opening India’s ₹70 lakh crore Tender Market to more businesses The platform is using the actor’s association to make government and inst...",
-          "link": "https://yourstory.com/2026/09/tender247-brings-anupam-kher-board-expand-access-indias-rs-70-lakh-cr-tender-market",
+          "title": "Physical AI startup SiMa.ai raises $150M in Series C",
+          "summary": "SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products....",
+          "link": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c",
           "source": "YourStory"
         },
         {
-          "title": "What to keep in mind before applying for a personal loan",
-          "summary": "From EMI planning to hidden charges, here are the essentials every borrower should check to make smarter, stress‑free borrowing decisions. A personal loan can help cover planned ex...",
-          "link": "https://yourstory.com/2026/09/what-to-keep-in-mind-before-applying-for-a-personal-loan",
+          "title": "Every few years Ram Sukumar remakes Indium. AI is his best chance yet",
+          "summary": "Born into a Chennai business family, Ram Sukumar lost the cushion in 2001 and bootstrapped his way to spectacular growth. Now he’s betting AI will help Indium more than it hurts....",
+          "link": "https://yourstory.com/2026/09/every-few-years-ram-sukumar-remakes-indium-ai-is-his-best-chance-yet",
           "source": "YourStory"
         },
         {
-          "title": "Cars24 Eyes April 2027 Reverse Flip Ahead Of IPO Filing",
-          "summary": "Used-car marketplace Cars24 expects to complete its reverse flip from Singapore to India by April 2027, following which it plans&#8230;...",
-          "link": "https://inc42.com/buzz/cars24-eyes-april-2027-reverse-flip-ahead-of-ipo-filing/",
+          "title": "WEH Ventures Announces First Close Of ₹250 Cr Fund III",
+          "summary": "Seed-stage focused venture capital firm WEH Ventures announced the first close of its third fund (Fund III) at an undisclosed&#8230;...",
+          "link": "https://inc42.com/buzz/weh-ventures-announces-first-close-of-%e2%82%b9250-cr-fund-iii/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Edge-computing hardware comparison",
-          "summary": "Consider a dominant form of machine control today — multicore industrial PCs or IPCs built around x86 and ARM system-on-chip processors. For discrete automation, these run determin...",
-          "link": "https://www.designworldonline.com/edge-computing-hardware-comparison/",
+          "title": "Siemens adds digital twin programming to SINUMERIK 828D CNC",
+          "summary": "Siemens has introduced digital twin programming for the SINUMERIK 828D CNC, bringing the capability to compact and mid-range machine tools. The company will demonstrate the new har...",
+          "link": "https://www.designworldonline.com/siemens-adds-digital-twin-programming-to-sinumerik-828d-cnc/",
           "source": "Design World"
         },
         {
-          "title": "AutomationDirect adds Murrplastik drag chains for dynamic applications",
-          "summary": "AutomationDirect now offers Murrplastik MP35 and MP45 series drag chains for managing and protecting cables and hoses in robotic, packaging and other dynamic motion applications. B...",
-          "link": "https://www.designworldonline.com/automationdirect-adds-murrplastik-drag-chains-for-dynamic-applications/",
+          "title": "Automate or fall behind: Igus CEO Felix Brockmeyer on America’s manufacturing reckoning",
+          "summary": "In this full-length interview, Design World Managing Editor Mike Santora sits down with Felix Brockmeyer, CEO of Igus, for a wide-ranging conversation recorded at IMTS 2026 about t...",
+          "link": "https://www.designworldonline.com/automate-or-fall-behind-igus-ceo-felix-brockmeyer-on-americas-manufacturing-reckoning-2/",
           "source": "Design World"
         }
       ]
@@ -228,11 +228,11 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "Xiaomi 18 Pro Max: They've Done It Again!",
-          "summary": "If one-upping the iPhone was a sport, Xiaomi would be Lebron James.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Xia...",
-          "link": "https://www.youtube.com/watch?v=DkUuOr21v4s",
+          "title": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
+          "summary": "Nothing decided to join the $400+ ANC headphone ranks, and made just one bizarre mistake...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV...",
+          "link": "https://www.youtube.com/watch?v=rayrrXot17M",
           "source": "MKBHD",
-          "thumbnail": "https://i1.ytimg.com/vi/DkUuOr21v4s/hqdefault.jpg"
+          "thumbnail": "https://i3.ytimg.com/vi/rayrrXot17M/hqdefault.jpg"
         },
         {
           "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
