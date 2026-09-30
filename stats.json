@@ -1,29 +1,23 @@
 {
-  "last_run": "September 30, 2026 at 06:25 PM IST",
-  "last_run_iso": "2026-09-30T18:25:43.475970",
+  "last_run": "September 30, 2026 at 11:59 PM IST",
+  "last_run_iso": "2026-09-30T23:59:10.747547",
   "stats": {
-    "total_runs": 554,
-    "total_emails_scanned": 11254,
-    "total_jobs_matched": 9687,
-    "emails_scanned_7d": 521,
-    "jobs_matched_7d": 438,
-    "avg_match_score": 74,
-    "high_match_count": 276
+    "total_runs": 555,
+    "total_emails_scanned": 11275,
+    "total_jobs_matched": 9706,
+    "emails_scanned_7d": 517,
+    "jobs_matched_7d": 436,
+    "avg_match_score": 75,
+    "high_match_count": 274
   },
   "recent_sources": {
-    "linkedin": 2902,
+    "linkedin": 2907,
     "naukri": 175,
-    "indeed": 2900,
+    "indeed": 2905,
     "foundit": 0,
-    "direct": 3710
+    "direct": 3719
   },
   "history": [
-    {
-      "timestamp": "2026-09-23T23:23:13.207116",
-      "scanned": 25,
-      "matched": 21,
-      "high_match": 14
-    },
     {
       "timestamp": "2026-09-24T13:15:16.222811",
       "scanned": 25,
@@ -185,6 +179,12 @@
       "scanned": 20,
       "matched": 18,
       "high_match": 11
+    },
+    {
+      "timestamp": "2026-09-30T23:59:10.747547",
+      "scanned": 21,
+      "matched": 19,
+      "high_match": 12
     }
   ]
 }
