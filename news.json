@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, September 29, 2026 at 12:52 PM IST",
-  "last_updated_iso": "2026-09-29T12:52:49.677257",
+  "last_updated": "Wednesday, September 30, 2026 at 12:42 PM IST",
+  "last_updated_iso": "2026-09-30T12:42:53.604826",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22673.7,
-        "change": -466.7999999999993,
-        "change_pct": -2.01724249692098,
+        "price": 22771.25,
+        "change": -8.950000000000728,
+        "change_pct": -0.03928850492972286,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 72376.46,
-        "change": -1519.2399999999907,
-        "change_pct": -2.0559247696415226,
-        "is_up": false
+        "price": 72860.34,
+        "change": 88.63999999999942,
+        "change_pct": 0.12180559200898071,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 54225.15,
-        "change": -1355.25,
-        "change_pct": -2.4383595656022625,
-        "is_up": false
+        "price": 55016.15,
+        "change": 544.5500000000029,
+        "change_pct": 0.9996952540406432,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1782.3,
-        "change": 10.899999999999864,
-        "change_pct": 0.615332505362982,
+        "name": "ICICI Bank",
+        "price": 1332.9,
+        "change": 40.700000000000045,
+        "change_pct": 3.1496672341742795,
         "is_up": true
       },
       {
-        "name": "L&T",
-        "price": 3770.3,
-        "change": 3.900000000000091,
-        "change_pct": 0.10354715378080107,
+        "name": "Wipro",
+        "price": 160.2,
+        "change": 3.4099999999999966,
+        "change_pct": 2.1748836022705507,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1838.3,
-        "change": 0.2999999999999545,
-        "change_pct": 0.016322089227418637,
+        "name": "TCS",
+        "price": 2069.8,
+        "change": 37.40000000000009,
+        "change_pct": 1.8401889391852042,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 988.2,
-        "change": -15.0,
-        "change_pct": -1.4952153110047848,
+        "name": "Sun Pharma",
+        "price": 1836.4,
+        "change": -28.59999999999991,
+        "change_pct": -1.5335120643431586,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 159.5,
-        "change": -2.0600000000000023,
-        "change_pct": -1.275068086159942,
+        "name": "Infosys",
+        "price": 1006.2,
+        "change": -9.199999999999932,
+        "change_pct": -0.9060468780775982,
         "is_up": false
       },
       {
         "name": "HDFC Bank",
-        "price": 711.1,
-        "change": -7.949999999999932,
-        "change_pct": -1.1056254780613215,
+        "price": 719.05,
+        "change": -3.650000000000091,
+        "change_pct": -0.5050505050505176,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.08,
-        "change": 0.10699999999999932,
-        "change_pct": 0.1114896898085913,
-        "is_up": true
+        "price": 95.965,
+        "change": -0.0049999999999954525,
+        "change_pct": -0.005209961446280559,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4174.9,
-        "change": 6.5,
-        "change_pct": 0.15593513098551004,
+        "price": 4226.3,
+        "change": 46.600000000000364,
+        "change_pct": 1.1149125535325588,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-          "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential r...",
-          "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+          "title": "Apple Pay finally launches in India after years on the sidelines",
+          "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially....",
+          "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
           "source": "TechCrunch"
         },
         {
-          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-          "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India....",
-          "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+          "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+          "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry....",
+          "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
           "source": "TechCrunch"
         },
         {
-          "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+          "title": "Sam Altman says OpenAI won’t go public until its models are safe",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
           "source": "The Verge"
         },
         {
-          "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+          "title": "Trump orders US government to call AI ‘Super Intelligence’",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+          "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
           "source": "The Verge"
         },
         {
-          "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
-          "summary": "\"We couldn't provide detailed pricing to the CLD suppliers.\"...",
-          "link": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
+          "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+          "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon....",
+          "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
           "source": "Ars Technica"
         }
       ]
@@ -130,34 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Motilal Oswal sees Aster DM EBITDA rising 25% CAGR through FY28; sets Rs 910 target",
-          "summary": "Motilal Oswal has initiated coverage on Aster DM Quality Care with a Buy rating and Rs 910 target, citing merger synergies, capacity expansion and improving operating metrics. The ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-sees-aster-dm-ebitda-rising-25-cagr-through-fy28-sets-rs-910-target/articleshow/134559218.cms",
+          "title": "Global Market: China factory activity returns to growth in September as AI boom supports industrial sector",
+          "summary": "China’s factory activity returned to growth in September, with the official manufacturing PMI rising above the expansion threshold. Strong production and AI-linked demand supported...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-factory-activity-returns-to-growth-in-september-as-ai-boom-supports-industrial-sector/articleshow/134583926.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Nifty Bank crashes 1,800 points in 2 days, slips below 54K for first time in 4 months. What’s next?",
-          "summary": "Banking stocks have come under heavy pressure, with the Nifty Bank index plunging nearly 1,800 points in two days and slipping below 54,000 for the first time since early June. The...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bank-crashes-1800-points-in-2-days-slips-below-54k-for-first-time-in-4-months-whats-next/articleshow/134559248.cms",
+          "title": "Global Market: Japan 10-Year bond yield heads for record fifth quarterly gain",
+          "summary": "Japan’s 10-year government bond yield is poised for a fifth consecutive quarter of double-digit gains, reflecting global bond-market pressure and concerns over Japan’s fiscal outlo...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-10-year-bond-yield-heads-for-record-fifth-quarterly-gain/articleshow/134583925.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Pashupati Cotspin board to mull bonus share issue on Oct 03",
-          "summary": "Pashupati Cotspin said that the company's board will meet on Saturday, 03 October 2026, to consider a proposal for issue of bonus shares, subject to requisite approvals....",
-          "link": "https://www.business-standard.com/markets/capital-market-news/pashupati-cotspin-board-to-mull-bonus-share-issue-on-oct-03-126092900483_1.html",
+          "title": "Nityas Gems IPO: What makes it a good long-term bet? Analysts weigh in",
+          "summary": "Nityas Gems and Jewellery IPO price band is set at ₹70 to ₹75 per share. The lot size for the offer is 200 shares....",
+          "link": "https://www.business-standard.com/markets/ipo/nityas-gems-ipo-what-makes-it-a-good-long-term-bet-analysts-weigh-in-126093000430_1.html",
           "source": "Business Standard Markets"
+        },
+        {
+          "title": "US 30-yr yield rises to highest level since 2002: What this means for rupee",
+          "summary": "̌US 30-year Treasury yield hits its highest level since 2002 amid inflation concerns and higher oil prices...",
+          "link": "https://www.business-standard.com/markets/news/us-30-year-bond-yield-2002-high-india-rupee-rbi-policy-repo-rate-126093000395_1.html",
+          "source": "Business Standard Markets"
+        },
+        {
+          "title": "As brands demand more ads, Omnicom turns India into a ‘content factory’",
+          "summary": "As AI speeds up and lowers the cost of ad production, Omnicom Production is moving more global work to India, where its teams are scaling content across multiple markets and platfo...",
+          "link": "https://www.livemint.com/companies/news/omnicom-production-india-ai-global-advertising-work-11790703081366.html",
+          "source": "Livemint Companies"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Intuitive re-enters European cardiac surgery market following da Vinci 5 CE mark",
-          "summary": "Intuitive’s CE mark for da Vinci 5 in cardiac procedures marks its clearest regulatory milestone in recent years, opening the door to a renewed push into European robotic cardiac s...",
-          "link": "https://www.medicaldevice-network.com/news/intuitive-re-enters-european-cardiac-surgery-market-following-da-vinci-5-ce-mark/",
+          "title": "Dexcom report paints mixed picture of CGM use by people with type 2 diabetes",
+          "summary": "Despite growing awareness of CGM and GLP-1 use for type 2 diabetes management, Dexcom’s report found that lack of awareness and access challenges persist. The post Dexcom report pa...",
+          "link": "https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Physical AI startup SiMa.ai raises $150M in Series C",
-          "summary": "SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products....",
-          "link": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c",
+          "title": "Why the next commerce battle will be for the gap between discovery and access",
+          "summary": "Digital content has made product discovery increasingly accessible across India, but affordability, assortment and convenience remain gaps for consumers beyond the metros. The next...",
+          "link": "https://yourstory.com/2026/09/next-commerce-battle-the-gap-between-discovery-and-access",
           "source": "YourStory"
         },
         {
-          "title": "Every few years Ram Sukumar remakes Indium. AI is his best chance yet",
-          "summary": "Born into a Chennai business family, Ram Sukumar lost the cushion in 2001 and bootstrapped his way to spectacular growth. Now he’s betting AI will help Indium more than it hurts....",
-          "link": "https://yourstory.com/2026/09/every-few-years-ram-sukumar-remakes-indium-ai-is-his-best-chance-yet",
+          "title": "From payments to wealth: Where is India's fintech story headed next?",
+          "summary": "India’s fintech story is moving beyond payments and credit as rising incomes and longer lifespans create a growing need for personalised wealth advice. But access to independent, a...",
+          "link": "https://yourstory.com/2026/09/where-is-india-fintech-story-headed-next",
           "source": "YourStory"
         },
         {
-          "title": "WEH Ventures Announces First Close Of ₹250 Cr Fund III",
-          "summary": "Seed-stage focused venture capital firm WEH Ventures announced the first close of its third fund (Fund III) at an undisclosed&#8230;...",
-          "link": "https://inc42.com/buzz/weh-ventures-announces-first-close-of-%e2%82%b9250-cr-fund-iii/",
+          "title": "Coverfox MD Sanjib Jha Questions IRDAI’s Insurance Reset, Flags Risk To Rural Penetration",
+          "summary": "In a pushback to the IRDAI’s proposed overhaul of the insurance distribution industry, Accel-backed insurtech startup Coverfox’s founder Sanjib Jha&#8230;...",
+          "link": "https://inc42.com/buzz/coverfox-md-sanjib-jha-questions-irdais-insurance-reset-flags-risk-to-rural-penetration/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Siemens adds digital twin programming to SINUMERIK 828D CNC",
-          "summary": "Siemens has introduced digital twin programming for the SINUMERIK 828D CNC, bringing the capability to compact and mid-range machine tools. The company will demonstrate the new har...",
-          "link": "https://www.designworldonline.com/siemens-adds-digital-twin-programming-to-sinumerik-828d-cnc/",
+          "title": "Be bold, give your book smarts a business",
+          "summary": "So far this year, I’ve interviewed incredible individuals who aren’t satisfied with the status quo. They’re positive disruptors who the world needs way more of to keep industries a...",
+          "link": "https://www.designworldonline.com/be-bold-give-your-book-smarts-a-business/",
           "source": "Design World"
         },
         {
-          "title": "Automate or fall behind: Igus CEO Felix Brockmeyer on America’s manufacturing reckoning",
-          "summary": "In this full-length interview, Design World Managing Editor Mike Santora sits down with Felix Brockmeyer, CEO of Igus, for a wide-ranging conversation recorded at IMTS 2026 about t...",
-          "link": "https://www.designworldonline.com/automate-or-fall-behind-igus-ceo-felix-brockmeyer-on-americas-manufacturing-reckoning-2/",
+          "title": "Mind over Machine: Brian Balch of Hexagon Manufacturing",
+          "summary": "In this edition of Mind Over Machine, Design World Managing Editor Mike Santora sits down with Brian Balch of Hexagon Manufacturing Intelligence to explore where AI does — and does...",
+          "link": "https://www.designworldonline.com/mind-over-machine-brian-balch-of-hexagon-manufacturing/",
           "source": "Design World"
         }
       ]
