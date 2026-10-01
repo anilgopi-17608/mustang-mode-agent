@@ -1,92 +1,92 @@
 {
-  "last_updated": "Wednesday, September 30, 2026 at 12:42 PM IST",
-  "last_updated_iso": "2026-09-30T12:42:53.604826",
+  "last_updated": "Thursday, October 01, 2026 at 01:07 PM IST",
+  "last_updated_iso": "2026-10-01T13:07:26.143849",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22771.25,
-        "change": -8.950000000000728,
-        "change_pct": -0.03928850492972286,
+        "price": 22359.75,
+        "change": -356.4500000000007,
+        "change_pct": -1.5691444871941642,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 72860.34,
-        "change": 88.63999999999942,
-        "change_pct": 0.12180559200898071,
-        "is_up": true
+        "price": 71755.89,
+        "change": -773.2100000000064,
+        "change_pct": -1.0660686538230948,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 55016.15,
-        "change": 544.5500000000029,
-        "change_pct": 0.9996952540406432,
+        "price": 54433.7,
+        "change": 173.79999999999563,
+        "change_pct": 0.3203102106712243,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "ICICI Bank",
-        "price": 1332.9,
-        "change": 40.700000000000045,
-        "change_pct": 3.1496672341742795,
+        "name": "HDFC Bank",
+        "price": 715.95,
+        "change": 7.25,
+        "change_pct": 1.0229998588965712,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 160.2,
-        "change": 3.4099999999999966,
-        "change_pct": 2.1748836022705507,
+        "name": "Infosys",
+        "price": 1000.6,
+        "change": 6.5,
+        "change_pct": 0.6538577607886531,
         "is_up": true
       },
       {
         "name": "TCS",
-        "price": 2069.8,
-        "change": 37.40000000000009,
-        "change_pct": 1.8401889391852042,
-        "is_up": true
+        "price": 2048.1,
+        "change": -2.5,
+        "change_pct": -0.12191553691602458,
+        "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "Sun Pharma",
-        "price": 1836.4,
-        "change": -28.59999999999991,
-        "change_pct": -1.5335120643431586,
+        "name": "Maruti",
+        "price": 11496.0,
+        "change": -471.0,
+        "change_pct": -3.93582351466533,
         "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 1006.2,
-        "change": -9.199999999999932,
-        "change_pct": -0.9060468780775982,
+        "name": "L&T",
+        "price": 3681.6,
+        "change": -78.40000000000009,
+        "change_pct": -2.0851063829787257,
         "is_up": false
       },
       {
-        "name": "HDFC Bank",
-        "price": 719.05,
-        "change": -3.650000000000091,
-        "change_pct": -0.5050505050505176,
+        "name": "Reliance",
+        "price": 1169.4,
+        "change": -17.59999999999991,
+        "change_pct": -1.4827295703454009,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.965,
-        "change": -0.0049999999999954525,
-        "change_pct": -0.005209961446280559,
-        "is_up": false
+        "price": 96.15,
+        "change": 0.3300000000000125,
+        "change_pct": 0.34439574201629364,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4226.3,
-        "change": 46.600000000000364,
-        "change_pct": 1.1149125535325588,
-        "is_up": true
+        "price": 4186.2,
+        "change": -0.5,
+        "change_pct": -0.011942580074999404,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Apple Pay finally launches in India after years on the sidelines",
-          "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially....",
-          "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work....",
+          "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
           "source": "TechCrunch"
         },
         {
-          "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-          "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry....",
-          "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+          "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+          "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties...",
+          "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
           "source": "TechCrunch"
         },
         {
-          "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+          "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+          "link": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
           "source": "The Verge"
         },
         {
-          "title": "Trump orders US government to call AI ‘Super Intelligence’",
+          "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
           "summary": "",
-          "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+          "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
           "source": "The Verge"
         },
         {
-          "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
-          "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon....",
-          "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+          "title": "Dinosaur-killing impact crater might have been teeming with life",
+          "summary": "Hot, nutrient water might have lasted for over 5 million years after the impact....",
+          "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
           "source": "Ars Technica"
         }
       ]
@@ -130,34 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: China factory activity returns to growth in September as AI boom supports industrial sector",
-          "summary": "China’s factory activity returned to growth in September, with the official manufacturing PMI rising above the expansion threshold. Strong production and AI-linked demand supported...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-factory-activity-returns-to-growth-in-september-as-ai-boom-supports-industrial-sector/articleshow/134583926.cms",
+          "title": "US Market: 10-year yield surges to 5.31%, highest since 2007",
+          "summary": "US Treasury yields reached multi-year highs as a historic bond selloff extended into a seventh session. The 10-year yield touched 5.31%, while the 30-year exceeded 5.65%. Persisten...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-10-year-yield-surges-to-5-31-highest-since-2007/articleshow/134611550.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: Japan 10-Year bond yield heads for record fifth quarterly gain",
-          "summary": "Japan’s 10-year government bond yield is poised for a fifth consecutive quarter of double-digit gains, reflecting global bond-market pressure and concerns over Japan’s fiscal outlo...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-10-year-bond-yield-heads-for-record-fifth-quarterly-gain/articleshow/134583925.cms",
+          "title": "Highway Infrastructure shares jump 9% after Rs 245 crore toll operations win from UP authority, NHAI",
+          "summary": "Highway Infrastructure shares jumped after the company secured toll operations orders worth Rs 254 crore from UPEIDA and NHAI. The key order, worth Rs 220.66 crore, involves toll c...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/highway-infrastructure-shares-jump-9-after-rs-245-crore-toll-operations-win-from-up-authority-nhai/articleshow/134610442.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Nityas Gems IPO: What makes it a good long-term bet? Analysts weigh in",
-          "summary": "Nityas Gems and Jewellery IPO price band is set at ₹70 to ₹75 per share. The lot size for the offer is 200 shares....",
-          "link": "https://www.business-standard.com/markets/ipo/nityas-gems-ipo-what-makes-it-a-good-long-term-bet-analysts-weigh-in-126093000430_1.html",
-          "source": "Business Standard Markets"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "US 30-yr yield rises to highest level since 2002: What this means for rupee",
-          "summary": "̌US 30-year Treasury yield hits its highest level since 2002 amid inflation concerns and higher oil prices...",
-          "link": "https://www.business-standard.com/markets/news/us-30-year-bond-yield-2002-high-india-rupee-rbi-policy-repo-rate-126093000395_1.html",
-          "source": "Business Standard Markets"
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "As brands demand more ads, Omnicom turns India into a ‘content factory’",
-          "summary": "As AI speeds up and lowers the cost of ad production, Omnicom Production is moving more global work to India, where its teams are scaling content across multiple markets and platfo...",
-          "link": "https://www.livemint.com/companies/news/omnicom-production-india-ai-global-advertising-work-11790703081366.html",
-          "source": "Livemint Companies"
+          "title": "Welspun Living zooms 112% in 6 months, hits new high; what's driving stock?",
+          "summary": "With 87% of revenue derived from bed and bath linen, which are eligible for RoSCTL benefits of 8.2% of export value, Welspun is a key beneficiary of the scheme, said analysts at Je...",
+          "link": "https://www.business-standard.com/markets/news/welspun-living-zooms-112-in-6-months-hits-new-high-what-s-driving-stock-126100100439_1.html",
+          "source": "Business Standard Markets"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Dexcom report paints mixed picture of CGM use by people with type 2 diabetes",
-          "summary": "Despite growing awareness of CGM and GLP-1 use for type 2 diabetes management, Dexcom’s report found that lack of awareness and access challenges persist. The post Dexcom report pa...",
-          "link": "https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
+          "title": "Patients want flexible and involved cardiac care, but cost hurdles remain",
+          "summary": "While at-home care is piquing cardiac patient interest, they say that solutions must be affordable, convenient and easy to operate. The post Patients want flexible and involved car...",
+          "link": "https://www.medicaldevice-network.com/news/survey-at-home-cardiac-rehabilitation-flexible-invovled-cardiac-care/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Why the next commerce battle will be for the gap between discovery and access",
-          "summary": "Digital content has made product discovery increasingly accessible across India, but affordability, assortment and convenience remain gaps for consumers beyond the metros. The next...",
-          "link": "https://yourstory.com/2026/09/next-commerce-battle-the-gap-between-discovery-and-access",
+          "title": "WillJini raises first round at $3.5M valuation, without pitching a single VC",
+          "summary": "WillJini raises first round at $3.5M valuation, without pitching a single VC Estate-planning startup WillJini grew from Rs 3 lakh to Rs 50 lakh in monthly revenue over three years ...",
+          "link": "https://yourstory.com/2026/09/willjini-raises-first-round-35m-valuation-without-pitching-single-vc",
           "source": "YourStory"
         },
         {
-          "title": "From payments to wealth: Where is India's fintech story headed next?",
-          "summary": "India’s fintech story is moving beyond payments and credit as rising incomes and longer lifespans create a growing need for personalised wealth advice. But access to independent, a...",
-          "link": "https://yourstory.com/2026/09/where-is-india-fintech-story-headed-next",
+          "title": "Not unicorns, lifelines: 5 Northeast startups building for problems they grew up with",
+          "summary": "Meet five Northeast startups building solutions for electricity, healthcare, water, language and accessibility challenges across the region....",
+          "link": "https://yourstory.com/2026/09/northeast-startups-solving-local-problems",
           "source": "YourStory"
         },
         {
-          "title": "Coverfox MD Sanjib Jha Questions IRDAI’s Insurance Reset, Flags Risk To Rural Penetration",
-          "summary": "In a pushback to the IRDAI’s proposed overhaul of the insurance distribution industry, Accel-backed insurtech startup Coverfox’s founder Sanjib Jha&#8230;...",
-          "link": "https://inc42.com/buzz/coverfox-md-sanjib-jha-questions-irdais-insurance-reset-flags-risk-to-rural-penetration/",
+          "title": "UPI Transactions Dip 2% MoM To 24.07 Bn In September",
+          "summary": "Amid ongoing debate over the future of UPI post the introduction of MDR, UPI transaction volumes for the month of&#8230;...",
+          "link": "https://inc42.com/buzz/upi-transactions-dip-2-mom-to-24-07-bn-in-september/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Be bold, give your book smarts a business",
-          "summary": "So far this year, I’ve interviewed incredible individuals who aren’t satisfied with the status quo. They’re positive disruptors who the world needs way more of to keep industries a...",
-          "link": "https://www.designworldonline.com/be-bold-give-your-book-smarts-a-business/",
+          "title": "HANNOVER MESSE 2027 to focus on industrial AI and energy",
+          "summary": "AI is expected to improve productivity, automation may help address skilled labor shortages and humanoid robots are beginning to be used in manufacturing environments. At the same ...",
+          "link": "https://www.designworldonline.com/hannover-messe-2027-to-focus-on-industrial-ai-and-energy/",
           "source": "Design World"
         },
         {
-          "title": "Mind over Machine: Brian Balch of Hexagon Manufacturing",
-          "summary": "In this edition of Mind Over Machine, Design World Managing Editor Mike Santora sits down with Brian Balch of Hexagon Manufacturing Intelligence to explore where AI does — and does...",
-          "link": "https://www.designworldonline.com/mind-over-machine-brian-balch-of-hexagon-manufacturing/",
+          "title": "Toyota goes all-in on humanoid robots",
+          "summary": "A massive investment in humanoid robots with an ambitious timeline. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. It’s no secret that humano...",
+          "link": "https://www.designworldonline.com/toyota-goes-all-in-on-humanoid-robots/",
           "source": "Design World"
         }
       ]
@@ -228,11 +228,11 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
-          "summary": "Nothing decided to join the $400+ ANC headphone ranks, and made just one bizarre mistake...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV...",
-          "link": "https://www.youtube.com/watch?v=rayrrXot17M",
+          "title": "Dear YouTube!",
+          "summary": "Let's talk about this new video A/B testing feature\n\nThe Waveform podcast: https://youtu.be/UD9X5WxZ5nE?si=OxzE_7V_D1xiy_hD&t=3870\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of ...",
+          "link": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
           "source": "MKBHD",
-          "thumbnail": "https://i3.ytimg.com/vi/rayrrXot17M/hqdefault.jpg"
+          "thumbnail": "https://i2.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg"
         },
         {
           "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
