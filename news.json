@@ -1,27 +1,27 @@
 {
-  "last_updated": "Friday, October 02, 2026 at 12:54 PM IST",
-  "last_updated_iso": "2026-10-02T12:54:26.704703",
+  "last_updated": "Saturday, October 03, 2026 at 12:27 PM IST",
+  "last_updated_iso": "2026-10-03T12:27:25.793247",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
         "price": 22421.95,
-        "change": -198.45000000000073,
-        "change_pct": -0.8773054411062612,
+        "change": -198.5,
+        "change_pct": -0.8775245408468885,
         "is_up": false
       },
       {
         "name": "Sensex",
         "price": 71909.7,
-        "change": -570.6000000000058,
-        "change_pct": -0.7872483971506821,
+        "change": -570.5899999999965,
+        "change_pct": -0.787234708911894,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
         "price": 54450.75,
-        "change": -182.34999999999854,
-        "change_pct": -0.33377201733015066,
+        "change": -182.3000000000029,
+        "change_pct": -0.33368080310362114,
         "is_up": false
       }
     ],
@@ -83,10 +83,10 @@
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4215.8,
-        "change": 13.5,
-        "change_pct": 0.32125264735977915,
-        "is_up": true
+        "price": 4162.3,
+        "change": -40.0,
+        "change_pct": -0.9518596958808271,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Robotaxi operators will face fines for blocking first responders",
-          "summary": "A new California law places new rules on autonomous vehicles operators...",
-          "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+          "title": "Meta wants your next gadget to be Muse-infused",
+          "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free....",
+          "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
           "source": "TechCrunch"
         },
         {
-          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that....",
-          "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "title": "Sanders introduces bill to ban the federal government from using Flock",
+          "summary": "The proposed legislation would extend to all automotica license plate readers....",
+          "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+          "title": "Meta open sources code to let you make Muse AI gadgets",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+          "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
           "source": "The Verge"
         },
         {
-          "title": "Google’s new Guided Vision feature can help you read the fine print",
+          "title": "Netflix is pivoting away from prestige",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+          "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
           "source": "The Verge"
         },
         {
-          "title": "Venus' mysterious haze is actually cosmic dust",
-          "summary": "A physical model show that iron dust and sulfuric acid create the right properties....",
-          "link": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+          "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+          "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ....",
+          "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Coal India, NTPC among 360 ONE Capital Research’s 8 stock picks for October. Check full list with target prices",
-          "summary": "360 ONE Capital Research has picked eight stocks for October, including Coal India, NTPC and ITC, with Buy ratings and target prices, citing earnings prospects and growth drivers.C...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-ntpc-among-360-one-capital-researchs-8-stock-picks-for-october-check-full-list-with-target-prices/slideshow/134633712.cms",
+          "title": "Stocks to buy: Axis picks 7 largecap stocks with upside potential of up to 44%. See full list",
+          "summary": "Axis has picked 7 largecap stocks that have robust value after the sharp correction....",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-axis-picks-7-largecap-stocks-with-upside-potential-of-up-to-44-see-full-list/slideshow/134653534.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ETMarkets Smart Talk| ‘Desi to Videsi’: How GIFT City is changing the way Indians invest globally — Mustafa Pardiwala",
-          "summary": "GIFT City is emerging as a gateway for Indian investors seeking global diversification, offering access to US stocks, ETFs and sectors such as AI and semiconductors. Mustafa Pardiw...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/etmarkets-smart-talk-desi-to-videsi-how-gift-city-is-changing-the-way-indians-invest-globally-mustafa-pardiwala/articleshow/134633325.cms",
+          "title": "Indian stocks face a cyclical correction, not a deeper earnings reset: Mahindra Manulife MF CIO",
+          "summary": "Markets are also digesting a range of near-term uncertainties, including energy price volatility, geopolitical tensions and the potential impact of AI-led disruption on future empl...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/indian-stocks-face-a-cyclical-correction-not-a-deeper-earnings-reset-mahindra-manulife-mf-cio/articleshow/134652752.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Podcast: Continuous monitoring’s burgeoning role in metabolic health",
-          "summary": "Continuous monitoring devices are increasingly being developed to map biomarkers other than glucose in the metabolic health space. The post Podcast: Continuous monitoring’s burgeon...",
-          "link": "https://www.medicaldevice-network.com/features/podcast-continuous-monitoring-metabolic-health-obesity-diabetes/",
+          "title": "Brainomix’s e-Lung shows progression and treatment response in Phase III trial",
+          "summary": "Trial operators are increasingly incorporating imaging tools and related artificial intelligence (AI)-based tools into their study protocols. The post Brainomix’s e-Lung shows prog...",
+          "link": "https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
+          "title": "Business trends and success tips: entrepreneur advice from Gifts World Expo",
+          "summary": "In this photo essay, we showcase highlights from Gifts World Expo 2026 at Palace Grounds, Bengaluru....",
+          "link": "https://yourstory.com/2026/10/business-trends-success-tips-entrepreneur-advice-gifts-world-expo-photography",
+          "source": "YourStory"
+        },
+        {
           "title": "Jio IPO nears launch: DRHP filed, SEBI clears path",
           "summary": "Reliance’s digital arm moves closer to listing with a Rs 37,700‑crore fresh issue; final price band and subscription dates expected soon. One of the most anticipated IPOs in India ...",
           "link": "https://yourstory.com/2026/10/jio-ipo-nears-launch-drhp-filed-sebi-clears-path",
           "source": "YourStory"
         },
         {
-          "title": "Practical tips every Indian household should know\nHow to choose the right family health insurance plan",
-          "summary": "From sum insured and hospital networks to waiting periods, exclusions, and claims support, here are key factors Indian families should consider before choosing a health insurance p...",
-          "link": "https://yourstory.com/2026/09/practical-tips-indian-household-knowhow-choose-right-family-health-insurance",
-          "source": "YourStory"
-        },
-        {
-          "title": "Researchers Flag AI Overreach, Moneyview’s Bumper IPO & More",
-          "summary": "OpenAI Dispute Sparks Academic Panic Last month, OpenAI’s Codex possibly solved the Navier-Stokes equations in days. But mathematician Tristan Buckmaster&#8230;...",
-          "link": "https://inc42.com/buzz/researchers-flag-ai-overreach-moneyviews-bumper-ipo-more/",
+          "title": "From Simple Energy To Arivihan — Indian Startups Raised Over $233 Mn This Week",
+          "summary": "&#160; Funding momentum in the Indian startup ecosystem continued through the final week of September. Homegrown new-age tech ventures raised&#8230;...",
+          "link": "https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -211,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "October 2026 issue: Motion control IC elevates stage automation",
+          "summary": "The October 2026 issue of Design World centers on motion control, with a cover story on stage automation. Lisa Eitel&#8217;s Design Notes piece explains how Creative Conners, which...",
+          "link": "https://www.designworldonline.com/october-2026-issue-motion-control-ic-elevates-stage-automation/",
+          "source": "Design World"
+        },
+        {
           "title": "Arrowfly launches AI for Engineers to help engineers navigate AI",
           "summary": "This new year-round initiative unites a dedicated news desk, a flagship conference, original research, and an advisory board, grounded in the engineering community&#8217;s most tru...",
           "link": "https://www.designworldonline.com/arrowfly-launches-ai-for-engineers-to-help-engineers-navigate-ai/",
           "source": "Design World"
-        },
-        {
-          "title": "The Citicorp Building — the disaster that wasn’t",
-          "summary": "In teaching engineering ethics, we cover quite a few case studies of actual engineering disasters to trace out what went wrong, what choices the people involved made, and why. And ...",
-          "link": "https://www.designworldonline.com/the-citicorp-building-the-disaster-that-wasnt/",
-          "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "Dear YouTube!",
-          "summary": "Let's talk about this new video A/B testing feature\n\nThe Waveform podcast: https://youtu.be/UD9X5WxZ5nE?si=OxzE_7V_D1xiy_hD&t=3870\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of ...",
-          "link": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
-          "source": "MKBHD",
-          "thumbnail": "https://i2.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg"
-        },
-        {
-          "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nNote: in the walking creatures experiment, Astra used a simplified model and was unable to imple...",
-          "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i4.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg"
         }
       ]
     }
