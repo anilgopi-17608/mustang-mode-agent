@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, October 04, 2026 at 12:48 PM IST",
-  "last_updated_iso": "2026-10-04T12:48:15.229206",
+  "last_updated": "Monday, October 05, 2026 at 01:03 PM IST",
+  "last_updated_iso": "2026-10-05T13:03:27.058008",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22421.95,
-        "change": -198.5,
-        "change_pct": -0.8775245408468885,
-        "is_up": false
+        "price": 22460.3,
+        "change": 38.349999999998545,
+        "change_pct": 0.1710377554137733,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 71909.7,
-        "change": -570.5899999999965,
-        "change_pct": -0.787234708911894,
-        "is_up": false
+        "price": 72061.67,
+        "change": 151.97000000000116,
+        "change_pct": 0.2113344931212356,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 54450.75,
-        "change": -182.3000000000029,
-        "change_pct": -0.33368080310362114,
-        "is_up": false
+        "price": 54606.15,
+        "change": 155.40000000000146,
+        "change_pct": 0.2853955179680747,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Infosys",
-        "price": 1035.0,
-        "change": 40.89999999999998,
-        "change_pct": 4.114274217885523,
+        "name": "Wipro",
+        "price": 161.96,
+        "change": 2.6100000000000136,
+        "change_pct": 1.6379039849388224,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 721.2,
-        "change": 12.5,
-        "change_pct": 1.763792860166502,
+        "name": "Bharti Airtel",
+        "price": 1765.4,
+        "change": 24.300000000000182,
+        "change_pct": 1.395669404399528,
         "is_up": true
       },
       {
         "name": "TCS",
-        "price": 2075.0,
-        "change": 24.40000000000009,
-        "change_pct": 1.1898956403004044,
+        "price": 2097.7,
+        "change": 22.699999999999818,
+        "change_pct": 1.093975903614449,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 11386.0,
-        "change": -581.0,
-        "change_pct": -4.855017966073368,
+        "name": "Infosys",
+        "price": 1011.2,
+        "change": -23.799999999999955,
+        "change_pct": -2.299516908212556,
         "is_up": false
       },
       {
-        "name": "L&T",
-        "price": 3693.4,
-        "change": -66.59999999999991,
-        "change_pct": -1.7712765957446783,
+        "name": "HDFC Bank",
+        "price": 705.75,
+        "change": -15.450000000000045,
+        "change_pct": -2.142262895174715,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1167.7,
-        "change": -19.299999999999955,
-        "change_pct": -1.6259477674810408,
+        "name": "Sun Pharma",
+        "price": 1786.0,
+        "change": -15.0,
+        "change_pct": -0.8328706274292059,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.3,
-        "change": -0.010000000000005116,
-        "change_pct": -0.010383137784243709,
+        "price": 96.283,
+        "change": -0.016999999999995907,
+        "change_pct": -0.017653167185873217,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4162.3,
-        "change": -40.0,
-        "change_pct": -0.9518596958808271,
-        "is_up": false
+        "price": 4182.4,
+        "change": 20.099999999999454,
+        "change_pct": 0.48290608557767223,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-          "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant....",
-          "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+          "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+          "summary": "AI slop seems to be overwhelming bug bounty programs....",
+          "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
           "source": "TechCrunch"
         },
         {
-          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-          "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers....",
-          "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+          "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI....",
+          "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
           "source": "TechCrunch"
         },
         {
-          "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+          "title": "The new Fitbit Edge leaks",
           "summary": "",
-          "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+          "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
           "source": "The Verge"
         },
         {
-          "title": "The best early October Prime Day deals happening now",
+          "title": "Prick’s theatrical industrial punk is perfect for spooky season",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+          "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
           "source": "The Verge"
         },
         {
-          "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
-          "summary": "\"...we were making history.\"...",
-          "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+          "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+          "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls...",
+          "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
           "source": "Ars Technica"
         }
       ]
@@ -130,33 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Rate cut cycle near turning point. What lies ahead for Indian bonds?",
-          "summary": "The RBI is expected to signal monetary tightening at its October policy meeting as stronger economic growth, rising oil prices and elevated US Treasury yields fuel inflation concer...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rate-cut-cycle-near-turning-point-what-lies-ahead-for-indian-bonds/articleshow/134671117.cms",
+          "title": "Avenue Supermarts shares fall 4% despite 18% YoY revenue growth in Q2 update",
+          "summary": "Avenue Supermarts achieved an impressive 18.4% increase in year-on-year revenue for Q2, totaling Rs 19,206.18 crore. As of September 30, 2026, the company operates 518 stores, alth...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-shares-fall-4-despite-18-yoy-revenue-growth-in-q2-update/articleshow/134689213.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "After Nifty’s longest losing streak in 25 years, what should investors do now?",
-          "summary": "After Nifty’s longest weekly losing streak in 25 years, analysts advise caution as the index trades below its 200-week moving average. The 22,600 level remains crucial, with furthe...",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/afterniftys-longest-losing-streak-in-25-years-what-should-investors-do-now/articleshow/134670772.cms",
+          "title": "Can Nifty break the 8-week deadlock or will pain continue? Here’s what charts indicate",
+          "summary": "Nifty rebounded after its longest weekly losing streak in 25 years, but technical indicators suggest the broader downtrend remains intact. The index is near key support at 21,743–2...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-break-the-8-week-deadlock-or-will-pain-continue-heres-what-charts-indicate/articleshow/134688975.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Jio IPO likely by Oct end at enterprise valuation of above ₹12 trillion",
-          "summary": "Digital services major Jio Platforms is likely to get listed by the end of this month at an enterprise valuation of USD 143-146 billion or above Rs 12 lakh crore, sources tracking ...",
-          "link": "https://www.business-standard.com/markets/ipo/jio-ipo-likely-by-oct-end-at-enterprise-valuation-of-above-12-trillion-126100400146_1.html",
+          "title": "Nykaa Q2 update: JM sees 'excellent trends' in BPC & Fashion; stock up 5%",
+          "summary": "Nykaa said that the Beauty vertical maintained its healthy performance in Q2 with net sales value (NSV) and Net Revenue growth expected to be in late 30s....",
+          "link": "https://www.business-standard.com/markets/news/nykaa-q2-update-jm-sees-excellent-trends-in-bpc-fashion-stock-up-5-126100500310_1.html",
           "source": "Business Standard Markets"
         },
         {
-          "title": "Sebi CAS review draws over 20K responses; traders resist VWAP shift",
-          "summary": "FIA, a global body of traders and exchanges, favours the 30-minute CTS-VWAP option and continuous trading till 3:30 pm...",
-          "link": "https://www.business-standard.com/markets/news/markets-news-sebi-cas-review-draws-over-20k-responses-traders-resist-vwap-shift-126100400056_1.html",
+          "title": "LG Electronics surges 6%; at record high; what's driving stock price?",
+          "summary": "In the past six months, the market price of LG Electronics surged 38% and it has bounced back 40% from its 52-week low of ₹1,300.40 touched on January 21, 2026....",
+          "link": "https://www.business-standard.com/markets/news/lg-electronics-surges-6-at-record-high-what-s-driving-stock-price-126100500286_1.html",
           "source": "Business Standard Markets"
         },
         {
-          "title": "South Korean president orders probe into data leaks across financial industry",
-          "summary": "SOUTHKOREA-HACK:South Korean president orders probe into data leaks across financial industry...",
-          "link": "https://www.livemint.com/companies/south-korean-president-orders-probe-into-data-leaks-across-financial-industry-11791094811850.html",
+          "title": "Supreme Court agrees to fast-track 1988 Air India crash compensation case",
+          "summary": "Nearly four decades after the Ahmedabad crash, the Supreme Court will revisit whether air-crash compensation should follow road accident rules or a separate legal framework....",
+          "link": "https://www.livemint.com/companies/news/supreme-court-agrees-to-fast-track-1988-air-india-crash-compensation-case-11791182464960.html",
           "source": "Livemint Companies"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Workflow, sustainability, AI: test your business creativity with Edition 252 of our weekly quiz!",
-          "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 252nd quiz. Ready?...",
-          "link": "https://yourstory.com/2026/10/workflow-sustainability-ai-business-creativity-entrepreneur-education-quiz",
+          "title": "Why finance teams need to think in systems",
+          "summary": "As financial workflows become more connected, finance teams are taking a greater role in designing processes that reduce manual work, improve visibility, and scale with the busines...",
+          "link": "https://yourstory.com/2026/10/finance-teams-need-think-in-systems",
           "source": "YourStory"
         },
         {
-          "title": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030",
-          "summary": "Andhra Pradesh Chief Minister N Chandrababu Naidu told venture capital investors that the state would match their contribution to deeptech investments....",
-          "link": "https://yourstory.com/2026/10/paniit-500-cr-deeptech-fund-targets-25-andhra-startups-by-2030",
+          "title": "Why did Virat Kohli give up a Rs 300 Cr Puma deal to back Abhishek Ganguly’s Agilitas?",
+          "summary": "In this episode of the Prime Venture Partners Podcast, Abhishek Ganguly shares how he built Puma India, how Virat Kohli’s one8 came about, and what Agilitas is trying to build in I...",
+          "link": "https://yourstory.com/2026/10/why-did-virat-kohli-give-up-rs-300-cr-puma-deal-abhishek-gangulys-agilitas",
           "source": "YourStory"
         },
         {
-          "title": "Is Apple Pay’s India Entry Too Late?",
-          "summary": "The past fortnight has brought several developments around Apple in India. The iPhone 18 Pro and Apple’s foldable iPhone Duo&#8230;...",
-          "link": "https://inc42.com/features/is-apple-pays-india-entry-too-late/",
+          "title": "Nykaa Shares Jump 6% On Strong Q2 FY27 Growth Outlook",
+          "summary": "Shares of Nykaa surged as much as 6.1% to hit an intraday high of ₹342.95 apiece on the BSE after&#8230;...",
+          "link": "https://inc42.com/buzz/nykaa-shares-jump-6-on-strong-q2-fy27-growth-outlook/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Online tool simplifies connector specification",
-          "summary": "Harwin has introduced an online Connector Selector tool for specifying interconnect components. The visual interface lets users refine selections by contact count, current per cont...",
-          "link": "https://www.designworldonline.com/online-tool-simplifies-connector-specification/",
+          "title": "Commentary: What it takes to attract engineers like Brette Mullenaux",
+          "summary": "I&#8217;ve interviewed a lot of engineers at trade shows. Most are good. A few are great. Every so often, someone stops you cold. That happened at a booth at Sensors Converge earli...",
+          "link": "https://www.designworldonline.com/commentary-what-it-takes-to-attract-engineers-like-brette-mullenaux/",
           "source": "Design World"
         },
         {
-          "title": "FPGA connectors support 112 Gbps PAM4 signaling",
-          "summary": "Samtec has introduced connectors for the SGeT oHFM.c standard, based on its AcceleRate® HD and AcceleRate® HP product families. The connectors use a 0.635 mm pitch and support perf...",
-          "link": "https://www.designworldonline.com/fpga-connectors-support-112-gbps-pam4-signaling/",
+          "title": "Online tool simplifies connector specification",
+          "summary": "Harwin has introduced an online Connector Selector tool for specifying interconnect components. The visual interface lets users refine selections by contact count, current per cont...",
+          "link": "https://www.designworldonline.com/online-tool-simplifies-connector-specification/",
           "source": "Design World"
         }
       ]
