@@ -1,91 +1,91 @@
 {
-  "last_updated": "Monday, October 05, 2026 at 01:03 PM IST",
-  "last_updated_iso": "2026-10-05T13:03:27.058008",
+  "last_updated": "Tuesday, October 06, 2026 at 01:29 PM IST",
+  "last_updated_iso": "2026-10-06T13:29:06.223014",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22460.3,
-        "change": 38.349999999998545,
-        "change_pct": 0.1710377554137733,
+        "price": 22696.85,
+        "change": 274.9499999999971,
+        "change_pct": 1.2262564724666378,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 72061.67,
-        "change": 151.97000000000116,
-        "change_pct": 0.2113344931212356,
+        "price": 72918.37,
+        "change": 1008.6699999999983,
+        "change_pct": 1.4026897622991035,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 54606.15,
-        "change": 155.40000000000146,
-        "change_pct": 0.2853955179680747,
+        "price": 55108.75,
+        "change": 657.9499999999971,
+        "change_pct": 1.2083385368075346,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Wipro",
-        "price": 161.96,
-        "change": 2.6100000000000136,
-        "change_pct": 1.6379039849388224,
+        "name": "Reliance",
+        "price": 1210.8,
+        "change": 24.399999999999864,
+        "change_pct": 2.0566419420094286,
+        "is_up": true
+      },
+      {
+        "name": "HDFC Bank",
+        "price": 711.15,
+        "change": 6.350000000000023,
+        "change_pct": 0.9009648127128296,
         "is_up": true
       },
       {
         "name": "Bharti Airtel",
-        "price": 1765.4,
-        "change": 24.300000000000182,
-        "change_pct": 1.395669404399528,
-        "is_up": true
-      },
-      {
-        "name": "TCS",
-        "price": 2097.7,
-        "change": 22.699999999999818,
-        "change_pct": 1.093975903614449,
+        "price": 1795.4,
+        "change": 15.5,
+        "change_pct": 0.8708354401932692,
         "is_up": true
       }
     ],
     "losers": [
       {
+        "name": "TCS",
+        "price": 2084.3,
+        "change": -30.09999999999991,
+        "change_pct": -1.423571698827086,
+        "is_up": false
+      },
+      {
         "name": "Infosys",
-        "price": 1011.2,
-        "change": -23.799999999999955,
-        "change_pct": -2.299516908212556,
+        "price": 1006.0,
+        "change": -14.5,
+        "change_pct": -1.4208721215090643,
         "is_up": false
       },
       {
-        "name": "HDFC Bank",
-        "price": 705.75,
-        "change": -15.450000000000045,
-        "change_pct": -2.142262895174715,
-        "is_up": false
-      },
-      {
-        "name": "Sun Pharma",
-        "price": 1786.0,
-        "change": -15.0,
-        "change_pct": -0.8328706274292059,
+        "name": "Wipro",
+        "price": 160.94,
+        "change": -1.1999999999999886,
+        "change_pct": -0.7401011471567712,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.283,
-        "change": -0.016999999999995907,
-        "change_pct": -0.017653167185873217,
-        "is_up": false
+        "price": 96.4175,
+        "change": 0.11750000000000682,
+        "change_pct": 0.12201453790239546,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4182.4,
-        "change": 20.099999999999454,
-        "change_pct": 0.48290608557767223,
+        "price": 4167.5,
+        "change": 10.699999999999818,
+        "change_pct": 0.25740954580446057,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-          "summary": "AI slop seems to be overwhelming bug bounty programs....",
-          "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+          "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs....",
+          "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
           "source": "TechCrunch"
         },
         {
-          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-          "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI....",
-          "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+          "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+          "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says....",
+          "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
           "source": "TechCrunch"
         },
         {
-          "title": "The new Fitbit Edge leaks",
+          "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
           "source": "The Verge"
         },
         {
-          "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+          "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+          "link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
           "source": "The Verge"
         },
         {
-          "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
-          "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls...",
-          "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+          "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+          "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another....",
+          "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
           "source": "Ars Technica"
         }
       ]
@@ -130,33 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Avenue Supermarts shares fall 4% despite 18% YoY revenue growth in Q2 update",
-          "summary": "Avenue Supermarts achieved an impressive 18.4% increase in year-on-year revenue for Q2, totaling Rs 19,206.18 crore. As of September 30, 2026, the company operates 518 stores, alth...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-shares-fall-4-despite-18-yoy-revenue-growth-in-q2-update/articleshow/134689213.cms",
+          "title": "Orient Cables shares tumble 10% a day after strong market debut",
+          "summary": "Orient Cables' shares faced a notable drop of 10% soon after a promising IPO launch, leading to a dip in investor sentiment. However, the stock continues to hold firm above the ini...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/orient-cables-shares-tumble-10-a-day-after-strong-market-debut/articleshow/134727066.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Can Nifty break the 8-week deadlock or will pain continue? Here’s what charts indicate",
-          "summary": "Nifty rebounded after its longest weekly losing streak in 25 years, but technical indicators suggest the broader downtrend remains intact. The index is near key support at 21,743–2...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-break-the-8-week-deadlock-or-will-pain-continue-heres-what-charts-indicate/articleshow/134688975.cms",
+          "title": "Banks vs NBFCs: Which stocks could benefit as RBI set to hike rates for the first time in 3 years?",
+          "summary": "The RBI’s expected first rate hike in three years could have a mixed impact on banks and NBFCs. While higher funding costs may pressure NBFC margins, lenders with floating-rate ass...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/banks-vs-nbfcs-which-stocks-could-benefit-as-rbi-set-to-hike-rates-for-the-first-time-in-3-years/articleshow/134726852.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Nykaa Q2 update: JM sees 'excellent trends' in BPC & Fashion; stock up 5%",
-          "summary": "Nykaa said that the Beauty vertical maintained its healthy performance in Q2 with net sales value (NSV) and Net Revenue growth expected to be in late 30s....",
-          "link": "https://www.business-standard.com/markets/news/nykaa-q2-update-jm-sees-excellent-trends-in-bpc-fashion-stock-up-5-126100500310_1.html",
-          "source": "Business Standard Markets"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "LG Electronics surges 6%; at record high; what's driving stock price?",
-          "summary": "In the past six months, the market price of LG Electronics surged 38% and it has bounced back 40% from its 52-week low of ₹1,300.40 touched on January 21, 2026....",
-          "link": "https://www.business-standard.com/markets/news/lg-electronics-surges-6-at-record-high-what-s-driving-stock-price-126100500286_1.html",
-          "source": "Business Standard Markets"
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Supreme Court agrees to fast-track 1988 Air India crash compensation case",
-          "summary": "Nearly four decades after the Ahmedabad crash, the Supreme Court will revisit whether air-crash compensation should follow road accident rules or a separate legal framework....",
-          "link": "https://www.livemint.com/companies/news/supreme-court-agrees-to-fast-track-1988-air-india-crash-compensation-case-11791182464960.html",
+          "title": "Trump’s $100,000 H-1B fee hits legal hurdle",
+          "summary": "Two district courts have blocked enforcement of the fee, offering temporary relief to Indian technology firms that rely on H-1B visas to deploy skilled workers in the US....",
+          "link": "https://www.livemint.com/companies/h1b-visa-fee-trump-indian-it-companies-11791203653112.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Brainomix’s e-Lung shows progression and treatment response in Phase III trial",
-          "summary": "Trial operators are increasingly incorporating imaging tools and related artificial intelligence (AI)-based tools into their study protocols. The post Brainomix’s e-Lung shows prog...",
-          "link": "https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
+          "title": "GE HealthCare agrees to acquire SOFIE Biosciences in $945m deal",
+          "summary": "The cash deal to acquire the PET radiopharmaceuticals CMO from Trilantic North America is expected to close in H1 2027. The post GE HealthCare agrees to acquire SOFIE Biosciences i...",
+          "link": "https://www.medicaldevice-network.com/news/ge-healthcare-agrees-to-acquire-sofie-biosciences-in-945m-deal/",
           "source": "Medical Device Network"
         }
       ]
@@ -194,15 +194,15 @@
           "source": "YourStory"
         },
         {
-          "title": "Why did Virat Kohli give up a Rs 300 Cr Puma deal to back Abhishek Ganguly’s Agilitas?",
-          "summary": "In this episode of the Prime Venture Partners Podcast, Abhishek Ganguly shares how he built Puma India, how Virat Kohli’s one8 came about, and what Agilitas is trying to build in I...",
-          "link": "https://yourstory.com/2026/10/why-did-virat-kohli-give-up-rs-300-cr-puma-deal-abhishek-gangulys-agilitas",
+          "title": "The next chapter for India’s insurtech is about reach, trust, and retention",
+          "summary": "India’s insurtech sector is shifting from growth at all costs to sustainable scale, as investors demand clearer paths to profitability. The next phase will favour businesses that c...",
+          "link": "https://yourstory.com/2026/10/the-next-chapter-for-indias-insurtech-is-about-reach-trust-and-retention",
           "source": "YourStory"
         },
         {
-          "title": "Nykaa Shares Jump 6% On Strong Q2 FY27 Growth Outlook",
-          "summary": "Shares of Nykaa surged as much as 6.1% to hit an intraday high of ₹342.95 apiece on the BSE after&#8230;...",
-          "link": "https://inc42.com/buzz/nykaa-shares-jump-6-on-strong-q2-fy27-growth-outlook/",
+          "title": "Premium Staples Face Their Next Growth Test",
+          "summary": "Atta, oil, ghee, salt. These are staples that no one really considers twice before buying. Yet a growing crop of&#8230;...",
+          "link": "https://inc42.com/features/premium-staples-face-their-next-growth-test/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Commentary: What it takes to attract engineers like Brette Mullenaux",
-          "summary": "I&#8217;ve interviewed a lot of engineers at trade shows. Most are good. A few are great. Every so often, someone stops you cold. That happened at a booth at Sensors Converge earli...",
-          "link": "https://www.designworldonline.com/commentary-what-it-takes-to-attract-engineers-like-brette-mullenaux/",
+          "title": "From Component Search to Component Confidence",
+          "summary": "By Alexsander Tamari, Technical Marketing Engineer, Altium People often assume that the hardest part of an engineer’s job is sourcing the right component for the job. It isn’t. Wel...",
+          "link": "https://www.designworldonline.com/from-component-search-to-component-confidence/",
           "source": "Design World"
         },
         {
-          "title": "Online tool simplifies connector specification",
-          "summary": "Harwin has introduced an online Connector Selector tool for specifying interconnect components. The visual interface lets users refine selections by contact count, current per cont...",
-          "link": "https://www.designworldonline.com/online-tool-simplifies-connector-specification/",
+          "title": "Commentary: What it takes to attract engineers like Brette Mullenaux",
+          "summary": "I&#8217;ve interviewed a lot of engineers at trade shows. Most are good. A few are great. Every so often, someone stops you cold. That happened at a booth at Sensors Converge earli...",
+          "link": "https://www.designworldonline.com/commentary-what-it-takes-to-attract-engineers-like-brette-mullenaux/",
           "source": "Design World"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg"
         },
         {
-          "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nNote: in the walking creatures experiment, Astra used a simplified model and was unable to imple...",
-          "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+          "title": "The Billion Dollar AI Advantage Is Disappearing",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Sonnet 5.5: \nhttps://www.anthropic.com/claude-sonnet-5-5\n\n🙏 We would like to thank our generou...",
+          "link": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i4.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg"
+          "thumbnail": "https://i3.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg"
         }
       ]
     }
