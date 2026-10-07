@@ -1,92 +1,92 @@
 {
-  "last_updated": "Tuesday, October 06, 2026 at 01:29 PM IST",
-  "last_updated_iso": "2026-10-06T13:29:06.223014",
+  "last_updated": "Wednesday, October 07, 2026 at 01:07 PM IST",
+  "last_updated_iso": "2026-10-07T13:07:12.456926",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22696.85,
-        "change": 274.9499999999971,
-        "change_pct": 1.2262564724666378,
+        "price": 22593.05,
+        "change": 37.25,
+        "change_pct": 0.16514599349169617,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 72918.37,
-        "change": 1008.6699999999983,
-        "change_pct": 1.4026897622991035,
+        "price": 72786.24,
+        "change": 403.74000000000524,
+        "change_pct": 0.5577867578489348,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 55108.75,
-        "change": 657.9499999999971,
-        "change_pct": 1.2083385368075346,
+        "price": 54934.85,
+        "change": 220.75,
+        "change_pct": 0.4034608994756379,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Reliance",
-        "price": 1210.8,
-        "change": 24.399999999999864,
-        "change_pct": 2.0566419420094286,
-        "is_up": true
-      },
-      {
-        "name": "HDFC Bank",
-        "price": 711.15,
-        "change": 6.350000000000023,
-        "change_pct": 0.9009648127128296,
-        "is_up": true
-      },
-      {
         "name": "Bharti Airtel",
-        "price": 1795.4,
-        "change": 15.5,
-        "change_pct": 0.8708354401932692,
+        "price": 1842.9,
+        "change": 32.40000000000009,
+        "change_pct": 1.7895608947804522,
         "is_up": true
+      },
+      {
+        "name": "ICICI Bank",
+        "price": 1348.1,
+        "change": 5.2999999999999545,
+        "change_pct": 0.39469764670836716,
+        "is_up": true
+      },
+      {
+        "name": "Reliance",
+        "price": 1210.2,
+        "change": -7.7999999999999545,
+        "change_pct": -0.6403940886699471,
+        "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "TCS",
-        "price": 2084.3,
-        "change": -30.09999999999991,
-        "change_pct": -1.423571698827086,
-        "is_up": false
-      },
-      {
         "name": "Infosys",
-        "price": 1006.0,
-        "change": -14.5,
-        "change_pct": -1.4208721215090643,
+        "price": 992.25,
+        "change": -21.600000000000023,
+        "change_pct": -2.130492676431427,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 160.94,
-        "change": -1.1999999999999886,
-        "change_pct": -0.7401011471567712,
+        "name": "L&T",
+        "price": 3693.9,
+        "change": -76.09999999999991,
+        "change_pct": -2.018567639257292,
+        "is_up": false
+      },
+      {
+        "name": "Maruti",
+        "price": 11408.0,
+        "change": -217.0,
+        "change_pct": -1.866666666666667,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.4175,
-        "change": 0.11750000000000682,
-        "change_pct": 0.12201453790239546,
+        "price": 96.7725,
+        "change": 0.4124999999999943,
+        "change_pct": 0.42808219178081597,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4167.5,
-        "change": 10.699999999999818,
-        "change_pct": 0.25740954580446057,
-        "is_up": true
+        "price": 4159.7,
+        "change": -27.400000000000546,
+        "change_pct": -0.6543908671873264,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-          "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs....",
-          "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+          "title": "Spotify expands audiobooks to over 180 markets",
+          "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion...",
+          "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-          "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says....",
-          "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+          "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+          "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads....",
+          "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
           "source": "TechCrunch"
         },
         {
-          "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+          "title": "OpenAI drops another batch of mathematical breakthroughs",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
           "source": "The Verge"
         },
         {
-          "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+          "title": "Xbox has secured GTA 6 streaming rights",
           "summary": "",
-          "link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
+          "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
           "source": "The Verge"
         },
         {
-          "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-          "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another....",
-          "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+          "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+          "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing....",
+          "link": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Orient Cables shares tumble 10% a day after strong market debut",
-          "summary": "Orient Cables' shares faced a notable drop of 10% soon after a promising IPO launch, leading to a dip in investor sentiment. However, the stock continues to hold firm above the ini...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/orient-cables-shares-tumble-10-a-day-after-strong-market-debut/articleshow/134727066.cms",
+          "title": "RBI hikes rate, but analysts see shift to ‘calibrated tightening’ as bigger takeaway. How can this impact markets?",
+          "summary": "RBI’s 25-bps repo rate hike to 5.50% was largely expected, but its shift to ‘calibrated tightening’ surprised markets and signals that near-term rate cuts are unlikely. Analysts ex...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-hikes-rate-but-analysts-see-shift-to-calibrated-tightening-as-bigger-takeaway-how-can-this-impact-markets/articleshow/134758783.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Banks vs NBFCs: Which stocks could benefit as RBI set to hike rates for the first time in 3 years?",
-          "summary": "The RBI’s expected first rate hike in three years could have a mixed impact on banks and NBFCs. While higher funding costs may pressure NBFC margins, lenders with floating-rate ass...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/banks-vs-nbfcs-which-stocks-could-benefit-as-rbi-set-to-hike-rates-for-the-first-time-in-3-years/articleshow/134726852.cms",
+          "title": "Trent’s Rs 1.80 lakh crore rout from peak: Has Q2 just flipped the script for Tata group’s retail crown jewel?",
+          "summary": "In Q2FY27, Trent demonstrated impressive financial performance, achieving a remarkable 23% increase in revenue compared to the previous year. This achievement is particularly notew...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/trents-rs-1-80-lakh-crore-rout-from-peak-has-q2-just-flipped-the-script-for-tata-groups-retail-crown-jewel/articleshow/134758918.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,10 +154,10 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Trump’s $100,000 H-1B fee hits legal hurdle",
-          "summary": "Two district courts have blocked enforcement of the fee, offering temporary relief to Indian technology firms that rely on H-1B visas to deploy skilled workers in the US....",
-          "link": "https://www.livemint.com/companies/h1b-visa-fee-trump-indian-it-companies-11791203653112.html",
-          "source": "Livemint Companies"
+          "title": "RBI hike reinforces stock selection, not broad equity caution: Ajit Mishra",
+          "summary": "Going ahead, crude oil prices, food inflation, the rupee and global monetary conditions will be the key variables to watch....",
+          "link": "https://www.business-standard.com/markets/news/rbi-hike-reinforces-stock-selection-not-broad-equity-caution-ajit-mishra-126100700497_1.html",
+          "source": "Business Standard Markets"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "GE HealthCare agrees to acquire SOFIE Biosciences in $945m deal",
-          "summary": "The cash deal to acquire the PET radiopharmaceuticals CMO from Trilantic North America is expected to close in H1 2027. The post GE HealthCare agrees to acquire SOFIE Biosciences i...",
-          "link": "https://www.medicaldevice-network.com/news/ge-healthcare-agrees-to-acquire-sofie-biosciences-in-945m-deal/",
+          "title": "Eye implant triggers sight improvements in GA at 36 months, pivotal study finds",
+          "summary": "These results from Science Corporation's PRIMA in GA come as the FDA mulls over the device's fate on the US ophthalmic market. The post Eye implant triggers sight improvements in G...",
+          "link": "https://www.medicaldevice-network.com/news/eye-implant-triggers-sight-improvements-in-ga-at-36-months/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Why finance teams need to think in systems",
-          "summary": "As financial workflows become more connected, finance teams are taking a greater role in designing processes that reduce manual work, improve visibility, and scale with the busines...",
-          "link": "https://yourstory.com/2026/10/finance-teams-need-think-in-systems",
+          "title": "Starlink operations specifically built for India to meet security, regulatory needs: Official",
+          "summary": "Speaking at India Mobile Congress 2026, SpaceX’s Starlink Business Operations Vice President Lauren Dreyer said the company has made an investment in setting up the required infras...",
+          "link": "https://yourstory.com/2026/10/starlink-operations-specifically-built-for-india-security-regulatory-needs-official",
           "source": "YourStory"
         },
         {
-          "title": "The next chapter for India’s insurtech is about reach, trust, and retention",
-          "summary": "India’s insurtech sector is shifting from growth at all costs to sustainable scale, as investors demand clearer paths to profitability. The next phase will favour businesses that c...",
-          "link": "https://yourstory.com/2026/10/the-next-chapter-for-indias-insurtech-is-about-reach-trust-and-retention",
+          "title": "Cabinet approves Rs 10,000 Cr SME growth fund to boost manufacturing",
+          "summary": "The SME Growth Fund will undertake direct equity investments in small and medium enterprises....",
+          "link": "https://yourstory.com/2026/10/cabinet-approves-rs-10000-cr-sme-growth-fund-to-boost-manufacturing",
           "source": "YourStory"
         },
         {
-          "title": "Premium Staples Face Their Next Growth Test",
-          "summary": "Atta, oil, ghee, salt. These are staples that no one really considers twice before buying. Yet a growing crop of&#8230;...",
-          "link": "https://inc42.com/features/premium-staples-face-their-next-growth-test/",
+          "title": "Zomint Raises ₹36 Cr To Scale Wealth Management Platform",
+          "summary": "Wealthtech startup Zomint has raised ₹36 Cr (about $3.7 Mn) in a seed funding round from Lightspeed and Prime Venture&#8230;...",
+          "link": "https://inc42.com/buzz/zomint-raises-%e2%82%b936-cr-to-scale-wealth-management-platform/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "From Component Search to Component Confidence",
-          "summary": "By Alexsander Tamari, Technical Marketing Engineer, Altium People often assume that the hardest part of an engineer’s job is sourcing the right component for the job. It isn’t. Wel...",
-          "link": "https://www.designworldonline.com/from-component-search-to-component-confidence/",
+          "title": "Hyundai and Boston Dynamics bet big on AI robot training for manufacturing",
+          "summary": "The Robotics Metaplant Applications Center will enable wide scale rollout of Atlas humanoids for production work. This episode is brought to you by Mouser Electronics. Visit mouser...",
+          "link": "https://www.designworldonline.com/hyundai-and-boston-dynamics-bet-big-on-ai-robot-training-for-manufacturing/",
           "source": "Design World"
         },
         {
-          "title": "Commentary: What it takes to attract engineers like Brette Mullenaux",
-          "summary": "I&#8217;ve interviewed a lot of engineers at trade shows. Most are good. A few are great. Every so often, someone stops you cold. That happened at a booth at Sensors Converge earli...",
-          "link": "https://www.designworldonline.com/commentary-what-it-takes-to-attract-engineers-like-brette-mullenaux/",
+          "title": "EXAIR redesigns EFC electronic flow control for compressed air systems",
+          "summary": "EXAIR’s redesigned EFC Electronic Flow Control uses a photoelectric sensor and programmable timing control to activate compressed air when it is needed in automated industrial proc...",
+          "link": "https://www.designworldonline.com/exair-redesigns-efc-electronic-flow-control-for-compressed-air-systems/",
           "source": "Design World"
         }
       ]
