@@ -1,92 +1,92 @@
 {
-  "last_updated": "Wednesday, October 07, 2026 at 01:07 PM IST",
-  "last_updated_iso": "2026-10-07T13:07:12.456926",
+  "last_updated": "Thursday, October 08, 2026 at 01:23 PM IST",
+  "last_updated_iso": "2026-10-08T13:23:35.340627",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22593.05,
-        "change": 37.25,
-        "change_pct": 0.16514599349169617,
-        "is_up": true
+        "price": 22262.85,
+        "change": -513.25,
+        "change_pct": -2.2534586693946723,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 72786.24,
-        "change": 403.74000000000524,
-        "change_pct": 0.5577867578489348,
-        "is_up": true
+        "price": 71714.54,
+        "change": -1353.2600000000093,
+        "change_pct": -1.852060688839693,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 54934.85,
-        "change": 220.75,
-        "change_pct": 0.4034608994756379,
-        "is_up": true
+        "price": 54658.5,
+        "change": -469.90000000000146,
+        "change_pct": -0.8523737311440228,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1842.9,
-        "change": 32.40000000000009,
-        "change_pct": 1.7895608947804522,
+        "name": "TCS",
+        "price": 2105.9,
+        "change": 25.59999999999991,
+        "change_pct": 1.2305917415757297,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1348.1,
-        "change": 5.2999999999999545,
-        "change_pct": 0.39469764670836716,
+        "name": "Infosys",
+        "price": 999.15,
+        "change": 7.149999999999977,
+        "change_pct": 0.7207661290322558,
         "is_up": true
       },
       {
-        "name": "Reliance",
-        "price": 1210.2,
-        "change": -7.7999999999999545,
-        "change_pct": -0.6403940886699471,
-        "is_up": false
+        "name": "Wipro",
+        "price": 160.55,
+        "change": 0.950000000000017,
+        "change_pct": 0.595238095238106,
+        "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 992.25,
-        "change": -21.600000000000023,
-        "change_pct": -2.130492676431427,
+        "name": "Reliance",
+        "price": 1175.2,
+        "change": -32.5,
+        "change_pct": -2.6910656620021527,
         "is_up": false
       },
       {
         "name": "L&T",
-        "price": 3693.9,
-        "change": -76.09999999999991,
-        "change_pct": -2.018567639257292,
+        "price": 3631.2,
+        "change": -70.30000000000018,
+        "change_pct": -1.8992300418749206,
         "is_up": false
       },
       {
-        "name": "Maruti",
-        "price": 11408.0,
-        "change": -217.0,
-        "change_pct": -1.866666666666667,
+        "name": "Sun Pharma",
+        "price": 1751.0,
+        "change": -30.0,
+        "change_pct": -1.6844469399213924,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.7725,
-        "change": 0.4124999999999943,
-        "change_pct": 0.42808219178081597,
+        "price": 96.77,
+        "change": 0.009999999999990905,
+        "change_pct": 0.010334849111193575,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4159.7,
-        "change": -27.400000000000546,
-        "change_pct": -0.6543908671873264,
-        "is_up": false
+        "price": 4144.3,
+        "change": 3.600000000000364,
+        "change_pct": 0.08694182143116777,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Spotify expands audiobooks to over 180 markets",
-          "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion...",
-          "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+          "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+          "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India....",
+          "link": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
           "source": "TechCrunch"
         },
         {
-          "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-          "summary": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads....",
-          "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+          "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+          "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks....",
+          "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI drops another batch of mathematical breakthroughs",
+          "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+          "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
           "source": "The Verge"
         },
         {
-          "title": "Xbox has secured GTA 6 streaming rights",
+          "title": "Teenage Engineering’s CEO says it’ll stop making synths",
           "summary": "",
-          "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+          "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
           "source": "The Verge"
         },
         {
-          "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
-          "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing....",
-          "link": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+          "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+          "summary": "Get ready for more AI in your Windows and more AI on the desktop....",
+          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "RBI hikes rate, but analysts see shift to ‘calibrated tightening’ as bigger takeaway. How can this impact markets?",
-          "summary": "RBI’s 25-bps repo rate hike to 5.50% was largely expected, but its shift to ‘calibrated tightening’ surprised markets and signals that near-term rate cuts are unlikely. Analysts ex...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-hikes-rate-but-analysts-see-shift-to-calibrated-tightening-as-bigger-takeaway-how-can-this-impact-markets/articleshow/134758783.cms",
+          "title": "Multibagger stock! Cupid shares jump 4%, soar 238% in 2026. What's driving the rally?",
+          "summary": "Cupid shares rose 3.76% to hit a high of Rs 356.90 on Thursday, extending their rally since the September 30 business update to around 16%. The stock has gained 238.78% in 2026 so ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-stock-cupid-shares-jump-4-soar-238-in-2026-whats-driving-the-rally/articleshow/134782891.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Trent’s Rs 1.80 lakh crore rout from peak: Has Q2 just flipped the script for Tata group’s retail crown jewel?",
-          "summary": "In Q2FY27, Trent demonstrated impressive financial performance, achieving a remarkable 23% increase in revenue compared to the previous year. This achievement is particularly notew...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/trents-rs-1-80-lakh-crore-rout-from-peak-has-q2-just-flipped-the-script-for-tata-groups-retail-crown-jewel/articleshow/134758918.cms",
+          "title": "Paytm shares crash 10%, wipe off Rs 10,970 crore m-cap. More pain ahead?",
+          "summary": "Paytm shares crashed on Wednesday after reports suggested a possible delay in the rollout of UPI MDR. Analysts said the stock faces immediate support at Rs 1,560-1,550, while a dec...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-crash-10-wipe-off-rs-10970-crore-m-cap-more-pain-ahead/articleshow/134783164.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "RBI hike reinforces stock selection, not broad equity caution: Ajit Mishra",
-          "summary": "Going ahead, crude oil prices, food inflation, the rupee and global monetary conditions will be the key variables to watch....",
-          "link": "https://www.business-standard.com/markets/news/rbi-hike-reinforces-stock-selection-not-broad-equity-caution-ajit-mishra-126100700497_1.html",
+          "title": "Adani group stocks under pressure; Enterprises, Green Energy tank up to 7%",
+          "summary": "Adani Enterprises' stock price on Thursday quoted at its lowest level since May 14, 2026, having declined 13% in the last six trading sessions....",
+          "link": "https://www.business-standard.com/markets/news/adani-group-stocks-under-pressure-enterprises-green-energy-down-up-to-7-126100800485_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Eye implant triggers sight improvements in GA at 36 months, pivotal study finds",
-          "summary": "These results from Science Corporation's PRIMA in GA come as the FDA mulls over the device's fate on the US ophthalmic market. The post Eye implant triggers sight improvements in G...",
-          "link": "https://www.medicaldevice-network.com/news/eye-implant-triggers-sight-improvements-in-ga-at-36-months/",
+          "title": "BD reports nine-month AGILITY trial data for Revello stent",
+          "summary": "BD has reported nine-month clinical findings from the iliac cohort of its AGILITY Investigational Device Exemption trial of the Revello Vascular Covered Stent. The post BD reports ...",
+          "link": "https://www.medicaldevice-network.com/news/bd-agility-trial-data-revello-stent/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Starlink operations specifically built for India to meet security, regulatory needs: Official",
-          "summary": "Speaking at India Mobile Congress 2026, SpaceX’s Starlink Business Operations Vice President Lauren Dreyer said the company has made an investment in setting up the required infras...",
-          "link": "https://yourstory.com/2026/10/starlink-operations-specifically-built-for-india-security-regulatory-needs-official",
+          "title": "From UPI to tokenised assets: Is India building the next generation of financial infrastructure?",
+          "summary": "The Reserve Bank has been exploring tokenised forms of money through the e-rupee and wholesale applications of central bank digital currency....",
+          "link": "https://yourstory.com/2026/10/from-upi-to-tokenised-assets-india-building-next-generation-financial-infrastructure",
           "source": "YourStory"
         },
         {
-          "title": "Cabinet approves Rs 10,000 Cr SME growth fund to boost manufacturing",
-          "summary": "The SME Growth Fund will undertake direct equity investments in small and medium enterprises....",
-          "link": "https://yourstory.com/2026/10/cabinet-approves-rs-10000-cr-sme-growth-fund-to-boost-manufacturing",
+          "title": "Meta says it acted on 5.3M pieces of child abuse content in first half of 2026; rolls out new AI tools to crack down on ads",
+          "summary": "Globally, the company said, it actioned 33.2 million such items on Facebook and Instagram between January and June, with over 97% found proactively....",
+          "link": "https://yourstory.com/2026/10/meta-acted-on-53-mn-pieces-of-child-abuse-content-in-h126-rolls-out-new-ai-tools-to-check-ads",
           "source": "YourStory"
         },
         {
-          "title": "Zomint Raises ₹36 Cr To Scale Wealth Management Platform",
-          "summary": "Wealthtech startup Zomint has raised ₹36 Cr (about $3.7 Mn) in a seed funding round from Lightspeed and Prime Venture&#8230;...",
-          "link": "https://inc42.com/buzz/zomint-raises-%e2%82%b936-cr-to-scale-wealth-management-platform/",
+          "title": "CoreWeave Enters India, Partners AdaniConneX For 240 MW Data Centre Capacity",
+          "summary": "US-based AI cloud infrastructure provider CoreWeave has announced its entry into India, with plans to deploy 240 MW (megawatts) of&#8230;...",
+          "link": "https://inc42.com/buzz/coreweave-enters-india-partners-adaniconnex-for-240-mw-data-centre-capacity/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Hyundai and Boston Dynamics bet big on AI robot training for manufacturing",
-          "summary": "The Robotics Metaplant Applications Center will enable wide scale rollout of Atlas humanoids for production work. This episode is brought to you by Mouser Electronics. Visit mouser...",
-          "link": "https://www.designworldonline.com/hyundai-and-boston-dynamics-bet-big-on-ai-robot-training-for-manufacturing/",
+          "title": "METCASE strengthens COMBIMET 19-inch rack case design",
+          "summary": "METCASE is marking the 15th anniversary of its COMBIMET 19-inch rack cases with an updated design. COMBIMET cases are designed for rack applications including networking and commun...",
+          "link": "https://www.designworldonline.com/metcase-strengthens-combimet-19-inch-rack-case-design/",
           "source": "Design World"
         },
         {
-          "title": "EXAIR redesigns EFC electronic flow control for compressed air systems",
-          "summary": "EXAIR’s redesigned EFC Electronic Flow Control uses a photoelectric sensor and programmable timing control to activate compressed air when it is needed in automated industrial proc...",
-          "link": "https://www.designworldonline.com/exair-redesigns-efc-electronic-flow-control-for-compressed-air-systems/",
+          "title": "Nidec expands Commander S V2 AC drive range to 11 kW",
+          "summary": "Nidec Drives, a business segment of Nidec, has expanded its Commander S V2 range of AC drives for induction motors with a new frame size that extends the range to 11 kW (15 hp). Th...",
+          "link": "https://www.designworldonline.com/nidec-expands-commander-s-v2-ac-drive-range-to-11-kw/",
           "source": "Design World"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg"
         },
         {
-          "title": "The Billion Dollar AI Advantage Is Disappearing",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Sonnet 5.5: \nhttps://www.anthropic.com/claude-sonnet-5-5\n\n🙏 We would like to thank our generou...",
-          "link": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+          "title": "DeepMind's New AI Just Cracked The Code Of Life",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nThank you Google DeepMind for the invite.\n\n📝 AlphaGenome Atlas is available here:\nhttps://deepmi...",
+          "link": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i3.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg"
+          "thumbnail": "https://i4.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg"
         }
       ]
     }
