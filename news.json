@@ -1,91 +1,91 @@
 {
-  "last_updated": "Friday, October 09, 2026 at 01:22 PM IST",
-  "last_updated_iso": "2026-10-09T13:22:14.813068",
+  "last_updated": "Saturday, October 10, 2026 at 01:08 PM IST",
+  "last_updated_iso": "2026-10-10T13:08:09.937402",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22505.95,
-        "change": -97.14999999999782,
-        "change_pct": -0.4298083006313197,
-        "is_up": false
+        "price": 22520.45,
+        "change": 288.65000000000146,
+        "change_pct": 1.2983654045106625,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 72405.02,
-        "change": -233.67999999999302,
-        "change_pct": -0.3217017925706174,
-        "is_up": false
+        "price": 72472.33,
+        "change": 879.1300000000047,
+        "change_pct": 1.2279518166529846,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 55225.85,
-        "change": 170.25,
-        "change_pct": 0.309232848247953,
+        "price": 55256.65,
+        "change": 741.5500000000029,
+        "change_pct": 1.3602653209844666,
         "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "TCS",
-        "price": 2165.9,
-        "change": 89.90000000000009,
-        "change_pct": 4.330443159922933,
-        "is_up": true
-      },
-      {
-        "name": "Wipro",
-        "price": 162.73,
-        "change": 4.349999999999994,
-        "change_pct": 2.7465589089531472,
+        "price": 2156.0,
+        "change": 80.0,
+        "change_pct": 3.8535645472061653,
         "is_up": true
       },
       {
         "name": "Infosys",
-        "price": 1018.8,
-        "change": 21.799999999999955,
-        "change_pct": 2.186559679037107,
+        "price": 1023.4,
+        "change": 26.399999999999977,
+        "change_pct": 2.647943831494481,
+        "is_up": true
+      },
+      {
+        "name": "Wipro",
+        "price": 162.57,
+        "change": 4.189999999999998,
+        "change_pct": 2.645536052531884,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Reliance",
-        "price": 1173.1,
-        "change": -4.900000000000091,
-        "change_pct": -0.4159592529711453,
+        "price": 1170.3,
+        "change": -7.7000000000000455,
+        "change_pct": -0.6536502546689342,
         "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1805.6,
-        "change": 1.0,
-        "change_pct": 0.0554139421478444,
+        "name": "Sun Pharma",
+        "price": 1760.0,
+        "change": 0.20000000000004547,
+        "change_pct": 0.011364927832710847,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1762.5,
-        "change": 2.7000000000000455,
-        "change_pct": 0.15342652574156412,
+        "name": "Bharti Airtel",
+        "price": 1805.1,
+        "change": 0.5,
+        "change_pct": 0.0277069710739222,
         "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.7375,
-        "change": -0.04250000000000398,
-        "change_pct": -0.04391403182476129,
+        "price": 96.73,
+        "change": -0.04999999999999716,
+        "change_pct": -0.05166356685265257,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4214.7,
-        "change": 57.69999999999982,
-        "change_pct": 1.3880202068799572,
+        "price": 4216.3,
+        "change": 59.30000000000018,
+        "change_pct": 1.4265095020447482,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-          "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration....",
-          "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+          "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+          "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition....",
+          "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
           "source": "TechCrunch"
         },
         {
-          "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-          "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might ha...",
-          "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+          "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice....",
+          "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
           "source": "TechCrunch"
         },
         {
-          "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+          "title": "My brief romance with an AI bird feeder",
           "summary": "",
-          "link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+          "link": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
           "source": "The Verge"
         },
         {
-          "title": "US plans livestream of execution by firing squad",
+          "title": "Decade-old RAM is making a comeback",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+          "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
           "source": "The Verge"
         },
         {
-          "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-          "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"...",
-          "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+          "title": "Neanderthal wooden tools from Spain found preserved in stone",
+          "summary": "Dissolved rock precipitated around the tools, which then decayed....",
+          "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: China stocks hit over one-year low as AI selloff deepens; Hong Kong rebounds",
-          "summary": "Chinese blue-chip stocks fell significantly, marking their lowest point in over a year. The CSI300 Index decreased by 1.3%, while the Shanghai Composite Index dropped 1.2%. Convers...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-hit-over-one-year-low-as-ai-selloff-deepens-hong-kong-rebounds/articleshow/134819429.cms",
+          "title": "Exclusive | Akash, Isha Ambani take Rs 30,000 crore Jio IPO pitch global; marquee investors seek bigger stakes",
+          "summary": "Jio Platforms’ proposed Rs 30,000 crore IPO is set to be one of India’s biggest public issues, with Akash and Isha Ambani leading global investor outreach. Existing investors, incl...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/exclusive-akash-isha-ambani-take-rs-30000-crore-jio-ipo-pitch-global-marquee-investors-seek-bigger-stake/articleshow/134849084.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: Singapore likely to tighten monetary policy as growth and inflation risks mount",
-          "summary": "Singapore’s central bank is widely expected to tighten monetary policy on October 14 as resilient economic growth and rising inflation risks persist. Geopolitical tensions, higher ...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-singapore-likely-to-tighten-monetary-policy-as-growth-and-inflation-risks-mount/articleshow/134818744.cms",
+          "title": "Nifty bulls regain momentum, but can bears strike back? 5 factors to decide D-Street’s fate next week",
+          "summary": "Indian equities snapped an eight-week losing streak as the Nifty 50 and Sensex rebounded on Friday. However, elevated crude prices, foreign investor outflows, inflation data, bond ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bulls-regain-momentum-but-can-bears-strike-back-5-factors-to-decide-d-streets-fate-next-week/articleshow/134848721.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "NCC shares rise 5% on securing ₹1,286 crore road project order in Telangana",
-          "summary": "NCC has received a Letter of Acceptance (LoA) from Hyderabad Growth Corridor Limited for a road construction project worth ₹1,286.03 crore in Telangana....",
-          "link": "https://www.business-standard.com/markets/news/ncc-shares-rise-5-on-securing-1-286-crore-road-project-order-in-telangana-126100900497_1.html",
+          "title": "WazirX futures trading volume jumps 236% in Q3 as exchange expands AI tools",
+          "summary": "Indian cryptocurrency exchange WazirX said its futures trading volume rose 236 per cent between the beginning of July and the end of September, as it expanded derivatives offerings...",
+          "link": "https://www.business-standard.com/companies/news/wazirx-futures-trading-volume-jumps-236-in-q3-as-exchange-expands-ai-tools-126100900174_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Argus Cognitive’s paediatric autism diagnostic secures FDA clearance",
-          "summary": "Argus's Neurora tool is intended to complement clinicians' professional judgement rather than serve as a standalone diagnostic for autism. The post Argus Cognitive’s paediatric aut...",
-          "link": "https://www.medicaldevice-network.com/news/argus-cognitive-paediatric-autism-diagnostic-secures-fda-clearance/",
+          "title": "Boston sues J&J subsidiary over alleged patent infringement for cardiology device",
+          "summary": "Boston is seeking an injunction and damages regarding alleged patent infringement relating to J&J subsidiary Atraverse's Hotwire system. The post Boston sues J&amp;J subsidiary ove...",
+          "link": "https://www.medicaldevice-network.com/news/boston-sues-jj-subsidiary-over-alleged-patent-infringement-for-cardiology-device/",
           "source": "Medical Device Network"
         }
       ]
@@ -194,15 +194,15 @@
           "source": "YourStory"
         },
         {
-          "title": "India targets 1B 5G users by 2030, up from 550M: Scindia at IMC 2026",
-          "summary": "The minister said the ITU (International Telecommunication Union) Council has accepted India's proposal to host the Plenipotentiary Conference in 2030....",
-          "link": "https://yourstory.com/2026/10/india-targets-1-bn-5g-users-2030-550-mn-scindia-imc-2026",
+          "title": "[Weekly funding roundup Oct 3-9] Steep decline in VC inflow",
+          "summary": "Venture capital funding into Indian startups recorded a sharp decline in the second week of October and this was primarily due to absence of large deals....",
+          "link": "https://yourstory.com/2026/10/weekly-funding-roundup-oct-3-9-steep-decline-in-vc-inflow",
           "source": "YourStory"
         },
         {
-          "title": "Menswear Brand KISAH Nets ₹35.9 Cr To Scale Retail Footprint",
-          "summary": "Omnichannel menswear brand KISAH has raised ₹35.9 Cr (about $3.7 Mn) in a Series A funding round led by Fireside&#8230;...",
-          "link": "https://inc42.com/buzz/menswear-brand-kisah-nets-%e2%82%b935-9-cr-to-scale-retail-footprint/",
+          "title": "From DailyObjects To StockGro — Indian Startups Raised About $123 Mn This Week",
+          "summary": "Indian startup funding fell 47.4% in the first week of October, with 25 startups raising $122.9 Mn between October 5&#8230;...",
+          "link": "https://inc42.com/buzz/from-dailyobjects-to-stockgro-indian-startups-raised-about-123-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Future of Engineering Summit puts agentic AI results front and center",
-          "summary": "Design World will be moderating the third edition of the Future of Engineering Summit on November 3, 2026. Register for this free online event and invite a colleague or two. The Fu...",
-          "link": "https://www.designworldonline.com/future-of-engineering-summit-puts-agentic-ai-results-front-and-center/",
+          "title": "SENSO-CASE handheld enclosures add trigger configuration option",
+          "summary": "OKW’s SENSO-CASE handheld enclosures are available with or without an underside trigger as standard options. The ABS enclosures, made from UL 94 HB material, are designed for singl...",
+          "link": "https://www.designworldonline.com/senso-case-handheld-enclosures-add-trigger-configuration-option/",
           "source": "Design World"
         },
         {
-          "title": "MaintainX at IMTS 2026: Digitizing the  maintenance workforce",
-          "summary": "Manufacturing is facing a serious workforce challenge, with skilled workers retiring and taking decades of valuable knowledge with them. In this conversation, I spoke with Cliff We...",
-          "link": "https://www.designworldonline.com/maintainx-at-imts-2026-digitizing-the-maintenance-workforce/",
+          "title": "Future of Engineering Summit puts agentic AI results front and center",
+          "summary": "Design World will be moderating the third edition of the Future of Engineering Summit on November 3, 2026. Register for this free online event and invite a colleague or two. The Fu...",
+          "link": "https://www.designworldonline.com/future-of-engineering-summit-puts-agentic-ai-results-front-and-center/",
           "source": "Design World"
         }
       ]
