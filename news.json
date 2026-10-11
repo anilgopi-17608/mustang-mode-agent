@@ -1,6 +1,6 @@
 {
-  "last_updated": "Saturday, October 10, 2026 at 01:08 PM IST",
-  "last_updated_iso": "2026-10-10T13:08:09.937402",
+  "last_updated": "Sunday, October 11, 2026 at 01:13 PM IST",
+  "last_updated_iso": "2026-10-11T13:13:12.941353",
   "market": {
     "indices": [
       {
@@ -13,15 +13,15 @@
       {
         "name": "Sensex",
         "price": 72472.33,
-        "change": 879.1300000000047,
-        "change_pct": 1.2279518166529846,
+        "change": 879.0899999999965,
+        "change_pct": 1.2278952593848196,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
         "price": 55256.65,
-        "change": 741.5500000000029,
-        "change_pct": 1.3602653209844666,
+        "change": 741.5999999999985,
+        "change_pct": 1.3603582863814645,
         "is_up": true
       }
     ],
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-          "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition....",
-          "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+          "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI....",
+          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice....",
-          "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "summary": "Is Apple hoping to get into the AI-generated podcast business?...",
+          "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
           "source": "TechCrunch"
         },
         {
-          "title": "My brief romance with an AI bird feeder",
+          "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
           "source": "The Verge"
         },
         {
-          "title": "Decade-old RAM is making a comeback",
+          "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
           "summary": "",
-          "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+          "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
           "source": "The Verge"
         },
         {
-          "title": "Neanderthal wooden tools from Spain found preserved in stone",
-          "summary": "Dissolved rock precipitated around the tools, which then decayed....",
-          "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+          "title": "One with the world? A new look at brains transformed by psychedelics.",
+          "summary": "Participants meditated inside an MRI tube, with and without psilocybin....",
+          "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Exclusive | Akash, Isha Ambani take Rs 30,000 crore Jio IPO pitch global; marquee investors seek bigger stakes",
-          "summary": "Jio Platforms’ proposed Rs 30,000 crore IPO is set to be one of India’s biggest public issues, with Akash and Isha Ambani leading global investor outreach. Existing investors, incl...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/exclusive-akash-isha-ambani-take-rs-30000-crore-jio-ipo-pitch-global-marquee-investors-seek-bigger-stake/articleshow/134849084.cms",
+          "title": "FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. What can reverse the trend?",
+          "summary": "Foreign investors sold Indian equities worth Rs 45,125 crore in October's first six sessions, nearly matching September's outflows. Elevated US bond yields and crude oil prices con...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selloff-intensifies-foreign-investors-sell-indian-equities-worth-rs-45000-crore-in-just-6-sessions-what-can-reverse-the-trend/articleshow/134866745.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Nifty bulls regain momentum, but can bears strike back? 5 factors to decide D-Street’s fate next week",
-          "summary": "Indian equities snapped an eight-week losing streak as the Nifty 50 and Sensex rebounded on Friday. However, elevated crude prices, foreign investor outflows, inflation data, bond ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bulls-regain-momentum-but-can-bears-strike-back-5-factors-to-decide-d-streets-fate-next-week/articleshow/134848721.cms",
+          "title": "ET Alpha Wealth Summit 2.0: What do Shah Rukh Khan and SIFs have in common? Radhika Gupta explains",
+          "summary": "Edelweiss Mutual Fund MD and CEO Radhika Gupta says investors should approach Specialised Investment Funds (SIFs) with clear portfolio goals rather than chase new products or retur...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-what-do-shah-rukh-khan-and-sifs-have-in-common-radhika-gupta-explains/articleshow/134866717.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "WazirX futures trading volume jumps 236% in Q3 as exchange expands AI tools",
-          "summary": "Indian cryptocurrency exchange WazirX said its futures trading volume rose 236 per cent between the beginning of July and the end of September, as it expanded derivatives offerings...",
-          "link": "https://www.business-standard.com/companies/news/wazirx-futures-trading-volume-jumps-236-in-q3-as-exchange-expands-ai-tools-126100900174_1.html",
+          "title": "IPO rush continues: Jio, Zetwerk among cos set to tap primary market in Oct",
+          "summary": "A dozen companies, including Jio Platforms, Zetwerk Manufacturing Business, and Avaada Electro, are set to tap the primary market in October to raise funds through initial public o...",
+          "link": "https://www.business-standard.com/markets/ipo/ipo-rush-continues-jio-zetwerk-among-cos-set-to-tap-primary-market-in-oct-126101100192_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Why public capital isn’t enough to save India’s deeptech",
-          "summary": "The most powerful derisker is not a fund at all. It is a customer. A Rs 200 crore procurement commitment from the defence, space or railways sectors does more for a series B round ...",
-          "link": "https://yourstory.com/2026/10/why-public-capital-isnt-enough-save-india-deeptech",
+          "title": "TechSparks masterclass: Gemini, AI, and the business of building better",
+          "summary": "At TechSparks 2026, Google Cloud’s Rajesh Shewani will show how businesses can turn Gemini’s capabilities into enterprise advantage....",
+          "link": "https://yourstory.com/2026/10/techsparks-masterclass-gemini-ai-and-the-business-of-building-better",
           "source": "YourStory"
         },
         {
-          "title": "[Weekly funding roundup Oct 3-9] Steep decline in VC inflow",
-          "summary": "Venture capital funding into Indian startups recorded a sharp decline in the second week of October and this was primarily due to absence of large deals....",
-          "link": "https://yourstory.com/2026/10/weekly-funding-roundup-oct-3-9-steep-decline-in-vc-inflow",
+          "title": "5 Must-read books that teach you how to think independently",
+          "summary": "Discover five insightful books that challenge assumptions, encourage critical thinking, and help you develop an independent mindset....",
+          "link": "https://yourstory.com/2026/10/books-think-independently",
           "source": "YourStory"
         },
         {
-          "title": "From DailyObjects To StockGro — Indian Startups Raised About $123 Mn This Week",
-          "summary": "Indian startup funding fell 47.4% in the first week of October, with 25 startups raising $122.9 Mn between October 5&#8230;...",
-          "link": "https://inc42.com/buzz/from-dailyobjects-to-stockgro-indian-startups-raised-about-123-mn-this-week/",
+          "title": "Swiggy, Zomato Have A New Fight On Their Hands",
+          "summary": "For years, Swiggy and Zomato have ruled the Indian foodtech sector with an iron fist, building vast restaurant networks and&#8230;...",
+          "link": "https://inc42.com/features/swiggy-zomato-have-a-new-fight-on-their-hands/",
           "source": "Inc42"
         }
       ]
