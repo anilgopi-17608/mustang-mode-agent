@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, October 11, 2026 at 01:13 PM IST",
-  "last_updated_iso": "2026-10-11T13:13:12.941353",
+  "last_updated": "Monday, October 12, 2026 at 01:21 PM IST",
+  "last_updated_iso": "2026-10-12T13:21:06.008799",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22520.45,
-        "change": 288.65000000000146,
-        "change_pct": 1.2983654045106625,
-        "is_up": true
+        "price": 22367.75,
+        "change": -152.70000000000073,
+        "change_pct": -0.6780503941972773,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 72472.33,
-        "change": 879.0899999999965,
-        "change_pct": 1.2278952593848196,
-        "is_up": true
+        "price": 71935.07,
+        "change": -537.2599999999948,
+        "change_pct": -0.7413312087523538,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 55256.65,
-        "change": 741.5999999999985,
-        "change_pct": 1.3603582863814645,
-        "is_up": true
+        "price": 54831.1,
+        "change": -425.5500000000029,
+        "change_pct": -0.7701335495365769,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "TCS",
-        "price": 2156.0,
-        "change": 80.0,
-        "change_pct": 3.8535645472061653,
-        "is_up": true
-      },
-      {
-        "name": "Infosys",
-        "price": 1023.4,
-        "change": 26.399999999999977,
-        "change_pct": 2.647943831494481,
+        "name": "Sun Pharma",
+        "price": 1760.9,
+        "change": 0.900000000000091,
+        "change_pct": 0.0511363636363688,
         "is_up": true
       },
       {
         "name": "Wipro",
-        "price": 162.57,
-        "change": 4.189999999999998,
-        "change_pct": 2.645536052531884,
-        "is_up": true
+        "price": 162.36,
+        "change": -0.20999999999997954,
+        "change_pct": -0.12917512456171468,
+        "is_up": false
+      },
+      {
+        "name": "TCS",
+        "price": 2153.1,
+        "change": -2.900000000000091,
+        "change_pct": -0.1345083487940673,
+        "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "Reliance",
-        "price": 1170.3,
-        "change": -7.7000000000000455,
-        "change_pct": -0.6536502546689342,
+        "name": "Bharti Airtel",
+        "price": 1770.4,
+        "change": -34.69999999999982,
+        "change_pct": -1.922331172788201,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1760.0,
-        "change": 0.20000000000004547,
-        "change_pct": 0.011364927832710847,
-        "is_up": true
+        "name": "L&T",
+        "price": 3641.6,
+        "change": -61.70000000000027,
+        "change_pct": -1.6660816028947227,
+        "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1805.1,
-        "change": 0.5,
-        "change_pct": 0.0277069710739222,
-        "is_up": true
+        "name": "Reliance",
+        "price": 1157.3,
+        "change": -13.0,
+        "change_pct": -1.1108262838588396,
+        "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 96.73,
-        "change": -0.04999999999999716,
-        "change_pct": -0.05166356685265257,
+        "price": 95.7575,
+        "change": -1.022500000000008,
+        "change_pct": -1.0565199421368134,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4216.3,
-        "change": 59.30000000000018,
-        "change_pct": 1.4265095020447482,
-        "is_up": true
+        "price": 4208.8,
+        "change": -7.5,
+        "change_pct": -0.17788108056827073,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-          "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI....",
-          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that....",
+          "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-          "summary": "Is Apple hoping to get into the AI-generated podcast business?...",
-          "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "title": "Will the HomeView be Apple’s first smart home success?",
+          "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date....",
+          "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
           "source": "TechCrunch"
         },
         {
-          "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+          "title": "A college in Illinois tried to cancel its Flock contact and it refused",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
           "source": "The Verge"
         },
         {
-          "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+          "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
           "source": "The Verge"
         },
         {
-          "title": "One with the world? A new look at brains transformed by psychedelics.",
-          "summary": "Participants meditated inside an MRI tube, with and without psilocybin....",
-          "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+          "title": "Review: 4-hour Musk documentary feels like two different films",
+          "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers....",
+          "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. What can reverse the trend?",
-          "summary": "Foreign investors sold Indian equities worth Rs 45,125 crore in October's first six sessions, nearly matching September's outflows. Elevated US bond yields and crude oil prices con...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selloff-intensifies-foreign-investors-sell-indian-equities-worth-rs-45000-crore-in-just-6-sessions-what-can-reverse-the-trend/articleshow/134866745.cms",
+          "title": "Global Market: Goldman Sachs raises December Brent oil price forecast to $90 on supply risks",
+          "summary": "Goldman Sachs has raised its December 2026 Brent crude price forecast to $90 per barrel, citing supply risks in the Middle East. While 2027 averages remain at $80, severe Gulf prod...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-goldman-sachs-raises-december-brent-oil-price-forecast-to-90-on-supply-risks/articleshow/134886299.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ET Alpha Wealth Summit 2.0: What do Shah Rukh Khan and SIFs have in common? Radhika Gupta explains",
-          "summary": "Edelweiss Mutual Fund MD and CEO Radhika Gupta says investors should approach Specialised Investment Funds (SIFs) with clear portfolio goals rather than chase new products or retur...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-what-do-shah-rukh-khan-and-sifs-have-in-common-radhika-gupta-explains/articleshow/134866717.cms",
+          "title": "Cheap Venezuelan crude could add up to Rs 12,600 crore to RIL’s EBITDA. What investors should know",
+          "summary": "Reliance Industries could benefit from renewed access to discounted Venezuelan crude, which may boost refining margins at its Jamnagar complex. YES Securities estimates that every ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cheap-venezuelan-crude-could-add-up-to-rs-12600-crore-to-rils-ebitda-what-investors-should-know/articleshow/134886181.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "IPO rush continues: Jio, Zetwerk among cos set to tap primary market in Oct",
-          "summary": "A dozen companies, including Jio Platforms, Zetwerk Manufacturing Business, and Avaada Electro, are set to tap the primary market in October to raise funds through initial public o...",
-          "link": "https://www.business-standard.com/markets/ipo/ipo-rush-continues-jio-zetwerk-among-cos-set-to-tap-primary-market-in-oct-126101100192_1.html",
+          "title": "IRFC to announce interim dividend in Q2 results on Oct 15; stock rises 4%",
+          "summary": "IRFC dividend 2026 record date: IRFC will announce an interim dividend on October 15 and has fixed October 23 as the record date....",
+          "link": "https://www.business-standard.com/markets/news/irfc-to-announce-interim-dividend-in-q2-results-on-oct-15-stock-rises-4-126101200329_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Boston sues J&J subsidiary over alleged patent infringement for cardiology device",
-          "summary": "Boston is seeking an injunction and damages regarding alleged patent infringement relating to J&J subsidiary Atraverse's Hotwire system. The post Boston sues J&amp;J subsidiary ove...",
-          "link": "https://www.medicaldevice-network.com/news/boston-sues-jj-subsidiary-over-alleged-patent-infringement-for-cardiology-device/",
+          "title": "FDA grants 510(k) clearance for Urolution Medical’s OpenFlo catheter",
+          "summary": "The US Food and Drug Administration (FDA) has granted 510(k) clearance for Urolution Medical’s OpenFlo urinary catheter. The post FDA grants 510(k) clearance for Urolution Medical&...",
+          "link": "https://www.medicaldevice-network.com/news/fda-clearance-urolution-medicals-openflo-catheter/",
           "source": "Medical Device Network"
         }
       ]
@@ -194,15 +194,15 @@
           "source": "YourStory"
         },
         {
-          "title": "5 Must-read books that teach you how to think independently",
-          "summary": "Discover five insightful books that challenge assumptions, encourage critical thinking, and help you develop an independent mindset....",
-          "link": "https://yourstory.com/2026/10/books-think-independently",
+          "title": "IndianRaga founder Sriram Emani explores identity and belonging in Jam Boy",
+          "summary": "After building IndianRaga into a global platform for Indian performing arts, Sriram Emani is turning to filmmaking to tell nuanced South Asian stories that challenge familiar stere...",
+          "link": "https://yourstory.com/2026/10/indianraga-founder-sriram-emani-explores-identity-belonging-in-jam-boy",
           "source": "YourStory"
         },
         {
-          "title": "Swiggy, Zomato Have A New Fight On Their Hands",
-          "summary": "For years, Swiggy and Zomato have ruled the Indian foodtech sector with an iron fist, building vast restaurant networks and&#8230;...",
-          "link": "https://inc42.com/features/swiggy-zomato-have-a-new-fight-on-their-hands/",
+          "title": "Zetwerk Sets IPO Price Band At ₹143-₹151 For ₹5,012 Cr Issue",
+          "summary": "B2B manufacturing company Zetwerk has set a price band of ₹143-₹151 per share for its IPO, which will be worth&#8230;...",
+          "link": "https://inc42.com/buzz/zetwerk-sets-ipo-price-band-at-%e2%82%b9143-%e2%82%b9151-for-%e2%82%b95012-cr-issue/",
           "source": "Inc42"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i4.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg"
         },
         {
-          "title": "DeepMind's New AI Just Cracked The Code Of Life",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nThank you Google DeepMind for the invite.\n\n📝 AlphaGenome Atlas is available here:\nhttps://deepmi...",
-          "link": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+          "title": "DeepSeek Solved AI’s Memory Problem",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek OCR paper is available here:\nhttps://github.com/deepseek-ai/DeepSeek-OCR\n\n🙏 We wo...",
+          "link": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i4.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg"
+          "thumbnail": "https://i1.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg"
         }
       ]
     }
