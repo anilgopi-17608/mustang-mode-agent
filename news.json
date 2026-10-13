@@ -1,92 +1,92 @@
 {
-  "last_updated": "Monday, October 12, 2026 at 01:21 PM IST",
-  "last_updated_iso": "2026-10-12T13:21:06.008799",
+  "last_updated": "Tuesday, October 13, 2026 at 01:45 PM IST",
+  "last_updated_iso": "2026-10-13T13:45:50.793696",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22367.75,
-        "change": -152.70000000000073,
-        "change_pct": -0.6780503941972773,
-        "is_up": false
+        "price": 22556.1,
+        "change": 35.69999999999709,
+        "change_pct": 0.15852293920177743,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 71935.07,
-        "change": -537.2599999999948,
-        "change_pct": -0.7413312087523538,
+        "price": 72460.6,
+        "change": -11.69999999999709,
+        "change_pct": -0.016144099193756912,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 54831.1,
-        "change": -425.5500000000029,
-        "change_pct": -0.7701335495365769,
+        "price": 55120.75,
+        "change": -135.84999999999854,
+        "change_pct": -0.24585298407791747,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Sun Pharma",
-        "price": 1760.9,
-        "change": 0.900000000000091,
-        "change_pct": 0.0511363636363688,
+        "name": "TCS",
+        "price": 2243.5,
+        "change": 118.5,
+        "change_pct": 5.576470588235294,
         "is_up": true
       },
       {
         "name": "Wipro",
-        "price": 162.36,
-        "change": -0.20999999999997954,
-        "change_pct": -0.12917512456171468,
-        "is_up": false
+        "price": 166.84,
+        "change": 5.039999999999992,
+        "change_pct": 3.114956736711985,
+        "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2153.1,
-        "change": -2.900000000000091,
-        "change_pct": -0.1345083487940673,
-        "is_up": false
+        "name": "Infosys",
+        "price": 1049.85,
+        "change": 29.84999999999991,
+        "change_pct": 2.926470588235285,
+        "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1770.4,
-        "change": -34.69999999999982,
-        "change_pct": -1.922331172788201,
-        "is_up": false
-      },
-      {
-        "name": "L&T",
-        "price": 3641.6,
-        "change": -61.70000000000027,
-        "change_pct": -1.6660816028947227,
+        "name": "Maruti",
+        "price": 11219.0,
+        "change": -96.0,
+        "change_pct": -0.8484312859036678,
         "is_up": false
       },
       {
         "name": "Reliance",
-        "price": 1157.3,
-        "change": -13.0,
-        "change_pct": -1.1108262838588396,
-        "is_up": false
+        "price": 1159.6,
+        "change": 0.6999999999998181,
+        "change_pct": 0.060402105444802665,
+        "is_up": true
+      },
+      {
+        "name": "Sun Pharma",
+        "price": 1761.2,
+        "change": 1.2000000000000455,
+        "change_pct": 0.06818181818182077,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.7575,
-        "change": -1.022500000000008,
-        "change_pct": -1.0565199421368134,
+        "price": 95.25,
+        "change": -0.5100000000000051,
+        "change_pct": -0.5325814536340906,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4208.8,
-        "change": -7.5,
-        "change_pct": -0.17788108056827073,
-        "is_up": false
+        "price": 4211.3,
+        "change": 20.699999999999818,
+        "change_pct": 0.4939626783754073,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-          "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that....",
-          "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "title": "Meta releases its first frontier model, Muse Wonder",
+          "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and bette...",
+          "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
           "source": "TechCrunch"
         },
         {
-          "title": "Will the HomeView be Apple’s first smart home success?",
-          "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date....",
-          "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+          "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+          "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million....",
+          "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
           "source": "TechCrunch"
         },
         {
-          "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+          "title": "The Social Reckoning is flopping at the box office",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+          "link": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
           "source": "The Verge"
         },
         {
-          "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+          "title": "Meta has some Wonder Full new AI models",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
           "source": "The Verge"
         },
         {
-          "title": "Review: 4-hour Musk documentary feels like two different films",
-          "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers....",
-          "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+          "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+          "summary": "As of Friday, state health officials reported 1,136 cases across 41 counties....",
+          "link": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: Goldman Sachs raises December Brent oil price forecast to $90 on supply risks",
-          "summary": "Goldman Sachs has raised its December 2026 Brent crude price forecast to $90 per barrel, citing supply risks in the Middle East. While 2027 averages remain at $80, severe Gulf prod...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-goldman-sachs-raises-december-brent-oil-price-forecast-to-90-on-supply-risks/articleshow/134886299.cms",
+          "title": "Triveni Power Transmission lists on BSE, NSE following demerger",
+          "summary": "Triveni Power Transmission Ltd (TPTL) listed 10.48 crore equity shares on BSE and NSE following its demerger from Triveni Engineering &amp; Industries. Shareholders received 1 TPTL...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/triveni-power-transmission-lists-on-bse-nse-following-demerger/articleshow/134911995.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Cheap Venezuelan crude could add up to Rs 12,600 crore to RIL’s EBITDA. What investors should know",
-          "summary": "Reliance Industries could benefit from renewed access to discounted Venezuelan crude, which may boost refining margins at its Jamnagar complex. YES Securities estimates that every ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/cheap-venezuelan-crude-could-add-up-to-rs-12600-crore-to-rils-ebitda-what-investors-should-know/articleshow/134886181.cms",
+          "title": "Triveni Power Transmission lists on BSE, NSE following demerger from Triveni Engineering",
+          "summary": "Triveni Power Transmission Limited has listed on the BSE and NSE following its demerger from Triveni Engineering &amp; Industries. The independent entity aims to sharpen its busine...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/triveni-power-transmission-lists-on-bse-nse-following-demerger-from-triveni-engineering/articleshow/134911940.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,10 +154,10 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "IRFC to announce interim dividend in Q2 results on Oct 15; stock rises 4%",
-          "summary": "IRFC dividend 2026 record date: IRFC will announce an interim dividend on October 15 and has fixed October 23 as the record date....",
-          "link": "https://www.business-standard.com/markets/news/irfc-to-announce-interim-dividend-in-q2-results-on-oct-15-stock-rises-4-126101200329_1.html",
-          "source": "Business Standard Markets"
+          "title": "Tata Sons chair defends nation-building bets over short-term returns",
+          "summary": "The Tata Group will keep building what India and the world need, including semiconductor chips, even if these projects are slow to deliver, Chairman N. Chandrasekaran says....",
+          "link": "https://www.livemint.com/companies/news/tata-sons-chair-defends-nation-building-bets-over-short-term-returns-11791874861515.html",
+          "source": "Livemint Companies"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA grants 510(k) clearance for Urolution Medical’s OpenFlo catheter",
-          "summary": "The US Food and Drug Administration (FDA) has granted 510(k) clearance for Urolution Medical’s OpenFlo urinary catheter. The post FDA grants 510(k) clearance for Urolution Medical&...",
-          "link": "https://www.medicaldevice-network.com/news/fda-clearance-urolution-medicals-openflo-catheter/",
+          "title": "Stryker invests $400m into CMR Surgical; secures future buyout option",
+          "summary": "Stryker's pact with UK-headquartered CMR Surgical gives it a route into the soft tissue robotic surgery market. The post Stryker invests $400m into CMR Surgical; secures future buy...",
+          "link": "https://www.medicaldevice-network.com/news/stryker-invests-400m-into-cmr-surgical-secures-future-buyout-option/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "TechSparks masterclass: Gemini, AI, and the business of building better",
-          "summary": "At TechSparks 2026, Google Cloud’s Rajesh Shewani will show how businesses can turn Gemini’s capabilities into enterprise advantage....",
-          "link": "https://yourstory.com/2026/10/techsparks-masterclass-gemini-ai-and-the-business-of-building-better",
+          "title": "EON Space Labs is building India’s indigenous optical payloads after Falcon 9 Success",
+          "summary": "After Mira’s Successful Launch on SpaceX’s Falcon 9, Hyderabad spacetech startup EON Space Labs is positioning itself as India's pioneer in end‑to‑end optical systems by indigenisi...",
+          "link": "https://yourstory.com/2026/10/tech30-eon-space-labs-indigenous-optical-payloads-falcon-9",
           "source": "YourStory"
         },
         {
-          "title": "IndianRaga founder Sriram Emani explores identity and belonging in Jam Boy",
-          "summary": "After building IndianRaga into a global platform for Indian performing arts, Sriram Emani is turning to filmmaking to tell nuanced South Asian stories that challenge familiar stere...",
-          "link": "https://yourstory.com/2026/10/indianraga-founder-sriram-emani-explores-identity-belonging-in-jam-boy",
+          "title": "Segritech is using AI to grade fruits and improve farmers' earnings",
+          "summary": "Hyderabad-based agritech startup Segritech builds compact, AI-powered fruit grading machines and is developing autonomous harvesting robots to help farmers get better prices for th...",
+          "link": "https://yourstory.com/2026/10/tech30-segritech-ai-grade-fruits-improve-farmers-earnings",
           "source": "YourStory"
         },
         {
-          "title": "Zetwerk Sets IPO Price Band At ₹143-₹151 For ₹5,012 Cr Issue",
-          "summary": "B2B manufacturing company Zetwerk has set a price band of ₹143-₹151 per share for its IPO, which will be worth&#8230;...",
-          "link": "https://inc42.com/buzz/zetwerk-sets-ipo-price-band-at-%e2%82%b9143-%e2%82%b9151-for-%e2%82%b95012-cr-issue/",
+          "title": "Why AI Agents Are Forcing Enterprises To Rebuild Their Data Foundations",
+          "summary": "Enterprises have spent years accumulating data. Making it usable for AI is proving harder. Systems built for different teams, functions,&#8230;...",
+          "link": "https://inc42.com/buzz/why-ai-agents-are-forcing-enterprises-to-rebuild-their-data-foundation/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "SENSO-CASE handheld enclosures add trigger configuration option",
-          "summary": "OKW’s SENSO-CASE handheld enclosures are available with or without an underside trigger as standard options. The ABS enclosures, made from UL 94 HB material, are designed for singl...",
-          "link": "https://www.designworldonline.com/senso-case-handheld-enclosures-add-trigger-configuration-option/",
+          "title": "ABB Robotics adds compact IRB 1700 robot family for precision tasks",
+          "summary": "ABB Robotics is expanding its industrial robot portfolio with the IRB 1700 and IRB 1700ID compact robots. The robots are available in five variants with payloads from 6 to 12 kilog...",
+          "link": "https://www.designworldonline.com/abb-robotics-adds-compact-irb-1700-robot-family-for-precision-tasks/",
           "source": "Design World"
         },
         {
-          "title": "Future of Engineering Summit puts agentic AI results front and center",
-          "summary": "Design World will be moderating the third edition of the Future of Engineering Summit on November 3, 2026. Register for this free online event and invite a colleague or two. The Fu...",
-          "link": "https://www.designworldonline.com/future-of-engineering-summit-puts-agentic-ai-results-front-and-center/",
+          "title": "AutomationDirect expands temperature control lineup with TK series",
+          "summary": "AutomationDirect has added Autonics TK series PID temperature controllers for industrial heating and cooling applications. Available in five DIN sizes, the controllers support ther...",
+          "link": "https://www.designworldonline.com/automationdirect-expands-temperature-control-lineup-with-tk-series/",
           "source": "Design World"
         }
       ]
