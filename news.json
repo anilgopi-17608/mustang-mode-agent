@@ -1,91 +1,91 @@
 {
-  "last_updated": "Wednesday, October 14, 2026 at 12:05 PM IST",
-  "last_updated_iso": "2026-10-14T12:05:01.116164",
+  "last_updated": "Thursday, October 15, 2026 at 11:47 AM IST",
+  "last_updated_iso": "2026-10-15T11:47:32.487716",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22727.45,
-        "change": 5.5,
-        "change_pct": 0.024205668967672227,
+        "price": 22960.5,
+        "change": 337.7999999999993,
+        "change_pct": 1.4931904679812722,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 73081.01,
-        "change": 47.229999999995925,
-        "change_pct": 0.06466870535798082,
+        "price": 73928.87,
+        "change": 1146.979999999996,
+        "change_pct": 1.5759140082787022,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 55474.45,
-        "change": -6.600000000005821,
-        "change_pct": -0.011895953663468553,
-        "is_up": false
+        "price": 55795.9,
+        "change": 479.90000000000146,
+        "change_pct": 0.8675609226986793,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Infosys",
-        "price": 1087.7,
-        "change": 25.600000000000136,
-        "change_pct": 2.4103191789850427,
+        "name": "Bharti Airtel",
+        "price": 1866.5,
+        "change": 71.90000000000009,
+        "change_pct": 4.006463835952307,
         "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2308.7,
-        "change": 39.399999999999636,
-        "change_pct": 1.7362182170713274,
+        "name": "Reliance",
+        "price": 1208.5,
+        "change": 33.90000000000009,
+        "change_pct": 2.886088881321309,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 171.75,
-        "change": 2.75,
-        "change_pct": 1.6272189349112427,
+        "name": "Maruti",
+        "price": 11473.0,
+        "change": 295.0,
+        "change_pct": 2.639112542494185,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Sun Pharma",
-        "price": 1746.3,
-        "change": -24.40000000000009,
-        "change_pct": -1.3779861071892523,
-        "is_up": false
-      },
-      {
-        "name": "ICICI Bank",
-        "price": 1349.0,
-        "change": -11.200000000000045,
-        "change_pct": -0.8234083223055466,
-        "is_up": false
-      },
-      {
         "name": "L&T",
-        "price": 3656.1,
-        "change": -18.90000000000009,
-        "change_pct": -0.5142857142857168,
-        "is_up": false
+        "price": 3668.3,
+        "change": 26.300000000000182,
+        "change_pct": 0.7221306974190055,
+        "is_up": true
+      },
+      {
+        "name": "Sun Pharma",
+        "price": 1764.3,
+        "change": 17.899999999999864,
+        "change_pct": 1.0249656436097034,
+        "is_up": true
+      },
+      {
+        "name": "HDFC Bank",
+        "price": 722.9,
+        "change": 12.199999999999932,
+        "change_pct": 1.7166174194456072,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.0675,
-        "change": -0.21250000000000568,
-        "change_pct": -0.22302686817800765,
+        "price": 95.04,
+        "change": -0.09999999999999432,
+        "change_pct": -0.10510826150934865,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4178.6,
-        "change": 1.300000000000182,
-        "change_pct": 0.031120580279132018,
+        "price": 4155.7,
+        "change": 47.80000000000018,
+        "change_pct": 1.1636115776917693,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
-          "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang....",
-          "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+          "title": "Figma announces new features to define how agents work on its platform",
+          "summary": "Figma is also releasing its code layers feature in open beta....",
+          "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
           "source": "TechCrunch"
         },
         {
-          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-          "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-compu...",
-          "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+          "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+          "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accel...",
+          "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple’s HomeView ad is confusing to everyone except parents",
+          "title": "McKinsey is making job applicants spar with a fake AI client",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+          "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
           "source": "The Verge"
         },
         {
-          "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+          "title": "The best feature of Apple’s HomeView might be its simplicity",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+          "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
           "source": "The Verge"
         },
         {
-          "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
-          "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream....",
-          "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+          "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+          "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet....",
+          "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "IDBI Bank shares rally 13%, market value swells by Rs 11,460 crore amid muted market. What lies ahead?",
-          "summary": "IDBI Bank shares surged nearly 13%, adding over Rs 11,460 crore to its market capitalisation amid progress in the privatisation process. The bank reported strong Q2FY27 business gr...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-bank-shares-rally-13-market-value-swells-by-rs-11460-crore-amid-muted-market-what-lies-ahead/articleshow/134934298.cms",
+          "title": "Canara Bank shares slide over 6% after Q2 earnings. Buy, sell or hold the state lender?",
+          "summary": "Canara Bank shares fell sharply on Thursday despite reporting an 8% year-on-year rise in Q2 FY27 standalone net profit to Rs 5,175 crore. Brokerages remain divided, with Morgan Sta...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-shares-slide-over-6-after-q2-earnings-buy-sell-or-hold-the-state-lender/articleshow/134958573.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Indian bonds slip on higher oil, hawkish RBI governor comments",
-          "summary": "Indian government bonds faced a downturn, attributed to soaring oil prices and statements from the Reserve Bank of India. The yield on the benchmark 6.94% 2036 bond rose following ...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-on-higher-oil-hawkish-rbi-governor-comments/articleshow/134933863.cms",
+          "title": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom",
+          "summary": "TSMC is expected to report its sixth consecutive quarter of record earnings, driven by surging AI chip demand and technology investments. Analysts forecast a 65% profit increase, w...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-tsmc-set-for-sixth-straight-record-quarterly-profit-on-ai-chip-boom/articleshow/134957993.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,10 +154,10 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Why Zoho's Sridhar Vembu is trending after ‘pay hike, mass layoff’ tweet: Losing 80% clients, making mega business, more",
-          "summary": "Vembu started building what came to be known “Zoho” in the 1990s, in a small apartment located in the suburbs of Chennai. The startup had its own share of struggles and achievement...",
-          "link": "https://www.livemint.com/companies/news/sridhar-vembu-freezes-salary-hike-from-losing-80-clients-overnight-to-making-billion-dollar-business-the-zoho-story-11791957955600.html",
-          "source": "Livemint Companies"
+          "title": "Bulls strike! Sensex zooms 1,100 pts intraday, Nifty at 22,950; key reasons",
+          "summary": "VK Vijayakumar said that the strength in the IT stocks follows the results of HCL Tech and the optimism surrounding that will hold the IT index strong....",
+          "link": "https://www.business-standard.com/markets/news/bulls-strike-sensex-zooms-1-100-pts-intraday-nifty-at-22-950-key-reasons-126101500351_1.html",
+          "source": "Business Standard Markets"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Abram snags $8.3M US DoD contract to advance blood coagulation diagnostic",
-          "summary": "Following Abram’s completion of a $10.75m financing round in February, the company is now eyeing an FDA filing for its blood coagulation diagnostic. The post Abram snags $8.3M US D...",
-          "link": "https://www.medicaldevice-network.com/news/abram-snags-8-us-dod-contract-to-advance-blood-coagulation-diagnostic/",
+          "title": "NVIDIA donates $250m to support UK’s AI research and security",
+          "summary": "The UK life sciences scene could benefit from Nvidia’s donation, much of which is being allocated to institutions focused on AI safety and research initiatives. The post NVIDIA don...",
+          "link": "https://www.medicaldevice-network.com/news/nvidia-donates-250m-to-support-uk-ai-research-and-security/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "'I look to China as gurus': Zoho's Sridhar Vembu",
-          "summary": "Speaking at TechSparks 2026, Vembu said India has more to learn from China's technology ecosystem than America's, arguing that technology ownership, rather than engineering talent ...",
-          "link": "https://yourstory.com/2026/10/i-look-to-china-as-gurus-zohos-sridhar-vembu",
+          "title": "5 Lessons from Grief burns like fever by Minakshi Thakur",
+          "summary": "Explore five lessons from Minakshi Thakur’s Grief Burns Like Fever on loss, compassion, resilience and the quiet kindness that connects us....",
+          "link": "https://yourstory.com/2026/10/5-lessons-grief",
           "source": "YourStory"
         },
         {
-          "title": "Hostinger’s Auksė Žirgulė on winning customer experience in the AI era",
-          "summary": "Žirgulė highlighted on how AI tools are changing the way businesses are built, customer expectations are changing and how experimentation is now the key to success....",
-          "link": "https://yourstory.com/2026/10/customer-obsession-the-foundation-hostinger-aukse-zirgule-techsparks",
+          "title": "Tejas Goenka and Nupur Goenka on how Tally stayed relevant for 40 years",
+          "summary": "Tally's Tejas Goenka and Nupur Goenka attributed the company's success to ownership and staying focused on cost, trust and privacy....",
+          "link": "https://yourstory.com/2026/10/tejas-nupur-goenka-how-tally-has-stayed-relevant-for-40-years",
           "source": "YourStory"
         },
         {
-          "title": "Circle Raises ₹25 Cr To Expand Its Pre-Owned Goods Marketplace Beyond Bengaluru",
-          "summary": "Pre-owned goods marketplace Circle has raised ₹25 Cr (about $2.6 Mn) in a seed funding round led by Nexus Venture&#8230;...",
-          "link": "https://inc42.com/buzz/circle-raises-%e2%82%b925-cr-to-expand-its-pre-owned-goods-marketplace-beyond-bengaluru/",
+          "title": "Shamrock AI Bags $5 Mn To Help Enterprises Deploy AI Agents Reliably",
+          "summary": "Enterprise AI startup Shamrock AI has raised $5 Mn (about ₹47.4 Cr) in a seed funding round led by Endiya&#8230;...",
+          "link": "https://inc42.com/buzz/shamrock-ai-bags-5-mn-to-help-enterprises-deploy-ai-agents-reliably/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Humanoid robots, sensor fusion, and situational awareness",
-          "summary": "Situational awareness for humanoid robots is more complex than that needed by standard industrial robots. Humanoids require a semantic understanding of the environment, plus the ab...",
-          "link": "https://www.designworldonline.com/humanoid-robots-sensor-fusion-and-situational-awareness/",
+          "title": "Two Japanese heavyweights collaborate for physical AI",
+          "summary": "Japanese industrial conglomerate Hitachi is working with FANUC to accelerate the marriage of artificial intelligence with robotics. This episode is brought to you by Mouser Electro...",
+          "link": "https://www.designworldonline.com/two-japanese-heavyweights-collaborate-for-physical-ai/",
           "source": "Design World"
         },
         {
-          "title": "Overcoming Modern Motion Control Challenges with Enidine’s Energy Absorption and Vibration Isolation Solutions",
-          "summary": "Engineering Better Motion Control By Rob Marshick, National Sales Manager &#8211; Americas Manufacturers have never asked more of their equipment. Production lines are expected to ...",
-          "link": "https://www.designworldonline.com/overcoming-modern-motion-control-challenges-with-enidines-energy-absorption-and-vibration-isolation-solutions/",
+          "title": "Seco introduces Stabilizer milling tools for nonferrous metals",
+          "summary": "Seco has introduced the Stabilizer series of milling tools for machining aluminum and other nonferrous metals. The ST4531, ST4521 and ST4321 end mills are designed to operate at lo...",
+          "link": "https://www.designworldonline.com/seco-introduces-stabilizer-milling-tools-for-nonferrous-metals/",
           "source": "Design World"
         }
       ]
