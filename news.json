@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, October 15, 2026 at 11:47 AM IST",
-  "last_updated_iso": "2026-10-15T11:47:32.487716",
+  "last_updated": "Friday, October 16, 2026 at 11:43 AM IST",
+  "last_updated_iso": "2026-10-16T11:43:42.619496",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22960.5,
-        "change": 337.7999999999993,
-        "change_pct": 1.4931904679812722,
+        "price": 23125.75,
+        "change": 128.40000000000146,
+        "change_pct": 0.5583251983380758,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 73928.87,
-        "change": 1146.979999999996,
-        "change_pct": 1.5759140082787022,
+        "price": 74662.93,
+        "change": 347.31999999999243,
+        "change_pct": 0.46735806918626166,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 55795.9,
-        "change": 479.90000000000146,
-        "change_pct": 0.8675609226986793,
-        "is_up": true
+        "price": 55726.95,
+        "change": -83.55000000000291,
+        "change_pct": -0.1497030128739268,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1866.5,
-        "change": 71.90000000000009,
-        "change_pct": 4.006463835952307,
+        "name": "Wipro",
+        "price": 183.31,
+        "change": 9.259999999999991,
+        "change_pct": 5.320310255673651,
         "is_up": true
       },
       {
-        "name": "Reliance",
-        "price": 1208.5,
-        "change": 33.90000000000009,
-        "change_pct": 2.886088881321309,
+        "name": "Infosys",
+        "price": 1151.2,
+        "change": 41.200000000000045,
+        "change_pct": 3.711711711711716,
         "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 11473.0,
-        "change": 295.0,
-        "change_pct": 2.639112542494185,
+        "name": "TCS",
+        "price": 2428.6,
+        "change": 78.59999999999991,
+        "change_pct": 3.3446808510638264,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "L&T",
-        "price": 3668.3,
-        "change": 26.300000000000182,
-        "change_pct": 0.7221306974190055,
-        "is_up": true
+        "name": "Reliance",
+        "price": 1210.1,
+        "change": -4.900000000000091,
+        "change_pct": -0.4032921810699664,
+        "is_up": false
       },
       {
         "name": "Sun Pharma",
-        "price": 1764.3,
-        "change": 17.899999999999864,
-        "change_pct": 1.0249656436097034,
-        "is_up": true
+        "price": 1757.8,
+        "change": -6.2000000000000455,
+        "change_pct": -0.3514739229024969,
+        "is_up": false
       },
       {
-        "name": "HDFC Bank",
-        "price": 722.9,
-        "change": 12.199999999999932,
-        "change_pct": 1.7166174194456072,
-        "is_up": true
+        "name": "Maruti",
+        "price": 11431.0,
+        "change": -14.0,
+        "change_pct": -0.12232415902140673,
+        "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.04,
-        "change": -0.09999999999999432,
-        "change_pct": -0.10510826150934865,
+        "price": 94.9925,
+        "change": -0.052499999999994884,
+        "change_pct": -0.05523699300330884,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4155.7,
-        "change": 47.80000000000018,
-        "change_pct": 1.1636115776917693,
+        "price": 4196.4,
+        "change": 26.299999999999272,
+        "change_pct": 0.630680319416783,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Figma announces new features to define how agents work on its platform",
-          "summary": "Figma is also releasing its code layers feature in open beta....",
-          "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+          "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+          "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep....",
+          "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
           "source": "TechCrunch"
         },
         {
-          "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-          "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accel...",
-          "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+          "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas....",
+          "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
           "source": "TechCrunch"
         },
         {
-          "title": "McKinsey is making job applicants spar with a fake AI client",
+          "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
           "summary": "",
-          "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+          "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
           "source": "The Verge"
         },
         {
-          "title": "The best feature of Apple’s HomeView might be its simplicity",
+          "title": "Steam can now show game achievements in separate ‘sets’",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+          "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
           "source": "The Verge"
         },
         {
-          "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-          "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet....",
-          "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+          "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
+          "summary": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie....",
+          "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Canara Bank shares slide over 6% after Q2 earnings. Buy, sell or hold the state lender?",
-          "summary": "Canara Bank shares fell sharply on Thursday despite reporting an 8% year-on-year rise in Q2 FY27 standalone net profit to Rs 5,175 crore. Brokerages remain divided, with Morgan Sta...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/canara-bank-shares-slide-over-6-after-q2-earnings-buy-sell-or-hold-the-state-lender/articleshow/134958573.cms",
+          "title": "Shanti Gold, PC Jeweller &amp; other jewellery stocks rally up to 10% as gold ETF FoF subscriptions face curbs",
+          "summary": "Jewellery stocks, including Shanti Gold International, PC Jeweller and Sky Gold and Diamonds, rose sharply on Friday as mutual fund houses temporarily restricted fresh subscription...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/shanti-gold-pc-jeweller-other-jewellery-stocks-rally-up-to-10-as-gold-etf-fof-subscriptions-face-curbs/articleshow/134983846.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom",
-          "summary": "TSMC is expected to report its sixth consecutive quarter of record earnings, driven by surging AI chip demand and technology investments. Analysts forecast a 65% profit increase, w...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-tsmc-set-for-sixth-straight-record-quarterly-profit-on-ai-chip-boom/articleshow/134957993.cms",
+          "title": "Persistent Systems shares slide 5% despite Q2 revenue growth. Buy, sell or hold?",
+          "summary": "Persistent Systems shares fell 5% despite 7.8% sequential constant-currency revenue growth in Q2FY27, as margin contraction and a sharp decline in profit weighed on sentiment. Brok...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-slide-5-despite-q2-revenue-growth-buy-sell-or-hold/articleshow/134983124.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Bulls strike! Sensex zooms 1,100 pts intraday, Nifty at 22,950; key reasons",
-          "summary": "VK Vijayakumar said that the strength in the IT stocks follows the results of HCL Tech and the optimism surrounding that will hold the IT index strong....",
-          "link": "https://www.business-standard.com/markets/news/bulls-strike-sensex-zooms-1-100-pts-intraday-nifty-at-22-950-key-reasons-126101500351_1.html",
+          "title": "Mutual funds halt fresh investments in gold FoFs amid rupee pressure",
+          "summary": "Fund houses have stopped fresh lump-sum investments and new SIP, STP and switch registrations in gold FoFs from Friday, while existing transactions and investments in gold ETFs rem...",
+          "link": "https://www.business-standard.com/markets/mutual-fund/mutual-funds-halt-fresh-investments-gold-funds-of-funds-126101600333_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "NVIDIA donates $250m to support UK’s AI research and security",
-          "summary": "The UK life sciences scene could benefit from Nvidia’s donation, much of which is being allocated to institutions focused on AI safety and research initiatives. The post NVIDIA don...",
-          "link": "https://www.medicaldevice-network.com/news/nvidia-donates-250m-to-support-uk-ai-research-and-security/",
+          "title": "Labcorp outlays up to $872m to acquire BioReference’s laboratory assets",
+          "summary": "Labcorp said the agreement will help to improve access to its own laboratory services. The post Labcorp outlays up to $872m to acquire BioReference’s laboratory assets appeared fir...",
+          "link": "https://www.medicaldevice-network.com/news/labcorp-outlays-up-872m-to-acquire-bioreference-laboratory-assets/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "5 Lessons from Grief burns like fever by Minakshi Thakur",
-          "summary": "Explore five lessons from Minakshi Thakur’s Grief Burns Like Fever on loss, compassion, resilience and the quiet kindness that connects us....",
-          "link": "https://yourstory.com/2026/10/5-lessons-grief",
+          "title": "5 Non-fiction books you must read before 2026 ends",
+          "summary": "Discover five must-read nonfiction books before 2026 ends, exploring Indian politics, Kashmir, scams, archaeology and wildlife conservation....",
+          "link": "https://yourstory.com/2026/10/non-fiction-books",
           "source": "YourStory"
         },
         {
-          "title": "Tejas Goenka and Nupur Goenka on how Tally stayed relevant for 40 years",
-          "summary": "Tally's Tejas Goenka and Nupur Goenka attributed the company's success to ownership and staying focused on cost, trust and privacy....",
-          "link": "https://yourstory.com/2026/10/tejas-nupur-goenka-how-tally-has-stayed-relevant-for-40-years",
+          "title": "The math behind why young startup employees are underinsured by over Rs 1 Cr",
+          "summary": "The math behind why young startup employees are underinsured by over Rs 1 Cr Many young professionals assume their existing cover is sufficient. However, the question they need to ...",
+          "link": "https://yourstory.com/2026/10/math-behind-why-young-startup-employees-underinsured-over-rs-1-cr",
           "source": "YourStory"
         },
         {
-          "title": "Shamrock AI Bags $5 Mn To Help Enterprises Deploy AI Agents Reliably",
-          "summary": "Enterprise AI startup Shamrock AI has raised $5 Mn (about ₹47.4 Cr) in a seed funding round led by Endiya&#8230;...",
-          "link": "https://inc42.com/buzz/shamrock-ai-bags-5-mn-to-help-enterprises-deploy-ai-agents-reliably/",
+          "title": "Shop Pay’s India Debut, Zetwerk IPO Day 1 & More",
+          "summary": "Shopify’s India Checkout Bet Shopify is preparing to bring Shop Pay to India. Setting up a direct clash with domestic&#8230;...",
+          "link": "https://inc42.com/buzz/shop-pays-india-debut-zetwerk-ipo-day-1-more/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +211,28 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Two Japanese heavyweights collaborate for physical AI",
-          "summary": "Japanese industrial conglomerate Hitachi is working with FANUC to accelerate the marriage of artificial intelligence with robotics. This episode is brought to you by Mouser Electro...",
-          "link": "https://www.designworldonline.com/two-japanese-heavyweights-collaborate-for-physical-ai/",
+          "title": "AutomationDirect adds JOKARI and Maun electrical hand tools",
+          "summary": "AutomationDirect has added tools from JOKARI and Maun for electricians, panel builders and maintenance professionals. The JOKARI lineup includes the Super 4 Pro, UNI-PLUS, SECURA C...",
+          "link": "https://www.designworldonline.com/automationdirect-adds-jokari-and-maun-electrical-hand-tools/",
           "source": "Design World"
         },
         {
-          "title": "Seco introduces Stabilizer milling tools for nonferrous metals",
-          "summary": "Seco has introduced the Stabilizer series of milling tools for machining aluminum and other nonferrous metals. The ST4531, ST4521 and ST4321 end mills are designed to operate at lo...",
-          "link": "https://www.designworldonline.com/seco-introduces-stabilizer-milling-tools-for-nonferrous-metals/",
+          "title": "RMG acquires Shuster wire-processing equipment business",
+          "summary": "RMG (Rockford Manufacturing Group) has announced the acquisition of Shuster Mettler Corporation, including its assets, product lines, intellectual property and operations in New Ha...",
+          "link": "https://www.designworldonline.com/rmg-acquires-shuster-wire-processing-equipment-business/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The papers are available here:\nhttps://openai.com/index/sharing-ai-progress-in-mathematics/\nht...",
+          "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg"
         }
       ]
     }
