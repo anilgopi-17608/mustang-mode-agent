@@ -1,91 +1,91 @@
 {
-  "last_updated": "Friday, October 16, 2026 at 11:43 AM IST",
-  "last_updated_iso": "2026-10-16T11:43:42.619496",
+  "last_updated": "Saturday, October 17, 2026 at 11:28 AM IST",
+  "last_updated_iso": "2026-10-17T11:28:56.437495",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23125.75,
-        "change": 128.40000000000146,
-        "change_pct": 0.5583251983380758,
+        "price": 23146.15,
+        "change": 148.8000000000029,
+        "change_pct": 0.6470310709712334,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 74662.93,
-        "change": 347.31999999999243,
-        "change_pct": 0.46735806918626166,
+        "price": 74729.27,
+        "change": 413.6600000000035,
+        "change_pct": 0.5566259901520064,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 55726.95,
-        "change": -83.55000000000291,
-        "change_pct": -0.1497030128739268,
-        "is_up": false
+        "price": 55844.0,
+        "change": 33.5,
+        "change_pct": 0.06002454735220075,
+        "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "Wipro",
-        "price": 183.31,
-        "change": 9.259999999999991,
-        "change_pct": 5.320310255673651,
-        "is_up": true
-      },
-      {
-        "name": "Infosys",
-        "price": 1151.2,
-        "change": 41.200000000000045,
-        "change_pct": 3.711711711711716,
+        "price": 184.4,
+        "change": 10.349999999999994,
+        "change_pct": 5.946567078425736,
         "is_up": true
       },
       {
         "name": "TCS",
-        "price": 2428.6,
-        "change": 78.59999999999991,
-        "change_pct": 3.3446808510638264,
+        "price": 2465.0,
+        "change": 115.0,
+        "change_pct": 4.8936170212765955,
+        "is_up": true
+      },
+      {
+        "name": "Infosys",
+        "price": 1161.2,
+        "change": 51.200000000000045,
+        "change_pct": 4.612612612612617,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Reliance",
-        "price": 1210.1,
-        "change": -4.900000000000091,
-        "change_pct": -0.4032921810699664,
+        "price": 1211.2,
+        "change": -3.7999999999999545,
+        "change_pct": -0.3127572016460868,
         "is_up": false
       },
       {
         "name": "Sun Pharma",
-        "price": 1757.8,
-        "change": -6.2000000000000455,
-        "change_pct": -0.3514739229024969,
+        "price": 1758.8,
+        "change": -5.2000000000000455,
+        "change_pct": -0.2947845804988688,
         "is_up": false
       },
       {
-        "name": "Maruti",
-        "price": 11431.0,
-        "change": -14.0,
-        "change_pct": -0.12232415902140673,
+        "name": "L&T",
+        "price": 3627.1,
+        "change": -4.900000000000091,
+        "change_pct": -0.13491189427313027,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.9925,
-        "change": -0.052499999999994884,
-        "change_pct": -0.05523699300330884,
+        "price": 94.96,
+        "change": -0.08500000000000796,
+        "change_pct": -0.08943132200537425,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4196.4,
-        "change": 26.299999999999272,
-        "change_pct": 0.630680319416783,
+        "price": 4181.1,
+        "change": 11.0,
+        "change_pct": 0.2637826431020839,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-          "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep....",
-          "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+          "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+          "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muf...",
+          "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
           "source": "TechCrunch"
         },
         {
-          "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-          "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas....",
-          "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it...",
+          "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
           "source": "TechCrunch"
         },
         {
-          "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+          "title": "All the news about the iPhone Duo",
           "summary": "",
-          "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+          "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
           "source": "The Verge"
         },
         {
-          "title": "Steam can now show game achievements in separate ‘sets’",
+          "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
           "summary": "",
-          "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+          "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
           "source": "The Verge"
         },
         {
-          "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-          "summary": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie....",
-          "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
+          "title": "OpenAI models hacked a crypto wallet and breached more websites",
+          "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard....",
+          "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Shanti Gold, PC Jeweller &amp; other jewellery stocks rally up to 10% as gold ETF FoF subscriptions face curbs",
-          "summary": "Jewellery stocks, including Shanti Gold International, PC Jeweller and Sky Gold and Diamonds, rose sharply on Friday as mutual fund houses temporarily restricted fresh subscription...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/shanti-gold-pc-jeweller-other-jewellery-stocks-rally-up-to-10-as-gold-etf-fof-subscriptions-face-curbs/articleshow/134983846.cms",
+          "title": "$60 billion in 6 weeks: RBI's rupee defence comes at a cost",
+          "summary": "Reserve drain Forex reserves fall to $726 b on Oct 9 from $785.7 b on Sept 4, with latest reporting week alone showing a depletion of $8.58 b...",
+          "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/60-billion-in-6-weeks-rbis-rupee-defence-comes-at-a-cost/articleshow/135007403.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Persistent Systems shares slide 5% despite Q2 revenue growth. Buy, sell or hold?",
-          "summary": "Persistent Systems shares fell 5% despite 7.8% sequential constant-currency revenue growth in Q2FY27, as margin contraction and a sharp decline in profit weighed on sentiment. Brok...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-slide-5-despite-q2-revenue-growth-buy-sell-or-hold/articleshow/134983124.cms",
+          "title": "AI bubble burst may trigger 2008-like banking crisis, says Gary Marcus",
+          "summary": "In a recent discussion, Gary Marcus raised critical flags about OpenAI's fiscal responsibilities as the stock market faces instability. He warned that the demise of leading AI firm...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-burst-may-trigger-2008-like-banking-crisis-says-gary-marcus/articleshow/135007219.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Mutual funds halt fresh investments in gold FoFs amid rupee pressure",
-          "summary": "Fund houses have stopped fresh lump-sum investments and new SIP, STP and switch registrations in gold FoFs from Friday, while existing transactions and investments in gold ETFs rem...",
-          "link": "https://www.business-standard.com/markets/mutual-fund/mutual-funds-halt-fresh-investments-gold-funds-of-funds-126101600333_1.html",
+          "title": "Indian IT stocks post best weekly gain in 18 years amid global AI sell-off",
+          "summary": "This comes as AI sell-off drives investors towards the country's software firms...",
+          "link": "https://www.business-standard.com/markets/news/indian-it-stocks-post-best-weekly-gain-in-18-years-amid-global-ai-sell-off-126101601303_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Labcorp outlays up to $872m to acquire BioReference’s laboratory assets",
-          "summary": "Labcorp said the agreement will help to improve access to its own laboratory services. The post Labcorp outlays up to $872m to acquire BioReference’s laboratory assets appeared fir...",
-          "link": "https://www.medicaldevice-network.com/news/labcorp-outlays-up-872m-to-acquire-bioreference-laboratory-assets/",
+          "title": "Sirona Medical reels in $40m for cloud-based radiology platform scaleup",
+          "summary": "Sirona said the Series D funding tranche, led by Avidity Partners, will allow it to fund its operating plan \"indefinitely\". The post Sirona Medical reels in $40m for cloud-based ra...",
+          "link": "https://www.medicaldevice-network.com/news/sirona-medical-reels-in-40m-for-cloud-based-radiology-platform-scaleup/",
           "source": "Medical Device Network"
         }
       ]
@@ -194,15 +194,15 @@
           "source": "YourStory"
         },
         {
-          "title": "The math behind why young startup employees are underinsured by over Rs 1 Cr",
-          "summary": "The math behind why young startup employees are underinsured by over Rs 1 Cr Many young professionals assume their existing cover is sufficient. However, the question they need to ...",
-          "link": "https://yourstory.com/2026/10/math-behind-why-young-startup-employees-underinsured-over-rs-1-cr",
+          "title": "5 Kristin Hannah lessons on the complexities of womanhood",
+          "summary": "Explore five powerful Kristin Hannah lessons that capture the complexities of womanhood, from love & sacrifice to resilience and the strength of women....",
+          "link": "https://yourstory.com/2026/10/kristin-hannah-lessons",
           "source": "YourStory"
         },
         {
-          "title": "Shop Pay’s India Debut, Zetwerk IPO Day 1 & More",
-          "summary": "Shopify’s India Checkout Bet Shopify is preparing to bring Shop Pay to India. Setting up a direct clash with domestic&#8230;...",
-          "link": "https://inc42.com/buzz/shop-pays-india-debut-zetwerk-ipo-day-1-more/",
+          "title": "From Boldfit To Origin — Indian Startups Raised About $236 Mn This Week",
+          "summary": "Startup funding continued to pick up pace in the second week of October. Overall, Indian new-age tech ventures raised $236.2&#8230;...",
+          "link": "https://inc42.com/buzz/from-boldfit-to-origin-indian-startups-raised-about-236-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -211,28 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "Stafford introduces machinable flange collars for shaft mounting",
+          "summary": "Stafford Manufacturing Corp. of Wilmington, Massachusetts, has introduced Accu-Flange Shaft Mounting Collars with round, square and hex bores for shaft-mounting applications. The u...",
+          "link": "https://www.designworldonline.com/stafford-introduces-machinable-flange-collars-for-shaft-mounting/",
+          "source": "Design World"
+        },
+        {
           "title": "AutomationDirect adds JOKARI and Maun electrical hand tools",
           "summary": "AutomationDirect has added tools from JOKARI and Maun for electricians, panel builders and maintenance professionals. The JOKARI lineup includes the Super 4 Pro, UNI-PLUS, SECURA C...",
           "link": "https://www.designworldonline.com/automationdirect-adds-jokari-and-maun-electrical-hand-tools/",
           "source": "Design World"
-        },
-        {
-          "title": "RMG acquires Shuster wire-processing equipment business",
-          "summary": "RMG (Rockford Manufacturing Group) has announced the acquisition of Shuster Mettler Corporation, including its assets, product lines, intellectual property and operations in New Ha...",
-          "link": "https://www.designworldonline.com/rmg-acquires-shuster-wire-processing-equipment-business/",
-          "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The papers are available here:\nhttps://openai.com/index/sharing-ai-progress-in-mathematics/\nht...",
-          "link": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i3.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg"
         }
       ]
     }
