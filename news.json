@@ -1,91 +1,91 @@
 {
-  "last_updated": "Sunday, October 18, 2026 at 11:57 AM IST",
-  "last_updated_iso": "2026-10-18T11:57:29.815809",
+  "last_updated": "Monday, October 19, 2026 at 12:08 PM IST",
+  "last_updated_iso": "2026-10-19T12:08:53.396546",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23146.15,
-        "change": 148.8000000000029,
-        "change_pct": 0.6470310709712334,
-        "is_up": true
+        "price": 22966.9,
+        "change": -179.25,
+        "change_pct": -0.7744268485255646,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 74729.27,
-        "change": 413.6600000000035,
-        "change_pct": 0.5566259901520064,
-        "is_up": true
+        "price": 74224.01,
+        "change": -505.2600000000093,
+        "change_pct": -0.6761206151217712,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 55844.0,
-        "change": 33.5,
-        "change_pct": 0.06002454735220075,
-        "is_up": true
+        "price": 55536.95,
+        "change": -307.0500000000029,
+        "change_pct": -0.5498352553542062,
+        "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Wipro",
-        "price": 184.4,
-        "change": 10.349999999999994,
-        "change_pct": 5.946567078425736,
+        "name": "L&T",
+        "price": 3660.2,
+        "change": 33.09999999999991,
+        "change_pct": 0.9125747842629073,
         "is_up": true
       },
       {
-        "name": "TCS",
-        "price": 2465.0,
-        "change": 115.0,
-        "change_pct": 4.8936170212765955,
+        "name": "Maruti",
+        "price": 11573.0,
+        "change": 84.0,
+        "change_pct": 0.7311341282966316,
         "is_up": true
       },
       {
-        "name": "Infosys",
-        "price": 1161.2,
-        "change": 51.200000000000045,
-        "change_pct": 4.612612612612617,
+        "name": "Reliance",
+        "price": 1215.0,
+        "change": 3.7999999999999545,
+        "change_pct": 0.31373844121531985,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Reliance",
-        "price": 1211.2,
-        "change": -3.7999999999999545,
-        "change_pct": -0.3127572016460868,
+        "name": "HDFC Bank",
+        "price": 710.7,
+        "change": -18.149999999999977,
+        "change_pct": -2.4902243259929997,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1758.8,
-        "change": -5.2000000000000455,
-        "change_pct": -0.2947845804988688,
+        "name": "Infosys",
+        "price": 1138.5,
+        "change": -22.700000000000045,
+        "change_pct": -1.954874267998626,
         "is_up": false
       },
       {
-        "name": "L&T",
-        "price": 3627.1,
-        "change": -4.900000000000091,
-        "change_pct": -0.13491189427313027,
+        "name": "ICICI Bank",
+        "price": 1381.9,
+        "change": -15.099999999999909,
+        "change_pct": -1.0808876163206806,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.96,
-        "change": -0.08500000000000796,
-        "change_pct": -0.08943132200537425,
+        "price": 94.76,
+        "change": -0.18999999999999773,
+        "change_pct": -0.20010531858872851,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4181.1,
-        "change": 11.0,
-        "change_pct": 0.2637826431020839,
+        "price": 4195.8,
+        "change": 14.699999999999818,
+        "change_pct": 0.35158211953791624,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Meta removes language that raised scraping and AI training concerns",
-          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web....",
-          "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+          "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most stor...",
+          "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
           "source": "TechCrunch"
         },
         {
-          "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
-          "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms....",
-          "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+          "summary": "Anthropic said that it will commit 5% of its shares to the fund....",
+          "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
           "source": "TechCrunch"
         },
         {
-          "title": "TikTok bans Musk documentary account",
+          "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+          "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
           "source": "The Verge"
         },
         {
-          "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+          "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
           "summary": "",
-          "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+          "link": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
           "source": "The Verge"
         },
         {
-          "title": "Science says your boss should talk less in meetings",
-          "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too....",
-          "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+          "title": "Anthropic gives outside AI watchdog “employee-like” access",
+          "summary": "The outside watchdog can publish its findings without Anthropic's approval....",
+          "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Bonus issues, stock splits &amp; dividends: HDB Financial, IRFC, TechM among 19 stocks turning ex-record date this week",
-          "summary": "Around 19 companies including LTIMindtree, Tech Mahindra, IRFC, HDB Financial Services, and Angel One have fixed their record dates for dividends, stock splits, and bonus issues du...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-hdb-financial-irfc-techm-among-19-stocks-turning-ex-record-date-this-week/articleshow/135024511.cms",
+          "title": "India bonds rise after flat open as sharp drop in US yields spurs value buying",
+          "summary": "The Indian government bond market saw a positive turnaround as US Treasury yields declined, prompting significant value purchases. The benchmark 6.94% bond maturing in 2036 observe...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-after-flat-open-as-sharp-drop-in-us-yields-spurs-value-buying/articleshow/135041797.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "LG Electronics, Polycab among picks as premiumisation and infrastructure demand drive growth: Siddhartha Khemka",
-          "summary": "Consumer durable demand is showing an uneven festive recovery, with premiumisation and weather-led sales supporting select categories. Siddhartha Khemka picks LG Electronics and Po...",
-          "link": "https://economictimes.indiatimes.com/markets/expert-view/lg-electronics-polycab-among-picks-as-premiumisation-and-infrastructure-demand-drive-growth-siddhartha-khemka/articleshow/135024487.cms",
+          "title": "PSU bank stocks soar up to 8%, but HDFC, Axis and other private lenders fall up to 5% after Q2 results. Why the sharp divide?",
+          "summary": "PSU bank stocks surged up to 8% on Monday, led by Punjab National Bank after its Q2FY27 earnings beat estimates. In contrast, private lenders such as Axis Bank and HDFC Bank fell u...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/psu-bank-stocks-soar-up-to-8-but-hdfc-axis-and-other-private-lenders-fall-up-to-5-after-q2-results-why-the-sharp-divide/articleshow/135041687.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Crypto devices built to foil hackers may have come with spies inside",
-          "summary": "Malaysian retailer CryptoBilis, a reseller of hardware crypto wallets, has become a focal point of an investigation into thefts from devices meant to secure digital assets offline...",
-          "link": "https://www.business-standard.com/world-news/crypto-devices-built-to-foil-hackers-may-have-come-with-spies-inside-126101800160_1.html",
+          "title": "Trend reversal? Analyst decodes Havells India, NTPC, Birlasoft on charts",
+          "summary": "NTPC stock is showing early signs of a potential reversal, as it trades near its long-term support (200-week EMA) on the charts, says Sachin Gupta of Choice Broking....",
+          "link": "https://www.business-standard.com/markets/news/trend-reversal-analyst-decodes-havells-india-ntpc-birlasoft-on-charts-126101900285_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
+          "title": "7 Books that explain why we're connected but still lonely",
+          "summary": "Discover seven books that explore modern loneliness, social media, digital relationships and why feeling connected doesn't always mean feeling understood....",
+          "link": "https://yourstory.com/2026/10/books-lonliness-modernlife",
+          "source": "YourStory"
+        },
+        {
           "title": "5 Kristin Hannah lessons on the complexities of womanhood",
           "summary": "Explore five powerful Kristin Hannah lessons that capture the complexities of womanhood, from love & sacrifice to resilience and the strength of women....",
           "link": "https://yourstory.com/2026/10/kristin-hannah-lessons",
           "source": "YourStory"
         },
         {
-          "title": "How art platforms, exhibitions and awards strengthen the creative economy",
-          "summary": "In this photo essay from Lalit Kala Akademi in New Delhi, we showcase more highlights from an exhibition with 270 artworks from across India....",
-          "link": "https://yourstory.com/2026/10/art-platforms-exhibitions-awards-creative-economy-photography",
-          "source": "YourStory"
-        },
-        {
-          "title": "Starlink, Jio & OneWeb: Untangling The Satcom Queue",
-          "summary": "The irony was not lost on many. Around the same time as the internet in India’s national capital Delhi was&#8230;...",
-          "link": "https://inc42.com/features/starlink-jio-oneweb-untangling-the-satcom-queue/",
+          "title": "ixigo Shares Jumps 13% After Q2 Profit Swings To ₹63 Cr",
+          "summary": "Shares of online travel aggregator ixigo rose 13.12% to an intraday high of ₹163.30 apiece on the BSE after the&#8230;...",
+          "link": "https://inc42.com/buzz/ixigo-shares-jumps-13-after-q2-profit-swings-to-%e2%82%b963-cr/",
           "source": "Inc42"
         }
       ]
