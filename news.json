@@ -1,92 +1,92 @@
 {
-  "last_updated": "Monday, October 19, 2026 at 12:08 PM IST",
-  "last_updated_iso": "2026-10-19T12:08:53.396546",
+  "last_updated": "Tuesday, October 20, 2026 at 11:54 AM IST",
+  "last_updated_iso": "2026-10-20T11:54:58.658343",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22966.9,
-        "change": -179.25,
-        "change_pct": -0.7744268485255646,
+        "price": 22888.95,
+        "change": -257.2000000000007,
+        "change_pct": -1.1111999187769919,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 74224.01,
-        "change": -505.2600000000093,
-        "change_pct": -0.6761206151217712,
+        "price": 73852.9,
+        "change": -876.3700000000099,
+        "change_pct": -1.1727265635004998,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 55536.95,
-        "change": -307.0500000000029,
-        "change_pct": -0.5498352553542062,
+        "price": 55488.1,
+        "change": -355.90000000000146,
+        "change_pct": -0.6373110808681353,
         "is_up": false
       }
     ],
     "gainers": [
       {
         "name": "L&T",
-        "price": 3660.2,
-        "change": 33.09999999999991,
-        "change_pct": 0.9125747842629073,
+        "price": 3661.9,
+        "change": 34.80000000000018,
+        "change_pct": 0.9594441840588951,
         "is_up": true
       },
       {
         "name": "Maruti",
-        "price": 11573.0,
-        "change": 84.0,
-        "change_pct": 0.7311341282966316,
-        "is_up": true
+        "price": 11475.0,
+        "change": -14.0,
+        "change_pct": -0.1218556880494386,
+        "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1215.0,
-        "change": 3.7999999999999545,
-        "change_pct": 0.31373844121531985,
-        "is_up": true
+        "name": "TCS",
+        "price": 2460.9,
+        "change": -4.099999999999909,
+        "change_pct": -0.16632860040567582,
+        "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "HDFC Bank",
-        "price": 710.7,
-        "change": -18.149999999999977,
-        "change_pct": -2.4902243259929997,
-        "is_up": false
-      },
-      {
         "name": "Infosys",
-        "price": 1138.5,
-        "change": -22.700000000000045,
-        "change_pct": -1.954874267998626,
+        "price": 1130.7,
+        "change": -30.5,
+        "change_pct": -2.626593179469514,
         "is_up": false
       },
       {
-        "name": "ICICI Bank",
-        "price": 1381.9,
-        "change": -15.099999999999909,
-        "change_pct": -1.0808876163206806,
+        "name": "HDFC Bank",
+        "price": 712.0,
+        "change": -16.850000000000023,
+        "change_pct": -2.311861151128493,
+        "is_up": false
+      },
+      {
+        "name": "Bharti Airtel",
+        "price": 1875.2,
+        "change": -29.799999999999955,
+        "change_pct": -1.564304461942255,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.76,
-        "change": -0.18999999999999773,
-        "change_pct": -0.20010531858872851,
-        "is_up": false
+        "price": 94.92,
+        "change": 0.0049999999999954525,
+        "change_pct": 0.00526787125322178,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4195.8,
-        "change": 14.699999999999818,
-        "change_pct": 0.35158211953791624,
-        "is_up": true
+        "price": 4139.0,
+        "change": -21.100000000000364,
+        "change_pct": -0.507199346169572,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-          "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most stor...",
-          "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+          "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+          "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch....",
+          "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-          "summary": "Anthropic said that it will commit 5% of its shares to the fund....",
-          "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+          "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power bac...",
+          "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
           "source": "TechCrunch"
         },
         {
-          "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+          "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
           "summary": "",
-          "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+          "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
           "source": "The Verge"
         },
         {
-          "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+          "title": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+          "link": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
           "source": "The Verge"
         },
         {
-          "title": "Anthropic gives outside AI watchdog “employee-like” access",
-          "summary": "The outside watchdog can publish its findings without Anthropic's approval....",
-          "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+          "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+          "summary": "Congenital measles can be fatal, and survivors require monitoring for years....",
+          "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "India bonds rise after flat open as sharp drop in US yields spurs value buying",
-          "summary": "The Indian government bond market saw a positive turnaround as US Treasury yields declined, prompting significant value purchases. The benchmark 6.94% bond maturing in 2036 observe...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-after-flat-open-as-sharp-drop-in-us-yields-spurs-value-buying/articleshow/135041797.cms",
+          "title": "Tonbo Imaging’s Rs 852 crore IPO subscribed 140x. Check GMP, allotment, other details",
+          "summary": "The issue received bids for 1,15,86,91,464 shares against 85,26,033 shares on offer. Qualified institutional buyers led the demand, subscribing to their allotted portion 293.56 tim...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tonbo-imagings-rs-852-crore-ipo-subscribed-140x-check-gmp-allotment-other-details/articleshow/135062276.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "PSU bank stocks soar up to 8%, but HDFC, Axis and other private lenders fall up to 5% after Q2 results. Why the sharp divide?",
-          "summary": "PSU bank stocks surged up to 8% on Monday, led by Punjab National Bank after its Q2FY27 earnings beat estimates. In contrast, private lenders such as Axis Bank and HDFC Bank fell u...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/psu-bank-stocks-soar-up-to-8-but-hdfc-axis-and-other-private-lenders-fall-up-to-5-after-q2-results-why-the-sharp-divide/articleshow/135041687.cms",
+          "title": "Global Market: China and Hong Kong shares weaken as stable growth eases stimulus bets",
+          "summary": "China and Hong Kong stocks weakened on Tuesday, joining a broader retreat in the region, after Beijing kept key lending rates unchanged and stronger GDP data dampened...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-and-hong-kong-shares-weaken-as-stable-growth-eases-stimulus-bets/articleshow/135061983.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Trend reversal? Analyst decodes Havells India, NTPC, Birlasoft on charts",
-          "summary": "NTPC stock is showing early signs of a potential reversal, as it trades near its long-term support (200-week EMA) on the charts, says Sachin Gupta of Choice Broking....",
-          "link": "https://www.business-standard.com/markets/news/trend-reversal-analyst-decodes-havells-india-ntpc-birlasoft-on-charts-126101900285_1.html",
+          "title": "Brent crude holds near 5-month high as W Asia tensions stoke supply fears",
+          "summary": "Brent crude futures ​climbed 55 cents, or 0.50%, to $110.10 a barrel by 0319 GMT, after rising as high as $110.70 ‌a barrel in the previous session to their highest since May 20...",
+          "link": "https://www.business-standard.com/markets/commodities/oil-prices-ease-as-russia-sanctions-relief-offsets-gulf-supply-risks-126102000063_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Sirona Medical reels in $40m for cloud-based radiology platform scaleup",
-          "summary": "Sirona said the Series D funding tranche, led by Avidity Partners, will allow it to fund its operating plan \"indefinitely\". The post Sirona Medical reels in $40m for cloud-based ra...",
-          "link": "https://www.medicaldevice-network.com/news/sirona-medical-reels-in-40m-for-cloud-based-radiology-platform-scaleup/",
+          "title": "Designing for clarity before designing solutions",
+          "summary": "Lucy Baldwin, head of research and strategy, and Oliver North, head of engineering at Ensera Design, reflect on the key design considerations in medical device development. The pos...",
+          "link": "https://www.medicaldevice-network.com/comment/designing-for-clarity-before-designing-solutions/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "7 Books that explain why we're connected but still lonely",
-          "summary": "Discover seven books that explore modern loneliness, social media, digital relationships and why feeling connected doesn't always mean feeling understood....",
-          "link": "https://yourstory.com/2026/10/books-lonliness-modernlife",
+          "title": "The science of deep sleep and how Duroflex Airboost helps you get more of it",
+          "summary": "India’s newest sleep technology is designed to enhance the N3 stage, the body’s repair shift, for better recovery, immunity, and stress resilience. You can get enough sleep and sti...",
+          "link": "https://yourstory.com/2026/10/the-science-of-deep-sleep-and-how-duroflex-airboost-helps-you-get-more-of-it",
           "source": "YourStory"
         },
         {
-          "title": "5 Kristin Hannah lessons on the complexities of womanhood",
-          "summary": "Explore five powerful Kristin Hannah lessons that capture the complexities of womanhood, from love & sacrifice to resilience and the strength of women....",
-          "link": "https://yourstory.com/2026/10/kristin-hannah-lessons",
+          "title": "How a FD calculator helps investors plan savings with ease",
+          "summary": "Saving for life’s big goals? Start with an FD calculator Bajaj Finance’s online tool lets you compare amounts, tenures, and payout options instantly, turning guesswork into clear s...",
+          "link": "https://yourstory.com/2026/10/how-a-fd-calculator-helps-investors-plan-savings-with-ease",
           "source": "YourStory"
         },
         {
-          "title": "ixigo Shares Jumps 13% After Q2 Profit Swings To ₹63 Cr",
-          "summary": "Shares of online travel aggregator ixigo rose 13.12% to an intraday high of ₹163.30 apiece on the BSE after the&#8230;...",
-          "link": "https://inc42.com/buzz/ixigo-shares-jumps-13-after-q2-profit-swings-to-%e2%82%b963-cr/",
+          "title": "What’s Cooking In Smart Kitchens?",
+          "summary": "Food has a way of taking us back in time. A familiar aroma or a single bite can bring back&#8230;...",
+          "link": "https://inc42.com/features/whats-cooking-in-smart-kitchens/",
           "source": "Inc42"
         }
       ]
