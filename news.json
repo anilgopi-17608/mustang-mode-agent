@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, October 20, 2026 at 11:54 AM IST",
-  "last_updated_iso": "2026-10-20T11:54:58.658343",
+  "last_updated": "Wednesday, October 21, 2026 at 11:55 AM IST",
+  "last_updated_iso": "2026-10-21T11:55:26.457274",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22888.95,
-        "change": -257.2000000000007,
-        "change_pct": -1.1111999187769919,
+        "price": 22821.25,
+        "change": -67.70000000000073,
+        "change_pct": -0.29577590933616754,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 73852.9,
-        "change": -876.3700000000099,
-        "change_pct": -1.1727265635004998,
+        "price": 73814.32,
+        "change": -38.579999999987194,
+        "change_pct": -0.052238977751702644,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 55488.1,
-        "change": -355.90000000000146,
-        "change_pct": -0.6373110808681353,
+        "price": 55003.95,
+        "change": -484.15000000000146,
+        "change_pct": -0.8725294252281145,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "L&T",
-        "price": 3661.9,
-        "change": 34.80000000000018,
-        "change_pct": 0.9594441840588951,
+        "name": "Wipro",
+        "price": 188.7,
+        "change": 6.560000000000002,
+        "change_pct": 3.6016251235313512,
         "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 11475.0,
-        "change": -14.0,
-        "change_pct": -0.1218556880494386,
-        "is_up": false
+        "name": "Infosys",
+        "price": 1158.85,
+        "change": 28.149999999999864,
+        "change_pct": 2.489608207305197,
+        "is_up": true
       },
       {
         "name": "TCS",
-        "price": 2460.9,
-        "change": -4.099999999999909,
-        "change_pct": -0.16632860040567582,
-        "is_up": false
+        "price": 2516.4,
+        "change": 55.5,
+        "change_pct": 2.255272461294648,
+        "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1130.7,
-        "change": -30.5,
-        "change_pct": -2.626593179469514,
+        "name": "Maruti",
+        "price": 11288.0,
+        "change": -187.0,
+        "change_pct": -1.6296296296296295,
         "is_up": false
       },
       {
         "name": "HDFC Bank",
-        "price": 712.0,
-        "change": -16.850000000000023,
-        "change_pct": -2.311861151128493,
+        "price": 707.15,
+        "change": -4.850000000000023,
+        "change_pct": -0.681179775280902,
         "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1875.2,
-        "change": -29.799999999999955,
-        "change_pct": -1.564304461942255,
+        "name": "Sun Pharma",
+        "price": 1733.6,
+        "change": -9.400000000000091,
+        "change_pct": -0.5393000573723518,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.92,
-        "change": 0.0049999999999954525,
-        "change_pct": 0.00526787125322178,
-        "is_up": true
+        "price": 94.7225,
+        "change": -0.04749999999999943,
+        "change_pct": -0.05012134641764212,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4139.0,
-        "change": -21.100000000000364,
-        "change_pct": -0.507199346169572,
+        "price": 4134.8,
+        "change": -7.800000000000182,
+        "change_pct": -0.1882875488823488,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
-          "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch....",
-          "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+          "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge....",
+          "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
           "source": "TechCrunch"
         },
         {
-          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-          "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power bac...",
-          "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+          "title": "SpaceX and Tesla boards form special committees to review merger",
+          "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors....",
+          "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
           "source": "TechCrunch"
         },
         {
-          "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+          "title": "YouTube might be testing hiding the dislike button",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+          "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
           "source": "The Verge"
         },
         {
-          "title": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
+          "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
           "source": "The Verge"
         },
         {
-          "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
-          "summary": "Congenital measles can be fatal, and survivors require monitoring for years....",
-          "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+          "title": "PHP warns it plans to release 2 emergency patches imminently",
+          "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites....",
+          "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Tonbo Imaging’s Rs 852 crore IPO subscribed 140x. Check GMP, allotment, other details",
-          "summary": "The issue received bids for 1,15,86,91,464 shares against 85,26,033 shares on offer. Qualified institutional buyers led the demand, subscribing to their allotted portion 293.56 tim...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tonbo-imagings-rs-852-crore-ipo-subscribed-140x-check-gmp-allotment-other-details/articleshow/135062276.cms",
+          "title": "Missed reversal in IT stocks? Jefferies gives 3 ideas with up to 50% re-rating potential",
+          "summary": "Jefferies sees further valuation upside in Indian IT stocks despite a muted sector growth outlook. Infosys and TCS offer over 20% rerating potential, while Sagility could deliver m...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/missed-reversal-in-it-stocks-jefferies-gives-3-ideas-with-up-to-50-re-rating-potential/articleshow/135083074.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: China and Hong Kong shares weaken as stable growth eases stimulus bets",
-          "summary": "China and Hong Kong stocks weakened on Tuesday, joining a broader retreat in the region, after Beijing kept key lending rates unchanged and stronger GDP data dampened...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-and-hong-kong-shares-weaken-as-stable-growth-eases-stimulus-bets/articleshow/135061983.cms",
+          "title": "Bajaj Finance shares fall 3% after Q2 results. What Jefferies, Nomura, other brokerages now expect?",
+          "summary": "Bajaj Finance shares dropped on Wednesday after the NBFC reported a 29% year-on-year rise in Q2FY27 net profit to Rs 6,367 crore. Nomura and Jefferies retained Buy ratings, with Je...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-shares-fall-3-after-q2-results-what-jefferies-nomura-other-brokerages-now-expect/articleshow/135082829.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Brent crude holds near 5-month high as W Asia tensions stoke supply fears",
-          "summary": "Brent crude futures ​climbed 55 cents, or 0.50%, to $110.10 a barrel by 0319 GMT, after rising as high as $110.70 ‌a barrel in the previous session to their highest since May 20...",
-          "link": "https://www.business-standard.com/markets/commodities/oil-prices-ease-as-russia-sanctions-relief-offsets-gulf-supply-risks-126102000063_1.html",
+          "title": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs",
+          "summary": "The investment bank estimates that 25-50 per cent of nearly 70 mid-to-late-stage private AI companies could go public in the next two to five years....",
+          "link": "https://www.business-standard.com/markets/news/ai-led-ipos-may-add-up-to-100-billion-to-india-s-market-cap-goldman-sachs-126102100382_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Designing for clarity before designing solutions",
-          "summary": "Lucy Baldwin, head of research and strategy, and Oliver North, head of engineering at Ensera Design, reflect on the key design considerations in medical device development. The pos...",
-          "link": "https://www.medicaldevice-network.com/comment/designing-for-clarity-before-designing-solutions/",
+          "title": "Medtronic’s next-gen pacemaker portfolio secures CE mark",
+          "summary": "All five of the pacemakers within Medtronic’s Vitalis portfolio use conduction system pacing to directly stimulate the heart’s natural electrical wiring. The post Medtronic’s next-...",
+          "link": "https://www.medicaldevice-network.com/news/medtronic-next-gen-pacemaker-portfolio-secures-ce-mark/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
+          "title": "From implementation to innovation: The next step in your Gemini Enterprise journey",
+          "summary": "Join Google Cloud's AI and ML experts for the second edition of the Gemini Enterprise series, covering app connectivity, identity management, and enterprise-grade security....",
+          "link": "https://yourstory.com/2026/10/-implementation-to-innovation-next-step-your-gemini-enterprise-journey",
+          "source": "YourStory"
+        },
+        {
           "title": "The science of deep sleep and how Duroflex Airboost helps you get more of it",
           "summary": "India’s newest sleep technology is designed to enhance the N3 stage, the body’s repair shift, for better recovery, immunity, and stress resilience. You can get enough sleep and sti...",
           "link": "https://yourstory.com/2026/10/the-science-of-deep-sleep-and-how-duroflex-airboost-helps-you-get-more-of-it",
           "source": "YourStory"
         },
         {
-          "title": "How a FD calculator helps investors plan savings with ease",
-          "summary": "Saving for life’s big goals? Start with an FD calculator Bajaj Finance’s online tool lets you compare amounts, tenures, and payout options instantly, turning guesswork into clear s...",
-          "link": "https://yourstory.com/2026/10/how-a-fd-calculator-helps-investors-plan-savings-with-ease",
-          "source": "YourStory"
-        },
-        {
-          "title": "What’s Cooking In Smart Kitchens?",
-          "summary": "Food has a way of taking us back in time. A familiar aroma or a single bite can bring back&#8230;...",
-          "link": "https://inc42.com/features/whats-cooking-in-smart-kitchens/",
+          "title": "Can India Capitalise On The AI Homecoming?",
+          "summary": "For decades, Indian engineers and researchers moved to Silicon Valley, joining global technology companies and contributing to products and research&#8230;...",
+          "link": "https://inc42.com/features/can-india-capitalise-on-the-ai-homecoming/",
           "source": "Inc42"
         }
       ]
@@ -221,6 +221,25 @@
           "summary": "AutomationDirect has added tools from JOKARI and Maun for electricians, panel builders and maintenance professionals. The JOKARI lineup includes the Super 4 Pro, UNI-PLUS, SECURA C...",
           "link": "https://www.designworldonline.com/automationdirect-adds-jokari-and-maun-electrical-hand-tools/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "The NEW Tesla Roadster: My Honest Reaction",
+          "summary": "Tesla doesn't do marketing. Until they do.\n\nHagerty video: https://youtu.be/22rvpUecLts?si=z7reGi_rtH9mG3R3\n\nAuto Focus: http://youtube.com/AutoFocus\n\nMKBHD Merch: http://shop.MKBH...",
+          "link": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+          "source": "MKBHD",
+          "thumbnail": "https://i4.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg"
+        },
+        {
+          "title": "Gemini 4 Argon Is Not What I Expected",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Gemini 4 Argon + report are available here:\nhttps://deepmind.google/models/model-cards/gemini-...",
+          "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg"
         }
       ]
     }
