@@ -1,91 +1,91 @@
 {
-  "last_updated": "Wednesday, October 21, 2026 at 11:55 AM IST",
-  "last_updated_iso": "2026-10-21T11:55:26.457274",
+  "last_updated": "Thursday, October 22, 2026 at 11:58 AM IST",
+  "last_updated_iso": "2026-10-22T11:58:20.710222",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22821.25,
-        "change": -67.70000000000073,
-        "change_pct": -0.29577590933616754,
+        "price": 22631.15,
+        "change": -180.1999999999971,
+        "change_pct": -0.7899576307408247,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 73814.32,
-        "change": -38.579999999987194,
-        "change_pct": -0.052238977751702644,
+        "price": 73424.14,
+        "change": -285.5500000000029,
+        "change_pct": -0.38739818333248033,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 55003.95,
-        "change": -484.15000000000146,
-        "change_pct": -0.8725294252281145,
+        "price": 54706.35,
+        "change": -270.5500000000029,
+        "change_pct": -0.4921157795365015,
         "is_up": false
       }
     ],
     "gainers": [
       {
+        "name": "L&T",
+        "price": 3660.8,
+        "change": 24.800000000000182,
+        "change_pct": 0.682068206820687,
+        "is_up": true
+      },
+      {
         "name": "Wipro",
-        "price": 188.7,
-        "change": 6.560000000000002,
-        "change_pct": 3.6016251235313512,
+        "price": 190.0,
+        "change": 0.8300000000000125,
+        "change_pct": 0.43875878839140064,
         "is_up": true
       },
       {
-        "name": "Infosys",
-        "price": 1158.85,
-        "change": 28.149999999999864,
-        "change_pct": 2.489608207305197,
-        "is_up": true
-      },
-      {
-        "name": "TCS",
-        "price": 2516.4,
-        "change": 55.5,
-        "change_pct": 2.255272461294648,
+        "name": "Bharti Airtel",
+        "price": 1898.3,
+        "change": 6.599999999999909,
+        "change_pct": 0.3488925305280916,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 11288.0,
-        "change": -187.0,
-        "change_pct": -1.6296296296296295,
-        "is_up": false
-      },
-      {
         "name": "HDFC Bank",
-        "price": 707.15,
-        "change": -4.850000000000023,
-        "change_pct": -0.681179775280902,
+        "price": 694.25,
+        "change": -12.700000000000045,
+        "change_pct": -1.79644953674235,
         "is_up": false
       },
       {
-        "name": "Sun Pharma",
-        "price": 1733.6,
-        "change": -9.400000000000091,
-        "change_pct": -0.5393000573723518,
+        "name": "TCS",
+        "price": 2484.9,
+        "change": -44.09999999999991,
+        "change_pct": -1.743772241992879,
+        "is_up": false
+      },
+      {
+        "name": "Infosys",
+        "price": 1149.75,
+        "change": -18.25,
+        "change_pct": -1.5625,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.7225,
-        "change": -0.04749999999999943,
-        "change_pct": -0.05012134641764212,
-        "is_up": false
+        "price": 94.698,
+        "change": 0.24799999999999045,
+        "change_pct": 0.2625727898358819,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4134.8,
-        "change": -7.800000000000182,
-        "change_pct": -0.1882875488823488,
+        "price": 4113.9,
+        "change": -36.100000000000364,
+        "change_pct": -0.8698795180722979,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-          "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge....",
-          "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "title": "Tesla says it will start selling Cybercabs by end of year",
+          "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standar...",
+          "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
           "source": "TechCrunch"
         },
         {
-          "title": "SpaceX and Tesla boards form special committees to review merger",
-          "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors....",
-          "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+          "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+          "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters....",
+          "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
           "source": "TechCrunch"
         },
         {
-          "title": "YouTube might be testing hiding the dislike button",
+          "title": "YouTube says it isn’t testing hiding the dislike button",
           "summary": "",
-          "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+          "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
           "source": "The Verge"
         },
         {
-          "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+          "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+          "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
           "source": "The Verge"
         },
         {
-          "title": "PHP warns it plans to release 2 emergency patches imminently",
-          "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites....",
-          "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+          "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+          "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship....",
+          "link": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Missed reversal in IT stocks? Jefferies gives 3 ideas with up to 50% re-rating potential",
-          "summary": "Jefferies sees further valuation upside in Indian IT stocks despite a muted sector growth outlook. Infosys and TCS offer over 20% rerating potential, while Sagility could deliver m...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/missed-reversal-in-it-stocks-jefferies-gives-3-ideas-with-up-to-50-re-rating-potential/articleshow/135083074.cms",
+          "title": "Global Market: Bank of Korea holds interest rates at 3% after back-to-back hikes",
+          "summary": "The Bank of Korea kept its benchmark interest rate unchanged at 3.00% on Thursday, pausing after back-to-back 25-basis-point hikes in July and August. The decision was in line with...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-korea-holds-interest-rates-at-3-after-back-to-back-hikes/articleshow/135109341.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Bajaj Finance shares fall 3% after Q2 results. What Jefferies, Nomura, other brokerages now expect?",
-          "summary": "Bajaj Finance shares dropped on Wednesday after the NBFC reported a 29% year-on-year rise in Q2FY27 net profit to Rs 6,367 crore. Nomura and Jefferies retained Buy ratings, with Je...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-shares-fall-3-after-q2-results-what-jefferies-nomura-other-brokerages-now-expect/articleshow/135082829.cms",
+          "title": "Global Market: Nokia Q3 profit beats estimates on AI demand, maintains 2026 outlook",
+          "summary": "Nokia reported stronger-than-expected third-quarter operating profit and revenue growth, driven by rising demand from AI and cloud customers. Order intake from these segments surge...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nokia-q3-profit-beats-estimates-on-ai-demand-maintains-2026-outlook/articleshow/135109366.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs",
-          "summary": "The investment bank estimates that 25-50 per cent of nearly 70 mid-to-late-stage private AI companies could go public in the next two to five years....",
-          "link": "https://www.business-standard.com/markets/news/ai-led-ipos-may-add-up-to-100-billion-to-india-s-market-cap-goldman-sachs-126102100382_1.html",
+          "title": "SRF extends slide to 5th day, falls 5% to hit 52-wk low on Q2 margin miss",
+          "summary": "Today's selling in SRF was seen despite the company reporting a 31 per cent Y-o-Y increase in consolidated net profit to ₹509.12 crore for the quarter ended September....",
+          "link": "https://www.business-standard.com/markets/news/srf-extends-slide-to-5th-day-falls-5-to-hit-52-wk-low-on-q2-margin-miss-126102200396_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Medtronic’s next-gen pacemaker portfolio secures CE mark",
-          "summary": "All five of the pacemakers within Medtronic’s Vitalis portfolio use conduction system pacing to directly stimulate the heart’s natural electrical wiring. The post Medtronic’s next-...",
-          "link": "https://www.medicaldevice-network.com/news/medtronic-next-gen-pacemaker-portfolio-secures-ce-mark/",
+          "title": "Intuitive’s shares fall 8% after tempering 2026 procedural growth outlook",
+          "summary": "The robotic surgery giant now expects procedural growth to fall at the 14% to 15% midpoint for 2026, versus between 13.5% and 15.5% previously. The post Intuitive’s shares fall 8% ...",
+          "link": "https://www.medicaldevice-network.com/news/intuitive-shares-fall-8-after-tempering-2026-procedural-growth-outlook/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "From implementation to innovation: The next step in your Gemini Enterprise journey",
-          "summary": "Join Google Cloud's AI and ML experts for the second edition of the Gemini Enterprise series, covering app connectivity, identity management, and enterprise-grade security....",
-          "link": "https://yourstory.com/2026/10/-implementation-to-innovation-next-step-your-gemini-enterprise-journey",
+          "title": "From backup to energy management: how batteries are changing India's power needs",
+          "summary": "As electricity demand rises and renewable energy adoption expands, batteries are evolving from backup devices into critical tools for businesses to manage energy use, improve relia...",
+          "link": "https://yourstory.com/2026/10/from-backup-to-energy-management-batteries-changing-india-power-needs",
           "source": "YourStory"
         },
         {
-          "title": "The science of deep sleep and how Duroflex Airboost helps you get more of it",
-          "summary": "India’s newest sleep technology is designed to enhance the N3 stage, the body’s repair shift, for better recovery, immunity, and stress resilience. You can get enough sleep and sti...",
-          "link": "https://yourstory.com/2026/10/the-science-of-deep-sleep-and-how-duroflex-airboost-helps-you-get-more-of-it",
+          "title": "7 Books with twisted endings for psychological thriller Fans",
+          "summary": "Discover seven psychological thriller books with shocking twists, unreliable narrators and unexpected endings that will keep you guessing....",
+          "link": "https://yourstory.com/2026/10/books-psychological-thriller",
           "source": "YourStory"
         },
         {
-          "title": "Can India Capitalise On The AI Homecoming?",
-          "summary": "For decades, Indian engineers and researchers moved to Silicon Valley, joining global technology companies and contributing to products and research&#8230;...",
-          "link": "https://inc42.com/features/can-india-capitalise-on-the-ai-homecoming/",
+          "title": "Chapter Homes Bags ₹63 Cr To Build Home & Kitchen Tech Brands",
+          "summary": "Omnichannel furniture and home furnishings brand Chapter Homes has raised ₹63 Cr ($6.6 Mn) in a strategic funding round through&#8230;...",
+          "link": "https://inc42.com/buzz/chapter-homes-bags-%e2%82%b963-cr-to-build-home-kitchen-tech-brands/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Stafford introduces machinable flange collars for shaft mounting",
-          "summary": "Stafford Manufacturing Corp. of Wilmington, Massachusetts, has introduced Accu-Flange Shaft Mounting Collars with round, square and hex bores for shaft-mounting applications. The u...",
-          "link": "https://www.designworldonline.com/stafford-introduces-machinable-flange-collars-for-shaft-mounting/",
+          "title": "Technical thinking: Technology right above our feet",
+          "summary": "By Mark Jones Clomping around on crampons during a January ice caving trip proved I’d chosen my boot poorly. Dr. Monaghan diagnosed I’d partially torn my plantar fascia at the heel...",
+          "link": "https://www.designworldonline.com/technical-thinking-technology-right-above-our-feet/",
           "source": "Design World"
         },
         {
-          "title": "AutomationDirect adds JOKARI and Maun electrical hand tools",
-          "summary": "AutomationDirect has added tools from JOKARI and Maun for electricians, panel builders and maintenance professionals. The JOKARI lineup includes the Super 4 Pro, UNI-PLUS, SECURA C...",
-          "link": "https://www.designworldonline.com/automationdirect-adds-jokari-and-maun-electrical-hand-tools/",
+          "title": "Growermetal G-Collars provide controlled preload for aerospace joints",
+          "summary": "The aerospace fastening sector is adopting standardized solutions for civil, military and space applications as aircraft production and maintenance activity increases. In response ...",
+          "link": "https://www.designworldonline.com/growermetal-g-collars-provide-controlled-preload-for-aerospace-joints/",
           "source": "Design World"
         }
       ]
@@ -228,18 +228,11 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "The NEW Tesla Roadster: My Honest Reaction",
-          "summary": "Tesla doesn't do marketing. Until they do.\n\nHagerty video: https://youtu.be/22rvpUecLts?si=z7reGi_rtH9mG3R3\n\nAuto Focus: http://youtube.com/AutoFocus\n\nMKBHD Merch: http://shop.MKBH...",
-          "link": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+          "title": "ASMR iPhone Duo Unboxing",
+          "summary": "iPhone duo only comes with 2 things in the box...",
+          "link": "https://www.youtube.com/shorts/_4ELeWAgMwo",
           "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg"
-        },
-        {
-          "title": "Gemini 4 Argon Is Not What I Expected",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Gemini 4 Argon + report are available here:\nhttps://deepmind.google/models/model-cards/gemini-...",
-          "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg"
+          "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg"
         }
       ]
     }
