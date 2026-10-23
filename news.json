@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, October 22, 2026 at 11:58 AM IST",
-  "last_updated_iso": "2026-10-22T11:58:20.710222",
+  "last_updated": "Friday, October 23, 2026 at 11:53 AM IST",
+  "last_updated_iso": "2026-10-23T11:53:11.467905",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22631.15,
-        "change": -180.1999999999971,
-        "change_pct": -0.7899576307408247,
+        "price": 22447.45,
+        "change": -240.20000000000073,
+        "change_pct": -1.0587257825292646,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 73424.14,
-        "change": -285.5500000000029,
-        "change_pct": -0.38739818333248033,
+        "price": 72684.93,
+        "change": -564.4600000000064,
+        "change_pct": -0.7706002739408566,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 54706.35,
-        "change": -270.5500000000029,
-        "change_pct": -0.4921157795365015,
+        "price": 54242.55,
+        "change": -683.1499999999942,
+        "change_pct": -1.2437711308185317,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "L&T",
-        "price": 3660.8,
-        "change": 24.800000000000182,
-        "change_pct": 0.682068206820687,
+        "name": "TCS",
+        "price": 2542.2,
+        "change": 35.29999999999973,
+        "change_pct": 1.4081136064461974,
+        "is_up": true
+      },
+      {
+        "name": "Infosys",
+        "price": 1160.35,
+        "change": 7.0,
+        "change_pct": 0.606927645554255,
         "is_up": true
       },
       {
         "name": "Wipro",
-        "price": 190.0,
-        "change": 0.8300000000000125,
-        "change_pct": 0.43875878839140064,
-        "is_up": true
-      },
-      {
-        "name": "Bharti Airtel",
-        "price": 1898.3,
-        "change": 6.599999999999909,
-        "change_pct": 0.3488925305280916,
+        "price": 190.6,
+        "change": 0.18999999999999773,
+        "change_pct": 0.09978467517462199,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "HDFC Bank",
-        "price": 694.25,
-        "change": -12.700000000000045,
-        "change_pct": -1.79644953674235,
+        "name": "Reliance",
+        "price": 1166.5,
+        "change": -18.0,
+        "change_pct": -1.5196285352469396,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2484.9,
-        "change": -44.09999999999991,
-        "change_pct": -1.743772241992879,
+        "name": "Sun Pharma",
+        "price": 1739.0,
+        "change": -19.0,
+        "change_pct": -1.0807736063708762,
         "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 1149.75,
-        "change": -18.25,
-        "change_pct": -1.5625,
+        "name": "Maruti",
+        "price": 11059.0,
+        "change": -111.0,
+        "change_pct": -0.9937332139659802,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.698,
-        "change": 0.24799999999999045,
-        "change_pct": 0.2625727898358819,
+        "price": 94.93,
+        "change": 0.12199999999999989,
+        "change_pct": 0.1286811239557842,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4113.9,
-        "change": -36.100000000000364,
-        "change_pct": -0.8698795180722979,
+        "price": 4030.5,
+        "change": -29.90000000000009,
+        "change_pct": -0.7363806521524995,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Tesla says it will start selling Cybercabs by end of year",
-          "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standar...",
-          "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+          "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+          "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents....",
+          "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
           "source": "TechCrunch"
         },
         {
-          "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-          "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters....",
-          "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+          "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027....",
+          "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
           "source": "TechCrunch"
         },
         {
-          "title": "YouTube says it isn’t testing hiding the dislike button",
+          "title": "Etsy is cracking down on AI slop listings",
           "summary": "",
-          "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+          "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
           "source": "The Verge"
         },
         {
-          "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+          "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
           "summary": "",
-          "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
           "source": "The Verge"
         },
         {
-          "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
-          "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship....",
-          "link": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+          "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+          "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter....",
+          "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
           "source": "Ars Technica"
         }
       ]
@@ -130,34 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: Bank of Korea holds interest rates at 3% after back-to-back hikes",
-          "summary": "The Bank of Korea kept its benchmark interest rate unchanged at 3.00% on Thursday, pausing after back-to-back 25-basis-point hikes in July and August. The decision was in line with...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-korea-holds-interest-rates-at-3-after-back-to-back-hikes/articleshow/135109341.cms",
+          "title": "Christopher Wood swapped Nvidia for a Greek infrastructure stock. The bet is paying off",
+          "summary": "Jefferies’ Christopher Wood replaced Nvidia with Greek infrastructure company GEK TERNA in his global long-only equity portfolio in October 2025. Since then, GEK TERNA has gained 6...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/christopher-wood-swapped-nvidia-for-a-greek-infrastructure-stock-the-bet-is-paying-off/articleshow/135136490.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Global Market: Nokia Q3 profit beats estimates on AI demand, maintains 2026 outlook",
-          "summary": "Nokia reported stronger-than-expected third-quarter operating profit and revenue growth, driven by rising demand from AI and cloud customers. Order intake from these segments surge...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nokia-q3-profit-beats-estimates-on-ai-demand-maintains-2026-outlook/articleshow/135109366.cms",
+          "title": "China stocks extend losses as global tech selloff weighs on sentiment",
+          "summary": "Chinese stocks extend losses as a global technology selloff, Middle East tensions and French debt concerns weigh on sentiment. The CSI300 falls into bear-market territory under som...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-stocks-extend-losses-as-global-tech-selloff-weighs-on-sentiment/articleshow/135136625.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "SRF extends slide to 5th day, falls 5% to hit 52-wk low on Q2 margin miss",
-          "summary": "Today's selling in SRF was seen despite the company reporting a 31 per cent Y-o-Y increase in consolidated net profit to ₹509.12 crore for the quarter ended September....",
-          "link": "https://www.business-standard.com/markets/news/srf-extends-slide-to-5th-day-falls-5-to-hit-52-wk-low-on-q2-margin-miss-126102200396_1.html",
+          "title": "BSE Capital Goods index tanks nearly 4%; Hitachi Energy, ABB India slip 6%",
+          "summary": "In the past month, the BSE capital goods index slipped 12% as against a 2.8% decline in the BSE Sensex....",
+          "link": "https://www.business-standard.com/markets/news/bse-capital-goods-index-tanks-nearly-4-hitachi-energy-abb-india-slip-6-126102300374_1.html",
           "source": "Business Standard Markets"
+        },
+        {
+          "title": "Small-caps likely to do well over the next year: 360 ONE's Mayur Patel",
+          "summary": "Earnings of small-cap companies in the current financial year (FY27) may grow at a 30 per cent rate compared to the mid-teens for large caps, said Mayur Patel of 360 ONE Asset....",
+          "link": "https://www.business-standard.com/markets/interviews/small-caps-likely-to-do-well-over-the-next-year-360-one-s-mayur-patel-126102300267_1.html",
+          "source": "Business Standard Markets"
+        },
+        {
+          "title": "Meet Praneet Pujari: From Apple Watch lead to AI healthcare — how IIT alumni build startup in US despite visa hurdles",
+          "summary": "Before venturing into entrepreneurship, Praneeta Pujari worked as Apple Watch Lead at the company. He was also the iPhone lead there between 2022 and 2023, according to her LinkedI...",
+          "link": "https://www.livemint.com/companies/news/meet-praneet-pujari-from-apple-watch-lead-to-ai-healthcare-how-iit-alumni-build-startup-in-us-despite-visa-hurdles-11792718114818.html",
+          "source": "Livemint Companies"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Intuitive’s shares fall 8% after tempering 2026 procedural growth outlook",
-          "summary": "The robotic surgery giant now expects procedural growth to fall at the 14% to 15% midpoint for 2026, versus between 13.5% and 15.5% previously. The post Intuitive’s shares fall 8% ...",
-          "link": "https://www.medicaldevice-network.com/news/intuitive-shares-fall-8-after-tempering-2026-procedural-growth-outlook/",
+          "title": "EQT to buy diagnostics player Qiagen for €9.6bn",
+          "summary": "The deal between EQT and Qiagen comes after a period of notable interest in the latter company from private equity firms. The post EQT to buy diagnostics player Qiagen for €9.6bn a...",
+          "link": "https://www.medicaldevice-network.com/news/eqt-acquires-diagnostics-player-qiagen-9-6bn/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "From backup to energy management: how batteries are changing India's power needs",
-          "summary": "As electricity demand rises and renewable energy adoption expands, batteries are evolving from backup devices into critical tools for businesses to manage energy use, improve relia...",
-          "link": "https://yourstory.com/2026/10/from-backup-to-energy-management-batteries-changing-india-power-needs",
+          "title": "5 Books you must read to learn how to say no confidently",
+          "summary": "Discover five books that teach you to say no confidently, set healthy boundaries, overcome people-pleasing and protect your peace of mind....",
+          "link": "https://yourstory.com/2026/10/say-no-confidently",
           "source": "YourStory"
         },
         {
-          "title": "7 Books with twisted endings for psychological thriller Fans",
-          "summary": "Discover seven psychological thriller books with shocking twists, unreliable narrators and unexpected endings that will keep you guessing....",
-          "link": "https://yourstory.com/2026/10/books-psychological-thriller",
+          "title": "Can AI make debt collections less about chasing and more about predicting?",
+          "summary": "The future lies in using data to understand portfolios, AI to prioritise decisions, and human judgement where individual circumstances matter most....",
+          "link": "https://yourstory.com/2026/10/can-ai-make-debt-collections-less-about-chasing-and-more-about-predicting",
           "source": "YourStory"
         },
         {
-          "title": "Chapter Homes Bags ₹63 Cr To Build Home & Kitchen Tech Brands",
-          "summary": "Omnichannel furniture and home furnishings brand Chapter Homes has raised ₹63 Cr ($6.6 Mn) in a strategic funding round through&#8230;...",
-          "link": "https://inc42.com/buzz/chapter-homes-bags-%e2%82%b963-cr-to-build-home-kitchen-tech-brands/",
+          "title": "Swiggy’s Q2 Report Card, eMudhra To Exit Certificate Biz & More",
+          "summary": "Swiggy’s Sweet And Sour Q2 Swiggy had a mixed quarter in Q2 FY27. While its food delivery business delivered record&#8230;...",
+          "link": "https://inc42.com/buzz/swiggys-q2-report-card-emudhra-to-exit-certificate-biz-tonbos-founders-pocket-%e2%82%b9137-cr/",
           "source": "Inc42"
         }
       ]
@@ -211,28 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Technical thinking: Technology right above our feet",
-          "summary": "By Mark Jones Clomping around on crampons during a January ice caving trip proved I’d chosen my boot poorly. Dr. Monaghan diagnosed I’d partially torn my plantar fascia at the heel...",
-          "link": "https://www.designworldonline.com/technical-thinking-technology-right-above-our-feet/",
+          "title": "Zero-Max adds IP68 protection to Crown Gear Drives",
+          "summary": "Zero-Max has introduced a line of IP68-rated Crown Gear Drives with corrosion-resistant components and H1 food-grade lubrication. The drives are designed to protect against dust, d...",
+          "link": "https://www.designworldonline.com/zero-max-adds-ip68-protection-to-crown-gear-drives/",
           "source": "Design World"
         },
         {
-          "title": "Growermetal G-Collars provide controlled preload for aerospace joints",
-          "summary": "The aerospace fastening sector is adopting standardized solutions for civil, military and space applications as aircraft production and maintenance activity increases. In response ...",
-          "link": "https://www.designworldonline.com/growermetal-g-collars-provide-controlled-preload-for-aerospace-joints/",
+          "title": "Allient Defense receives AUSA Best in Show award",
+          "summary": "Allient Inc., which designs and manufactures motion, controls, power and lightweighting composite and advanced materials products, announced that Allient Defense received the Best ...",
+          "link": "https://www.designworldonline.com/allient-defense-receives-ausa-best-in-show-award/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "ASMR iPhone Duo Unboxing",
-          "summary": "iPhone duo only comes with 2 things in the box...",
-          "link": "https://www.youtube.com/shorts/_4ELeWAgMwo",
-          "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg"
         }
       ]
     }
