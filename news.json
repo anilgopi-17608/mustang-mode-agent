@@ -1,91 +1,91 @@
 {
-  "last_updated": "Friday, October 23, 2026 at 11:53 AM IST",
-  "last_updated_iso": "2026-10-23T11:53:11.467905",
+  "last_updated": "Saturday, October 24, 2026 at 11:48 AM IST",
+  "last_updated_iso": "2026-10-24T11:48:36.203477",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22447.45,
-        "change": -240.20000000000073,
-        "change_pct": -1.0587257825292646,
+        "price": 22600.0,
+        "change": -87.65000000000146,
+        "change_pct": -0.386333533882978,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 72684.93,
-        "change": -564.4600000000064,
-        "change_pct": -0.7706002739408566,
+        "price": 73123.83,
+        "change": -125.55999999999767,
+        "change_pct": -0.17141439676152614,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 54242.55,
-        "change": -683.1499999999942,
-        "change_pct": -1.2437711308185317,
+        "price": 54287.35,
+        "change": -638.3499999999985,
+        "change_pct": -1.1622063988260478,
         "is_up": false
       }
     ],
     "gainers": [
       {
         "name": "TCS",
-        "price": 2542.2,
-        "change": 35.29999999999973,
-        "change_pct": 1.4081136064461974,
+        "price": 2530.0,
+        "change": 23.09999999999991,
+        "change_pct": 0.9214567792891583,
         "is_up": true
       },
       {
-        "name": "Infosys",
-        "price": 1160.35,
-        "change": 7.0,
-        "change_pct": 0.606927645554255,
+        "name": "Maruti",
+        "price": 11230.0,
+        "change": 60.0,
+        "change_pct": 0.5371530886302597,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 190.6,
-        "change": 0.18999999999999773,
-        "change_pct": 0.09978467517462199,
+        "name": "Reliance",
+        "price": 1190.0,
+        "change": 5.5,
+        "change_pct": 0.4643309413254538,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Reliance",
-        "price": 1166.5,
-        "change": -18.0,
-        "change_pct": -1.5196285352469396,
-        "is_up": false
-      },
-      {
         "name": "Sun Pharma",
-        "price": 1739.0,
-        "change": -19.0,
-        "change_pct": -1.0807736063708762,
+        "price": 1748.0,
+        "change": -10.0,
+        "change_pct": -0.5688282138794084,
         "is_up": false
       },
       {
-        "name": "Maruti",
-        "price": 11059.0,
-        "change": -111.0,
-        "change_pct": -0.9937332139659802,
+        "name": "ICICI Bank",
+        "price": 1394.2,
+        "change": -4.2999999999999545,
+        "change_pct": -0.307472291741148,
+        "is_up": false
+      },
+      {
+        "name": "Wipro",
+        "price": 189.84,
+        "change": -0.5699999999999932,
+        "change_pct": -0.2993540255238659,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.93,
-        "change": 0.12199999999999989,
-        "change_pct": 0.1286811239557842,
+        "price": 94.94,
+        "change": 0.1319999999999908,
+        "change_pct": 0.13922875706690446,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4030.5,
-        "change": -29.90000000000009,
-        "change_pct": -0.7363806521524995,
+        "price": 4007.9,
+        "change": -52.5,
+        "change_pct": -1.292976061471776,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-          "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents....",
-          "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+          "title": "Startups don’t need to go viral to win customers",
+          "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one....",
+          "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
           "source": "TechCrunch"
         },
         {
-          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-          "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027....",
-          "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+          "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work....",
+          "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
           "source": "TechCrunch"
         },
         {
-          "title": "Etsy is cracking down on AI slop listings",
+          "title": "Xbox’s first chief operating officer is out after just a few months",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+          "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
           "source": "The Verge"
         },
         {
-          "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+          "title": "OpenAI now trains its frontier AI models with no internet access",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
           "source": "The Verge"
         },
         {
-          "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-          "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter....",
-          "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+          "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"...",
+          "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
           "source": "Ars Technica"
         }
       ]
@@ -130,33 +130,33 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Christopher Wood swapped Nvidia for a Greek infrastructure stock. The bet is paying off",
-          "summary": "Jefferies’ Christopher Wood replaced Nvidia with Greek infrastructure company GEK TERNA in his global long-only equity portfolio in October 2025. Since then, GEK TERNA has gained 6...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/christopher-wood-swapped-nvidia-for-a-greek-infrastructure-stock-the-bet-is-paying-off/articleshow/135136490.cms",
+          "title": "Jio IPO breaks multiple records: From fundraising to investor demand, how the mega issue rewrote India’s IPO history",
+          "summary": "The issue set records across fundraising, anchor investor demand and applications, while attracting the highest qualified institutional buyer (QIB) subscription among India’s five ...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-breaks-multiple-records-from-fundraising-to-investor-demand-how-the-mega-issue-rewrote-indias-ipo-history/articleshow/135163295.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "China stocks extend losses as global tech selloff weighs on sentiment",
-          "summary": "Chinese stocks extend losses as a global technology selloff, Middle East tensions and French debt concerns weigh on sentiment. The CSI300 falls into bear-market territory under som...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-stocks-extend-losses-as-global-tech-selloff-weighs-on-sentiment/articleshow/135136625.cms",
+          "title": "Sebi orders Avadhut Sathe, academy to refund Rs 546 crore",
+          "summary": "The Securities and Exchange Board of India has directed Avadhut Sathe Trading Academy to refund ₹546.18 crore to investors. Avadhut Sathe and his academy provided unregistered inve...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore/articleshow/135162877.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "BSE Capital Goods index tanks nearly 4%; Hitachi Energy, ABB India slip 6%",
-          "summary": "In the past month, the BSE capital goods index slipped 12% as against a 2.8% decline in the BSE Sensex....",
-          "link": "https://www.business-standard.com/markets/news/bse-capital-goods-index-tanks-nearly-4-hitachi-energy-abb-india-slip-6-126102300374_1.html",
+          "title": "WazirX shifts focus to recovery, AI after year of rebuilding: Shetty",
+          "summary": "A year after restarting operations, WazirX is focusing on recovering value for customers and creditors, rebuilding trust and using AI tools to improve trading outcomes....",
+          "link": "https://www.business-standard.com/companies/people/wazirx-shifts-focus-to-recovery-ai-after-year-of-rebuilding-shetty-126102301053_1.html",
           "source": "Business Standard Markets"
         },
         {
-          "title": "Small-caps likely to do well over the next year: 360 ONE's Mayur Patel",
-          "summary": "Earnings of small-cap companies in the current financial year (FY27) may grow at a 30 per cent rate compared to the mid-teens for large caps, said Mayur Patel of 360 ONE Asset....",
-          "link": "https://www.business-standard.com/markets/interviews/small-caps-likely-to-do-well-over-the-next-year-360-one-s-mayur-patel-126102300267_1.html",
+          "title": "Sebi mulls automatic approval for investments, activities by exchanges",
+          "summary": "Sebi has proposed an automatic approval route for certain activities and investments by market infrastructure institutions, subject to financial limits and governance safeguards....",
+          "link": "https://www.business-standard.com/markets/news/sebi-mulls-automatic-approval-for-investments-activities-by-exchanges-126102301079_1.html",
           "source": "Business Standard Markets"
         },
         {
-          "title": "Meet Praneet Pujari: From Apple Watch lead to AI healthcare — how IIT alumni build startup in US despite visa hurdles",
-          "summary": "Before venturing into entrepreneurship, Praneeta Pujari worked as Apple Watch Lead at the company. He was also the iPhone lead there between 2022 and 2023, according to her LinkedI...",
-          "link": "https://www.livemint.com/companies/news/meet-praneet-pujari-from-apple-watch-lead-to-ai-healthcare-how-iit-alumni-build-startup-in-us-despite-visa-hurdles-11792718114818.html",
+          "title": "ASML's CEO faces a high-stakes test: Christophe Fouquet bets his pay on happier workers after a major corporate shake-up",
+          "summary": "ASML CEO Christophe Fouquet is linking executive pay to employee satisfaction after a major company shake-up, as falling staff morale raises questions about the impact of restructu...",
+          "link": "https://www.livemint.com/companies/news/asmls-ceo-faces-a-high-stakes-test-christophe-fouquet-bets-his-pay-on-happier-workers-after-a-major-corporate-shakeup-11792817809730.html",
           "source": "Livemint Companies"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "EQT to buy diagnostics player Qiagen for €9.6bn",
-          "summary": "The deal between EQT and Qiagen comes after a period of notable interest in the latter company from private equity firms. The post EQT to buy diagnostics player Qiagen for €9.6bn a...",
-          "link": "https://www.medicaldevice-network.com/news/eqt-acquires-diagnostics-player-qiagen-9-6bn/",
+          "title": "FDA grants breakthrough device status to Teleflex’s coronary scaffold",
+          "summary": "Teleflex has received breakthrough device designation from the FDA for its Freesolve RMS, designed for use in PCI. The post FDA grants breakthrough device status to Teleflex’s coro...",
+          "link": "https://www.medicaldevice-network.com/news/fda-breakthrough-teleflexs-coronary-scaffold/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "5 Books you must read to learn how to say no confidently",
-          "summary": "Discover five books that teach you to say no confidently, set healthy boundaries, overcome people-pleasing and protect your peace of mind....",
-          "link": "https://yourstory.com/2026/10/say-no-confidently",
+          "title": "Rs 10,000 Cr into restaurants. But why do 80% fail? Here's the Hotshare F&B investment playbook",
+          "summary": "In this episode of the Prime Venture Partners Podcast, Lavanya, Founder, Hotshare, an F&B investment platform, explains what she looks for before funding a restaurant. The founder ...",
+          "link": "https://yourstory.com/2026/10/the-hotshare-fb-investment-playbook",
           "source": "YourStory"
         },
         {
-          "title": "Can AI make debt collections less about chasing and more about predicting?",
-          "summary": "The future lies in using data to understand portfolios, AI to prioritise decisions, and human judgement where individual circumstances matter most....",
-          "link": "https://yourstory.com/2026/10/can-ai-make-debt-collections-less-about-chasing-and-more-about-predicting",
+          "title": "Autonomy and control are not opposites, they go together: EY GDS at DevSparks Chennai",
+          "summary": "Strapline: At DevSparks Chennai 2026, Arvind Purushothaman of EY GDS made the case that moving agents into production is an engineering problem, not a model problem. Gayatri Guha A...",
+          "link": "https://yourstory.com/2026/10/autonomy-and-control-are-not-opposites-they-go-together-ey-gds-at-devsparks-chennai",
           "source": "YourStory"
         },
         {
-          "title": "Swiggy’s Q2 Report Card, eMudhra To Exit Certificate Biz & More",
-          "summary": "Swiggy’s Sweet And Sour Q2 Swiggy had a mixed quarter in Q2 FY27. While its food delivery business delivered record&#8230;...",
-          "link": "https://inc42.com/buzz/swiggys-q2-report-card-emudhra-to-exit-certificate-biz-tonbos-founders-pocket-%e2%82%b9137-cr/",
+          "title": "From Even Health To The Pant Project— Indian Startups Raised Over $184 Mn This Week",
+          "summary": "Indian startup funding activity slowed down in the third week of October, with 17 startups raising over $184 Mn. This&#8230;...",
+          "link": "https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Zero-Max adds IP68 protection to Crown Gear Drives",
-          "summary": "Zero-Max has introduced a line of IP68-rated Crown Gear Drives with corrosion-resistant components and H1 food-grade lubrication. The drives are designed to protect against dust, d...",
-          "link": "https://www.designworldonline.com/zero-max-adds-ip68-protection-to-crown-gear-drives/",
+          "title": "5 candid conversation topics from Pack Expo 2026",
+          "summary": "While machines whirred along the show floor, the real buzz was about the workforce, AI, productivity, lead times, and sustainability. Coming home from a busy trade show always feel...",
+          "link": "https://www.designworldonline.com/5-candid-conversations-from-pack-expo-2026/",
           "source": "Design World"
         },
         {
-          "title": "Allient Defense receives AUSA Best in Show award",
-          "summary": "Allient Inc., which designs and manufactures motion, controls, power and lightweighting composite and advanced materials products, announced that Allient Defense received the Best ...",
-          "link": "https://www.designworldonline.com/allient-defense-receives-ausa-best-in-show-award/",
+          "title": "Preben Hansen of Platinum Tooling at IMTS",
+          "summary": "In this video, Design World managing editor Mike Santora catches up with Platinum Tooling President and Owner Preben Hansen to talk about the company&#8217;s latest offerings from ...",
+          "link": "https://www.designworldonline.com/preben-hansen-of-platinum-tooling-at-imts/",
           "source": "Design World"
         }
       ]
