@@ -1,13 +1,13 @@
 {
-  "last_updated": "Saturday, October 24, 2026 at 11:48 AM IST",
-  "last_updated_iso": "2026-10-24T11:48:36.203477",
+  "last_updated": "Sunday, October 25, 2026 at 12:07 PM IST",
+  "last_updated_iso": "2026-10-25T12:07:23.269787",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
         "price": 22600.0,
-        "change": -87.65000000000146,
-        "change_pct": -0.386333533882978,
+        "change": -87.70000000000073,
+        "change_pct": -0.3865530661988687,
         "is_up": false
       },
       {
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Startups don’t need to go viral to win customers",
-          "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one....",
-          "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "title": "Starlink seems to be working normally again in Ukraine",
+          "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access....",
+          "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-          "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work....",
-          "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "title": "Will AI expose the rickety infrastructure of the internet?",
+          "summary": "The moment you realize the internet is \"held together by glue and dreams.\"...",
+          "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
           "source": "TechCrunch"
         },
         {
-          "title": "Xbox’s first chief operating officer is out after just a few months",
+          "title": "Blue Planet III is keeping the rough edges in the age of AI",
           "summary": "",
-          "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
           "source": "The Verge"
         },
         {
-          "title": "OpenAI now trains its frontier AI models with no internet access",
+          "title": "Pennsylvania will require labels on AI-generated ads",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
           "source": "The Verge"
         },
         {
-          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-          "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"...",
-          "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "summary": "A new model suggests Mars may host ice-forming physics never directly observed before....",
+          "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
           "source": "Ars Technica"
         }
       ]
@@ -130,34 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Jio IPO breaks multiple records: From fundraising to investor demand, how the mega issue rewrote India’s IPO history",
-          "summary": "The issue set records across fundraising, anchor investor demand and applications, while attracting the highest qualified institutional buyer (QIB) subscription among India’s five ...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-breaks-multiple-records-from-fundraising-to-investor-demand-how-the-mega-issue-rewrote-indias-ipo-history/articleshow/135163295.cms",
+          "title": "Swiggymayrebound to Rs 190, butchartsdonotsignal a trendreversal: LKP’s VatsalBhuva",
+          "summary": "LKP Securities’ Vatsal Bhuva sees continued downside risks for Nifty and Bank Nifty, while identifying potential rebounds in Swiggy and HDFC Bank. He also recommends Oriental Hotel...",
+          "link": "https://economictimes.indiatimes.com/markets/expert-view/swiggymayrebound-to-rs-190-butchartsdonotsignal-a-trendreversal-lkps-vatsalbhuva/articleshow/135184363.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Sebi orders Avadhut Sathe, academy to refund Rs 546 crore",
-          "summary": "The Securities and Exchange Board of India has directed Avadhut Sathe Trading Academy to refund ₹546.18 crore to investors. Avadhut Sathe and his academy provided unregistered inve...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore/articleshow/135162877.cms",
+          "title": "Dividends &amp; stock splits: L&amp;T Tech, Shriram Finance among 24 stocks turning ex-record date this week. Do you own?",
+          "summary": "As many as 24 companies will turn ex-record date for dividends, stock splits and rights issues during the week starting October 26. Key names include Shriram Finance, CRISIL, Cyien...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividends-stock-splits-lt-tech-shriram-finance-among-24-stocks-turning-ex-record-date-this-week-do-you-own/articleshow/135183913.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "WazirX shifts focus to recovery, AI after year of rebuilding: Shetty",
-          "summary": "A year after restarting operations, WazirX is focusing on recovering value for customers and creditors, rebuilding trust and using AI tools to improve trading outcomes....",
-          "link": "https://www.business-standard.com/companies/people/wazirx-shifts-focus-to-recovery-ai-after-year-of-rebuilding-shetty-126102301053_1.html",
-          "source": "Business Standard Markets"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Sebi mulls automatic approval for investments, activities by exchanges",
-          "summary": "Sebi has proposed an automatic approval route for certain activities and investments by market infrastructure institutions, subject to financial limits and governance safeguards....",
-          "link": "https://www.business-standard.com/markets/news/sebi-mulls-automatic-approval-for-investments-activities-by-exchanges-126102301079_1.html",
-          "source": "Business Standard Markets"
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "ASML's CEO faces a high-stakes test: Christophe Fouquet bets his pay on happier workers after a major corporate shake-up",
-          "summary": "ASML CEO Christophe Fouquet is linking executive pay to employee satisfaction after a major company shake-up, as falling staff morale raises questions about the impact of restructu...",
-          "link": "https://www.livemint.com/companies/news/asmls-ceo-faces-a-high-stakes-test-christophe-fouquet-bets-his-pay-on-happier-workers-after-a-major-corporate-shakeup-11792817809730.html",
-          "source": "Livemint Companies"
+          "title": "FPIs withdraw ₹48,056 crore from equities in Oct amid elevated oil prices",
+          "summary": "However, Foreign Portfolio Investors (FPIs) significantly moderated their selling last week and turned net buyers on two trading days, signalling some easing in selling pressure...",
+          "link": "https://www.business-standard.com/markets/news/fpis-withdraw-48-056-crore-from-equities-in-oct-amid-elevated-oil-prices-126102500122_1.html",
+          "source": "Business Standard Markets"
         }
       ]
     },
@@ -194,15 +194,15 @@
           "source": "YourStory"
         },
         {
-          "title": "Autonomy and control are not opposites, they go together: EY GDS at DevSparks Chennai",
-          "summary": "Strapline: At DevSparks Chennai 2026, Arvind Purushothaman of EY GDS made the case that moving agents into production is an engineering problem, not a model problem. Gayatri Guha A...",
-          "link": "https://yourstory.com/2026/10/autonomy-and-control-are-not-opposites-they-go-together-ey-gds-at-devsparks-chennai",
+          "title": "5 Lessons from Prithvi Raj Banerjee’s Mindful Thinking",
+          "summary": "Discover five lessons from Prithvi Raj Banerjee’s Mindful Thinking to manage anxiety, boost productivity and reshape your thoughts....",
+          "link": "https://yourstory.com/2026/10/lessons-mindful-thinking",
           "source": "YourStory"
         },
         {
-          "title": "From Even Health To The Pant Project— Indian Startups Raised Over $184 Mn This Week",
-          "summary": "Indian startup funding activity slowed down in the third week of October, with 17 startups raising over $184 Mn. This&#8230;...",
-          "link": "https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/",
+          "title": "Flipkart’s Summer Of Discontent",
+          "summary": "Questions over an IPO and ESOPs, huge investments in quick commerce and food delivery and the pressure to deliver profits:&#8230;...",
+          "link": "https://inc42.com/features/flipkarts-summer-of-discontent/",
           "source": "Inc42"
         }
       ]
