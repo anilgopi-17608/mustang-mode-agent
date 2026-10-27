@@ -1,92 +1,92 @@
 {
-  "last_updated": "Monday, October 26, 2026 at 12:18 PM IST",
-  "last_updated_iso": "2026-10-26T12:18:02.447591",
+  "last_updated": "Tuesday, October 27, 2026 at 12:11 PM IST",
+  "last_updated_iso": "2026-10-27T12:11:04.609314",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22595.6,
-        "change": -4.400000000001455,
-        "change_pct": -0.019469026548679005,
-        "is_up": false
-      },
-      {
-        "name": "Sensex",
-        "price": 73174.05,
-        "change": 50.220000000001164,
-        "change_pct": 0.06867802192527547,
+        "price": 22759.8,
+        "change": 6.599999999998545,
+        "change_pct": 0.0290069089182996,
         "is_up": true
       },
       {
+        "name": "Sensex",
+        "price": 73574.23,
+        "change": -32.520000000004075,
+        "change_pct": -0.04418073070744745,
+        "is_up": false
+      },
+      {
         "name": "Bank Nifty",
-        "price": 54066.25,
-        "change": -221.09999999999854,
-        "change_pct": -0.407277201779049,
+        "price": 54342.4,
+        "change": -24.299999999995634,
+        "change_pct": -0.04469647780717909,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Reliance",
-        "price": 1196.7,
-        "change": 6.7000000000000455,
-        "change_pct": 0.5630252100840375,
+        "name": "Bharti Airtel",
+        "price": 1962.7,
+        "change": 45.200000000000045,
+        "change_pct": 2.357235984354631,
+        "is_up": true
+      },
+      {
+        "name": "Maruti",
+        "price": 11366.0,
+        "change": 146.0,
+        "change_pct": 1.3012477718360071,
         "is_up": true
       },
       {
         "name": "Sun Pharma",
-        "price": 1755.0,
-        "change": 7.0,
-        "change_pct": 0.40045766590389015,
-        "is_up": true
-      },
-      {
-        "name": "L&T",
-        "price": 3657.1,
-        "change": 10.099999999999909,
-        "change_pct": 0.2769399506443628,
+        "price": 1753.4,
+        "change": 13.400000000000091,
+        "change_pct": 0.7701149425287409,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1141.45,
-        "change": -12.349999999999909,
-        "change_pct": -1.0703761483792607,
+        "name": "TCS",
+        "price": 2493.4,
+        "change": -41.59999999999991,
+        "change_pct": -1.6410256410256376,
         "is_up": false
       },
       {
         "name": "Wipro",
-        "price": 188.16,
-        "change": -1.6800000000000068,
-        "change_pct": -0.884955752212393,
+        "price": 186.67,
+        "change": -2.530000000000001,
+        "change_pct": -1.337209302325582,
         "is_up": false
       },
       {
-        "name": "HDFC Bank",
-        "price": 688.25,
-        "change": -4.5499999999999545,
-        "change_pct": -0.6567551963048434,
+        "name": "ICICI Bank",
+        "price": 1386.4,
+        "change": -16.59999999999991,
+        "change_pct": -1.1831789023520962,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.1575,
-        "change": 0.22749999999999204,
-        "change_pct": 0.239650268618974,
-        "is_up": true
+        "price": 95.17,
+        "change": -0.0049999999999954525,
+        "change_pct": -0.005253480430780617,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4018.7,
-        "change": 10.799999999999727,
-        "change_pct": 0.26946780109283486,
-        "is_up": true
+        "price": 4013.6,
+        "change": -24.800000000000182,
+        "change_pct": -0.6141045958795608,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "The best apps for tracking your reading and discovering new books",
-          "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you....",
-          "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+          "summary": "Whose hand is behind this travesty?...",
+          "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
           "source": "TechCrunch"
         },
         {
-          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-          "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest....",
-          "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+          "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent....",
+          "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
           "source": "TechCrunch"
         },
         {
-          "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+          "title": "OpenAI announces three big science discoveries and a new way to work with academics",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
           "source": "The Verge"
         },
         {
-          "title": "Scott Walker’s The Drift will get under your skin",
+          "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+          "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
           "source": "The Verge"
         },
         {
-          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-          "summary": "A new model suggests Mars may host ice-forming physics never directly observed before....",
-          "link": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+          "title": "Microsoft offers to buy out a quarter of its workforce",
+          "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today....",
+          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: Japan bond yields edge higher ahead of key central bank meetings",
-          "summary": "Japanese government bond yields edged higher as investors assessed the monetary-policy outlook ahead of meetings by the Bank of Japan and the US Federal Reserve. Markets expected b...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-edge-higher-ahead-of-key-central-bank-meetings/articleshow/135204344.cms",
+          "title": "Global Market: China, Hong Kong stocks slip as technology shares extend losses",
+          "summary": "China and Hong Kong stocks edged lower as weakness in technology and AI-related shares outweighed faster industrial-profit growth and fresh liquidity support from China’s central b...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slip-as-technology-shares-extend-losses/articleshow/135225935.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Tonbo Imaging shares soar another 17% after a 64% listing pop. Buy, sell or hold the stock?",
-          "summary": "Tonbo Imaging shares rallied after a strong stock market debut, following heavy demand for its IPO. Investors will track revenue growth, order execution, profitability, working cap...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tonbo-imaging-shares-soar-another-17-after-a-64-listing-pop-buy-sell-or-hold-the-stock/articleshow/135204062.cms",
+          "title": "Jio Platforms shares to list on BSE, NSE tomorrow;  GMP signals 22% premium",
+          "summary": "Jio Platforms shares are set to list on the BSE and NSE on October 28, with the IPO commanding a grey market premium of around 22%. The Rs 30,213-crore issue was subscribed 22.19 t...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-shares-to-list-on-bse-nse-tomorrow-gmp-signals-22-premium/articleshow/135226292.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "eMudhra extends fall; stock down 43% in five days, tanks 53% from Sep high",
-          "summary": "eMudhra's share price remained under pressure, falling 10% to a fresh 52-week low at ₹318 on the BSE in Monday's intraday deals....",
-          "link": "https://www.business-standard.com/markets/news/emudhra-extends-fall-stock-down-43-in-five-days-tanks-53-from-sep-high-126102600321_1.html",
+          "title": "Hindustan Unilever slips 3%, hits over 6-year low ahead of Q2 results",
+          "summary": "Analysts expect HUL to report double-digit revenue driven by price hikes and anticipate pricing growth to impact volume growth, with volume growth likely to be close to mid-single ...",
+          "link": "https://www.business-standard.com/markets/news/hindustan-unilever-slips-3-hits-over-6-year-low-ahead-of-q2-results-126102700471_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA grants breakthrough device status to Teleflex’s coronary scaffold",
-          "summary": "Teleflex has received breakthrough device designation from the FDA for its Freesolve RMS, designed for use in PCI. The post FDA grants breakthrough device status to Teleflex’s coro...",
-          "link": "https://www.medicaldevice-network.com/news/fda-breakthrough-teleflexs-coronary-scaffold/",
+          "title": "RunStar introduces new wireless blood pressure monitor",
+          "summary": "RunStar has launched a tube-free upper-arm device, the LoopGo Wireless BP-202, to expand its domestic medical monitoring portfolio. The post RunStar introduces new wireless blood p...",
+          "link": "https://www.medicaldevice-network.com/news/runstar-wireless-blood-pressure-monitor/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Rapido rides ahead with Razorpay’s real‑time payments",
-          "summary": "Rapido rides ahead with Razorpay’s real‑time payments Getting around an Indian city has always been harder than it should be. Cabs were expensive, public transport was overcrowded,...",
-          "link": "https://yourstory.com/2026/10/rapido-rides-ahead-with-razorpays-realtime-payments",
+          "title": "Talent diplomacy may become the next driver of global economic growth",
+          "summary": "As ageing populations and skill shortages weigh on economies worldwide, countries are looking beyond immigration to build structured talent partnerships. India has an opportunity t...",
+          "link": "https://yourstory.com/2026/10/talent-diplomacy-may-become-the-next-driver-of-global-economic-growth",
           "source": "YourStory"
         },
         {
-          "title": "Life After 55: Cradle Of Life is reimagining senior living lifestyle for retired Indians",
-          "summary": "Sharad Gadsing on why senior living needs to move beyond real estate and ageing, and create communities designed around how people want to live. Senior living is evolving beyond si...",
-          "link": "https://yourstory.com/2026/09/life-after-55-cradle-of-life-is-reimagining-senior-living-lifestyle-for-retired-indians",
+          "title": "Same AI, different outcomes: what 25 lean AI startups got right",
+          "summary": "Why do lean AI startups scale while others stall? A Suvan Ventures report identifies seven growth drivers across 25 companies....",
+          "link": "https://yourstory.com/2026/10/lean-ai-startup-scaling-framework-seven-growth-drivers",
           "source": "YourStory"
         },
         {
-          "title": "Unacademy Cofounders Plan ₹700 Cr AI, Deeptech Fund Longshot Capital",
-          "summary": "Unacademy cofounders Gaurav Munjal and Roman Saini are raising a ₹700 Cr venture capital fund to back AI and deeptech&#8230;...",
-          "link": "https://inc42.com/buzz/unacademy-cofounders-plan-%e2%82%b9700-cr-ai-deeptech-fund-longshot-capital/",
+          "title": "Ather Energy Shares Jump 8% After HSBC, Nomura Raise Price Targets",
+          "summary": "Shares of Ather Energy jumped as much as 8.1% to an intraday high of ₹1,702 on the BSE after HSBC&#8230;...",
+          "link": "https://inc42.com/buzz/ather-energy-shares-jump-8-after-hsbc-nomura-raise-price-targets/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "5 candid conversation topics from Pack Expo 2026",
-          "summary": "While machines whirred along the show floor, the real buzz was about the workforce, AI, productivity, lead times, and sustainability. Coming home from a busy trade show always feel...",
-          "link": "https://www.designworldonline.com/5-candid-conversations-from-pack-expo-2026/",
+          "title": "Ethical engineering: The AI predicament",
+          "summary": "There is a large, vast ocean of writing on AI available out in the world. Either one hears AI boosterism, singing the praises of all it could do in some future, like curing cancer ...",
+          "link": "https://www.designworldonline.com/ethical-engineering-the-ai-predicament/",
           "source": "Design World"
         },
         {
-          "title": "Preben Hansen of Platinum Tooling at IMTS",
-          "summary": "In this video, Design World managing editor Mike Santora catches up with Platinum Tooling President and Owner Preben Hansen to talk about the company&#8217;s latest offerings from ...",
-          "link": "https://www.designworldonline.com/preben-hansen-of-platinum-tooling-at-imts/",
+          "title": "Safeguarding intelligent transportation systems with Power-over-Ethernet and FDOT-certified surge protectors",
+          "summary": "Lightning and other high-voltage events are driving rapid innovation in surge protection for transportation infrastructure. When lightning strikes, the energy it releases can trave...",
+          "link": "https://www.designworldonline.com/safeguarding-intelligent-transportation-systems-with-power-over-ethernet-and-fdot-certified-surge-protectors/",
           "source": "Design World"
         }
       ]
