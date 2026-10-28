@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, October 27, 2026 at 12:11 PM IST",
-  "last_updated_iso": "2026-10-27T12:11:04.609314",
+  "last_updated": "Wednesday, October 28, 2026 at 12:43 PM IST",
+  "last_updated_iso": "2026-10-28T12:43:59.712673",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22759.8,
-        "change": 6.599999999998545,
-        "change_pct": 0.0290069089182996,
-        "is_up": true
+        "price": 22689.7,
+        "change": -63.5,
+        "change_pct": -0.27908162368370165,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 73574.23,
-        "change": -32.520000000004075,
-        "change_pct": -0.04418073070744745,
+        "price": 73110.05,
+        "change": -496.75,
+        "change_pct": -0.6748697131243309,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 54342.4,
-        "change": -24.299999999995634,
-        "change_pct": -0.04469647780717909,
+        "price": 54215.75,
+        "change": -150.9499999999971,
+        "change_pct": -0.27765157716027844,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 1962.7,
-        "change": 45.200000000000045,
-        "change_pct": 2.357235984354631,
+        "name": "L&T",
+        "price": 3820.0,
+        "change": 154.9000000000001,
+        "change_pct": 4.226351259174377,
         "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 11366.0,
-        "change": 146.0,
-        "change_pct": 1.3012477718360071,
+        "name": "HDFC Bank",
+        "price": 683.35,
+        "change": 3.1499999999999773,
+        "change_pct": 0.46309908850337794,
         "is_up": true
       },
       {
         "name": "Sun Pharma",
-        "price": 1753.4,
-        "change": 13.400000000000091,
-        "change_pct": 0.7701149425287409,
+        "price": 1754.5,
+        "change": 3.2999999999999545,
+        "change_pct": 0.18844221105527378,
         "is_up": true
       }
     ],
     "losers": [
       {
+        "name": "Infosys",
+        "price": 1116.85,
+        "change": -46.15000000000009,
+        "change_pct": -3.9681857265692253,
+        "is_up": false
+      },
+      {
         "name": "TCS",
-        "price": 2493.4,
-        "change": -41.59999999999991,
-        "change_pct": -1.6410256410256376,
+        "price": 2443.7,
+        "change": -53.20000000000027,
+        "change_pct": -2.130641996075144,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 186.67,
-        "change": -2.530000000000001,
-        "change_pct": -1.337209302325582,
-        "is_up": false
-      },
-      {
-        "name": "ICICI Bank",
-        "price": 1386.4,
-        "change": -16.59999999999991,
-        "change_pct": -1.1831789023520962,
+        "name": "Reliance",
+        "price": 1174.1,
+        "change": -22.100000000000136,
+        "change_pct": -1.8475171376024189,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.17,
-        "change": -0.0049999999999954525,
-        "change_pct": -0.005253480430780617,
-        "is_up": false
+        "price": 95.195,
+        "change": 0.0899999999999892,
+        "change_pct": 0.09463224856736155,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4013.6,
-        "change": -24.800000000000182,
-        "change_pct": -0.6141045958795608,
+        "price": 4044.3,
+        "change": -30.299999999999727,
+        "change_pct": -0.7436312766897297,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
-          "summary": "Whose hand is behind this travesty?...",
-          "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+          "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+          "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries....",
+          "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
           "source": "TechCrunch"
         },
         {
-          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-          "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent....",
-          "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+          "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic....",
+          "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+          "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
           "source": "The Verge"
         },
         {
-          "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+          "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
           "source": "The Verge"
         },
         {
-          "title": "Microsoft offers to buy out a quarter of its workforce",
-          "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today....",
-          "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+          "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6....",
+          "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Global Market: China, Hong Kong stocks slip as technology shares extend losses",
-          "summary": "China and Hong Kong stocks edged lower as weakness in technology and AI-related shares outweighed faster industrial-profit growth and fresh liquidity support from China’s central b...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slip-as-technology-shares-extend-losses/articleshow/135225935.cms",
+          "title": "US Market: Fed expected to hold rates as Iran war fuels inflation concerns",
+          "summary": "The US Federal Reserve is widely expected to hold interest rates steady as rising energy prices linked to the Iran war fuel inflation concerns. With consumer prices accelerating an...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-expected-to-hold-rates-as-iran-war-fuels-inflation-concerns/articleshow/135255367.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Jio Platforms shares to list on BSE, NSE tomorrow;  GMP signals 22% premium",
-          "summary": "Jio Platforms shares are set to list on the BSE and NSE on October 28, with the IPO commanding a grey market premium of around 22%. The Rs 30,213-crore issue was subscribed 22.19 t...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-shares-to-list-on-bse-nse-tomorrow-gmp-signals-22-premium/articleshow/135226292.cms",
+          "title": "Infosys, TechM, TCS, other IT stocks plunge up to 5%, extend losses as global AI trade rebounds. What lies ahead?",
+          "summary": "Indian IT stocks fell sharply on Wednsday as renewed optimism around the global AI trade weighed on sentiment. Strong earnings from SK Hynix and Anthropic’s IPO filing fuelled gain...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-techm-tcs-other-it-stocks-plunge-up-to-5-extend-losses-as-global-ai-trade-rebounds-what-lies-ahead/articleshow/135255322.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Hindustan Unilever slips 3%, hits over 6-year low ahead of Q2 results",
-          "summary": "Analysts expect HUL to report double-digit revenue driven by price hikes and anticipate pricing growth to impact volume growth, with volume growth likely to be close to mid-single ...",
-          "link": "https://www.business-standard.com/markets/news/hindustan-unilever-slips-3-hits-over-6-year-low-ahead-of-q2-results-126102700471_1.html",
+          "title": "Tata Capital shares jump 5% post Q2 show; analysts say margin revival key",
+          "summary": "MOFSL said that the outlook remains favourable for Tata Capital as current valuations adequately reflect the company's near-term growth and earnings potential....",
+          "link": "https://www.business-standard.com/markets/news/tata-capital-share-price-jump-5-post-q2-show-analysts-say-margin-revival-key-126102800574_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "RunStar introduces new wireless blood pressure monitor",
-          "summary": "RunStar has launched a tube-free upper-arm device, the LoopGo Wireless BP-202, to expand its domestic medical monitoring portfolio. The post RunStar introduces new wireless blood p...",
-          "link": "https://www.medicaldevice-network.com/news/runstar-wireless-blood-pressure-monitor/",
+          "title": "Podcast: Insights from AdvaMed 2026",
+          "summary": "Discussion highlights from AdvaMed 2026 centred on topics including ambulatory surgery centres, smart sensors, and the state of the industry in 2026. The post Podcast: Insights fro...",
+          "link": "https://www.medicaldevice-network.com/comment/podcast-insights-from-advamed-2026/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
+          "title": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business",
+          "summary": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business India's offices are being reinvented, and Workshaala wants to be the company that runs them. The e...",
+          "link": "https://yourstory.com/2026/10/workshaala-targets-rs-1000-cr-revenue-scales-enterprise-workspace-business",
+          "source": "YourStory"
+        },
+        {
           "title": "Talent diplomacy may become the next driver of global economic growth",
           "summary": "As ageing populations and skill shortages weigh on economies worldwide, countries are looking beyond immigration to build structured talent partnerships. India has an opportunity t...",
           "link": "https://yourstory.com/2026/10/talent-diplomacy-may-become-the-next-driver-of-global-economic-growth",
           "source": "YourStory"
         },
         {
-          "title": "Same AI, different outcomes: what 25 lean AI startups got right",
-          "summary": "Why do lean AI startups scale while others stall? A Suvan Ventures report identifies seven growth drivers across 25 companies....",
-          "link": "https://yourstory.com/2026/10/lean-ai-startup-scaling-framework-seven-growth-drivers",
-          "source": "YourStory"
-        },
-        {
-          "title": "Ather Energy Shares Jump 8% After HSBC, Nomura Raise Price Targets",
-          "summary": "Shares of Ather Energy jumped as much as 8.1% to an intraday high of ₹1,702 on the BSE after HSBC&#8230;...",
-          "link": "https://inc42.com/buzz/ather-energy-shares-jump-8-after-hsbc-nomura-raise-price-targets/",
+          "title": "[Update] Bombay HC Rejects Meta’s Plea To Move Blink Digital’s ₹1,000 Cr Suit To US",
+          "summary": "Update &#124; October 28, 11:16 IST The Bombay High Court rejected Meta Platforms Inc.’s plea challenging its jurisdiction to hear&#8230;...",
+          "link": "https://inc42.com/buzz/meta-sued-for-%e2%82%b91000-cr-by-blink-digital-over-disabled-ad-accounts/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +211,35 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Ethical engineering: The AI predicament",
-          "summary": "There is a large, vast ocean of writing on AI available out in the world. Either one hears AI boosterism, singing the praises of all it could do in some future, like curing cancer ...",
-          "link": "https://www.designworldonline.com/ethical-engineering-the-ai-predicament/",
+          "title": "FoE Summit 3.0 preview: Freeing engineers from the hidden factory",
+          "summary": "In preparation for the Nov. 3 virtual summit, speakers from Capgemini and MecAgent explain that the real payoff of AI agents is reclaimed engineering time, and why trust must be bu...",
+          "link": "https://www.designworldonline.com/foe-summit-3-0-preview-freeing-engineers-from-the-hidden-factory/",
           "source": "Design World"
         },
         {
-          "title": "Safeguarding intelligent transportation systems with Power-over-Ethernet and FDOT-certified surge protectors",
-          "summary": "Lightning and other high-voltage events are driving rapid innovation in surge protection for transportation infrastructure. When lightning strikes, the energy it releases can trave...",
-          "link": "https://www.designworldonline.com/safeguarding-intelligent-transportation-systems-with-power-over-ethernet-and-fdot-certified-surge-protectors/",
+          "title": "Meet the 2026 LEAP Awards’ judging panel",
+          "summary": "It&#8217;s been another great year for Design World&#8217;s annual LEAP Awards (Leadership in Engineering Achievement Program). We will be announcing the winners soon, but none of ...",
+          "link": "https://www.designworldonline.com/meet-the-2026-leap-awards-judging-panel/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "This can SEE Sound!",
+          "summary": "This is an acoustic imaging camera...",
+          "link": "https://www.youtube.com/shorts/ai1gIWacf0I",
+          "source": "MKBHD",
+          "thumbnail": "https://i2.ytimg.com/vi/ai1gIWacf0I/hqdefault.jpg"
+        },
+        {
+          "title": "Gemini 4 Argon Is Not What I Expected",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Gemini 4 Argon + report are available here:\nhttps://deepmind.google/models/model-cards/gemini-...",
+          "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg"
         }
       ]
     }
