@@ -1,91 +1,91 @@
 {
-  "last_updated": "Wednesday, October 28, 2026 at 12:43 PM IST",
-  "last_updated_iso": "2026-10-28T12:43:59.712673",
+  "last_updated": "Thursday, October 29, 2026 at 01:04 PM IST",
+  "last_updated_iso": "2026-10-29T13:04:20.651265",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22689.7,
-        "change": -63.5,
-        "change_pct": -0.27908162368370165,
-        "is_up": false
+        "price": 22834.4,
+        "change": 84.60000000000218,
+        "change_pct": 0.37187140106727173,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 73110.05,
-        "change": -496.75,
-        "change_pct": -0.6748697131243309,
-        "is_up": false
+        "price": 73683.19,
+        "change": 84.49000000000524,
+        "change_pct": 0.11479822333819109,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 54215.75,
-        "change": -150.9499999999971,
-        "change_pct": -0.27765157716027844,
-        "is_up": false
+        "price": 54559.05,
+        "change": 584.1500000000015,
+        "change_pct": 1.0822623108148444,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "L&T",
-        "price": 3820.0,
-        "change": 154.9000000000001,
-        "change_pct": 4.226351259174377,
+        "name": "Wipro",
+        "price": 189.68,
+        "change": 5.180000000000007,
+        "change_pct": 2.8075880758807625,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 683.35,
-        "change": 3.1499999999999773,
-        "change_pct": 0.46309908850337794,
+        "name": "Infosys",
+        "price": 1137.25,
+        "change": 14.099999999999909,
+        "change_pct": 1.2553977652138992,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1754.5,
-        "change": 3.2999999999999545,
-        "change_pct": 0.18844221105527378,
+        "name": "Reliance",
+        "price": 1169.4,
+        "change": 11.400000000000091,
+        "change_pct": 0.9844559585492306,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1116.85,
-        "change": -46.15000000000009,
-        "change_pct": -3.9681857265692253,
+        "name": "Maruti",
+        "price": 11474.0,
+        "change": -105.0,
+        "change_pct": -0.9068140599360912,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2443.7,
-        "change": -53.20000000000027,
-        "change_pct": -2.130641996075144,
+        "name": "HDFC Bank",
+        "price": 682.0,
+        "change": -3.2999999999999545,
+        "change_pct": -0.4815409309791266,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1174.1,
-        "change": -22.100000000000136,
-        "change_pct": -1.8475171376024189,
-        "is_up": false
+        "name": "Sun Pharma",
+        "price": 1757.6,
+        "change": 0.09999999999990905,
+        "change_pct": 0.005689900426737357,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.195,
-        "change": 0.0899999999999892,
-        "change_pct": 0.09463224856736155,
+        "price": 95.325,
+        "change": 0.1150000000000091,
+        "change_pct": 0.12078563176137916,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4044.3,
-        "change": -30.299999999999727,
-        "change_pct": -0.7436312766897297,
+        "price": 4041.3,
+        "change": -10.299999999999727,
+        "change_pct": -0.25422055484252465,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-          "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries....",
-          "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+          "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+          "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price....",
+          "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
           "source": "TechCrunch"
         },
         {
-          "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-          "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic....",
-          "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+          "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+          "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade....",
+          "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
           "source": "TechCrunch"
         },
         {
-          "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+          "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+          "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
           "source": "The Verge"
         },
         {
-          "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+          "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
           "source": "The Verge"
         },
         {
-          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-          "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6....",
-          "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+          "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+          "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters....",
+          "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "US Market: Fed expected to hold rates as Iran war fuels inflation concerns",
-          "summary": "The US Federal Reserve is widely expected to hold interest rates steady as rising energy prices linked to the Iran war fuel inflation concerns. With consumer prices accelerating an...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-expected-to-hold-rates-as-iran-war-fuels-inflation-concerns/articleshow/135255367.cms",
+          "title": "HUL shares rise 3% after Q2 results. Jefferies, Nomura cut target price but forecast 29% upside potential",
+          "summary": "Hindustan Unilever shares rose on Thursday after the FMCG major reported a 4% year-on-year increase in Q2 FY27 net profit to Rs 2,790 crore and 15% revenue growth to Rs 18,226 cror...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-rise-3-after-q2-results-jefferies-nomura-cut-target-price-but-forecast-29-upside-potential/articleshow/135295044.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Infosys, TechM, TCS, other IT stocks plunge up to 5%, extend losses as global AI trade rebounds. What lies ahead?",
-          "summary": "Indian IT stocks fell sharply on Wednsday as renewed optimism around the global AI trade weighed on sentiment. Strong earnings from SK Hynix and Anthropic’s IPO filing fuelled gain...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-techm-tcs-other-it-stocks-plunge-up-to-5-extend-losses-as-global-ai-trade-rebounds-what-lies-ahead/articleshow/135255322.cms",
+          "title": "Indian bonds track US Treasuries higher amid oil-price relief",
+          "summary": "Indian government bonds increased on Thursday due to support from a rally in Treasuries and lower oil prices. However, the upcoming large bond sale and a weak rupee limited the ext...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-track-us-treasuries-higher-amid-oil-price-relief/articleshow/135294873.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,10 +154,10 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Tata Capital shares jump 5% post Q2 show; analysts say margin revival key",
-          "summary": "MOFSL said that the outlook remains favourable for Tata Capital as current valuations adequately reflect the company's near-term growth and earnings potential....",
-          "link": "https://www.business-standard.com/markets/news/tata-capital-share-price-jump-5-post-q2-show-analysts-say-margin-revival-key-126102800574_1.html",
-          "source": "Business Standard Markets"
+          "title": "Explained: Why Anthropic could owe Amazon $110 b even if it doesn't use all the cloud capacity it has committed to buy",
+          "summary": "Anthropic’s $110 billion AWS deal includes a minimum spending requirement through 2036. Explore why the AI company could face hefty payments even if usage falls short....",
+          "link": "https://www.livemint.com/companies/news/explained-why-anthropic-could-owe-amazon-110-b-even-if-it-doesnt-use-all-the-cloud-capacity-it-has-committed-to-buy-11793254224225.html",
+          "source": "Livemint Companies"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Podcast: Insights from AdvaMed 2026",
-          "summary": "Discussion highlights from AdvaMed 2026 centred on topics including ambulatory surgery centres, smart sensors, and the state of the industry in 2026. The post Podcast: Insights fro...",
-          "link": "https://www.medicaldevice-network.com/comment/podcast-insights-from-advamed-2026/",
+          "title": "Bracco Imaging outlays $230m to establish contrast media site in North Carolina",
+          "summary": "Bracco’s new site is anticipated to support the growing demand for injectable contrast media and support supply chain resilience. The post Bracco Imaging outlays $230m to establish...",
+          "link": "https://www.medicaldevice-network.com/news/bracco-imaging-outlays-230m-to-establish-contrast-media-site-in-north-carolina/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business",
-          "summary": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business India's offices are being reinvented, and Workshaala wants to be the company that runs them. The e...",
-          "link": "https://yourstory.com/2026/10/workshaala-targets-rs-1000-cr-revenue-scales-enterprise-workspace-business",
+          "title": "How to get corporate gifting right across multiple cities",
+          "summary": "How to get corporate gifting right across multiple cities Sending Diwali gifts to a handful of employees or clients is relatively simple. Sending hundreds of gifts to recipients sp...",
+          "link": "https://yourstory.com/2026/10/how-to-get-corporate-gifting-right-across-multiple-cities",
           "source": "YourStory"
         },
         {
-          "title": "Talent diplomacy may become the next driver of global economic growth",
-          "summary": "As ageing populations and skill shortages weigh on economies worldwide, countries are looking beyond immigration to build structured talent partnerships. India has an opportunity t...",
-          "link": "https://yourstory.com/2026/10/talent-diplomacy-may-become-the-next-driver-of-global-economic-growth",
+          "title": "Why better data could be the key to AI-driven food R&D",
+          "summary": "As food companies navigate increasingly complex product development and safety requirements, connected data and generative AI could help scientists make better-informed decisions, ...",
+          "link": "https://yourstory.com/2026/10/how-genai-digital-ontologies-are-redefining-food-rd-food-safety",
           "source": "YourStory"
         },
         {
-          "title": "[Update] Bombay HC Rejects Meta’s Plea To Move Blink Digital’s ₹1,000 Cr Suit To US",
-          "summary": "Update &#124; October 28, 11:16 IST The Bombay High Court rejected Meta Platforms Inc.’s plea challenging its jurisdiction to hear&#8230;...",
-          "link": "https://inc42.com/buzz/meta-sued-for-%e2%82%b91000-cr-by-blink-digital-over-disabled-ad-accounts/",
+          "title": "Bengaluru Tech Summit 2026: What’s In Store For Startups At Asia’s Largest Tech Event",
+          "summary": "India’s startup ecosystem is the fourth most valuable startup ecosystem in the world and spans from fintech and consumer technology&#8230;...",
+          "link": "https://inc42.com/buzz/bengaluru-tech-summit-2026-whats-in-store-for-startups-at-asias-largest-tech-event/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "FoE Summit 3.0 preview: Freeing engineers from the hidden factory",
-          "summary": "In preparation for the Nov. 3 virtual summit, speakers from Capgemini and MecAgent explain that the real payoff of AI agents is reclaimed engineering time, and why trust must be bu...",
-          "link": "https://www.designworldonline.com/foe-summit-3-0-preview-freeing-engineers-from-the-hidden-factory/",
+          "title": "From condition monitoring to safeguarding: How AI is changing industrial safety",
+          "summary": "Condition safeguarding uses AI-driven predictive maintenance to extend equipment life, boost overall equipment effectiveness (OEE), and head off catastrophic failures. That means m...",
+          "link": "https://www.designworldonline.com/from-condition-monitoring-to-safeguarding-how-ai-is-changing-industrial-safety/",
           "source": "Design World"
         },
         {
-          "title": "Meet the 2026 LEAP Awards’ judging panel",
-          "summary": "It&#8217;s been another great year for Design World&#8217;s annual LEAP Awards (Leadership in Engineering Achievement Program). We will be announcing the winners soon, but none of ...",
-          "link": "https://www.designworldonline.com/meet-the-2026-leap-awards-judging-panel/",
+          "title": "Humanoids building humanoids, and new robots for agriculture equipment in Kansas",
+          "summary": "Human-like robots are taking over the factory floor as research continues. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. Humanoid robots are...",
+          "link": "https://www.designworldonline.com/humanoids-building-humanoids-and-new-robots-for-agriculture-equipment-in-kansas/",
           "source": "Design World"
         }
       ]
@@ -228,18 +228,18 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "This can SEE Sound!",
-          "summary": "This is an acoustic imaging camera...",
-          "link": "https://www.youtube.com/shorts/ai1gIWacf0I",
+          "title": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
+          "summary": "The first touchscreen Mac is here, and I have thoughts.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp:/...",
+          "link": "https://www.youtube.com/watch?v=2reQut8WNGc",
           "source": "MKBHD",
-          "thumbnail": "https://i2.ytimg.com/vi/ai1gIWacf0I/hqdefault.jpg"
+          "thumbnail": "https://i3.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg"
         },
         {
-          "title": "Gemini 4 Argon Is Not What I Expected",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Gemini 4 Argon + report are available here:\nhttps://deepmind.google/models/model-cards/gemini-...",
-          "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+          "title": "Deepseek's New AI Has A Secret",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4.1 Flash 1017 is available here:\nhttps://api-docs.deepseek.com/news/news261017/\n\nSo...",
+          "link": "https://www.youtube.com/watch?v=pryCaGv8wuo",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg"
+          "thumbnail": "https://i1.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg"
         }
       ]
     }
