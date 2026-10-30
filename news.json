@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, October 29, 2026 at 01:04 PM IST",
-  "last_updated_iso": "2026-10-29T13:04:20.651265",
+  "last_updated": "Friday, October 30, 2026 at 01:08 PM IST",
+  "last_updated_iso": "2026-10-30T13:08:22.424396",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 22834.4,
-        "change": 84.60000000000218,
-        "change_pct": 0.37187140106727173,
+        "price": 23084.3,
+        "change": 385.5,
+        "change_pct": 1.698327664898585,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 73683.19,
-        "change": 84.49000000000524,
-        "change_pct": 0.11479822333819109,
+        "price": 74697.58,
+        "change": 1451.5800000000017,
+        "change_pct": 1.9817874013598036,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 54559.05,
-        "change": 584.1500000000015,
-        "change_pct": 1.0822623108148444,
+        "price": 54875.0,
+        "change": 607.5999999999985,
+        "change_pct": 1.1196408893737282,
         "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "Wipro",
-        "price": 189.68,
-        "change": 5.180000000000007,
-        "change_pct": 2.8075880758807625,
+        "price": 196.39,
+        "change": 6.289999999999992,
+        "change_pct": 3.3087848500789017,
         "is_up": true
       },
       {
         "name": "Infosys",
-        "price": 1137.25,
-        "change": 14.099999999999909,
-        "change_pct": 1.2553977652138992,
+        "price": 1174.65,
+        "change": 28.15000000000009,
+        "change_pct": 2.455298735281299,
         "is_up": true
       },
       {
-        "name": "Reliance",
-        "price": 1169.4,
-        "change": 11.400000000000091,
-        "change_pct": 0.9844559585492306,
+        "name": "Sun Pharma",
+        "price": 1803.8,
+        "change": 42.799999999999955,
+        "change_pct": 2.43043725156161,
         "is_up": true
       }
     ],
     "losers": [
       {
+        "name": "Reliance",
+        "price": 1155.1,
+        "change": -12.300000000000182,
+        "change_pct": -1.0536234366969488,
+        "is_up": false
+      },
+      {
         "name": "Maruti",
-        "price": 11474.0,
-        "change": -105.0,
-        "change_pct": -0.9068140599360912,
-        "is_up": false
+        "price": 11429.0,
+        "change": 3.0,
+        "change_pct": 0.026255907579205325,
+        "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 682.0,
-        "change": -3.2999999999999545,
-        "change_pct": -0.4815409309791266,
-        "is_up": false
-      },
-      {
-        "name": "Sun Pharma",
-        "price": 1757.6,
-        "change": 0.09999999999990905,
-        "change_pct": 0.005689900426737357,
+        "name": "Bharti Airtel",
+        "price": 1974.4,
+        "change": 2.300000000000182,
+        "change_pct": 0.11662694589524782,
         "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 95.325,
-        "change": 0.1150000000000091,
-        "change_pct": 0.12078563176137916,
-        "is_up": true
+        "price": 95.01,
+        "change": -0.19999999999998863,
+        "change_pct": -0.21006196828063087,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4041.3,
-        "change": -10.299999999999727,
-        "change_pct": -0.25422055484252465,
+        "price": 3995.2,
+        "change": -36.20000000000027,
+        "change_pct": -0.89795108399068,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-          "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price....",
-          "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+          "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+          "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker....",
+          "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-          "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade....",
-          "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+          "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+          "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace....",
+          "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
           "source": "TechCrunch"
         },
         {
-          "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+          "title": "The director of Obsession put a new horror short on YouTube",
           "summary": "",
-          "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+          "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
           "source": "The Verge"
         },
         {
-          "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+          "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+          "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
           "source": "The Verge"
         },
         {
-          "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-          "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters....",
-          "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+          "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+          "summary": "Reddit's search traffic \"was down meaningfully\" last quarter....",
+          "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "HUL shares rise 3% after Q2 results. Jefferies, Nomura cut target price but forecast 29% upside potential",
-          "summary": "Hindustan Unilever shares rose on Thursday after the FMCG major reported a 4% year-on-year increase in Q2 FY27 net profit to Rs 2,790 crore and 15% revenue growth to Rs 18,226 cror...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-rise-3-after-q2-results-jefferies-nomura-cut-target-price-but-forecast-29-upside-potential/articleshow/135295044.cms",
+          "title": "Coal India shares fall 3% after Q2 results; Jefferies, Motilal Oswal, others cut target price",
+          "summary": "Coal India shares fell 3% despite a 57% year-on-year rise in Q2 FY27 net profit to Rs 6,547 crore. Jefferies and JM Financial cut their target prices to Rs 460 and Rs 438, respecti...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-shares-fall-3-after-q2-results-jefferies-motilal-oswal-others-cut-target-price/articleshow/135349282.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Indian bonds track US Treasuries higher amid oil-price relief",
-          "summary": "Indian government bonds increased on Thursday due to support from a rally in Treasuries and lower oil prices. However, the upcoming large bond sale and a weak rupee limited the ext...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-track-us-treasuries-higher-amid-oil-price-relief/articleshow/135294873.cms",
+          "title": "Explained: Why AI giants Google, Amazon, Intel shares crashed up to 23% in a single day",
+          "summary": "Shares of Alphabet, Amazon and Intel plunged on Thursday as investors fretted over rising AI spending, weakening cash flows and a subdued outlook. Alphabet shares fell over 13% aft...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-ai-giants-google-amazon-intel-shares-crashed-up-to-23-in-a-single-day/articleshow/135349077.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,10 +154,10 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Explained: Why Anthropic could owe Amazon $110 b even if it doesn't use all the cloud capacity it has committed to buy",
-          "summary": "Anthropic’s $110 billion AWS deal includes a minimum spending requirement through 2036. Explore why the AI company could face hefty payments even if usage falls short....",
-          "link": "https://www.livemint.com/companies/news/explained-why-anthropic-could-owe-amazon-110-b-even-if-it-doesnt-use-all-the-cloud-capacity-it-has-committed-to-buy-11793254224225.html",
-          "source": "Livemint Companies"
+          "title": "Eternal rallies 6% in two days, stock nears record high; here's why",
+          "summary": "In the past six trading days, the stock price of Eternal surged 13% after the company delivered a strong performance for the July-September quarter....",
+          "link": "https://www.business-standard.com/markets/news/eternal-share-price-rallies-6-in-two-days-stock-nears-record-high-here-s-why-126103000553_1.html",
+          "source": "Business Standard Markets"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Bracco Imaging outlays $230m to establish contrast media site in North Carolina",
-          "summary": "Bracco’s new site is anticipated to support the growing demand for injectable contrast media and support supply chain resilience. The post Bracco Imaging outlays $230m to establish...",
-          "link": "https://www.medicaldevice-network.com/news/bracco-imaging-outlays-230m-to-establish-contrast-media-site-in-north-carolina/",
+          "title": "BMA laments low NHS investment in UK’s Autumn Budget",
+          "summary": "While a total of £290m was pledged to address winter pressures in the NHS and advance medical robotics, the BMA noted that NHS outlay was lower than in recent years. The post BMA l...",
+          "link": "https://www.medicaldevice-network.com/news/bma-laments-low-nhs-investment-in-uk-autumn-budget/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "How to get corporate gifting right across multiple cities",
-          "summary": "How to get corporate gifting right across multiple cities Sending Diwali gifts to a handful of employees or clients is relatively simple. Sending hundreds of gifts to recipients sp...",
-          "link": "https://yourstory.com/2026/10/how-to-get-corporate-gifting-right-across-multiple-cities",
+          "title": "Beyond AI: Bengaluru Tech Summit 2026 to spotlight new technologies, markets and opportunities",
+          "summary": "The 29th edition of Bengaluru Tech Summit will bring together global technology leaders, investors, and entrepreneurs to explore emerging sectors and business opportunities....",
+          "link": "https://yourstory.com/2026/10/beyond-ai-bengaluru-tech-summit-spotlight-technologies",
           "source": "YourStory"
         },
         {
-          "title": "Why better data could be the key to AI-driven food R&D",
-          "summary": "As food companies navigate increasingly complex product development and safety requirements, connected data and generative AI could help scientists make better-informed decisions, ...",
-          "link": "https://yourstory.com/2026/10/how-genai-digital-ontologies-are-redefining-food-rd-food-safety",
+          "title": "7 Things emotionally intelligent people do differently",
+          "summary": "Discover seven things emotionally intelligent people do differently to manage emotions, communicate better, and build healthier relationships....",
+          "link": "https://yourstory.com/2026/10/emotionally-intelligent-people",
           "source": "YourStory"
         },
         {
-          "title": "Bengaluru Tech Summit 2026: What’s In Store For Startups At Asia’s Largest Tech Event",
-          "summary": "India’s startup ecosystem is the fourth most valuable startup ecosystem in the world and spans from fintech and consumer technology&#8230;...",
-          "link": "https://inc42.com/buzz/bengaluru-tech-summit-2026-whats-in-store-for-startups-at-asias-largest-tech-event/",
+          "title": "Binance Hit By Record $6.3 Bn Crypto Breach, Suspends Withdrawals",
+          "summary": "Cryptocurrency exchange Binance has reported a security breach affecting an estimated $6.3 Bn in assets, in what appears to be&#8230;...",
+          "link": "https://inc42.com/buzz/binance-hit-by-record-6-3-bn-crypto-breach-suspends-withdrawals/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "From condition monitoring to safeguarding: How AI is changing industrial safety",
-          "summary": "Condition safeguarding uses AI-driven predictive maintenance to extend equipment life, boost overall equipment effectiveness (OEE), and head off catastrophic failures. That means m...",
-          "link": "https://www.designworldonline.com/from-condition-monitoring-to-safeguarding-how-ai-is-changing-industrial-safety/",
+          "title": "EXAIR updates temperature control for cabinet coolers",
+          "summary": "EXAIR’s updated Electronic Temperature Control (ETC) provides a way to manage temperatures inside industrial electrical enclosures. Designed for use with EXAIR’s Cabinet Cooler Sys...",
+          "link": "https://www.designworldonline.com/exair-updates-temperature-control-for-cabinet-coolers/",
           "source": "Design World"
         },
         {
-          "title": "Humanoids building humanoids, and new robots for agriculture equipment in Kansas",
-          "summary": "Human-like robots are taking over the factory floor as research continues. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. Humanoid robots are...",
-          "link": "https://www.designworldonline.com/humanoids-building-humanoids-and-new-robots-for-agriculture-equipment-in-kansas/",
+          "title": "Congratulations to the 2026 LEAP Awards winners for Advanced Materials",
+          "summary": "The annual LEAP Awards recognizes and celebrates innovative products and technologies in engineering. Here are the 2026 LEAP Awards Winners in the Advanced Materials category. Gold...",
+          "link": "https://www.designworldonline.com/congratulations-to-the-2026-leap-awards-winners-for-advanced-materials/",
           "source": "Design World"
         }
       ]
@@ -235,7 +235,7 @@
           "thumbnail": "https://i3.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg"
         },
         {
-          "title": "Deepseek's New AI Has A Secret",
+          "title": "DeepSeek's New AI Is An Absolute Monster",
           "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4.1 Flash 1017 is available here:\nhttps://api-docs.deepseek.com/news/news261017/\n\nSo...",
           "link": "https://www.youtube.com/watch?v=pryCaGv8wuo",
           "source": "Two Minute Papers (AI)",
