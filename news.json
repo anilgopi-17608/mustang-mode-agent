@@ -1,27 +1,27 @@
 {
-  "last_updated": "Saturday, October 31, 2026 at 12:54 PM IST",
-  "last_updated_iso": "2026-10-31T12:54:58.037325",
+  "last_updated": "Sunday, November 01, 2026 at 01:27 PM IST",
+  "last_updated_iso": "2026-11-01T13:27:48.843038",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
         "price": 23053.1,
-        "change": 116.29999999999927,
-        "change_pct": 0.5070454466185312,
+        "change": 116.34999999999854,
+        "change_pct": 0.507264542709837,
         "is_up": true
       },
       {
         "name": "Sensex",
         "price": 74459.53,
-        "change": 308.52999999999884,
-        "change_pct": 0.41608339739180705,
+        "change": 308.49000000000524,
+        "change_pct": 0.41602922898991745,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
         "price": 54686.95,
-        "change": -222.65000000000146,
-        "change_pct": -0.40548465113568755,
+        "change": -222.70000000000437,
+        "change_pct": -0.4055753405822189,
         "is_up": false
       }
     ],
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-          "summary": "The money behind the money is thrilled, mostly....",
-          "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+          "title": "Data centers are now a midterm issue, even in Brooklyn",
+          "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to A...",
+          "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
           "source": "TechCrunch"
         },
         {
-          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan....",
-          "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "summary": "Apple's new CEO defended the company's current position in the AI landscape....",
+          "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+          "title": "Get in the spirit with these horrors from YouTube",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+          "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
           "source": "The Verge"
         },
         {
-          "title": "Exclusive details about Akai’s MPC Sample Key",
+          "title": "Keyboards of The Verge",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+          "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
           "source": "The Verge"
         },
         {
-          "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-          "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere....",
-          "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+          "title": "Seabirds racing home over the ocean can get jet-lagged",
+          "summary": "A long flight home from feeding grounds messes with birds' internal clocks....",
+          "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Concurrent Gainers: 8 stocks that gain for 5 days in a row",
-          "summary": "Eight BSE 500 stocks gained in each of the five sessions between October 26 and 30, delivering cumulative returns of 10% to 21%....",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-8-stocks-that-gain-for-5-days-in-a-row/slideshow/135392399.cms",
+          "title": "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings",
+          "summary": "In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore, reversing a previous loss of Rs 1...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ET Wealth Expo: Why market veteran S Naren thinks investors are getting gold, silver and asset allocation all wrong",
-          "summary": "ICICI Prudential MF's S Naren warns investors against chasing assets after spectacular rallies, highlighting how silver's 216% surge drew record ETF inflows before a 27% correction...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms",
+          "title": "Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday",
+          "summary": "Indian benchmark indices Sensex and Nifty ended the week higher, gaining up to 0.5%, even as broader markets declined amid rising crude oil prices above $117 a barrel. Investors wi...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-sensex-extend-gains-after-rallying-up-to-2-last-week-4-factors-to-watch-on-monday/articleshow/135419919.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Binance's $6.3 bn hack signals the start of a risky era for crypto security",
-          "summary": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds...",
-          "link": "https://www.business-standard.com/markets/cryptocurrency/binance-s-6-3-bn-hack-signals-the-start-of-a-risky-era-for-crypto-security-126103100424_1.html",
+          "title": "Sebi extends digital accessibility compliance deadline to January 31",
+          "summary": "Sebi has extended the deadline for regulated entities to complete key digital accessibility compliance requirements to January 31 next year, following requests from market particip...",
+          "link": "https://www.business-standard.com/markets/news/sebi-extends-digital-accessibility-compliance-deadline-to-january-31-126110100272_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Delhivery reports net profit of Rs 41 crore in Q2 of FY27",
-          "summary": "The logistics company sees performance improving in the second half of the fiscal year despite the challenges of inflation and labour supply....",
-          "link": "https://yourstory.com/2026/10/delhivery-reports-net-profit-of-rs-41-crore-in-q2-of-fy27",
+          "title": "Waiting for an AI law is a poor compliance strategy",
+          "summary": "India's courts and sectoral regulators have already begun assigning liability for AI failures. Businesses that are holding out for a statute are preparing for the wrong deadline....",
+          "link": "https://yourstory.com/2026/10/waiting-for-an-ai-law-is-a-poor-compliance-strategy",
           "source": "YourStory"
         },
         {
-          "title": "Pixxel deepens US push with dedicated federal subsidiary",
-          "summary": "Pixxel Federal will build on its existing enagements with NASA and the National Reconnaissance Office, as the Bengaluru-based company seeks to expands its satellite intelligence, a...",
-          "link": "https://yourstory.com/2026/10/pixxel-deepens-us-push-with-dedicated-federal-subsidiary",
+          "title": "How voice AI is transforming banking and insurance: Desible.ai founders on the business behind the technology",
+          "summary": "In this episode of the Prime Venture Partners Podcast, Gaurav Ranjan sits down with Uttam and Omkar to discuss what it takes to build and sell agentic AI in Indian BFSI, from produ...",
+          "link": "https://yourstory.com/2026/10/voice-ai-transforming-banking-insurance-desibleai-founders-business-behind-technology",
           "source": "YourStory"
         },
         {
-          "title": "AU SFB Probes Potential Data Leak, Vijay Sales’ Admin Access Allegedly Listed For $25K",
-          "summary": "AU Small Finance Bank (AU SFB) is investigating a potential data leak involving a Salesforce-hosted software platform holding limited information&#8230;...",
-          "link": "https://inc42.com/buzz/au-sfb-probes-potential-data-leak-vijay-sales-admin-access-allegedly-listed-for-25k/",
+          "title": "Netflix Flips Its India Script",
+          "summary": "What if Netflix’s next big hit in India is not an expensive scripted original, but a reality show with a&#8230;...",
+          "link": "https://inc42.com/features/netflix-flips-its-india-script/",
           "source": "Inc42"
         }
       ]
