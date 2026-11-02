@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, November 01, 2026 at 01:27 PM IST",
-  "last_updated_iso": "2026-11-01T13:27:48.843038",
+  "last_updated": "Monday, November 02, 2026 at 01:34 PM IST",
+  "last_updated_iso": "2026-11-02T13:34:04.249608",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23053.1,
-        "change": 116.34999999999854,
-        "change_pct": 0.507264542709837,
+        "price": 23226.2,
+        "change": 173.10000000000218,
+        "change_pct": 0.7508751534500878,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 74459.53,
-        "change": 308.49000000000524,
-        "change_pct": 0.41602922898991745,
+        "price": 75054.69,
+        "change": 595.1600000000035,
+        "change_pct": 0.7993066837784277,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 54686.95,
-        "change": -222.70000000000437,
-        "change_pct": -0.4055753405822189,
+        "price": 54615.65,
+        "change": -71.29999999999563,
+        "change_pct": -0.13037845409187318,
         "is_up": false
       }
     ],
     "gainers": [
       {
-        "name": "Wipro",
-        "price": 198.31,
-        "change": 8.210000000000008,
-        "change_pct": 4.318779589689641,
+        "name": "Reliance",
+        "price": 1253.2,
+        "change": 88.29999999999995,
+        "change_pct": 7.580049789681513,
         "is_up": true
       },
       {
-        "name": "Infosys",
-        "price": 1185.0,
-        "change": 38.5,
-        "change_pct": 3.358046227649367,
+        "name": "Maruti",
+        "price": 11616.0,
+        "change": 219.0,
+        "change_pct": 1.921558304817057,
         "is_up": true
       },
       {
-        "name": "HDFC Bank",
-        "price": 692.8,
-        "change": 9.5,
-        "change_pct": 1.3903117225230501,
+        "name": "L&T",
+        "price": 3915.1,
+        "change": 43.40000000000009,
+        "change_pct": 1.1209546194178293,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 11397.0,
-        "change": -29.0,
-        "change_pct": -0.25380710659898476,
+        "name": "Infosys",
+        "price": 1153.0,
+        "change": -32.0,
+        "change_pct": -2.70042194092827,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1164.9,
-        "change": -2.5,
-        "change_pct": -0.2141511050197019,
+        "name": "Sun Pharma",
+        "price": 1744.7,
+        "change": -33.0,
+        "change_pct": -1.8563312144906339,
         "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 1973.7,
-        "change": 1.6000000000001364,
-        "change_pct": 0.08113178844886854,
-        "is_up": true
+        "name": "ICICI Bank",
+        "price": 1377.2,
+        "change": -20.799999999999955,
+        "change_pct": -1.4878397711015705,
+        "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.95,
-        "change": -0.2599999999999909,
-        "change_pct": -0.2730805587648261,
-        "is_up": false
+        "price": 95.0125,
+        "change": 0.07250000000000512,
+        "change_pct": 0.07636401938066686,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3898.9,
-        "change": -132.5,
-        "change_pct": -3.28669940963437,
-        "is_up": false
+        "price": 3912.0,
+        "change": 13.099999999999909,
+        "change_pct": 0.3359922029290289,
+        "is_up": true
       }
     ]
   },
@@ -95,27 +95,27 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Data centers are now a midterm issue, even in Brooklyn",
-          "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to A...",
-          "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+          "title": "Borrowed reading: stories from our extended colleagues",
+          "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld....",
+          "link": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-          "summary": "Apple's new CEO defended the company's current position in the AI landscape....",
-          "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "summary": "Data centers are deeply unpopular. But what if we called them something else?...",
+          "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
           "source": "TechCrunch"
         },
         {
-          "title": "Get in the spirit with these horrors from YouTube",
+          "title": "Jackery made its portable power stations even smaller",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+          "link": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
           "source": "The Verge"
         },
         {
-          "title": "Keyboards of The Verge",
+          "title": "NASA hopes the commercial space industry can help save Hubble",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+          "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
           "source": "The Verge"
         },
         {
@@ -130,34 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings",
-          "summary": "In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore, reversing a previous loss of Rs 1...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms",
+          "title": "Explained: Why gold investors should tone down expectations as yellow metal plunges to a 1-year low",
+          "summary": "Gold has fallen more than 30% from its January record high, with rising oil prices, inflation concerns and expectations of further Fed rate hikes adding to pressure. Analysts remai...",
+          "link": "https://economictimes.indiatimes.com/markets/commodities/explained-why-gold-investors-should-tone-down-expectations-as-yellow-metal-plunges-to-a-1-year-low/articleshow/135449976.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday",
-          "summary": "Indian benchmark indices Sensex and Nifty ended the week higher, gaining up to 0.5%, even as broader markets declined amid rising crude oil prices above $117 a barrel. Investors wi...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-sensex-extend-gains-after-rallying-up-to-2-last-week-4-factors-to-watch-on-monday/articleshow/135419919.cms",
+          "title": "Nasdaq Outlook: Is the worst over for AI-fuelled tech stocks?",
+          "summary": "Wall Street’s AI-led rally faced a sharp setback as the Nasdaq recorded its biggest single-day fall since June. Heavy losses in technology stocks reflected growing investor concern...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Sebi extends digital accessibility compliance deadline to January 31",
-          "summary": "Sebi has extended the deadline for regulated entities to complete key digital accessibility compliance requirements to January 31 next year, following requests from market particip...",
-          "link": "https://www.business-standard.com/markets/news/sebi-extends-digital-accessibility-compliance-deadline-to-january-31-126110100272_1.html",
+          "title": "Devyani International sinks 8% from day's high despite Q2 turnaround",
+          "summary": "Devyani International on Monday reported a turnaround in Q2 earnings with ₹3.46 crore net profit for the quarter ended September 2026 as against a net loss of ₹23.95 crore in the y...",
+          "link": "https://www.business-standard.com/markets/news/devyani-international-sinks-8-from-day-s-high-despite-q2-turnaround-126110200544_1.html",
           "source": "Business Standard Markets"
+        },
+        {
+          "title": "Bank of Baroda gains 5% on record profit in Q2; here's what brokerages say",
+          "summary": "Bank of Baroda shares gained more than 5 per cent in trade on Monday as the lender reported its highest-ever quarterly net profit of ₹6,532 crore in Q2FY27....",
+          "link": "https://www.business-standard.com/markets/news/bank-of-baroda-gains-5-on-record-profit-in-q2-here-s-what-brokerages-say-126110200534_1.html",
+          "source": "Business Standard Markets"
+        },
+        {
+          "title": "Microsoft employee's '0% lifestyle' workday video sparks debate: How different is the reality from perk-filled image?",
+          "summary": "A Microsoft employee’s work-focused ‘day in my life’ video sparked debate online, contrasting with clips showcasing office perks. While some welcomed the portrayal, others question...",
+          "link": "https://www.livemint.com/companies/people/microsoft-employees-0-lifestyle-workday-video-sparks-debate-how-different-is-the-reality-from-perk-filled-image-11793604803440.html",
+          "source": "Livemint Companies"
         }
       ]
     },
@@ -188,9 +188,9 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Waiting for an AI law is a poor compliance strategy",
-          "summary": "India's courts and sectoral regulators have already begun assigning liability for AI failures. Businesses that are holding out for a statute are preparing for the wrong deadline....",
-          "link": "https://yourstory.com/2026/10/waiting-for-an-ai-law-is-a-poor-compliance-strategy",
+          "title": "antimattr is building voice AI wearables that cut through the noise",
+          "summary": "Backed by YC and WTFund, San Francisco-based antimattr is building wearable tech for human-agent interaction that summarises conversations with clarity in noisy environments....",
+          "link": "https://yourstory.com/2026/10/antimattr-is-building-voice-ai-wearables-that-work-even-in-noisy-spaces",
           "source": "YourStory"
         },
         {
@@ -200,9 +200,9 @@
           "source": "YourStory"
         },
         {
-          "title": "Netflix Flips Its India Script",
-          "summary": "What if Netflix’s next big hit in India is not an expensive scripted original, but a reality show with a&#8230;...",
-          "link": "https://inc42.com/features/netflix-flips-its-india-script/",
+          "title": "Delhivery Shares Jump Nearly 10% After Q2 Swing To ₹41 Cr Profit",
+          "summary": "Shares of Delhivery jumped 9.7% to an intraday high of ₹423.35 on the BSE after the logistics company reported a&#8230;...",
+          "link": "https://inc42.com/buzz/delhivery-shares-jump-nearly-10-after-q2-swing-to-%e2%82%b941-cr-profit/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "EXAIR updates temperature control for cabinet coolers",
-          "summary": "EXAIR’s updated Electronic Temperature Control (ETC) provides a way to manage temperatures inside industrial electrical enclosures. Designed for use with EXAIR’s Cabinet Cooler Sys...",
-          "link": "https://www.designworldonline.com/exair-updates-temperature-control-for-cabinet-coolers/",
+          "title": "AutomationDirect adds Weidmüller UR20 remote I/O system",
+          "summary": "AutomationDirect now offers the innovative Weidmüller UR20 remote I/O system which is a modular, space-saving system that combines flexibility with industry-leading ease of use to ...",
+          "link": "https://www.designworldonline.com/automationdirect-adds-weidmuller-ur20-remote-i-o-system/",
           "source": "Design World"
         },
         {
-          "title": "Congratulations to the 2026 LEAP Awards winners for Advanced Materials",
-          "summary": "The annual LEAP Awards recognizes and celebrates innovative products and technologies in engineering. Here are the 2026 LEAP Awards Winners in the Advanced Materials category. Gold...",
-          "link": "https://www.designworldonline.com/congratulations-to-the-2026-leap-awards-winners-for-advanced-materials/",
+          "title": "EXAIR updates temperature control for cabinet coolers",
+          "summary": "EXAIR’s updated Electronic Temperature Control (ETC) provides a way to manage temperatures inside industrial electrical enclosures. Designed for use with EXAIR’s Cabinet Cooler Sys...",
+          "link": "https://www.designworldonline.com/exair-updates-temperature-control-for-cabinet-coolers/",
           "source": "Design World"
         }
       ]
