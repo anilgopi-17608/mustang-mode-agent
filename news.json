@@ -1,92 +1,92 @@
 {
-  "last_updated": "Tuesday, November 03, 2026 at 01:55 PM IST",
-  "last_updated_iso": "2026-11-03T13:55:54.821850",
+  "last_updated": "Wednesday, November 04, 2026 at 01:23 PM IST",
+  "last_updated_iso": "2026-11-04T13:23:39.099704",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23715.05,
-        "change": 274.25,
-        "change_pct": 1.1699686017542064,
+        "price": 23859.75,
+        "change": 48.900000000001455,
+        "change_pct": 0.20536856097116002,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 76765.18,
-        "change": 1072.3999999999942,
-        "change_pct": 1.416779777410731,
+        "price": 77026.29,
+        "change": 108.43999999998778,
+        "change_pct": 0.1409815796983246,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 55540.25,
-        "change": 538.0500000000029,
-        "change_pct": 0.9782335979288156,
+        "price": 55708.0,
+        "change": 167.9499999999971,
+        "change_pct": 0.30239439827655373,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 2067.5,
-        "change": 77.59999999999991,
-        "change_pct": 3.8996934519322535,
+        "name": "Sun Pharma",
+        "price": 1795.8,
+        "change": 25.899999999999864,
+        "change_pct": 1.4633595118368192,
         "is_up": true
       },
       {
         "name": "HDFC Bank",
-        "price": 723.2,
-        "change": 23.200000000000045,
-        "change_pct": 3.314285714285721,
+        "price": 733.95,
+        "change": 8.450000000000045,
+        "change_pct": 1.164713990351488,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1424.7,
-        "change": 37.299999999999955,
-        "change_pct": 2.688482052760556,
+        "name": "Maruti",
+        "price": 11896.0,
+        "change": 27.0,
+        "change_pct": 0.22748336001348052,
         "is_up": true
       }
     ],
     "losers": [
       {
+        "name": "TCS",
+        "price": 2432.0,
+        "change": -67.09999999999991,
+        "change_pct": -2.684966587971666,
+        "is_up": false
+      },
+      {
         "name": "Infosys",
-        "price": 1138.4,
-        "change": -22.59999999999991,
-        "change_pct": -1.946597760551241,
+        "price": 1121.9,
+        "change": -26.199999999999818,
+        "change_pct": -2.282031181952776,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1291.0,
-        "change": -9.0,
-        "change_pct": -0.6923076923076923,
-        "is_up": false
-      },
-      {
-        "name": "L&T",
-        "price": 3921.5,
-        "change": -18.40000000000009,
-        "change_pct": -0.4670169293636917,
+        "name": "Wipro",
+        "price": 193.7,
+        "change": -4.300000000000011,
+        "change_pct": -2.1717171717171775,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.695,
-        "change": -0.1950000000000074,
-        "change_pct": -0.20550110654442766,
-        "is_up": false
+        "price": 94.8375,
+        "change": 0.1075000000000017,
+        "change_pct": 0.11348041803019286,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3918.3,
-        "change": -51.29999999999973,
-        "change_pct": -1.2923216444981793,
-        "is_up": false
+        "price": 4035.9,
+        "change": 95.5,
+        "change_pct": 2.423611816059283,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-          "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech....",
-          "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+          "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+          "summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures...",
+          "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-          "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations....",
-          "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+          "title": "Anthropic is working on a system to prove AI models’ identity",
+          "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from....",
+          "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+          "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+          "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
           "source": "The Verge"
         },
         {
-          "title": "Apple set an iPhone sales record even without a new standard iPhone",
+          "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+          "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
           "source": "The Verge"
         },
         {
-          "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
-          "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open....",
-          "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+          "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+          "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition....",
+          "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "GRSE shares jump 9% after signing Rs 32,000 crore Indian Navy contract for five next-generation corvettes",
-          "summary": "GRSE shares surged nearly 9% after securing a Rs 32,000-crore Indian Navy contract to build five Next Generation Corvettes. The nine-year project will strengthen indigenous defence...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/grse-shares-jump-9-after-signing-rs-32000-crore-indian-navy-contract-for-five-next-generation-corvettes/articleshow/135487819.cms",
+          "title": "Kopsi, Taiwan, other Asian stocks tumble after US midterm elections signal Democratic victory. What’s the connection?",
+          "summary": "South Korean and Taiwanese equities tumbled as a potential Democratic sweep in the US midterm elections fuelled concerns over tighter AI regulations and slower data centre investme...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kopsi-taiwan-other-asian-stocks-tumble-after-us-midterm-elections-signal-democratic-victory-whats-the-connection/articleshow/135529227.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "4 reasons why Reliance Industries shares can rally after Monday magic sparked historic 12% surge",
-          "summary": "Reliance Industries shares surged, their biggest single-day gain since April 2020, adding nearly Rs 2 lakh crore to the company's market capitalisation after strong Q2 results. Des...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/4-reasons-why-reliance-industries-shares-can-rally-after-monday-magic-sparked-historic-12-surge/articleshow/135487709.cms",
+          "title": "Equitas Small Finance Bank shares jump 9% after Balaji Nuthalapadi’s appointment as interim CEO",
+          "summary": "The bank further said that appointment of Nuthalapadi as interim CEO, consequent to the resignation of P. N. Vasudevan as the MD &amp; CEO, shall take effect from the date of RBI a...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/equitas-small-finance-bank-shares-jump-9-after-balaji-nuthalapadis-appointment-as-interim-ceo/articleshow/135528943.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Textile, garment stocks in demand; Kitex, Trident, Gokaldas rally up to 18%",
-          "summary": "Share prices of Kitex Garments zoomed 18% and Trident surged 13% on the back of heavy volume in Tuesday's trading session....",
-          "link": "https://www.business-standard.com/markets/news/textile-garment-stocks-in-demand-kitex-trident-gokaldas-rally-up-to-18-126110300776_1.html",
+          "title": "'India's crypto market to broaden, smaller cities to aid growth'",
+          "summary": "Nischal Shetty, founder, WazirX said that for Bitcoin, $90,000 is a recovery reference and $100,000 remains a possible upside outcome if sustained spot buying and ETF demand contin...",
+          "link": "https://www.business-standard.com/markets/interviews/india-s-crypto-market-to-broaden-smaller-cities-to-aid-growth-nischal-shetty-founder-wazirx-126110400699_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Dexcom lifts 2026 revenue outlook after positive Q3",
-          "summary": "Dexcom now expects 2026 revenues to land in the $5.2bn to $5.25bn range, up from $5.18bn at the low-end as previously outlined. The post Dexcom lifts 2026 revenue outlook after pos...",
-          "link": "https://www.medicaldevice-network.com/news/dexcom-lifts-2026-revenue-outlook-after-positive-q3/",
+          "title": "Podcast: the outpatient centre care shift",
+          "summary": "Oath Surgical currently operates three outpatient surgical centres in Oregon and Arizona. The post Podcast: the outpatient centre care shift appeared first on Medical Device Networ...",
+          "link": "https://www.medicaldevice-network.com/comment/podcast-the-outpatient-centre-care-shift/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Why AI-powered intelligence is every winning brand’s secret sauce",
-          "summary": "As AI reshapes ecommerce, brands are shifting focus from customer acquisition to intelligent fulfilment, inventory management and customer experience. The article explores how AI a...",
-          "link": "https://yourstory.com/2026/11/why-ai-powered-intelligence-is-every-winning-brands-secret-sauce",
+          "title": "India's next space unicorn may still be in college",
+          "summary": "India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately d...",
+          "link": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
           "source": "YourStory"
         },
         {
-          "title": "From code to content: How AI could make India the world’s next story exporter",
-          "summary": "Eloelo Group’s Saurabh Pandey showcased Dolphin AI, an end-to-end video production suite, and told TechSparks 2026 that falling production costs could let Indian storytellers compe...",
-          "link": "https://yourstory.com/2026/11/from-code-to-content-how-ai-could-make-india-the-worlds-next-story-exporter",
+          "title": "5 lessons from the book Super Cool Startup by Sairam Krishnan",
+          "summary": "Discover five lessons from Super Cool Startup by Sairam Krishnan about storytelling, content marketing, community building, PR, and social media....",
+          "link": "https://yourstory.com/2026/11/5-startup-lessons",
           "source": "YourStory"
         },
         {
-          "title": "Apple Logs Record India Revenue, Mac And Services Hit New Highs",
-          "summary": "Apple reported an all-time revenue record in India in Q4 FY26, with its iPhone business setting a September quarter revenue&#8230;...",
-          "link": "https://inc42.com/buzz/apple-logs-record-india-revenue-mac-and-services-hit-new/",
+          "title": "Freshworks Swings To $18 Mn Profit In Q3, Revenue Rises 14% YoY To $245 Mn",
+          "summary": "Nasdaq-listed SaaS company Freshworks swung to a consolidated net profit of $18.3 Mn in the third quarter of 2026 (Q3&#8230;...",
+          "link": "https://inc42.com/buzz/freshworks-swings-to-18-mn-profit-in-q3-revenue-rises-14-yoy-to-245-mn/",
           "source": "Inc42"
         }
       ]
@@ -211,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "NITRA NCP3 transducers support hazardous-area pressure control",
+          "summary": "AutomationDirect has added NITRA NCP3 series explosion-proof current-to-pneumatic (I/P) transducers which provide precise pressure control in hazardous areas where rugged construct...",
+          "link": "https://www.designworldonline.com/nitra-ncp3-transducers-support-hazardous-area-pressure-control/",
+          "source": "Design World"
+        },
+        {
           "title": "OKW offers SMART-CASE enclosures with optional IP65 protection",
           "summary": "OKW offers size L and XL SMART-CASE handheld enclosures with optional IP65 ingress protection for indoor and outdoor applications. The ergonomic SMART-CASE design is intended for r...",
           "link": "https://www.designworldonline.com/okw-offers-smart-case-enclosures-with-optional-ip65-protection/",
           "source": "Design World"
-        },
-        {
-          "title": "AutomationDirect adds Weidmüller UR20 remote I/O system",
-          "summary": "AutomationDirect now offers the innovative Weidmüller UR20 remote I/O system which is a modular, space-saving system that combines flexibility with industry-leading ease of use to ...",
-          "link": "https://www.designworldonline.com/automationdirect-adds-weidmuller-ur20-remote-i-o-system/",
-          "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
-          "summary": "The first touchscreen Mac is here, and I have thoughts.\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp:/...",
-          "link": "https://www.youtube.com/watch?v=2reQut8WNGc",
-          "source": "MKBHD",
-          "thumbnail": "https://i3.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg"
-        },
-        {
-          "title": "OpenAI Claims It Just Did The Impossible",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 OpenAI's paper is available here:\nhttps://github.com/openai/math/blob/main/preprints/The-Expon...",
-          "link": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i4.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg"
         }
       ]
     }
