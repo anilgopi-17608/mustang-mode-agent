@@ -1,91 +1,91 @@
 {
-  "last_updated": "Wednesday, November 04, 2026 at 01:23 PM IST",
-  "last_updated_iso": "2026-11-04T13:23:39.099704",
+  "last_updated": "Thursday, November 05, 2026 at 01:50 PM IST",
+  "last_updated_iso": "2026-11-05T13:50:02.615732",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 23859.75,
-        "change": 48.900000000001455,
-        "change_pct": 0.20536856097116002,
+        "price": 24570.05,
+        "change": 759.25,
+        "change_pct": 3.1886790868009474,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 77026.29,
-        "change": 108.43999999998778,
-        "change_pct": 0.1409815796983246,
+        "price": 79192.06,
+        "change": 2274.1600000000035,
+        "change_pct": 2.956606979649735,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 55708.0,
-        "change": 167.9499999999971,
-        "change_pct": 0.30239439827655373,
+        "price": 57815.1,
+        "change": 2275.0,
+        "change_pct": 4.096139546021703,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Sun Pharma",
-        "price": 1795.8,
-        "change": 25.899999999999864,
-        "change_pct": 1.4633595118368192,
-        "is_up": true
-      },
-      {
-        "name": "HDFC Bank",
-        "price": 733.95,
-        "change": 8.450000000000045,
-        "change_pct": 1.164713990351488,
-        "is_up": true
-      },
-      {
         "name": "Maruti",
-        "price": 11896.0,
-        "change": 27.0,
-        "change_pct": 0.22748336001348052,
+        "price": 12629.0,
+        "change": 634.0,
+        "change_pct": 5.285535639849937,
+        "is_up": true
+      },
+      {
+        "name": "ICICI Bank",
+        "price": 1497.0,
+        "change": 72.90000000000009,
+        "change_pct": 5.119022540551934,
+        "is_up": true
+      },
+      {
+        "name": "Sun Pharma",
+        "price": 1834.0,
+        "change": 60.59999999999991,
+        "change_pct": 3.41716476824179,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "TCS",
-        "price": 2432.0,
-        "change": -67.09999999999991,
-        "change_pct": -2.684966587971666,
+        "name": "Bharti Airtel",
+        "price": 2063.9,
+        "change": -3.699999999999818,
+        "change_pct": -0.17895144128457235,
         "is_up": false
       },
       {
-        "name": "Infosys",
-        "price": 1121.9,
-        "change": -26.199999999999818,
-        "change_pct": -2.282031181952776,
-        "is_up": false
+        "name": "Reliance",
+        "price": 1315.5,
+        "change": 4.5,
+        "change_pct": 0.34324942791762014,
+        "is_up": true
       },
       {
         "name": "Wipro",
-        "price": 193.7,
-        "change": -4.300000000000011,
-        "change_pct": -2.1717171717171775,
-        "is_up": false
+        "price": 198.61,
+        "change": 4.060000000000002,
+        "change_pct": 2.0868671292726817,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.8375,
-        "change": 0.1075000000000017,
-        "change_pct": 0.11348041803019286,
-        "is_up": true
+        "price": 94.44,
+        "change": -0.18999999999999773,
+        "change_pct": -0.2007819930254652,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4035.9,
-        "change": 95.5,
-        "change_pct": 2.423611816059283,
+        "price": 4137.7,
+        "change": 64.69999999999982,
+        "change_pct": 1.5885096980112894,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-          "summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures...",
-          "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+          "title": "Apple is reportedly cutting budgets for its internal AI usage",
+          "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams....",
+          "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic is working on a system to prove AI models’ identity",
-          "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from....",
-          "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+          "title": "After the midterms, a bigger clash over data centers could be coming",
+          "summary": "Data center opposition crossed party lines in Tuesday’s midterms....",
+          "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
           "source": "TechCrunch"
         },
         {
-          "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+          "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+          "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
           "source": "The Verge"
         },
         {
-          "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+          "title": "X says its updated web app is way faster",
           "summary": "",
-          "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+          "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
           "source": "The Verge"
         },
         {
-          "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-          "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition....",
-          "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+          "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+          "summary": "And what that could mean for physical Switch game costs....",
+          "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Kopsi, Taiwan, other Asian stocks tumble after US midterm elections signal Democratic victory. What’s the connection?",
-          "summary": "South Korean and Taiwanese equities tumbled as a potential Democratic sweep in the US midterm elections fuelled concerns over tighter AI regulations and slower data centre investme...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/kopsi-taiwan-other-asian-stocks-tumble-after-us-midterm-elections-signal-democratic-victory-whats-the-connection/articleshow/135529227.cms",
+          "title": "Sitaram Denims India files IPO papers with Sebi",
+          "summary": "Sitaram Denims India Ltd plans to launch an initial public offering with two components. The IPO includes a fresh issue of equity shares and an offer for sale by promoters. Proceed...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sitaram-denims-india-files-ipo-papers-with-sebi/articleshow/135563144.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Equitas Small Finance Bank shares jump 9% after Balaji Nuthalapadi’s appointment as interim CEO",
-          "summary": "The bank further said that appointment of Nuthalapadi as interim CEO, consequent to the resignation of P. N. Vasudevan as the MD &amp; CEO, shall take effect from the date of RBI a...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/equitas-small-finance-bank-shares-jump-9-after-balaji-nuthalapadis-appointment-as-interim-ceo/articleshow/135528943.cms",
+          "title": "Qualcomm Earnings: 5 key takeaways from Q4 results",
+          "summary": "Qualcomm's revenue declined 8% amid weak smartphone chip demand, while automotive sales surged. Rising costs pressure margins, as AI data centres offer diversification and future g...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-earnings-5-key-takeaways-from-q4-results/slideshow/135560535.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "'India's crypto market to broaden, smaller cities to aid growth'",
-          "summary": "Nischal Shetty, founder, WazirX said that for Bitcoin, $90,000 is a recovery reference and $100,000 remains a possible upside outcome if sustained spot buying and ETF demand contin...",
-          "link": "https://www.business-standard.com/markets/interviews/india-s-crypto-market-to-broaden-smaller-cities-to-aid-growth-nischal-shetty-founder-wazirx-126110400699_1.html",
+          "title": "Biocon share price rises nearly 6% despite 52% dip in Q2 profit",
+          "summary": "Biocon reported a 52% dip in Q2 consolidated net profit at ₹41 crore, while revenue from operations grew by 2%. The stock recently hit a 52-week low of ₹318.40 on the NSE....",
+          "link": "https://www.business-standard.com/markets/news/biocon-share-price-rises-nearly-6-despite-52-fall-in-q2-profit-126110500911_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Podcast: the outpatient centre care shift",
-          "summary": "Oath Surgical currently operates three outpatient surgical centres in Oregon and Arizona. The post Podcast: the outpatient centre care shift appeared first on Medical Device Networ...",
-          "link": "https://www.medicaldevice-network.com/comment/podcast-the-outpatient-centre-care-shift/",
+          "title": "Zimmer Biomet stock rises 9% after reporting positive Q3",
+          "summary": "The orthopaedics giant now expects 2026 earnings to land in the $8.50-$8.60 per share range. The post Zimmer Biomet stock rises 9% after reporting positive Q3 appeared first on Med...",
+          "link": "https://www.medicaldevice-network.com/news/zimmer-biomet-stock-rises-9-after-reporting-positive-q3/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "India's next space unicorn may still be in college",
-          "summary": "India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately d...",
-          "link": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
+          "title": "Sarva Suvidhaen: Bihar Startup Is Using AI and IoT to Make Indian Railways Smarter",
+          "summary": "Bihar-based startup Sarva Suvidhaen is using AI and IoT to modernise Indian Railways, improve operational efficiency, and build smarter railway systems...",
+          "link": "https://yourstory.com/2026/10/sarva-suvidhaen-startup",
           "source": "YourStory"
         },
         {
-          "title": "5 lessons from the book Super Cool Startup by Sairam Krishnan",
-          "summary": "Discover five lessons from Super Cool Startup by Sairam Krishnan about storytelling, content marketing, community building, PR, and social media....",
-          "link": "https://yourstory.com/2026/11/5-startup-lessons",
+          "title": "Frammer AI partners with Collective Newsroom to power BBC News video in India",
+          "summary": "Frammer AI will power video workflows, including repurposing, for Collective Newsroom, which produces BBC content in India....",
+          "link": "https://yourstory.com/2026/11/frammer-ai-partners-collective-newsroom-bbc-video-india",
           "source": "YourStory"
         },
         {
-          "title": "Freshworks Swings To $18 Mn Profit In Q3, Revenue Rises 14% YoY To $245 Mn",
-          "summary": "Nasdaq-listed SaaS company Freshworks swung to a consolidated net profit of $18.3 Mn in the third quarter of 2026 (Q3&#8230;...",
-          "link": "https://inc42.com/buzz/freshworks-swings-to-18-mn-profit-in-q3-revenue-rises-14-yoy-to-245-mn/",
+          "title": "Shiprocket Turns Profitable In Q2, Revenue Jumps 35% YoY To ₹674 Cr",
+          "summary": "Ecommerce enablement platform Shiprocket turned profitable in the September quarter, reporting a consolidated net profit of ₹0.6 Cr against a&#8230;...",
+          "link": "https://inc42.com/buzz/shiprocket-turns-profitable-in-q2-revenue-jumps-35-yoy-to-%e2%82%b9674-cr/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +211,35 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "AutomationDirect expands linear actuator lineup for compact motion",
+          "summary": "AutomationDirect now offers PBC Compact and UG series linear actuators that provide versatile, space-saving solutions for precise linear motion in packaging, material handling, foo...",
+          "link": "https://www.designworldonline.com/automationdirect-expands-linear-actuator-lineup-for-compact-motion/",
+          "source": "Design World"
+        },
+        {
           "title": "NITRA NCP3 transducers support hazardous-area pressure control",
           "summary": "AutomationDirect has added NITRA NCP3 series explosion-proof current-to-pneumatic (I/P) transducers which provide precise pressure control in hazardous areas where rugged construct...",
           "link": "https://www.designworldonline.com/nitra-ncp3-transducers-support-hazardous-area-pressure-control/",
           "source": "Design World"
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
+        {
+          "title": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
+          "summary": "iPad Mini 8 Refresh gets a big refresh and a big price bump and a LOT of laddering\n\nProtect and make your iPad more user-friendly with dbrand at https://dbrand.com/shop/ipad\n\nMKBHD...",
+          "link": "https://www.youtube.com/watch?v=g6Die8gVFn0",
+          "source": "MKBHD",
+          "thumbnail": "https://i4.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg"
         },
         {
-          "title": "OKW offers SMART-CASE enclosures with optional IP65 protection",
-          "summary": "OKW offers size L and XL SMART-CASE handheld enclosures with optional IP65 ingress protection for indoor and outdoor applications. The ergonomic SMART-CASE design is intended for r...",
-          "link": "https://www.designworldonline.com/okw-offers-smart-case-enclosures-with-optional-ip65-protection/",
-          "source": "Design World"
+          "title": "OpenAI Claims It Just Did The Impossible",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 OpenAI's paper is available here:\nhttps://github.com/openai/math/blob/main/preprints/The-Expon...",
+          "link": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i4.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg"
         }
       ]
     }
