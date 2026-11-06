@@ -1,92 +1,92 @@
 {
-  "last_updated": "Thursday, November 05, 2026 at 01:50 PM IST",
-  "last_updated_iso": "2026-11-05T13:50:02.615732",
+  "last_updated": "Friday, November 06, 2026 at 01:52 PM IST",
+  "last_updated_iso": "2026-11-06T13:52:59.515769",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24570.05,
-        "change": 759.25,
-        "change_pct": 3.1886790868009474,
+        "price": 24797.15,
+        "change": 836.5500000000029,
+        "change_pct": 3.4913566438236225,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 79192.06,
-        "change": 2274.1600000000035,
-        "change_pct": 2.956606979649735,
+        "price": 80206.79,
+        "change": 2905.3899999999994,
+        "change_pct": 3.7585218378968555,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 57815.1,
-        "change": 2275.0,
-        "change_pct": 4.096139546021703,
+        "price": 58516.85,
+        "change": 2603.25,
+        "change_pct": 4.655844016482573,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Maruti",
-        "price": 12629.0,
-        "change": 634.0,
-        "change_pct": 5.285535639849937,
+        "name": "ICICI Bank",
+        "price": 1547.8,
+        "change": 47.799999999999955,
+        "change_pct": 3.1866666666666634,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1497.0,
-        "change": 72.90000000000009,
-        "change_pct": 5.119022540551934,
+        "name": "HDFC Bank",
+        "price": 781.05,
+        "change": 21.049999999999955,
+        "change_pct": 2.769736842105257,
         "is_up": true
       },
       {
         "name": "Sun Pharma",
-        "price": 1834.0,
-        "change": 60.59999999999991,
-        "change_pct": 3.41716476824179,
+        "price": 1865.0,
+        "change": 36.0,
+        "change_pct": 1.9682886823400765,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Bharti Airtel",
-        "price": 2063.9,
-        "change": -3.699999999999818,
-        "change_pct": -0.17895144128457235,
+        "name": "Infosys",
+        "price": 1165.3,
+        "change": -2.1000000000001364,
+        "change_pct": -0.17988692821656127,
         "is_up": false
       },
       {
-        "name": "Reliance",
-        "price": 1315.5,
-        "change": 4.5,
-        "change_pct": 0.34324942791762014,
+        "name": "Wipro",
+        "price": 198.4,
+        "change": 0.0,
+        "change_pct": 0.0,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 198.61,
-        "change": 4.060000000000002,
-        "change_pct": 2.0868671292726817,
+        "name": "Reliance",
+        "price": 1313.4,
+        "change": 0.0,
+        "change_pct": 0.0,
         "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.44,
-        "change": -0.18999999999999773,
-        "change_pct": -0.2007819930254652,
+        "price": 93.945,
+        "change": -0.5200000000000102,
+        "change_pct": -0.5504684274599165,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4137.7,
-        "change": 64.69999999999982,
-        "change_pct": 1.5885096980112894,
-        "is_up": true
+        "price": 4063.5,
+        "change": -50.0,
+        "change_pct": -1.215509906405737,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Apple is reportedly cutting budgets for its internal AI usage",
-          "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams....",
-          "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+          "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+          "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns....",
+          "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
           "source": "TechCrunch"
         },
         {
-          "title": "After the midterms, a bigger clash over data centers could be coming",
-          "summary": "Data center opposition crossed party lines in Tuesday’s midterms....",
-          "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+          "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+          "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source....",
+          "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
           "source": "TechCrunch"
         },
         {
-          "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+          "title": "OpenAI is stepping back from NDAs for data center projects",
           "summary": "",
-          "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
           "source": "The Verge"
         },
         {
-          "title": "X says its updated web app is way faster",
+          "title": "Airbnb is working on an AI travel agent",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+          "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
           "source": "The Verge"
         },
         {
-          "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-          "summary": "And what that could mean for physical Switch game costs....",
-          "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+          "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+          "summary": "\"This is going to be a game-changer.\"...",
+          "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Sitaram Denims India files IPO papers with Sebi",
-          "summary": "Sitaram Denims India Ltd plans to launch an initial public offering with two components. The IPO includes a fresh issue of equity shares and an offer for sale by promoters. Proceed...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sitaram-denims-india-files-ipo-papers-with-sebi/articleshow/135563144.cms",
+          "title": "HCC Q2 profit slumps 53% to Rs 22 crore",
+          "summary": "Hindustan Construction Company reported a decline in consolidated net profit for the September quarter of FY27. Income and expenses also saw a reduction in comparison to the previo...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcc-q2-profit-slumps-53-to-rs-22-crore/articleshow/135599840.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Qualcomm Earnings: 5 key takeaways from Q4 results",
-          "summary": "Qualcomm's revenue declined 8% amid weak smartphone chip demand, while automotive sales surged. Rising costs pressure margins, as AI data centres offer diversification and future g...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-earnings-5-key-takeaways-from-q4-results/slideshow/135560535.cms",
+          "title": "Rupee falls 9 paise to 94.50 against US dollar in early trade",
+          "summary": "In early trading on Friday, the rupee slipped by 9 paise to reach 94.50 against the US dollar, driven by a robust dollar and surging crude oil prices. After a brief bounce-back, it...",
+          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-9-paise-to-94-50-against-us-dollar-in-early-trade/articleshow/135597848.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Biocon share price rises nearly 6% despite 52% dip in Q2 profit",
-          "summary": "Biocon reported a 52% dip in Q2 consolidated net profit at ₹41 crore, while revenue from operations grew by 2%. The stock recently hit a 52-week low of ₹318.40 on the NSE....",
-          "link": "https://www.business-standard.com/markets/news/biocon-share-price-rises-nearly-6-despite-52-fall-in-q2-profit-126110500911_1.html",
+          "title": "'Anti-AI' trade puts Indian stocks ahead of Asian peers amid global selloff",
+          "summary": "Indian equities are headed for their biggest weekly gain in over five years, as a global selloff in AI stocks, falling crude oil prices and improving earnings prospects boost the m...",
+          "link": "https://www.business-standard.com/markets/news/anti-ai-trade-puts-indian-stocks-ahead-of-asian-peers-amid-global-selloff-126110600874_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Zimmer Biomet stock rises 9% after reporting positive Q3",
-          "summary": "The orthopaedics giant now expects 2026 earnings to land in the $8.50-$8.60 per share range. The post Zimmer Biomet stock rises 9% after reporting positive Q3 appeared first on Med...",
-          "link": "https://www.medicaldevice-network.com/news/zimmer-biomet-stock-rises-9-after-reporting-positive-q3/",
+          "title": "Edwards Lifesciences raises 2026 outlook after Q3 exceeds growth expectations",
+          "summary": "Edwards 11.2% YoY growth in Q3 was driven by sales growth in its TAVR and TMTT segments at 8% and 44%, respectively. The post Edwards Lifesciences raises 2026 outlook after Q3 exce...",
+          "link": "https://www.medicaldevice-network.com/news/edwards-lifesciences-raises-2026-outlook-after-q3-exceeds-growth-expectations/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Sarva Suvidhaen: Bihar Startup Is Using AI and IoT to Make Indian Railways Smarter",
-          "summary": "Bihar-based startup Sarva Suvidhaen is using AI and IoT to modernise Indian Railways, improve operational efficiency, and build smarter railway systems...",
-          "link": "https://yourstory.com/2026/10/sarva-suvidhaen-startup",
+          "title": "How Satin Group’s Sankalp plans to empower India’s next wave of founders",
+          "summary": "University incubators play an important role in nurturing early-stage ideas, but Sankalp aims to go further by helping entrepreneurs bridge the gap between developing a concept and...",
+          "link": "https://yourstory.com/2026/11/how-satin-groups-sankalp-plans-empower-indias-next-wave-founders",
           "source": "YourStory"
         },
         {
-          "title": "Frammer AI partners with Collective Newsroom to power BBC News video in India",
-          "summary": "Frammer AI will power video workflows, including repurposing, for Collective Newsroom, which produces BBC content in India....",
-          "link": "https://yourstory.com/2026/11/frammer-ai-partners-collective-newsroom-bbc-video-india",
+          "title": "Why operational excellence will define the next phase of India’s startup growth",
+          "summary": "Startups often prioritise funding, sales and expansion while overlooking the operational foundations needed to sustain growth. The article explores why strong processes, reliable d...",
+          "link": "https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth",
           "source": "YourStory"
         },
         {
-          "title": "Shiprocket Turns Profitable In Q2, Revenue Jumps 35% YoY To ₹674 Cr",
-          "summary": "Ecommerce enablement platform Shiprocket turned profitable in the September quarter, reporting a consolidated net profit of ₹0.6 Cr against a&#8230;...",
-          "link": "https://inc42.com/buzz/shiprocket-turns-profitable-in-q2-revenue-jumps-35-yoy-to-%e2%82%b9674-cr/",
+          "title": "TRAI Backs Direct-To-Device Satellite Connectivity, Proposes New Authorisation Framework",
+          "summary": "The Telecom Regulatory Authority of India (TRAI) has recommended allowing direct-to-device (D2D) satellite connectivity and creating a separate authorisation for&#8230;...",
+          "link": "https://inc42.com/buzz/trai-backs-direct-to-device-satellite-connectivity-proposes-new-authorisation-framework/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "AutomationDirect expands linear actuator lineup for compact motion",
-          "summary": "AutomationDirect now offers PBC Compact and UG series linear actuators that provide versatile, space-saving solutions for precise linear motion in packaging, material handling, foo...",
-          "link": "https://www.designworldonline.com/automationdirect-expands-linear-actuator-lineup-for-compact-motion/",
+          "title": "Line and motor reactors support VFD protection in AC drives",
+          "summary": "AutomationDirect now offers BLOCK USA line and motor reactors which provide highly engineered, robust, and economical options for protecting variable frequency drives and motors fr...",
+          "link": "https://www.designworldonline.com/line-and-motor-reactors-support-vfd-protection-in-ac-drives/",
           "source": "Design World"
         },
         {
-          "title": "NITRA NCP3 transducers support hazardous-area pressure control",
-          "summary": "AutomationDirect has added NITRA NCP3 series explosion-proof current-to-pneumatic (I/P) transducers which provide precise pressure control in hazardous areas where rugged construct...",
-          "link": "https://www.designworldonline.com/nitra-ncp3-transducers-support-hazardous-area-pressure-control/",
+          "title": "ABB Robotics and NVIDIA launch physical AI education program",
+          "summary": "ABB Robotics has developed an education program with NVIDIA AI technologies focused on physical AI and related skills for industrial applications. In the white paper supporting the...",
+          "link": "https://www.designworldonline.com/abb-robotics-and-nvidia-launch-physical-ai-education-program/",
           "source": "Design World"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i4.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg"
         },
         {
-          "title": "OpenAI Claims It Just Did The Impossible",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 OpenAI's paper is available here:\nhttps://github.com/openai/math/blob/main/preprints/The-Expon...",
-          "link": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+          "title": "This Is The Future of AI - With Spencer Huang",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAd...",
+          "link": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i4.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg"
+          "thumbnail": "https://i1.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg"
         }
       ]
     }
