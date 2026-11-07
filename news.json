@@ -1,91 +1,91 @@
 {
-  "last_updated": "Friday, November 06, 2026 at 01:52 PM IST",
-  "last_updated_iso": "2026-11-06T13:52:59.515769",
+  "last_updated": "Saturday, November 07, 2026 at 01:10 PM IST",
+  "last_updated_iso": "2026-11-07T13:10:03.546871",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24797.15,
-        "change": 836.5500000000029,
-        "change_pct": 3.4913566438236225,
+        "price": 25030.35,
+        "change": 493.75,
+        "change_pct": 2.0122999926640204,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 80206.79,
-        "change": 2905.3899999999994,
-        "change_pct": 3.7585218378968555,
+        "price": 81028.02,
+        "change": 1718.020000000004,
+        "change_pct": 2.166208548732826,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 58516.85,
-        "change": 2603.25,
-        "change_pct": 4.655844016482573,
+        "price": 59086.0,
+        "change": 1312.4000000000015,
+        "change_pct": 2.2716257944805265,
         "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "ICICI Bank",
-        "price": 1547.8,
-        "change": 47.799999999999955,
-        "change_pct": 3.1866666666666634,
+        "price": 1571.2,
+        "change": 71.20000000000005,
+        "change_pct": 4.74666666666667,
         "is_up": true
       },
       {
         "name": "HDFC Bank",
-        "price": 781.05,
-        "change": 21.049999999999955,
-        "change_pct": 2.769736842105257,
+        "price": 788.25,
+        "change": 28.25,
+        "change_pct": 3.7171052631578947,
         "is_up": true
       },
       {
-        "name": "Sun Pharma",
-        "price": 1865.0,
-        "change": 36.0,
-        "change_pct": 1.9682886823400765,
+        "name": "Bharti Airtel",
+        "price": 2107.2,
+        "change": 50.29999999999973,
+        "change_pct": 2.445427585201017,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1165.3,
-        "change": -2.1000000000001364,
-        "change_pct": -0.17988692821656127,
+        "name": "Wipro",
+        "price": 198.0,
+        "change": -0.4000000000000057,
+        "change_pct": -0.2016129032258093,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 198.4,
-        "change": 0.0,
-        "change_pct": 0.0,
+        "name": "TCS",
+        "price": 2498.5,
+        "change": 2.800000000000182,
+        "change_pct": 0.11219297191169539,
         "is_up": true
       },
       {
         "name": "Reliance",
-        "price": 1313.4,
-        "change": 0.0,
-        "change_pct": 0.0,
+        "price": 1320.0,
+        "change": 6.599999999999909,
+        "change_pct": 0.5025125628140634,
         "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 93.945,
-        "change": -0.5200000000000102,
-        "change_pct": -0.5504684274599165,
+        "price": 93.91,
+        "change": -0.5550000000000068,
+        "change_pct": -0.5875191870004836,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4063.5,
-        "change": -50.0,
-        "change_pct": -1.215509906405737,
+        "price": 4074.9,
+        "change": -38.59999999999991,
+        "change_pct": -0.9383736477452269,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-          "summary": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns....",
-          "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+          "title": "Sequoia shutting down its Scouts program marks the end of an era",
+          "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form....",
+          "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
           "source": "TechCrunch"
         },
         {
-          "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-          "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source....",
-          "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+          "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+          "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hol...",
+          "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI is stepping back from NDAs for data center projects",
+          "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
           "source": "The Verge"
         },
         {
-          "title": "Airbnb is working on an AI travel agent",
+          "title": "China reportedly recruited AI exec to spy on Jensen Huang",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+          "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
           "source": "The Verge"
         },
         {
-          "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-          "summary": "\"This is going to be a game-changer.\"...",
-          "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+          "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+          "summary": "It's the exact path, not the apparent severity that matters most, doctors say....",
+          "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
           "source": "Ars Technica"
         }
       ]
@@ -130,34 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "HCC Q2 profit slumps 53% to Rs 22 crore",
-          "summary": "Hindustan Construction Company reported a decline in consolidated net profit for the September quarter of FY27. Income and expenses also saw a reduction in comparison to the previo...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcc-q2-profit-slumps-53-to-rs-22-crore/articleshow/135599840.cms",
+          "title": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
+          "summary": "Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. This sharp sell-off brings forth doubts about the viability of ...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Rupee falls 9 paise to 94.50 against US dollar in early trade",
-          "summary": "In early trading on Friday, the rupee slipped by 9 paise to reach 94.50 against the US dollar, driven by a robust dollar and surging crude oil prices. After a brief bounce-back, it...",
-          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-9-paise-to-94-50-against-us-dollar-in-early-trade/articleshow/135597848.cms",
+          "title": "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2083. See full list",
+          "summary": "In this environment, sustainable wealth creation is likely to depend less on broad-based market movements and more on identifying businesses capable of delivering consistent earnin...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
-          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
-          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
-          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
-          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
-          "source": "Moneycontrol Business"
-        },
-        {
-          "title": "'Anti-AI' trade puts Indian stocks ahead of Asian peers amid global selloff",
-          "summary": "Indian equities are headed for their biggest weekly gain in over five years, as a global selloff in AI stocks, falling crude oil prices and improving earnings prospects boost the m...",
-          "link": "https://www.business-standard.com/markets/news/anti-ai-trade-puts-indian-stocks-ahead-of-asian-peers-amid-global-selloff-126110600874_1.html",
+          "title": "India should scrap capital gains tax on foreign investors: Edelweiss chief",
+          "summary": "Edelweiss Financial Services Chairman Rashesh Shah said scrapping capital gains tax for FPIs could help revive inflows into Indian equities and support the rupee amid heavy oversea...",
+          "link": "https://www.business-standard.com/markets/news/india-should-scrap-equity-tax-on-foreign-investors-says-edelweiss-chief-126110700243_1.html",
           "source": "Business Standard Markets"
+        },
+        {
+          "title": "Wall Street rebounds as chip stocks rally after heavy AI-related selloff",
+          "summary": "The S&P 500 and Nasdaq closed higher, led by technology and semiconductor stocks, with the Philadelphia Semiconductor Index gaining 4.2%. All three major US indexes, however, poste...",
+          "link": "https://www.business-standard.com/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html",
+          "source": "Business Standard Markets"
+        },
+        {
+          "title": "Tata Power's $650 million debt battle: Why Singapore court ordered seizure, sale of shares in local firm",
+          "summary": "The latest enforcement order was issued after the SICC, on August 26, 2026, dismissed all of Tata Power's applications to set aside the arbitration awards issued in Kleros's favour...",
+          "link": "https://www.livemint.com/companies/tata-powers-650-million-debt-battle-why-singapore-court-ordered-seizure-sale-of-shares-in-local-firm-11794035897676.html",
+          "source": "Livemint Companies"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Edwards Lifesciences raises 2026 outlook after Q3 exceeds growth expectations",
-          "summary": "Edwards 11.2% YoY growth in Q3 was driven by sales growth in its TAVR and TMTT segments at 8% and 44%, respectively. The post Edwards Lifesciences raises 2026 outlook after Q3 exce...",
-          "link": "https://www.medicaldevice-network.com/news/edwards-lifesciences-raises-2026-outlook-after-q3-exceeds-growth-expectations/",
+          "title": "Cyberattack on trio of French blood storage sites highlights security blind spots",
+          "summary": "The cyberattack on the French National Blood Establishment (EFS) was fortunately detected before any damage could be done. The post Cyberattack on trio of French blood storage site...",
+          "link": "https://www.medicaldevice-network.com/news/cyberattack-on-trio-of-french-blood-storage-sites-highlights-security-blind-spots/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "How Satin Group’s Sankalp plans to empower India’s next wave of founders",
-          "summary": "University incubators play an important role in nurturing early-stage ideas, but Sankalp aims to go further by helping entrepreneurs bridge the gap between developing a concept and...",
-          "link": "https://yourstory.com/2026/11/how-satin-groups-sankalp-plans-empower-indias-next-wave-founders",
+          "title": "When code is cheap, trust is not: Inside the AI-era engineering roundtable",
+          "summary": "In a closed-door roundtable, leaders from logistics, healthcare, telecom, fintech, and e-commerce discussed where to automate, where to keep humans in charge, and why observability...",
+          "link": "https://yourstory.com/2026/11/when-code-is-cheap-trust-is-not-inside-the-ai-era-engineering-roundtable",
           "source": "YourStory"
         },
         {
-          "title": "Why operational excellence will define the next phase of India’s startup growth",
-          "summary": "Startups often prioritise funding, sales and expansion while overlooking the operational foundations needed to sustain growth. The article explores why strong processes, reliable d...",
-          "link": "https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth",
+          "title": "India rebased its GDP. It still can’t see the Rs 34.5 lakh crore women do free",
+          "summary": "India’s GDP leaves out unpaid care work worth up to 17% of GDP, mostly done by women. Measuring it is key to more women in jobs....",
+          "link": "https://yourstory.com/2026/11/india-gdp-unpaid-care-work-women-workforce",
           "source": "YourStory"
         },
         {
-          "title": "TRAI Backs Direct-To-Device Satellite Connectivity, Proposes New Authorisation Framework",
-          "summary": "The Telecom Regulatory Authority of India (TRAI) has recommended allowing direct-to-device (D2D) satellite connectivity and creating a separate authorisation for&#8230;...",
-          "link": "https://inc42.com/buzz/trai-backs-direct-to-device-satellite-connectivity-proposes-new-authorisation-framework/",
+          "title": "From GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week",
+          "summary": "Startup funding activity gathered steam in the first week of November. As per Inc42 data, 20 Indian startups cumulatively raised&#8230;...",
+          "link": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -211,35 +211,16 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Line and motor reactors support VFD protection in AC drives",
-          "summary": "AutomationDirect now offers BLOCK USA line and motor reactors which provide highly engineered, robust, and economical options for protecting variable frequency drives and motors fr...",
-          "link": "https://www.designworldonline.com/line-and-motor-reactors-support-vfd-protection-in-ac-drives/",
+          "title": "AI Engineering Board quarterly outcomes report is released",
+          "summary": "The AI Engineering Board held its first meeting in September 2026, led by Design World Editor-in-Chief Rachael Pasini and Engineering.com Senior Editor Michael Ouellette. The board...",
+          "link": "https://www.designworldonline.com/ai-engineering-board-quarterly-outcomes-report-is-released/",
           "source": "Design World"
         },
         {
-          "title": "ABB Robotics and NVIDIA launch physical AI education program",
-          "summary": "ABB Robotics has developed an education program with NVIDIA AI technologies focused on physical AI and related skills for industrial applications. In the white paper supporting the...",
-          "link": "https://www.designworldonline.com/abb-robotics-and-nvidia-launch-physical-ai-education-program/",
+          "title": "PI shows MagLev motion systems at SEMICON West",
+          "summary": "PI (Physik Instrumente) showed several high-precision motion systems based on magnetic levitation technology at SEMICON West 2026. The systems provide six-axis control without mech...",
+          "link": "https://www.designworldonline.com/pi-shows-maglev-motion-systems-at-semicon-west/",
           "source": "Design World"
-        }
-      ]
-    },
-    "📺 TOP TECH VIDEOS": {
-      "color": "#ff0000",
-      "items": [
-        {
-          "title": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
-          "summary": "iPad Mini 8 Refresh gets a big refresh and a big price bump and a LOT of laddering\n\nProtect and make your iPad more user-friendly with dbrand at https://dbrand.com/shop/ipad\n\nMKBHD...",
-          "link": "https://www.youtube.com/watch?v=g6Die8gVFn0",
-          "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg"
-        },
-        {
-          "title": "This Is The Future of AI - With Spencer Huang",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAd...",
-          "link": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg"
         }
       ]
     }
