@@ -1,6 +1,6 @@
 {
-  "last_updated": "Saturday, November 07, 2026 at 01:10 PM IST",
-  "last_updated_iso": "2026-11-07T13:10:03.546871",
+  "last_updated": "Sunday, November 08, 2026 at 01:19 PM IST",
+  "last_updated_iso": "2026-11-08T13:19:32.546456",
   "market": {
     "indices": [
       {
@@ -13,15 +13,15 @@
       {
         "name": "Sensex",
         "price": 81028.02,
-        "change": 1718.020000000004,
-        "change_pct": 2.166208548732826,
+        "change": 1718.0100000000093,
+        "change_pct": 2.166195666852153,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
         "price": 59086.0,
-        "change": 1312.4000000000015,
-        "change_pct": 2.2716257944805265,
+        "change": 1312.3499999999985,
+        "change_pct": 2.271537283865566,
         "is_up": true
       }
     ],
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Sequoia shutting down its Scouts program marks the end of an era",
-          "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form....",
-          "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+          "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+          "summary": "On Equity, we unpacked what the midterms mean for the tech industry....",
+          "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
           "source": "TechCrunch"
         },
         {
-          "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-          "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hol...",
-          "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+          "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO....",
+          "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
           "source": "TechCrunch"
         },
         {
-          "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+          "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+          "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
           "source": "The Verge"
         },
         {
-          "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+          "title": "Costco members can get $5 off the reimagined Ocarina of Time",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+          "link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
           "source": "The Verge"
         },
         {
-          "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-          "summary": "It's the exact path, not the apparent severity that matters most, doctors say....",
-          "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+          "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+          "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa....",
+          "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
           "source": "Ars Technica"
         }
       ]
@@ -130,34 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
-          "summary": "Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. This sharp sell-off brings forth doubts about the viability of ...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+          "title": "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
+          "summary": "Despite the Nifty 50 declining nearly 3% since Diwali 2025, eight BSE 500 stocks more than doubled investors' wealth. Data from ACE Equities shows Aditya Infotech, HFCL, and Welspu...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2083. See full list",
-          "summary": "In this environment, sustainable wealth creation is likely to depend less on broad-based market movements and more on identifying businesses capable of delivering consistent earnin...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms",
+          "title": "Muhurat Trading 2026 Live Updates: Diwali Muhurat Trading 2026; check NSE, BSE and MCX timings, market outlook and key details",
+          "summary": "",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "India should scrap capital gains tax on foreign investors: Edelweiss chief",
-          "summary": "Edelweiss Financial Services Chairman Rashesh Shah said scrapping capital gains tax for FPIs could help revive inflows into Indian equities and support the rupee amid heavy oversea...",
-          "link": "https://www.business-standard.com/markets/news/india-should-scrap-equity-tax-on-foreign-investors-says-edelweiss-chief-126110700243_1.html",
-          "source": "Business Standard Markets"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Wall Street rebounds as chip stocks rally after heavy AI-related selloff",
-          "summary": "The S&P 500 and Nasdaq closed higher, led by technology and semiconductor stocks, with the Philadelphia Semiconductor Index gaining 4.2%. All three major US indexes, however, poste...",
-          "link": "https://www.business-standard.com/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html",
-          "source": "Business Standard Markets"
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Tata Power's $650 million debt battle: Why Singapore court ordered seizure, sale of shares in local firm",
-          "summary": "The latest enforcement order was issued after the SICC, on August 26, 2026, dismissed all of Tata Power's applications to set aside the arbitration awards issued in Kleros's favour...",
-          "link": "https://www.livemint.com/companies/tata-powers-650-million-debt-battle-why-singapore-court-ordered-seizure-sale-of-shares-in-local-firm-11794035897676.html",
-          "source": "Livemint Companies"
+          "title": "Bullion may remain under pressure as markets track US-Iran war, inflation",
+          "summary": "Bullion prices are likely to remain under pressure next week as investors track developments in the US-Iran conflict, movements in crude oil prices and inflation data for cues on t...",
+          "link": "https://www.business-standard.com/markets/commodities/bullion-may-remain-under-pressure-as-markets-track-us-iran-war-inflation-126110800179_1.html",
+          "source": "Business Standard Markets"
         }
       ]
     },
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
+          "title": "How Satin Group’s Sankalp plans to empower India’s next wave of founders",
+          "summary": "University incubators play an important role in nurturing early-stage ideas, but Sankalp aims to go further by helping entrepreneurs bridge the gap between developing a concept and...",
+          "link": "https://yourstory.com/2026/11/how-satin-groups-sankalp-plans-empower-indias-next-wave-founders",
+          "source": "YourStory"
+        },
+        {
           "title": "When code is cheap, trust is not: Inside the AI-era engineering roundtable",
           "summary": "In a closed-door roundtable, leaders from logistics, healthcare, telecom, fintech, and e-commerce discussed where to automate, where to keep humans in charge, and why observability...",
           "link": "https://yourstory.com/2026/11/when-code-is-cheap-trust-is-not-inside-the-ai-era-engineering-roundtable",
           "source": "YourStory"
         },
         {
-          "title": "India rebased its GDP. It still can’t see the Rs 34.5 lakh crore women do free",
-          "summary": "India’s GDP leaves out unpaid care work worth up to 17% of GDP, mostly done by women. Measuring it is key to more women in jobs....",
-          "link": "https://yourstory.com/2026/11/india-gdp-unpaid-care-work-women-workforce",
-          "source": "YourStory"
-        },
-        {
-          "title": "From GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week",
-          "summary": "Startup funding activity gathered steam in the first week of November. As per Inc42 data, 20 Indian startups cumulatively raised&#8230;...",
-          "link": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
+          "title": "Pronto’s Second Shift",
+          "summary": "&#160; Anjali Sardana and Pronto entered India’s domestic services market in 2025 to solve a familiar urban problem: finding reliable&#8230;...",
+          "link": "https://inc42.com/features/prontos-second-shift/",
           "source": "Inc42"
         }
       ]
@@ -211,16 +211,28 @@
       "color": "#0891b2",
       "items": [
         {
+          "title": "The Boeing 737 MAX: A preventable disaster",
+          "summary": "Two major accidents involving a redesigned Boeing aircraft, the 737 MAX, can teach us a lot about how some engineering and management decisions can have catastrophic impacts down t...",
+          "link": "https://www.designworldonline.com/the-boeing-737-max-a-preventable-disaster/",
+          "source": "Design World"
+        },
+        {
           "title": "AI Engineering Board quarterly outcomes report is released",
           "summary": "The AI Engineering Board held its first meeting in September 2026, led by Design World Editor-in-Chief Rachael Pasini and Engineering.com Senior Editor Michael Ouellette. The board...",
           "link": "https://www.designworldonline.com/ai-engineering-board-quarterly-outcomes-report-is-released/",
           "source": "Design World"
-        },
+        }
+      ]
+    },
+    "📺 TOP TECH VIDEOS": {
+      "color": "#ff0000",
+      "items": [
         {
-          "title": "PI shows MagLev motion systems at SEMICON West",
-          "summary": "PI (Physik Instrumente) showed several high-precision motion systems based on magnetic levitation technology at SEMICON West 2026. The systems provide six-axis control without mech...",
-          "link": "https://www.designworldonline.com/pi-shows-maglev-motion-systems-at-semicon-west/",
-          "source": "Design World"
+          "title": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
+          "summary": "Meta's new headset is an ultra light hybrid headset that reminds me...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nIntro Track: Paperboys: All About - https://geni.us/R93EQ\nPlaylist of MK...",
+          "link": "https://www.youtube.com/watch?v=_x58r9TBois",
+          "source": "MKBHD",
+          "thumbnail": "https://i4.ytimg.com/vi/_x58r9TBois/hqdefault.jpg"
         }
       ]
     }
