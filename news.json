@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, November 08, 2026 at 01:19 PM IST",
-  "last_updated_iso": "2026-11-08T13:19:32.546456",
+  "last_updated": "Monday, November 09, 2026 at 02:02 PM IST",
+  "last_updated_iso": "2026-11-09T14:02:58.833053",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 25030.35,
-        "change": 493.75,
-        "change_pct": 2.0122999926640204,
-        "is_up": true
+        "price": 24924.1,
+        "change": -62.30000000000291,
+        "change_pct": -0.24933563858740318,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 81028.02,
-        "change": 1718.0100000000093,
-        "change_pct": 2.166195666852153,
-        "is_up": true
+        "price": 80788.26,
+        "change": -211.13999999999942,
+        "change_pct": -0.2606685975451663,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 59086.0,
-        "change": 1312.3499999999985,
-        "change_pct": 2.271537283865566,
+        "price": 59318.2,
+        "change": 467.54999999999563,
+        "change_pct": 0.7944687102011544,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "ICICI Bank",
-        "price": 1571.2,
-        "change": 71.20000000000005,
-        "change_pct": 4.74666666666667,
-        "is_up": true
-      },
-      {
         "name": "HDFC Bank",
-        "price": 788.25,
-        "change": 28.25,
-        "change_pct": 3.7171052631578947,
+        "price": 794.2,
+        "change": 10.100000000000023,
+        "change_pct": 1.2881010075245534,
         "is_up": true
       },
       {
-        "name": "Bharti Airtel",
-        "price": 2107.2,
-        "change": 50.29999999999973,
-        "change_pct": 2.445427585201017,
+        "name": "ICICI Bank",
+        "price": 1581.4,
+        "change": 16.40000000000009,
+        "change_pct": 1.047923322683712,
+        "is_up": true
+      },
+      {
+        "name": "L&T",
+        "price": 4152.0,
+        "change": 42.0,
+        "change_pct": 1.0218978102189782,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Wipro",
-        "price": 198.0,
-        "change": -0.4000000000000057,
-        "change_pct": -0.2016129032258093,
+        "name": "Infosys",
+        "price": 1150.0,
+        "change": -21.59999999999991,
+        "change_pct": -1.8436326391259739,
+        "is_up": false
+      },
+      {
+        "name": "Bharti Airtel",
+        "price": 2048.9,
+        "change": -36.59999999999991,
+        "change_pct": -1.7549748261807676,
         "is_up": false
       },
       {
         "name": "TCS",
-        "price": 2498.5,
-        "change": 2.800000000000182,
-        "change_pct": 0.11219297191169539,
-        "is_up": true
-      },
-      {
-        "name": "Reliance",
-        "price": 1320.0,
-        "change": 6.599999999999909,
-        "change_pct": 0.5025125628140634,
-        "is_up": true
+        "price": 2459.0,
+        "change": -39.80000000000018,
+        "change_pct": -1.5927645269729542,
+        "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 93.91,
-        "change": -0.5550000000000068,
-        "change_pct": -0.5875191870004836,
-        "is_up": false
+        "price": 93.9875,
+        "change": 0.09250000000000114,
+        "change_pct": 0.09851429788593764,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4074.9,
-        "change": -38.59999999999991,
-        "change_pct": -0.9383736477452269,
-        "is_up": false
+        "price": 4099.8,
+        "change": 24.90000000000009,
+        "change_pct": 0.6110579400721512,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-          "summary": "On Equity, we unpacked what the midterms mean for the tech industry....",
-          "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+          "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+          "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays o...",
+          "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
           "source": "TechCrunch"
         },
         {
-          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-          "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO....",
-          "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+          "title": "Apps to distract you from the endless cycle of doomscrolling",
+          "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive....",
+          "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
           "source": "TechCrunch"
         },
         {
-          "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+          "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
           "source": "The Verge"
         },
         {
-          "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+          "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+          "link": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
           "source": "The Verge"
         },
         {
-          "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-          "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa....",
-          "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+          "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+          "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not....",
+          "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
-          "summary": "Despite the Nifty 50 declining nearly 3% since Diwali 2025, eight BSE 500 stocks more than doubled investors' wealth. Data from ACE Equities shows Aditya Infotech, HFCL, and Welspu...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms",
+          "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
+          "summary": "MakeMyTrip's India subsidiary, MMT India, has received approval from Sebi for an initial public offering. This approval follows a confidential filing of draft papers made in July. ...",
+          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/articleshow/135675673.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Muhurat Trading 2026 Live Updates: Diwali Muhurat Trading 2026; check NSE, BSE and MCX timings, market outlook and key details",
-          "summary": "",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms",
+          "title": "Indian bonds drift with oil; inflation data in focus",
+          "summary": "Indian government bonds exhibited limited movement today as oil prices showed signs of stabilization. Investors are remaining cautious, especially with inflation data from both the...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-with-oil-inflation-data-in-focus/articleshow/135674915.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Bullion may remain under pressure as markets track US-Iran war, inflation",
-          "summary": "Bullion prices are likely to remain under pressure next week as investors track developments in the US-Iran conflict, movements in crude oil prices and inflation data for cues on t...",
-          "link": "https://www.business-standard.com/markets/commodities/bullion-may-remain-under-pressure-as-markets-track-us-iran-war-inflation-126110800179_1.html",
+          "title": "Uno Minda zooms 26% in November, stock nears record high; here's why",
+          "summary": "Uno Minda's share price hit a 52-week high of ₹1,367.50, gaining 4% on the NSE in Monday's intraday deals....",
+          "link": "https://www.business-standard.com/markets/news/uno-minda-zooms-26-in-november-stock-nears-record-high-here-s-why-126110900464_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "How Satin Group’s Sankalp plans to empower India’s next wave of founders",
-          "summary": "University incubators play an important role in nurturing early-stage ideas, but Sankalp aims to go further by helping entrepreneurs bridge the gap between developing a concept and...",
-          "link": "https://yourstory.com/2026/11/how-satin-groups-sankalp-plans-empower-indias-next-wave-founders",
+          "title": "Artist Bhagya Ajaikumar explains how good curation balances individual expression and collective vision",
+          "summary": "In this photo essay, we showcase the ‘Bhoomi’ exhibition at Venkatappa Art Gallery, along with curator insights....",
+          "link": "https://yourstory.com/2026/11/bhagya-ajaikumar-art-curation-creativity-exhibition-photography",
           "source": "YourStory"
         },
         {
-          "title": "When code is cheap, trust is not: Inside the AI-era engineering roundtable",
-          "summary": "In a closed-door roundtable, leaders from logistics, healthcare, telecom, fintech, and e-commerce discussed where to automate, where to keep humans in charge, and why observability...",
-          "link": "https://yourstory.com/2026/11/when-code-is-cheap-trust-is-not-inside-the-ai-era-engineering-roundtable",
+          "title": "(Weekly funding roundup Oct 31-Nov 6) Sharp rise in capital inflow",
+          "summary": "The total funding for the first week of November was $263 million across 23 deals, compared to just $115 million in the previous week....",
+          "link": "https://yourstory.com/2026/11/weekly-funding-roundup-oct-31-nov-6-sharp-rise-in-capital-inflow",
           "source": "YourStory"
         },
         {
-          "title": "Pronto’s Second Shift",
-          "summary": "&#160; Anjali Sardana and Pronto entered India’s domestic services market in 2025 to solve a familiar urban problem: finding reliable&#8230;...",
-          "link": "https://inc42.com/features/prontos-second-shift/",
+          "title": "Profits Are Just Half The Story This Earnings Season",
+          "summary": "The 2026 festive season began in muted fashion, but the performance of some of the key new-age tech stocks in&#8230;...",
+          "link": "https://inc42.com/features/profits-are-just-half-the-story-this-earnings-season/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "The Boeing 737 MAX: A preventable disaster",
-          "summary": "Two major accidents involving a redesigned Boeing aircraft, the 737 MAX, can teach us a lot about how some engineering and management decisions can have catastrophic impacts down t...",
-          "link": "https://www.designworldonline.com/the-boeing-737-max-a-preventable-disaster/",
+          "title": "AutomationDirect adds vibration transmitters for monitoring",
+          "summary": "AutomationDirect has added the ProSense VCT-16G-3001 3-axis digital vibration transmitter, which measures acceleration, velocity and displacement on three axes and also monitors te...",
+          "link": "https://www.designworldonline.com/automationdirect-adds-vibration-transmitters-for-monitoring/",
           "source": "Design World"
         },
         {
-          "title": "AI Engineering Board quarterly outcomes report is released",
-          "summary": "The AI Engineering Board held its first meeting in September 2026, led by Design World Editor-in-Chief Rachael Pasini and Engineering.com Senior Editor Michael Ouellette. The board...",
-          "link": "https://www.designworldonline.com/ai-engineering-board-quarterly-outcomes-report-is-released/",
+          "title": "The Boeing 737 MAX: A preventable disaster",
+          "summary": "Two major accidents involving a redesigned Boeing aircraft, the 737 MAX, can teach us a lot about how some engineering and management decisions can have catastrophic impacts down t...",
+          "link": "https://www.designworldonline.com/the-boeing-737-max-a-preventable-disaster/",
           "source": "Design World"
         }
       ]
@@ -229,10 +229,17 @@
       "items": [
         {
           "title": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
-          "summary": "Meta's new headset is an ultra light hybrid headset that reminds me...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nIntro Track: Paperboys: All About - https://geni.us/R93EQ\nPlaylist of MK...",
+          "summary": "Meta's new headset is an ultra light hybrid headset that reminds me...\n\nVR glasses vs Headsetes: https://youtu.be/_XdD-TQseU4\n\nMKBHD Merch: http://shop.MKBHD.com\n\nIntro Track: Pape...",
           "link": "https://www.youtube.com/watch?v=_x58r9TBois",
           "source": "MKBHD",
           "thumbnail": "https://i4.ytimg.com/vi/_x58r9TBois/hqdefault.jpg"
+        },
+        {
+          "title": "OpenAI's Astra Just Opened The Black Box Of AI",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The Weight Space Programming work is available here:\nhttps://rikiyat.github.io/blog/weight-sp...",
+          "link": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+          "source": "Two Minute Papers (AI)",
+          "thumbnail": "https://i4.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg"
         }
       ]
     }
