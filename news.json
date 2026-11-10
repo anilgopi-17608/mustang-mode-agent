@@ -1,91 +1,91 @@
 {
-  "last_updated": "Monday, November 09, 2026 at 02:02 PM IST",
-  "last_updated_iso": "2026-11-09T14:02:58.833053",
+  "last_updated": "Tuesday, November 10, 2026 at 02:14 PM IST",
+  "last_updated_iso": "2026-11-10T14:14:57.718170",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 24924.1,
-        "change": -62.30000000000291,
-        "change_pct": -0.24933563858740318,
-        "is_up": false
+        "price": 25044.65,
+        "change": 14.350000000002183,
+        "change_pct": 0.05733051541532536,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 80788.26,
-        "change": -211.13999999999942,
-        "change_pct": -0.2606685975451663,
-        "is_up": false
+        "price": 81106.65,
+        "change": 78.64999999999418,
+        "change_pct": 0.09706521202546549,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 59318.2,
-        "change": 467.54999999999563,
-        "change_pct": 0.7944687102011544,
+        "price": 59741.25,
+        "change": 655.25,
+        "change_pct": 1.108976745760417,
         "is_up": true
       }
     ],
     "gainers": [
       {
+        "name": "L&T",
+        "price": 4185.0,
+        "change": 75.0,
+        "change_pct": 1.824817518248175,
+        "is_up": true
+      },
+      {
         "name": "HDFC Bank",
-        "price": 794.2,
-        "change": 10.100000000000023,
-        "change_pct": 1.2881010075245534,
+        "price": 798.15,
+        "change": 14.049999999999955,
+        "change_pct": 1.7918632827445422,
         "is_up": true
       },
       {
         "name": "ICICI Bank",
-        "price": 1581.4,
-        "change": 16.40000000000009,
-        "change_pct": 1.047923322683712,
-        "is_up": true
-      },
-      {
-        "name": "L&T",
-        "price": 4152.0,
-        "change": 42.0,
-        "change_pct": 1.0218978102189782,
+        "price": 1589.0,
+        "change": 24.0,
+        "change_pct": 1.5335463258785942,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Infosys",
-        "price": 1150.0,
-        "change": -21.59999999999991,
-        "change_pct": -1.8436326391259739,
-        "is_up": false
-      },
-      {
-        "name": "Bharti Airtel",
-        "price": 2048.9,
-        "change": -36.59999999999991,
-        "change_pct": -1.7549748261807676,
+        "price": 1154.1,
+        "change": -17.5,
+        "change_pct": -1.4936838511437351,
         "is_up": false
       },
       {
         "name": "TCS",
-        "price": 2459.0,
-        "change": -39.80000000000018,
-        "change_pct": -1.5927645269729542,
+        "price": 2475.4,
+        "change": -23.40000000000009,
+        "change_pct": -0.9364494957579674,
+        "is_up": false
+      },
+      {
+        "name": "Bharti Airtel",
+        "price": 2072.1,
+        "change": -13.400000000000091,
+        "change_pct": -0.6425317669623635,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 93.9875,
-        "change": 0.09250000000000114,
-        "change_pct": 0.09851429788593764,
-        "is_up": true
+        "price": 93.918,
+        "change": -0.001999999999995339,
+        "change_pct": -0.002129471890966076,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4099.8,
-        "change": 24.90000000000009,
-        "change_pct": 0.6110579400721512,
+        "price": 4127.3,
+        "change": 12.800000000000182,
+        "change_pct": 0.3110949082513108,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-          "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays o...",
-          "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "title": "Otter AI can now follow conversations across 30+ languages",
+          "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages....",
+          "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apps to distract you from the endless cycle of doomscrolling",
-          "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive....",
-          "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+          "title": "California’s proposed ‘billionaire tax’ fails to pass",
+          "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders...",
+          "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
           "source": "TechCrunch"
         },
         {
-          "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+          "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+          "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
           "source": "The Verge"
         },
         {
-          "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+          "title": "What could China get from Jensen Huang?",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
           "source": "The Verge"
         },
         {
-          "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-          "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not....",
-          "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+          "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+          "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran....",
+          "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
-          "summary": "MakeMyTrip's India subsidiary, MMT India, has received approval from Sebi for an initial public offering. This approval follows a confidential filing of draft papers made in July. ...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/articleshow/135675673.cms",
+          "title": "Why Rocket Lab shares fell despite record revenue and booming Neutron demand",
+          "summary": "Rocket Lab shares fell over 6% in after-hours trading after the company reported a wider-than-expected Q3 loss despite record revenue and a growing order backlog. Investors also we...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-rocket-lab-shares-fell-despite-record-revenue-and-booming-neutron-demand/slideshow/135702575.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Indian bonds drift with oil; inflation data in focus",
-          "summary": "Indian government bonds exhibited limited movement today as oil prices showed signs of stabilization. Investors are remaining cautious, especially with inflation data from both the...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-with-oil-inflation-data-in-focus/articleshow/135674915.cms",
+          "title": "Why The Trade Desk stock surged 15% despite revenue decline",
+          "summary": "The Trade Desk shares surged 15.5% following stronger-than-expected Q3 earnings and revenue, as AI innovations, Netflix integration, strong customer retention and optimistic Q4 gui...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-the-trade-desk-stock-surged-15-despite-revenue-decline/slideshow/135701057.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Uno Minda zooms 26% in November, stock nears record high; here's why",
-          "summary": "Uno Minda's share price hit a 52-week high of ₹1,367.50, gaining 4% on the NSE in Monday's intraday deals....",
-          "link": "https://www.business-standard.com/markets/news/uno-minda-zooms-26-in-november-stock-nears-record-high-here-s-why-126110900464_1.html",
+          "title": "Asian stocks rise amid falling oil prices on hopes of US-Iran talks",
+          "summary": "Asian markets gained as Brent crude slipped 1% to $91.56 a barrel after Trump signalled a pause in further military strikes against Iran, easing inflation concerns ahead of key US ...",
+          "link": "https://www.business-standard.com/markets/news/asian-stocks-rise-amid-falling-oil-prices-on-hopes-of-us-iran-talks-126111000080_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Cyberattack on trio of French blood storage sites highlights security blind spots",
-          "summary": "The cyberattack on the French National Blood Establishment (EFS) was fortunately detected before any damage could be done. The post Cyberattack on trio of French blood storage site...",
-          "link": "https://www.medicaldevice-network.com/news/cyberattack-on-trio-of-french-blood-storage-sites-highlights-security-blind-spots/",
+          "title": "AHA26: AI plaque analysis bests standard of care in suspected CAD patients",
+          "summary": "Cleerly’s highlighted that its PARAMOUNT trial demonstrated medical management and interventional treatment benefits in suspected CAD patients. The post AHA26: AI plaque analysis b...",
+          "link": "https://www.medicaldevice-network.com/news/aha26-ai-plaque-analysis-bests-standard-of-care-in-suspected-cad-patients/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Artist Bhagya Ajaikumar explains how good curation balances individual expression and collective vision",
-          "summary": "In this photo essay, we showcase the ‘Bhoomi’ exhibition at Venkatappa Art Gallery, along with curator insights....",
-          "link": "https://yourstory.com/2026/11/bhagya-ajaikumar-art-curation-creativity-exhibition-photography",
+          "title": "Neha Nagar wants to help people take control of their financial future through her debut book",
+          "summary": "'Simple Money Serious Wealth', which sold over 3,000 copies on launch day, is another feather in the cap of this popular finance educator and content creator....",
+          "link": "https://yourstory.com/2026/11/neha-nagar-wants-to-help-people-take-control-of-their-financial-future-through-her-debut-book",
           "source": "YourStory"
         },
         {
-          "title": "(Weekly funding roundup Oct 31-Nov 6) Sharp rise in capital inflow",
-          "summary": "The total funding for the first week of November was $263 million across 23 deals, compared to just $115 million in the previous week....",
-          "link": "https://yourstory.com/2026/11/weekly-funding-roundup-oct-31-nov-6-sharp-rise-in-capital-inflow",
+          "title": "Arka Fincap raises Rs 525 Cr from The Rise Funds of TPG",
+          "summary": "Arka Fincap was founded in 2018 Arka Fincap will use this capital for expansion, investments into technology and risk management capabilities Arka Fincap Limited, a Kirloskar Group...",
+          "link": "https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg",
           "source": "YourStory"
         },
         {
-          "title": "Profits Are Just Half The Story This Earnings Season",
-          "summary": "The 2026 festive season began in muted fashion, but the performance of some of the key new-age tech stocks in&#8230;...",
-          "link": "https://inc42.com/features/profits-are-just-half-the-story-this-earnings-season/",
+          "title": "Sarvam Ropes In Google Cloud India MD Sashikumar Sreedharan As President & CBO",
+          "summary": "AI unicorn Sarvam has appointed former Google Cloud India managing director Sashikumar Sreedharan as its president and chief business officer&#8230;...",
+          "link": "https://inc42.com/buzz/sarvam-ropes-in-google-cloud-india-md-sashikumar-sreedharan-as-president-cbo/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "AutomationDirect adds vibration transmitters for monitoring",
-          "summary": "AutomationDirect has added the ProSense VCT-16G-3001 3-axis digital vibration transmitter, which measures acceleration, velocity and displacement on three axes and also monitors te...",
-          "link": "https://www.designworldonline.com/automationdirect-adds-vibration-transmitters-for-monitoring/",
+          "title": "November 2026 issue: Safety for smarter, more productive automation",
+          "summary": "The November 2026 issue of Design World centers on safety and motion control. The cover story is a conversation with B&#38;R’s Franz Kaufleitner and Stefan Schönegger, who argue th...",
+          "link": "https://www.designworldonline.com/november-2026-issue-safety-for-smarter-more-productive-automation/",
           "source": "Design World"
         },
         {
-          "title": "The Boeing 737 MAX: A preventable disaster",
-          "summary": "Two major accidents involving a redesigned Boeing aircraft, the 737 MAX, can teach us a lot about how some engineering and management decisions can have catastrophic impacts down t...",
-          "link": "https://www.designworldonline.com/the-boeing-737-max-a-preventable-disaster/",
+          "title": "How Apple Rubber’s Rapid Prototyping Kept Whale Research Afloat",
+          "summary": "By John Tranquili, Materials Manager When a researcher studying beluga whales in Cook Inlet, Alaska faced equipment failure that threatened their work, Apple Rubber&#8217;s advance...",
+          "link": "https://www.designworldonline.com/how-apple-rubbers-rapid-prototyping-kept-whale-research-afloat/",
           "source": "Design World"
         }
       ]
