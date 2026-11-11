@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, November 10, 2026 at 02:14 PM IST",
-  "last_updated_iso": "2026-11-10T14:14:57.718170",
+  "last_updated": "Wednesday, November 11, 2026 at 01:40 PM IST",
+  "last_updated_iso": "2026-11-11T13:40:15.274277",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 25044.65,
-        "change": 14.350000000002183,
-        "change_pct": 0.05733051541532536,
+        "price": 25217.65,
+        "change": 173.0,
+        "change_pct": 0.6907662914035533,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 81106.65,
-        "change": 78.64999999999418,
-        "change_pct": 0.09706521202546549,
+        "price": 82005.01,
+        "change": 898.3600000000006,
+        "change_pct": 1.1076280428300276,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 59741.25,
-        "change": 655.25,
-        "change_pct": 1.108976745760417,
+        "price": 60736.8,
+        "change": 995.5500000000029,
+        "change_pct": 1.6664365074383327,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "L&T",
-        "price": 4185.0,
-        "change": 75.0,
-        "change_pct": 1.824817518248175,
+        "name": "Maruti",
+        "price": 13168.0,
+        "change": 240.0,
+        "change_pct": 1.8564356435643563,
         "is_up": true
       },
       {
         "name": "HDFC Bank",
-        "price": 798.15,
-        "change": 14.049999999999955,
-        "change_pct": 1.7918632827445422,
+        "price": 809.8,
+        "change": 11.649999999999977,
+        "change_pct": 1.459625383699803,
         "is_up": true
       },
       {
-        "name": "ICICI Bank",
-        "price": 1589.0,
-        "change": 24.0,
-        "change_pct": 1.5335463258785942,
+        "name": "L&T",
+        "price": 4231.0,
+        "change": 46.0,
+        "change_pct": 1.099163679808841,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1154.1,
-        "change": -17.5,
-        "change_pct": -1.4936838511437351,
+        "name": "ICICI Bank",
+        "price": 1569.3,
+        "change": -19.700000000000045,
+        "change_pct": -1.2397734424166171,
         "is_up": false
       },
       {
         "name": "TCS",
-        "price": 2475.4,
-        "change": -23.40000000000009,
-        "change_pct": -0.9364494957579674,
+        "price": 2446.7,
+        "change": -28.700000000000273,
+        "change_pct": -1.1594085804314562,
         "is_up": false
       },
       {
-        "name": "Bharti Airtel",
-        "price": 2072.1,
-        "change": -13.400000000000091,
-        "change_pct": -0.6425317669623635,
+        "name": "Wipro",
+        "price": 197.22,
+        "change": -1.7800000000000011,
+        "change_pct": -0.8944723618090458,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 93.918,
-        "change": -0.001999999999995339,
-        "change_pct": -0.002129471890966076,
+        "price": 93.688,
+        "change": -0.23000000000000398,
+        "change_pct": -0.2448944824208394,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4127.3,
-        "change": 12.800000000000182,
-        "change_pct": 0.3110949082513108,
+        "price": 4066.0,
+        "change": 35.80000000000018,
+        "change_pct": 0.8882933849436798,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Otter AI can now follow conversations across 30+ languages",
-          "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages....",
-          "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+          "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+          "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now....",
+          "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
           "source": "TechCrunch"
         },
         {
-          "title": "California’s proposed ‘billionaire tax’ fails to pass",
-          "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders...",
-          "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+          "title": "X launches its own clipping feature to spur influencer engagement",
+          "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral....",
+          "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
           "source": "TechCrunch"
         },
         {
-          "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+          "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+          "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
           "source": "The Verge"
         },
         {
-          "title": "What could China get from Jensen Huang?",
+          "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+          "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
           "source": "The Verge"
         },
         {
-          "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-          "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran....",
-          "link": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+          "title": "Seagate's new hybrid drive raises some old questions",
+          "summary": "The FireCuda Forge revisits an old idea, with some familiar questions....",
+          "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Why Rocket Lab shares fell despite record revenue and booming Neutron demand",
-          "summary": "Rocket Lab shares fell over 6% in after-hours trading after the company reported a wider-than-expected Q3 loss despite record revenue and a growing order backlog. Investors also we...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-rocket-lab-shares-fell-despite-record-revenue-and-booming-neutron-demand/slideshow/135702575.cms",
+          "title": "Bajaj Finance to launch share sale worth up to Rs 11,700 cr this week: Report",
+          "summary": "Bajaj Finance Ltd. is gearing up for a major share sale aimed at raising an impressive 117 billion rupees. The initiative seeks to draw in institutional investors, with the specifi...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-said-to-be-set-to-launch-up-to-1-2-billion-share-sale/articleshow/135729545.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Why The Trade Desk stock surged 15% despite revenue decline",
-          "summary": "The Trade Desk shares surged 15.5% following stronger-than-expected Q3 earnings and revenue, as AI innovations, Netflix integration, strong customer retention and optimistic Q4 gui...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-the-trade-desk-stock-surged-15-despite-revenue-decline/slideshow/135701057.cms",
+          "title": "CoreWeave stock jumps after earnings: 7 things driving the AI cloud company's rally",
+          "summary": "​CoreWeave shares surge after beating Q3 earnings expectations, reporting 168% revenue growth and a $132.5 billion backlog, while raising 2026 guidance despite mounting debt and in...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-jumps-after-earnings-7-things-driving-the-ai-cloud-companys-rally/slideshow/135729203.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Asian stocks rise amid falling oil prices on hopes of US-Iran talks",
-          "summary": "Asian markets gained as Brent crude slipped 1% to $91.56 a barrel after Trump signalled a pause in further military strikes against Iran, easing inflation concerns ahead of key US ...",
-          "link": "https://www.business-standard.com/markets/news/asian-stocks-rise-amid-falling-oil-prices-on-hopes-of-us-iran-talks-126111000080_1.html",
+          "title": "Punjab National Bank share price soars 11% in two 2 days; hits 52-week high",
+          "summary": "Share price of Punjab National Bank hit a 52-week high of ₹139, rallying 5% on the BSE in Wednesday's intraday deals amid heavy volume....",
+          "link": "https://www.business-standard.com/markets/news/punjab-national-bank-share-price-soars-11-in-two-2-days-hits-52-week-high-126111100580_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "AHA26: AI plaque analysis bests standard of care in suspected CAD patients",
-          "summary": "Cleerly’s highlighted that its PARAMOUNT trial demonstrated medical management and interventional treatment benefits in suspected CAD patients. The post AHA26: AI plaque analysis b...",
-          "link": "https://www.medicaldevice-network.com/news/aha26-ai-plaque-analysis-bests-standard-of-care-in-suspected-cad-patients/",
+          "title": "Podcast: Driving DBS access for Parkinson’s patients in the UK and Europe",
+          "summary": "A recent survey by Boston Scientific found that UK clinicians view deep-brain stimulation for Parkinson's disease positively, yet feel it is on not reaching enough patients. The po...",
+          "link": "https://www.medicaldevice-network.com/comment/podcast-driving-dbs-access-for-parkinson-patients-in-the-uk-and-europe/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Neha Nagar wants to help people take control of their financial future through her debut book",
-          "summary": "'Simple Money Serious Wealth', which sold over 3,000 copies on launch day, is another feather in the cap of this popular finance educator and content creator....",
-          "link": "https://yourstory.com/2026/11/neha-nagar-wants-to-help-people-take-control-of-their-financial-future-through-her-debut-book",
+          "title": "Why storytelling can be a startup's strongest competitive moat",
+          "summary": "At TechSparks 2026, Shweta Rajpal Kohli, President and CEO of Startup Policy Forum, explained why founders need to tell authentic, distinctive stories and how storytelling can help...",
+          "link": "https://yourstory.com/2026/11/techsparks-2026-masterclass-storytelling-strongest-competitive-moat-startups",
           "source": "YourStory"
         },
         {
-          "title": "Arka Fincap raises Rs 525 Cr from The Rise Funds of TPG",
-          "summary": "Arka Fincap was founded in 2018 Arka Fincap will use this capital for expansion, investments into technology and risk management capabilities Arka Fincap Limited, a Kirloskar Group...",
-          "link": "https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg",
+          "title": "Seed funding’s new reality check in the age of AI",
+          "summary": "At TechSparks 2026, investors from Snowflake for Startups, 247VC, and Endiya discussed how AI is changing seed-stage investing and why founders need to demonstrate more than a work...",
+          "link": "https://yourstory.com/2026/11/seed-fundings-new-reality-check-in-the-age-of-ai",
           "source": "YourStory"
         },
         {
-          "title": "Sarvam Ropes In Google Cloud India MD Sashikumar Sreedharan As President & CBO",
-          "summary": "AI unicorn Sarvam has appointed former Google Cloud India managing director Sashikumar Sreedharan as its president and chief business officer&#8230;...",
-          "link": "https://inc42.com/buzz/sarvam-ropes-in-google-cloud-india-md-sashikumar-sreedharan-as-president-cbo/",
+          "title": "ED Attaches ₹14 Cr Assets In HashPe Crypto Ponzi Fraud Case",
+          "summary": "The Enforcement Directorate (ED), Chennai, has provisionally attached movable and immovable assets worth approximately ₹14.2 Cr in connection with an&#8230;...",
+          "link": "https://inc42.com/buzz/ed-attaches-%e2%82%b914-cr-assets-in-hashpe-crypto-ponzi-fraud-case/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "November 2026 issue: Safety for smarter, more productive automation",
-          "summary": "The November 2026 issue of Design World centers on safety and motion control. The cover story is a conversation with B&#38;R’s Franz Kaufleitner and Stefan Schönegger, who argue th...",
-          "link": "https://www.designworldonline.com/november-2026-issue-safety-for-smarter-more-productive-automation/",
+          "title": "Bison expands access to MAE stepper motors worldwide",
+          "summary": "Bison now offers MAE stepper motors to customers around the world, giving OEMs and equipment designers access to configurable motion-control products. MAE stepper motors combine po...",
+          "link": "https://www.designworldonline.com/bison-expands-access-to-mae-stepper-motors-worldwide/",
           "source": "Design World"
         },
         {
-          "title": "How Apple Rubber’s Rapid Prototyping Kept Whale Research Afloat",
-          "summary": "By John Tranquili, Materials Manager When a researcher studying beluga whales in Cook Inlet, Alaska faced equipment failure that threatened their work, Apple Rubber&#8217;s advance...",
-          "link": "https://www.designworldonline.com/how-apple-rubbers-rapid-prototyping-kept-whale-research-afloat/",
+          "title": "Gates launches Poly Chain Carbon ONE synchronous belt",
+          "summary": "Gates Industrial Corporation Ltd. has announced Poly Chain Carbon ONE, a synchronous belt for its industrial power transmission portfolio. The new belt is part of the company’s Ind...",
+          "link": "https://www.designworldonline.com/gates-launches-poly-chain-carbon-one-synchronous-belt/",
           "source": "Design World"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i4.ytimg.com/vi/_x58r9TBois/hqdefault.jpg"
         },
         {
-          "title": "OpenAI's Astra Just Opened The Black Box Of AI",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The Weight Space Programming work is available here:\nhttps://rikiyat.github.io/blog/weight-sp...",
-          "link": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+          "title": "Is Software Over?",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The papers and sources are available here:\nMirrorCode: https://arxiv.org/abs/2606.30182\nREMEN...",
+          "link": "https://www.youtube.com/watch?v=vug73goPJaM",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i4.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg"
+          "thumbnail": "https://i3.ytimg.com/vi/vug73goPJaM/hqdefault.jpg"
         }
       ]
     }
