@@ -1,92 +1,92 @@
 {
-  "last_updated": "Wednesday, November 11, 2026 at 01:40 PM IST",
-  "last_updated_iso": "2026-11-11T13:40:15.274277",
+  "last_updated": "Thursday, November 12, 2026 at 02:14 PM IST",
+  "last_updated_iso": "2026-11-12T14:14:31.832483",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 25217.65,
-        "change": 173.0,
-        "change_pct": 0.6907662914035533,
+        "price": 25254.65,
+        "change": 209.95000000000073,
+        "change_pct": 0.838301117601731,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 82005.01,
-        "change": 898.3600000000006,
-        "change_pct": 1.1076280428300276,
+        "price": 81878.75,
+        "change": 772.1499999999942,
+        "change_pct": 0.9520187013140659,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 60736.8,
-        "change": 995.5500000000029,
-        "change_pct": 1.6664365074383327,
+        "price": 61454.7,
+        "change": 1713.5,
+        "change_pct": 2.8682048569496432,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Maruti",
-        "price": 13168.0,
-        "change": 240.0,
-        "change_pct": 1.8564356435643563,
+        "name": "ICICI Bank",
+        "price": 1588.6,
+        "change": 17.0,
+        "change_pct": 1.0817001781623823,
         "is_up": true
       },
       {
         "name": "HDFC Bank",
-        "price": 809.8,
-        "change": 11.649999999999977,
-        "change_pct": 1.459625383699803,
+        "price": 810.85,
+        "change": 4.25,
+        "change_pct": 0.5269030498388296,
         "is_up": true
       },
       {
-        "name": "L&T",
-        "price": 4231.0,
-        "change": 46.0,
-        "change_pct": 1.099163679808841,
-        "is_up": true
+        "name": "Reliance",
+        "price": 1334.3,
+        "change": -1.1000000000001364,
+        "change_pct": -0.08237232289951599,
+        "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "ICICI Bank",
-        "price": 1569.3,
-        "change": -19.700000000000045,
-        "change_pct": -1.2397734424166171,
+        "name": "TCS",
+        "price": 2429.7,
+        "change": -42.40000000000009,
+        "change_pct": -1.7151409732616034,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2446.7,
-        "change": -28.700000000000273,
-        "change_pct": -1.1594085804314562,
+        "name": "Maruti",
+        "price": 13005.0,
+        "change": -180.0,
+        "change_pct": -1.3651877133105803,
         "is_up": false
       },
       {
         "name": "Wipro",
-        "price": 197.22,
-        "change": -1.7800000000000011,
-        "change_pct": -0.8944723618090458,
+        "price": 195.39,
+        "change": -2.6000000000000227,
+        "change_pct": -1.313197636244266,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 93.688,
-        "change": -0.23000000000000398,
-        "change_pct": -0.2448944824208394,
-        "is_up": false
+        "price": 93.9725,
+        "change": 0.29249999999998977,
+        "change_pct": 0.31223313407343056,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 4066.0,
-        "change": 35.80000000000018,
-        "change_pct": 0.8882933849436798,
-        "is_up": true
+        "price": 3956.8,
+        "change": -43.69999999999982,
+        "change_pct": -1.0923634545681744,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-          "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now....",
-          "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+          "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+          "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist....",
+          "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
           "source": "TechCrunch"
         },
         {
-          "title": "X launches its own clipping feature to spur influencer engagement",
-          "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral....",
-          "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure....",
+          "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
           "source": "TechCrunch"
         },
         {
-          "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+          "title": "Nvidia is reportedly preparing to fire Jensen Huang",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+          "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
           "source": "The Verge"
         },
         {
-          "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+          "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+          "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
           "source": "The Verge"
         },
         {
-          "title": "Seagate's new hybrid drive raises some old questions",
-          "summary": "The FireCuda Forge revisits an old idea, with some familiar questions....",
-          "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+          "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+          "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future....",
+          "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Bajaj Finance to launch share sale worth up to Rs 11,700 cr this week: Report",
-          "summary": "Bajaj Finance Ltd. is gearing up for a major share sale aimed at raising an impressive 117 billion rupees. The initiative seeks to draw in institutional investors, with the specifi...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-said-to-be-set-to-launch-up-to-1-2-billion-share-sale/articleshow/135729545.cms",
+          "title": "Bloom Energy shares jump 13%: Can the AI power stock sustain its rally?",
+          "summary": "Bloom Energy shares jumped 13% after strong CoreWeave results eased concerns over AI infrastructure spending. But with the stock well below its record high, can the rally last?...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bloom-energy-shares-jump-13-can-the-ai-power-stock-sustain-its-rally/slideshow/135760252.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "CoreWeave stock jumps after earnings: 7 things driving the AI cloud company's rally",
-          "summary": "​CoreWeave shares surge after beating Q3 earnings expectations, reporting 168% revenue growth and a $132.5 billion backlog, while raising 2026 guidance despite mounting debt and in...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-jumps-after-earnings-7-things-driving-the-ai-cloud-companys-rally/slideshow/135729203.cms",
+          "title": "Mahindra &amp; Mahindra among 5 stocks showing White Marubozu Pattern",
+          "summary": "Five stocks in the Nifty500 with a change of more than 5% appeared on the ‘White Marubozu’ bullish scanner, according to StockEdge’s technical scan data....",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/mahindra-amp-mahindra-among-5-stocks-showing-white-marubozu-pattern/slideshow/135758580.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Punjab National Bank share price soars 11% in two 2 days; hits 52-week high",
-          "summary": "Share price of Punjab National Bank hit a 52-week high of ₹139, rallying 5% on the BSE in Wednesday's intraday deals amid heavy volume....",
-          "link": "https://www.business-standard.com/markets/news/punjab-national-bank-share-price-soars-11-in-two-2-days-hits-52-week-high-126111100580_1.html",
+          "title": "Breakout stock: CDSL gains 4%, up 30% from 52-week low; more upside ahead?",
+          "summary": "IDBI Capital said that CDSL has witnessed a decisive breakout from a symmetrical triangle pattern on the chart, indicating a potential trend reversal & strengthening of overall bul...",
+          "link": "https://www.business-standard.com/markets/news/breakout-stock-cdsl-gains-4-up-30-from-52-week-low-more-upside-ahead-126111200681_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Podcast: Driving DBS access for Parkinson’s patients in the UK and Europe",
-          "summary": "A recent survey by Boston Scientific found that UK clinicians view deep-brain stimulation for Parkinson's disease positively, yet feel it is on not reaching enough patients. The po...",
-          "link": "https://www.medicaldevice-network.com/comment/podcast-driving-dbs-access-for-parkinson-patients-in-the-uk-and-europe/",
+          "title": "J&J funds Francis Medical to seek cancer indication for Vanquish device",
+          "summary": "Francis Medical’s water vapour ablation system secured FDA clearance for prostate tissue ablation in November 2025, and is now eyeing an oncology expansion. The post J&amp;J funds ...",
+          "link": "https://www.medicaldevice-network.com/news/jj-funds-francis-medical-to-seek-cancer-indication-for-vanquish-device/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Why storytelling can be a startup's strongest competitive moat",
-          "summary": "At TechSparks 2026, Shweta Rajpal Kohli, President and CEO of Startup Policy Forum, explained why founders need to tell authentic, distinctive stories and how storytelling can help...",
-          "link": "https://yourstory.com/2026/11/techsparks-2026-masterclass-storytelling-strongest-competitive-moat-startups",
+          "title": "Beyond code generation: Five lessons on AI, reliability, and recovery",
+          "summary": "At a TechSparks 2026 roundtable hosted by OPPEX, technology leaders discussed the challenges of maintaining AI-generated code, managing risk, and responding when production systems...",
+          "link": "https://yourstory.com/2026/11/code-generation-ai-reliability-recovery",
           "source": "YourStory"
         },
         {
-          "title": "Seed funding’s new reality check in the age of AI",
-          "summary": "At TechSparks 2026, investors from Snowflake for Startups, 247VC, and Endiya discussed how AI is changing seed-stage investing and why founders need to demonstrate more than a work...",
-          "link": "https://yourstory.com/2026/11/seed-fundings-new-reality-check-in-the-age-of-ai",
+          "title": "Gemini in action: How voice, agents, and coding tools are changing the way businesses use AI",
+          "summary": "At TechSparks 2026, Google Cloud’s Rajesh Shewani walked through how businesses are using Gemini for voice, agents, and coding, and why the systems built around a model now matter ...",
+          "link": "https://yourstory.com/2026/11/gemini-in-action-how-voice-agents-and-coding-tools-are-changing-the-way-businesses-use-ai",
           "source": "YourStory"
         },
         {
-          "title": "ED Attaches ₹14 Cr Assets In HashPe Crypto Ponzi Fraud Case",
-          "summary": "The Enforcement Directorate (ED), Chennai, has provisionally attached movable and immovable assets worth approximately ₹14.2 Cr in connection with an&#8230;...",
-          "link": "https://inc42.com/buzz/ed-attaches-%e2%82%b914-cr-assets-in-hashpe-crypto-ponzi-fraud-case/",
+          "title": "CCPA Fines Ola ₹10 Lakh For Advance Tipping Prompts",
+          "summary": "The Central Consumer Protection Authority (CCPA) has imposed a penalty of ₹10 Lakh on ANI Technologies Pvt Ltd, parent of&#8230;...",
+          "link": "https://inc42.com/buzz/ccpa-fines-ola-%e2%82%b910-lakh-for-advance-tipping-prompts/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Bison expands access to MAE stepper motors worldwide",
-          "summary": "Bison now offers MAE stepper motors to customers around the world, giving OEMs and equipment designers access to configurable motion-control products. MAE stepper motors combine po...",
-          "link": "https://www.designworldonline.com/bison-expands-access-to-mae-stepper-motors-worldwide/",
+          "title": "Big growth in U.S. industrial automation",
+          "summary": "Third quarter numbers show major investment in production robotics and physical AI assets. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. A n...",
+          "link": "https://www.designworldonline.com/big-growth-in-u-s-industrial-automation/",
           "source": "Design World"
         },
         {
-          "title": "Gates launches Poly Chain Carbon ONE synchronous belt",
-          "summary": "Gates Industrial Corporation Ltd. has announced Poly Chain Carbon ONE, a synchronous belt for its industrial power transmission portfolio. The new belt is part of the company’s Ind...",
-          "link": "https://www.designworldonline.com/gates-launches-poly-chain-carbon-one-synchronous-belt/",
+          "title": "Piezo technology for active control of wafer geometry",
+          "summary": "Maintaining wafer geometry is critical to semiconductor processes involving precision handling, inspection, metrology, and bonding. Warpage occurs when layers of silicon, molding c...",
+          "link": "https://www.designworldonline.com/piezo-technology-for-active-control-of-wafer-geometry/",
           "source": "Design World"
         }
       ]
@@ -228,11 +228,11 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
-          "summary": "Meta's new headset is an ultra light hybrid headset that reminds me...\n\nVR glasses vs Headsetes: https://youtu.be/_XdD-TQseU4\n\nMKBHD Merch: http://shop.MKBHD.com\n\nIntro Track: Pape...",
-          "link": "https://www.youtube.com/watch?v=_x58r9TBois",
+          "title": "Macbook PROLED Review: It's Not About That",
+          "summary": "Incredible laptop. But don't get distracted.\n\nProtect and make your MacBook unique with dbrand at https://dbrand.com/shop/macbook\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of M...",
+          "link": "https://www.youtube.com/watch?v=hdMszZ2ah5Q",
           "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/_x58r9TBois/hqdefault.jpg"
+          "thumbnail": "https://i1.ytimg.com/vi/hdMszZ2ah5Q/hqdefault.jpg"
         },
         {
           "title": "Is Software Over?",
