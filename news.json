@@ -1,91 +1,91 @@
 {
-  "last_updated": "Friday, November 13, 2026 at 02:07 PM IST",
-  "last_updated_iso": "2026-11-13T14:07:13.412798",
+  "last_updated": "Saturday, November 14, 2026 at 01:25 PM IST",
+  "last_updated_iso": "2026-11-14T13:25:16.797281",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 25080.95,
-        "change": -174.14999999999782,
-        "change_pct": -0.6895636920859464,
+        "price": 25144.3,
+        "change": -110.79999999999927,
+        "change_pct": -0.43872326777561477,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 81392.62,
-        "change": -486.77999999999884,
-        "change_pct": -0.5945085088557059,
+        "price": 81592.45,
+        "change": -286.9499999999971,
+        "change_pct": -0.3504544488601493,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 60905.8,
-        "change": 113.40000000000146,
-        "change_pct": 0.1865364749541085,
+        "price": 61034.1,
+        "change": 241.6999999999971,
+        "change_pct": 0.39758259256090744,
         "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "Bharti Airtel",
-        "price": 2116.9,
-        "change": 20.90000000000009,
-        "change_pct": 0.9971374045801571,
+        "price": 2106.0,
+        "change": 10.0,
+        "change_pct": 0.4770992366412214,
         "is_up": true
       },
       {
         "name": "Reliance",
-        "price": 1336.8,
-        "change": -2.900000000000091,
-        "change_pct": -0.21646637306860422,
-        "is_up": false
+        "price": 1339.7,
+        "change": 0.0,
+        "change_pct": 0.0,
+        "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 195.25,
-        "change": -0.9499999999999886,
-        "change_pct": -0.4841997961263959,
+        "name": "Sun Pharma",
+        "price": 1880.0,
+        "change": -5.0,
+        "change_pct": -0.2652519893899204,
         "is_up": false
       }
     ],
     "losers": [
       {
         "name": "TCS",
-        "price": 2403.2,
-        "change": -39.20000000000027,
-        "change_pct": -1.60497870946611,
+        "price": 2407.5,
+        "change": -34.90000000000009,
+        "change_pct": -1.4289223714379335,
         "is_up": false
       },
       {
-        "name": "ICICI Bank",
-        "price": 1566.8,
-        "change": -23.200000000000045,
-        "change_pct": -1.4591194968553487,
+        "name": "Maruti",
+        "price": 12854.0,
+        "change": -170.0,
+        "change_pct": -1.3052825552825553,
         "is_up": false
       },
       {
         "name": "HDFC Bank",
-        "price": 801.0,
-        "change": -11.299999999999955,
-        "change_pct": -1.391111658254334,
+        "price": 804.0,
+        "change": -8.299999999999955,
+        "change_pct": -1.021789979071766,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.25,
-        "change": 0.20999999999999375,
-        "change_pct": 0.22330923011483808,
+        "price": 94.24,
+        "change": 0.19999999999998863,
+        "change_pct": 0.212675457252221,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3897.0,
-        "change": 11.699999999999818,
-        "change_pct": 0.30113504748667586,
+        "price": 3886.3,
+        "change": 1.0,
+        "change_pct": 0.025738038246724833,
         "is_up": true
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-          "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke....",
-          "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+          "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+          "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to u...",
+          "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
           "source": "TechCrunch"
         },
         {
-          "title": "Muse can now place calls to US businesses — if you pay",
-          "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free....",
-          "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations....",
+          "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
           "source": "TechCrunch"
         },
         {
-          "title": "Donald Trump really wants Tim Cook to run Nvidia",
+          "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+          "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
           "source": "The Verge"
         },
         {
-          "title": "Xbox announces Wolfenstein 3",
+          "title": "Amazon has a plan to index the world’s online shopping data",
           "summary": "",
-          "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+          "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
           "source": "The Verge"
         },
         {
-          "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
-          "summary": "Men aged 50–69 and at average risk should get PSA screening every two years....",
-          "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "summary": "One way or another, the company will get some more data on Saturday....",
+          "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Cisco shares rally after earnings beat: 6 key things investors need to know",
-          "summary": "Cisco shares surge after strong Q1 FY2027 results, beating analyst estimates. Robust AI data-centre demand drives revenue growth, prompting the networking giant to raise its annual...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cisco-shares-rally-after-earnings-beat-6-key-things-investors-need-to-know/slideshow/135794957.cms",
+          "title": "6 out of 10 top performing largecap stocks in November delivered multibagger returns in long run. Do you own any?",
+          "summary": "Here are the 10 largecap stocks that recorded the biggest jump in November so far, including six who have delivered multibagger returns in the longer run....",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/6-out-of-10-top-performing-largecap-stocks-in-november-delivered-multibagger-returns-in-long-run-do-you-own-any/slideshow/135824732.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Tesla-SpaceX Merger: Musk eyes December deal announcement",
-          "summary": "Tesla and SpaceX are reportedly advancing merger talks, with a potential December announcement. The proposed $3.5 trillion-plus deal could unite their AI, robotics, automotive and ...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-spacex-merger-musk-eyes-december-deal-announcement/slideshow/135793745.cms",
+          "title": "Anthropic IPO buyers have more influence on price than SpaceX",
+          "summary": "Anthropic PBC is gearing up for its initial public offering, setting ambitious price targets to capture investor interest. The firm aspires to achieve record fundraising that could...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex/articleshow/135823355.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Stock under ₹100: Turtlemint hits 5% upper circuit as Q2 loss narrows 67%",
-          "summary": "Turtlemint Fintech's net loss fell about 67 per cent Y-o-Y to ₹25.83 crore in the September quarter. The company had reported a loss of ₹78.45 crore in the year-ago period....",
-          "link": "https://www.business-standard.com/markets/news/stock-under-100-turtlemint-hits-5-upper-circuit-as-q2-loss-narrows-67-126111300718_1.html",
+          "title": "Bitcoin's billion-dollar wipeouts becoming an increasingly familiar sight",
+          "summary": "Large liquidation events - whereby more than $500 million worth of Bitcoin positions are obliterated in a single 24-hour session - are becoming a recurring feature in the market...",
+          "link": "https://www.business-standard.com/markets/cryptocurrency/bitcoin-s-billion-dollar-wipeouts-becoming-an-increasingly-familiar-sight-126111400176_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Virtuoso Surgical’s bladder cancer resection robot secures FDA de novo authorisation",
-          "summary": "De novo authorisation for Virtuoso's system follows its assignation of FDA breakthrough designation in September 2025. The post Virtuoso Surgical’s bladder cancer resection robot s...",
-          "link": "https://www.medicaldevice-network.com/news/virtuoso-surgical-bladder-cancer-resection-robot-secures-fda-de-novo-authorisation/",
+          "title": "Bracco and Avicenna.AI’s brain aneurysm detection tool snags FDA clearance",
+          "summary": "The aneurysm detection tool represents the first product within Bracco’s UPTUNITY portfolio that is positioned to advance its digital health strategy. The post Bracco and Avicenna....",
+          "link": "https://www.medicaldevice-network.com/news/bracco-and-avicenna-ai-brain-aneurysm-detection-tool-snags-fda-clearance/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Beyond the first transaction: Building inclusive digital payments for Bharat",
-          "summary": "At TechSparks 2026, Sagar Kumar of PayU discussed how payment systems can improve accessibility, build user trust, and bring more consumers and small businesses into the digital ec...",
-          "link": "https://yourstory.com/2026/11/beyond-the-first-transaction-building-inclusive-digital-payments-for-bharat",
-          "source": "YourStory"
-        },
-        {
           "title": "One stack, not three silos: How Stelcore’s leaders want Indian brands to go global",
           "summary": "At TechSparks 2026, Stelcore’s Bharat Mandot, Percy Avari and Navin Mistry explained how brands can turn compliance, tech and supply chain into one growth engine....",
           "link": "https://yourstory.com/2026/11/stelcores-leaders-indian-brands-global",
           "source": "YourStory"
         },
         {
-          "title": "Karnataka HC Rejects Razorpay Cofounders’ Plea To Quash SFIO Case",
-          "summary": "The Karnataka High Court (HC) has rejected a plea by Razorpay cofounders Harshil Mathur and Shashank Kumar seeking to quash&#8230;...",
-          "link": "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/",
+          "title": "AI could disrupt India's outsourcing model. It could also create millions of new exporters",
+          "summary": "AI is letting small Indian teams win global work that once needed a big company. As AI separates capability from headcount, it could shape India’s next export story....",
+          "link": "https://yourstory.com/2026/11/ai-could-disrupt-indias-outsourcing-model-could-also-create-millions-new-exporters",
+          "source": "YourStory"
+        },
+        {
+          "title": "From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week",
+          "summary": "The post-festive cheer appears to have done little to lift India&#8217;s startup ecosystem as funding activity lost steam this week.&#8230;...",
+          "link": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "We have to stop meeting like this: 2026 Motion Casebook issue",
-          "summary": "I’ve worked in the B2B publishing industry since 2001, which means I very quietly just passed the 25-year mark in my career. Over that entire span, I’ve only ever covered motion co...",
-          "link": "https://www.designworldonline.com/we-have-to-stop-meeting-like-this-2026-motion-casebook-issue/",
+          "title": "EXAIR expands air knife lineup for different applications",
+          "summary": "EXAIR’s Super Air Knife uses a 40:1 air amplification ratio and entrains ambient air with compressed air to reduce compressed air use. It is available in lengths up to 108 inches a...",
+          "link": "https://www.designworldonline.com/exair-expands-air-knife-lineup-for-different-applications/",
           "source": "Design World"
         },
         {
-          "title": "Big growth in U.S. industrial automation",
-          "summary": "Third quarter numbers show major investment in production robotics and physical AI assets. This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. A n...",
-          "link": "https://www.designworldonline.com/big-growth-in-u-s-industrial-automation/",
+          "title": "What DRC Reports Tell You and What They Don’t",
+          "summary": "By Alexsander Tamari, Technical Marketing Engineer, Altium A clean DRC report feels like a green light. It isn&#8217;t one. A Design Rule Check (DRC) confirms that a PCB layout sat...",
+          "link": "https://www.designworldonline.com/what-drc-reports-tell-you-and-what-they-dont/",
           "source": "Design World"
         }
       ]
@@ -233,13 +233,6 @@
           "link": "https://www.youtube.com/watch?v=hdMszZ2ah5Q",
           "source": "MKBHD",
           "thumbnail": "https://i1.ytimg.com/vi/hdMszZ2ah5Q/hqdefault.jpg"
-        },
-        {
-          "title": "DeepMind’s AI Just Did The Impossible",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The DeepMind paper AlphaProof Code is available here:\nhttps://deepmind.google/blog/introducin...",
-          "link": "https://www.youtube.com/watch?v=gPNiuyYirfw",
-          "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i4.ytimg.com/vi/gPNiuyYirfw/hqdefault.jpg"
         }
       ]
     }
