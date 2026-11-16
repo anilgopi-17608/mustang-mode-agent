@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, November 15, 2026 at 01:47 PM IST",
-  "last_updated_iso": "2026-11-15T13:47:48.245999",
+  "last_updated": "Monday, November 16, 2026 at 01:56 PM IST",
+  "last_updated_iso": "2026-11-16T13:56:56.522072",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 25144.3,
-        "change": -110.79999999999927,
-        "change_pct": -0.43872326777561477,
-        "is_up": false
+        "price": 25214.9,
+        "change": 70.60000000000218,
+        "change_pct": 0.2807793416400623,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 81592.45,
-        "change": -286.9499999999971,
-        "change_pct": -0.3504544488601493,
-        "is_up": false
+        "price": 82010.22,
+        "change": 417.7700000000041,
+        "change_pct": 0.5120204136534742,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 61034.1,
-        "change": 241.6999999999971,
-        "change_pct": 0.39758259256090744,
+        "price": 61370.65,
+        "change": 336.5500000000029,
+        "change_pct": 0.5514130625338998,
         "is_up": true
       }
     ],
     "gainers": [
       {
         "name": "Bharti Airtel",
-        "price": 2106.0,
-        "change": 10.0,
-        "change_pct": 0.4770992366412214,
+        "price": 2147.0,
+        "change": 41.0,
+        "change_pct": 1.94681861348528,
+        "is_up": true
+      },
+      {
+        "name": "HDFC Bank",
+        "price": 815.05,
+        "change": 11.049999999999955,
+        "change_pct": 1.3743781094527305,
         "is_up": true
       },
       {
         "name": "Reliance",
-        "price": 1339.7,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "is_up": true
-      },
-      {
-        "name": "Sun Pharma",
-        "price": 1880.0,
-        "change": -5.0,
-        "change_pct": -0.2652519893899204,
+        "price": 1339.6,
+        "change": -0.10000000000013642,
+        "change_pct": -0.007464357692030784,
         "is_up": false
       }
     ],
     "losers": [
       {
-        "name": "TCS",
-        "price": 2407.5,
-        "change": -34.90000000000009,
-        "change_pct": -1.4289223714379335,
-        "is_up": false
-      },
-      {
         "name": "Maruti",
-        "price": 12854.0,
-        "change": -170.0,
-        "change_pct": -1.3052825552825553,
+        "price": 12561.0,
+        "change": -293.0,
+        "change_pct": -2.279446086821223,
         "is_up": false
       },
       {
-        "name": "HDFC Bank",
-        "price": 804.0,
-        "change": -8.299999999999955,
-        "change_pct": -1.021789979071766,
+        "name": "Wipro",
+        "price": 192.38,
+        "change": -2.219999999999999,
+        "change_pct": -1.140801644398766,
+        "is_up": false
+      },
+      {
+        "name": "TCS",
+        "price": 2394.5,
+        "change": -13.0,
+        "change_pct": -0.5399792315680166,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.24,
-        "change": 0.19999999999998863,
-        "change_pct": 0.212675457252221,
-        "is_up": true
+        "price": 94.03,
+        "change": -0.20000000000000284,
+        "change_pct": -0.21224663058474247,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3886.3,
-        "change": 1.0,
-        "change_pct": 0.025738038246724833,
-        "is_up": true
+        "price": 3862.9,
+        "change": -23.40000000000009,
+        "change_pct": -0.602115122352883,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Where was Nvidia’s security team?",
-          "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of fun...",
-          "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+          "summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQ...",
+          "link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
           "source": "TechCrunch"
         },
         {
-          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-          "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon....",
-          "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "title": "Apple launches new app to study how people use AI for health",
+          "summary": "Apple's new app for a study will answer everyday medical questions...",
+          "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
           "source": "TechCrunch"
         },
         {
-          "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+          "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
           "summary": "",
-          "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+          "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
           "source": "The Verge"
         },
         {
-          "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+          "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+          "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
           "source": "The Verge"
         },
         {
-          "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
-          "summary": "It felt like stepping into the future....",
-          "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+          "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+          "summary": "This was the first total mission failure in United Launch Alliance's 20-year history....",
+          "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Yes Bank moves SC seeking review of order on writing off of Rs 8,415 cr AT-1 bonds",
-          "summary": "Yes Bank has filed a petition with the Supreme Court to review an order from October 15. This order upheld a Bombay High Court ruling that quashed the bank's decision to write off ...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms",
+          "title": "UPL Share Price Live Updates: UPL Surges Above 100-Day Exponential Moving Average",
+          "summary": "",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-live-updates-16-nov-2026/liveblog/135872604.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "RHI Magnesita Q2 net profit jumps 62 pc to over Rs 62 cr",
-          "summary": "RHI Magnesita has reported a remarkable surge in net profit, soaring to Rs 62.09 crore for the September quarter. The consolidated revenues experienced a modest increase, hitting R...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/rhi-magnesita-q2-net-profit-jumps-62-pc-to-over-rs-62-cr/articleshow/135830890.cms",
+          "title": "Technical picks:  ABB India among 5 stocks to buy this week for healthy returns",
+          "summary": "The recent market activity indicates a bullish trend, albeit with minor profit booking influencing trading patterns. Investors are keenly observing macroeconomic factors and intern...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tech-picks-abb-india-among-5-stocks-to-buy-this-week-for-healthy-returns/slideshow/135872688.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Sebi plans AI guardrails for capital markets, focus on investor protection",
-          "summary": "Markets regulator Sebi will soon issue detailed guidelines for the responsible use of Artificial Intelligence (AI) in the capital markets, its chairman Tuhin Kanta Pandey said, emp...",
-          "link": "https://www.business-standard.com/markets/news/sebi-plans-ai-guardrails-for-capital-markets-focus-on-investor-protection-126111500187_1.html",
+          "title": "Patanjali Foods dips 4% as Q2 profit slips but analysts upbeat; here's why",
+          "summary": "Jefferies said that Patanjali Foods' Q2 miss was driven by a shift in festive-season timing and edible-oil margin pressure from the import duty cut....",
+          "link": "https://www.business-standard.com/markets/news/patanjali-foods-share-price-dips-4-as-q2-profit-slips-but-analysts-upbeat-here-s-why-126111601051_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Bracco and Avicenna.AI’s brain aneurysm detection tool snags FDA clearance",
-          "summary": "The aneurysm detection tool represents the first product within Bracco’s UPTUNITY portfolio that is positioned to advance its digital health strategy. The post Bracco and Avicenna....",
-          "link": "https://www.medicaldevice-network.com/news/bracco-and-avicenna-ai-brain-aneurysm-detection-tool-snags-fda-clearance/",
+          "title": "From Hong Kong to Düsseldorf: HKSTP Makes MEDICA Debut with Breakthrough MedTech Ventures",
+          "summary": "The post From Hong Kong to Düsseldorf: HKSTP Makes MEDICA Debut with Breakthrough MedTech Ventures appeared first on Medical Device Network ....",
+          "link": "https://www.medicaldevice-network.com/sponsored/from-hong-kong-to-dusseldorf-hkstp-makes-medica-debut-with-breakthrough-medtech-ventures/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "5 Lessons from Yoshuku: The Japanese Art of Manifesting",
-          "summary": "Discover five powerful lessons from Yoshuku by Azumi Uchitani on gratitude, manifestation, resilience, positive thinking, and intentional living....",
-          "link": "https://yourstory.com/2026/11/life-lessons-yoshuku",
+          "title": "How flexible workspaces are changing the way companies think about offices",
+          "summary": "At TechSparks 2026, Manish Khedia of The Executive Centre discussed how businesses are moving beyond traditional office layouts and long-term leases to focus on flexibility, collab...",
+          "link": "https://yourstory.com/2026/11/how-flexible-workspaces-are-changing-the-way-companies-think-about-offices",
           "source": "YourStory"
         },
         {
-          "title": "How art exhibitions provide unmatched experiences of aesthetics, scale and technique",
-          "summary": "In this photo essay from Lalit Kala Akademi in New Delhi, we showcase more highlights from its annual national art exhibition....",
-          "link": "https://yourstory.com/2026/11/lalit-kala-akademi-art-exhibition-experience-creativity-photography",
+          "title": "Odisha startup BabyCue wins national challenge with its rapid diagnostic test for children",
+          "summary": "Odisha-based BabyCue wins first prize at the Tribal Business Conclave Open Grand Challenge for DiaCue, its rapid test for childhood diarrhoea....",
+          "link": "https://yourstory.com/2026/11/babycue-wins-rs-5-lakh-at-tribal-business-conclave-for-diacue-healthtech-innovation",
           "source": "YourStory"
         },
         {
-          "title": "EaseMyTrip Q2: Loss Narrows 98% YoY To ₹57 Lakh, Revenue Up 34%",
-          "summary": "Online travel aggregator (OTA) EaseMyTrip managed to narrow its consolidated net loss by 98.4% to ₹56.5 Lakh in the second&#8230;...",
-          "link": "https://inc42.com/buzz/easemytrip-q2-loss-narrows-98-yoy-to-%e2%82%b957-lakh-revenue-up-34/",
+          "title": "upGrad Enters Enterprise Advisory With Launch Of upGrad Next",
+          "summary": "Edtech unicorn upGrad has launched upGrad Next, an enterprise advisory practice that will help companies restructure their organisations and prepare&#8230;...",
+          "link": "https://inc42.com/buzz/upgrad-enters-enterprise-advisory-with-launch-of-upgrad-next/",
           "source": "Inc42"
         }
       ]
