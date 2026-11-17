@@ -1,92 +1,92 @@
 {
-  "last_updated": "Monday, November 16, 2026 at 01:56 PM IST",
-  "last_updated_iso": "2026-11-16T13:56:56.522072",
+  "last_updated": "Tuesday, November 17, 2026 at 03:09 PM IST",
+  "last_updated_iso": "2026-11-17T15:09:11.093531",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 25214.9,
-        "change": 70.60000000000218,
-        "change_pct": 0.2807793416400623,
+        "price": 25394.9,
+        "change": 250.60000000000218,
+        "change_pct": 0.9966473514872245,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 82010.22,
-        "change": 417.7700000000041,
-        "change_pct": 0.5120204136534742,
+        "price": 82686.28,
+        "change": 1093.7799999999988,
+        "change_pct": 1.3405398780525157,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 61370.65,
-        "change": 336.5500000000029,
-        "change_pct": 0.5514130625338998,
+        "price": 62245.5,
+        "change": 1211.4000000000015,
+        "change_pct": 1.9847921080183069,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Bharti Airtel",
-        "price": 2147.0,
-        "change": 41.0,
-        "change_pct": 1.94681861348528,
-        "is_up": true
-      },
-      {
-        "name": "HDFC Bank",
-        "price": 815.05,
-        "change": 11.049999999999955,
-        "change_pct": 1.3743781094527305,
-        "is_up": true
-      },
-      {
         "name": "Reliance",
-        "price": 1339.6,
-        "change": -0.10000000000013642,
-        "change_pct": -0.007464357692030784,
-        "is_up": false
+        "price": 1367.1,
+        "change": 22.299999999999955,
+        "change_pct": 1.65823914336704,
+        "is_up": true
+      },
+      {
+        "name": "ICICI Bank",
+        "price": 1605.6,
+        "change": 20.59999999999991,
+        "change_pct": 1.2996845425867452,
+        "is_up": true
+      },
+      {
+        "name": "L&T",
+        "price": 4160.9,
+        "change": 20.899999999999636,
+        "change_pct": 0.5048309178743874,
+        "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Maruti",
-        "price": 12561.0,
-        "change": -293.0,
-        "change_pct": -2.279446086821223,
-        "is_up": false
-      },
-      {
         "name": "Wipro",
-        "price": 192.38,
-        "change": -2.219999999999999,
-        "change_pct": -1.140801644398766,
+        "price": 190.59,
+        "change": -2.9499999999999886,
+        "change_pct": -1.5242327167510532,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2394.5,
-        "change": -13.0,
-        "change_pct": -0.5399792315680166,
+        "name": "Infosys",
+        "price": 1128.5,
+        "change": -16.59999999999991,
+        "change_pct": -1.4496550519605196,
+        "is_up": false
+      },
+      {
+        "name": "HDFC Bank",
+        "price": 813.45,
+        "change": -3.0499999999999545,
+        "change_pct": -0.37354562155541393,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 94.03,
-        "change": -0.20000000000000284,
-        "change_pct": -0.21224663058474247,
+        "price": 93.51,
+        "change": -0.402000000000001,
+        "change_pct": -0.4280603117812431,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3862.9,
-        "change": -23.40000000000009,
-        "change_pct": -0.602115122352883,
-        "is_up": false
+        "price": 3864.3,
+        "change": 11.300000000000182,
+        "change_pct": 0.29327796522190974,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-          "summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQ...",
-          "link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+          "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA....",
+          "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple launches new app to study how people use AI for health",
-          "summary": "Apple's new app for a study will answer everyday medical questions...",
-          "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+          "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+          "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach....",
+          "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+          "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+          "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
           "source": "The Verge"
         },
         {
-          "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+          "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
           "summary": "",
-          "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+          "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
           "source": "The Verge"
         },
         {
-          "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-          "summary": "This was the first total mission failure in United Launch Alliance's 20-year history....",
-          "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+          "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+          "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home....",
+          "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "UPL Share Price Live Updates: UPL Surges Above 100-Day Exponential Moving Average",
-          "summary": "",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-live-updates-16-nov-2026/liveblog/135872604.cms",
+          "title": "FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80%",
+          "summary": "FIIs and mutual funds have increased their stakes in five largecap stocks for two consecutive quarters, signalling rising institutional interest. All five stocks have delivered pos...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-5-largecap-stocks-for-two-straight-quarters-shares-rally-up-to-80/slideshow/135915639.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Technical picks:  ABB India among 5 stocks to buy this week for healthy returns",
-          "summary": "The recent market activity indicates a bullish trend, albeit with minor profit booking influencing trading patterns. Investors are keenly observing macroeconomic factors and intern...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/tech-picks-abb-india-among-5-stocks-to-buy-this-week-for-healthy-returns/slideshow/135872688.cms",
+          "title": "South Korean shares close at over 9-month low on Nvidia caution",
+          "summary": "South Korean shares experienced a significant decline of more than 2% amid concerns affecting chipmakers. The benchmark KOSPI closed at its lowest level since February due to persi...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-close-at-over-9-month-low-on-nvidia-caution/articleshow/135914599.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Patanjali Foods dips 4% as Q2 profit slips but analysts upbeat; here's why",
-          "summary": "Jefferies said that Patanjali Foods' Q2 miss was driven by a shift in festive-season timing and edible-oil margin pressure from the import duty cut....",
-          "link": "https://www.business-standard.com/markets/news/patanjali-foods-share-price-dips-4-as-q2-profit-slips-but-analysts-upbeat-here-s-why-126111601051_1.html",
+          "title": "Eicher Motors jumps 3%, stock top gainer in Nifty Auto; brokerages upbeat",
+          "summary": "Analysts believe that Royal Enfield remains well positioned to benefit from the structural premiumisation of the Indian 2W industry....",
+          "link": "https://www.business-standard.com/markets/news/eicher-motors-jumps-3-stock-top-gainer-in-nifty-auto-brokerages-upbeat-126111700622_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "From Hong Kong to Düsseldorf: HKSTP Makes MEDICA Debut with Breakthrough MedTech Ventures",
-          "summary": "The post From Hong Kong to Düsseldorf: HKSTP Makes MEDICA Debut with Breakthrough MedTech Ventures appeared first on Medical Device Network ....",
-          "link": "https://www.medicaldevice-network.com/sponsored/from-hong-kong-to-dusseldorf-hkstp-makes-medica-debut-with-breakthrough-medtech-ventures/",
+          "title": "FDA authorises Roche’s Gabapentin assay",
+          "summary": "The regulatory decision expands Roche's assay menu into therapeutic drug monitoring. The post FDA authorises Roche’s Gabapentin assay appeared first on Medical Device Network ....",
+          "link": "https://www.medicaldevice-network.com/news/fda-authorises-roche-gabapentin-assay/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "How flexible workspaces are changing the way companies think about offices",
-          "summary": "At TechSparks 2026, Manish Khedia of The Executive Centre discussed how businesses are moving beyond traditional office layouts and long-term leases to focus on flexibility, collab...",
-          "link": "https://yourstory.com/2026/11/how-flexible-workspaces-are-changing-the-way-companies-think-about-offices",
+          "title": "The Indian crypto investor is changing. Is the industry keeping up?",
+          "summary": "As India's crypto investor base expands beyond metros and attracts younger, first-time investors, exchanges must look beyond onboarding to education, security and transparency. The...",
+          "link": "https://yourstory.com/2026/11/the-indian-crypto-investor-is-changing-is-the-industry-keeping-up",
           "source": "YourStory"
         },
         {
-          "title": "Odisha startup BabyCue wins national challenge with its rapid diagnostic test for children",
-          "summary": "Odisha-based BabyCue wins first prize at the Tribal Business Conclave Open Grand Challenge for DiaCue, its rapid test for childhood diarrhoea....",
-          "link": "https://yourstory.com/2026/11/babycue-wins-rs-5-lakh-at-tribal-business-conclave-for-diacue-healthtech-innovation",
+          "title": "5 lessons from The Life That's Waiting by Brianna Wiest",
+          "summary": "Discover five meaningful lessons from The Life That's Waiting by Brianna Wiest on self-discovery, emotional healing, happiness, and personal growth....",
+          "link": "https://yourstory.com/2026/11/lessons-brianna-wiest",
           "source": "YourStory"
         },
         {
-          "title": "upGrad Enters Enterprise Advisory With Launch Of upGrad Next",
-          "summary": "Edtech unicorn upGrad has launched upGrad Next, an enterprise advisory practice that will help companies restructure their organisations and prepare&#8230;...",
-          "link": "https://inc42.com/buzz/upgrad-enters-enterprise-advisory-with-launch-of-upgrad-next/",
+          "title": "Instagram Tightens Recommendations For Sexually Suggestive, Violent Content In India",
+          "summary": "Meta has tightened Instagram’s recommendation filters in India to show less sexually suggestive and violent content. The changes apply to&#8230;...",
+          "link": "https://inc42.com/buzz/instagram-tightens-recommendations-for-sexually-suggestive-violent-content-in-india/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "EXAIR expands air knife lineup for different applications",
-          "summary": "EXAIR’s Super Air Knife uses a 40:1 air amplification ratio and entrains ambient air with compressed air to reduce compressed air use. It is available in lengths up to 108 inches a...",
-          "link": "https://www.designworldonline.com/exair-expands-air-knife-lineup-for-different-applications/",
+          "title": "AutomationDirect adds Bryant Electric motor disconnects",
+          "summary": "AutomationDirect has added Bryant Electric TECH-SPEC motor disconnects which provide a safe, convenient way to isolate motor loads for service and maintenance. These front-operated...",
+          "link": "https://www.designworldonline.com/automationdirect-adds-bryant-electric-motor-disconnects/",
           "source": "Design World"
         },
         {
-          "title": "What DRC Reports Tell You and What They Don’t",
-          "summary": "By Alexsander Tamari, Technical Marketing Engineer, Altium A clean DRC report feels like a green light. It isn&#8217;t one. A Design Rule Check (DRC) confirms that a PCB layout sat...",
-          "link": "https://www.designworldonline.com/what-drc-reports-tell-you-and-what-they-dont/",
+          "title": "EXAIR expands air knife lineup for different applications",
+          "summary": "EXAIR’s Super Air Knife uses a 40:1 air amplification ratio and entrains ambient air with compressed air to reduce compressed air use. It is available in lengths up to 108 inches a...",
+          "link": "https://www.designworldonline.com/exair-expands-air-knife-lineup-for-different-applications/",
           "source": "Design World"
         }
       ]
