@@ -1,92 +1,92 @@
 {
-  "last_updated": "Tuesday, November 17, 2026 at 03:09 PM IST",
-  "last_updated_iso": "2026-11-17T15:09:11.093531",
+  "last_updated": "Wednesday, November 18, 2026 at 02:28 PM IST",
+  "last_updated_iso": "2026-11-18T14:28:06.340624",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 25394.9,
-        "change": 250.60000000000218,
-        "change_pct": 0.9966473514872245,
-        "is_up": true
+        "price": 25257.15,
+        "change": -33.94999999999709,
+        "change_pct": -0.13423694501226555,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 82686.28,
-        "change": 1093.7799999999988,
-        "change_pct": 1.3405398780525157,
-        "is_up": true
+        "price": 82070.33,
+        "change": -34.470000000001164,
+        "change_pct": -0.041982929134473455,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 62245.5,
-        "change": 1211.4000000000015,
-        "change_pct": 1.9847921080183069,
+        "price": 62082.3,
+        "change": 506.40000000000146,
+        "change_pct": 0.8223996725991849,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Reliance",
-        "price": 1367.1,
-        "change": 22.299999999999955,
-        "change_pct": 1.65823914336704,
+        "name": "Sun Pharma",
+        "price": 1882.0,
+        "change": 12.0,
+        "change_pct": 0.6417112299465241,
+        "is_up": true
+      },
+      {
+        "name": "Maruti",
+        "price": 12663.0,
+        "change": 38.0,
+        "change_pct": 0.300990099009901,
         "is_up": true
       },
       {
         "name": "ICICI Bank",
-        "price": 1605.6,
-        "change": 20.59999999999991,
-        "change_pct": 1.2996845425867452,
-        "is_up": true
-      },
-      {
-        "name": "L&T",
-        "price": 4160.9,
-        "change": 20.899999999999636,
-        "change_pct": 0.5048309178743874,
+        "price": 1602.6,
+        "change": 3.8999999999998636,
+        "change_pct": 0.2439482079189256,
         "is_up": true
       }
     ],
     "losers": [
       {
         "name": "Wipro",
-        "price": 190.59,
-        "change": -2.9499999999999886,
-        "change_pct": -1.5242327167510532,
+        "price": 187.0,
+        "change": -2.8899999999999864,
+        "change_pct": -1.5219337511190618,
         "is_up": false
       },
       {
         "name": "Infosys",
-        "price": 1128.5,
-        "change": -16.59999999999991,
-        "change_pct": -1.4496550519605196,
+        "price": 1113.8,
+        "change": -16.200000000000045,
+        "change_pct": -1.4336283185840748,
         "is_up": false
       },
       {
         "name": "HDFC Bank",
-        "price": 813.45,
-        "change": -3.0499999999999545,
-        "change_pct": -0.37354562155541393,
+        "price": 809.15,
+        "change": -5.800000000000068,
+        "change_pct": -0.7117001043008856,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 93.51,
-        "change": -0.402000000000001,
-        "change_pct": -0.4280603117812431,
-        "is_up": false
+        "price": 93.505,
+        "change": 0.03499999999999659,
+        "change_pct": 0.03744516957312142,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3864.3,
-        "change": 11.300000000000182,
-        "change_pct": 0.29327796522190974,
-        "is_up": true
+        "price": 3773.9,
+        "change": -90.29999999999973,
+        "change_pct": -2.3368355675172023,
+        "is_up": false
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-          "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA....",
-          "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+          "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+          "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfol...",
+          "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
           "source": "TechCrunch"
         },
         {
-          "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-          "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach....",
-          "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+          "title": "Nvidia promises that revenue will keep soaring — for now",
+          "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to ...",
+          "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
           "source": "TechCrunch"
         },
         {
-          "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+          "title": "Satya Nadella says he’s AGI-pilled now",
           "summary": "",
-          "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+          "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
           "source": "The Verge"
         },
         {
-          "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+          "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+          "link": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
           "source": "The Verge"
         },
         {
-          "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-          "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home....",
-          "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+          "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+          "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next....",
+          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80%",
-          "summary": "FIIs and mutual funds have increased their stakes in five largecap stocks for two consecutive quarters, signalling rising institutional interest. All five stocks have delivered pos...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-5-largecap-stocks-for-two-straight-quarters-shares-rally-up-to-80/slideshow/135915639.cms",
+          "title": "Govt weighs tax tweaks to boost stock trading, curb derivatives: Report",
+          "summary": "The government is reviewing proposals to cut securities transaction tax on cash equities by 50% while raising levies on derivatives to curb speculative trading and encourage broade...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives/articleshow/135953824.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "South Korean shares close at over 9-month low on Nvidia caution",
-          "summary": "South Korean shares experienced a significant decline of more than 2% amid concerns affecting chipmakers. The benchmark KOSPI closed at its lowest level since February due to persi...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-close-at-over-9-month-low-on-nvidia-caution/articleshow/135914599.cms",
+          "title": "How Ashish Kacholia, Radhakishan Damani, Madhusudan Kela and other ace investors reshuffled their portfolios in Q2",
+          "summary": "Mukul Agrawal, Akash Bhanshali and Ashish Kacholia emerge as the biggest portfolio gainers among prominent individual investors in the September quarter. Meanwhile, Radhakishan Dam...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-ashish-kacholia-radhakishan-damani-madhusudan-kela-and-other-ace-investors-reshuffled-their-portfolios-in-q2/slideshow/135953760.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Eicher Motors jumps 3%, stock top gainer in Nifty Auto; brokerages upbeat",
-          "summary": "Analysts believe that Royal Enfield remains well positioned to benefit from the structural premiumisation of the Indian 2W industry....",
-          "link": "https://www.business-standard.com/markets/news/eicher-motors-jumps-3-stock-top-gainer-in-nifty-auto-brokerages-upbeat-126111700622_1.html",
+          "title": "Sebi considering proposals to strengthen margin trading facility: Chairman",
+          "summary": "Sebi is reviewing the framework governing the margin ‌trading facility, which allows investors ​to buy shares using ​funds borrowed from brokers...",
+          "link": "https://www.business-standard.com/markets/news/sebi-considering-proposals-to-strengthen-margin-trading-facility-chairman-126111800596_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA authorises Roche’s Gabapentin assay",
-          "summary": "The regulatory decision expands Roche's assay menu into therapeutic drug monitoring. The post FDA authorises Roche’s Gabapentin assay appeared first on Medical Device Network ....",
-          "link": "https://www.medicaldevice-network.com/news/fda-authorises-roche-gabapentin-assay/",
+          "title": "MHRA launches initiative to improve female participation in trials",
+          "summary": "The Women’s Health Programme will cover clinical trials into both pharmaceuticals and medical devices in the UK The post MHRA launches initiative to improve female participation in...",
+          "link": "https://www.medicaldevice-network.com/news/mhra-launches-initiative-to-improve-female-participation-in-trials/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "The Indian crypto investor is changing. Is the industry keeping up?",
-          "summary": "As India's crypto investor base expands beyond metros and attracts younger, first-time investors, exchanges must look beyond onboarding to education, security and transparency. The...",
-          "link": "https://yourstory.com/2026/11/the-indian-crypto-investor-is-changing-is-the-industry-keeping-up",
+          "title": "How AI could reshape jobs, investing, and wealth creation in India",
+          "summary": "At TechSparks 2026, Angel One Group CEO Ambarish Kenghe discussed how AI could change the nature of work, make investing more accessible, and create opportunities in healthcare, tr...",
+          "link": "https://yourstory.com/2026/11/how-ai-could-reshape-jobs-investing-and-wealth-creation-in-india",
           "source": "YourStory"
         },
         {
-          "title": "5 lessons from The Life That's Waiting by Brianna Wiest",
-          "summary": "Discover five meaningful lessons from The Life That's Waiting by Brianna Wiest on self-discovery, emotional healing, happiness, and personal growth....",
-          "link": "https://yourstory.com/2026/11/lessons-brianna-wiest",
+          "title": "How HalfPe is building a marketplace for surplus inventory at 50% off",
+          "summary": "Founded by serial entrepreneur Venu G Somineni, HalfPe connects retailers and brands with consumers looking for discounted products, using a seller-owned inventory model and AI-led...",
+          "link": "https://yourstory.com/2026/11/how-halfpe-is-building-a-marketplace-for-surplus-inventory-at-50-off",
           "source": "YourStory"
         },
         {
-          "title": "Instagram Tightens Recommendations For Sexually Suggestive, Violent Content In India",
-          "summary": "Meta has tightened Instagram’s recommendation filters in India to show less sexually suggestive and violent content. The changes apply to&#8230;...",
-          "link": "https://inc42.com/buzz/instagram-tightens-recommendations-for-sexually-suggestive-violent-content-in-india/",
+          "title": "Recove Ventures Nets ₹56 Cr To Expand Recycling Business",
+          "summary": "Bengaluru-based Recove Ventures has raised ₹56.3 Cr (slightly over $6 Mn) in a funding round from investors like Samara Capital’s&#8230;...",
+          "link": "https://inc42.com/buzz/recove-ventures-nets-%e2%82%b956-cr-to-expand-recycling-business/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "AutomationDirect adds Bryant Electric motor disconnects",
-          "summary": "AutomationDirect has added Bryant Electric TECH-SPEC motor disconnects which provide a safe, convenient way to isolate motor loads for service and maintenance. These front-operated...",
-          "link": "https://www.designworldonline.com/automationdirect-adds-bryant-electric-motor-disconnects/",
+          "title": "The year that voters asked “can you hear us now?”",
+          "summary": "From my admittedly limited and hence humble perspective, 2026 sure seems like the year that the people of the U.S. became acutely aware of some of the moral issues raised by techno...",
+          "link": "https://www.designworldonline.com/the-year-that-voters-asked-can-you-hear-us-now/",
           "source": "Design World"
         },
         {
-          "title": "EXAIR expands air knife lineup for different applications",
-          "summary": "EXAIR’s Super Air Knife uses a 40:1 air amplification ratio and entrains ambient air with compressed air to reduce compressed air use. It is available in lengths up to 108 inches a...",
-          "link": "https://www.designworldonline.com/exair-expands-air-knife-lineup-for-different-applications/",
+          "title": "Making electric motion washdown-ready",
+          "summary": "Caustic cleaning chemicals, high-pressure washdown, and constant moisture have traditionally limited the use of electric motion in hygienic applications or required costly protecti...",
+          "link": "https://www.designworldonline.com/making-electric-motion-washdown-ready/",
           "source": "Design World"
         }
       ]
@@ -228,18 +228,18 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "Macbook PROLED Review: It's Not About That",
-          "summary": "Incredible laptop. But don't get distracted.\n\nProtect and make your MacBook unique with dbrand at https://dbrand.com/shop/macbook\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of M...",
-          "link": "https://www.youtube.com/watch?v=hdMszZ2ah5Q",
+          "title": "Can You Trust MKBHD?",
+          "summary": "Can you trust MKBHD videos? Part 2.\n\nPart 1: https://youtu.be/5nLWTVTwOhY\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitte...",
+          "link": "https://www.youtube.com/watch?v=KTDJiVpSDTI",
           "source": "MKBHD",
-          "thumbnail": "https://i1.ytimg.com/vi/hdMszZ2ah5Q/hqdefault.jpg"
+          "thumbnail": "https://i4.ytimg.com/vi/KTDJiVpSDTI/hqdefault.jpg"
         },
         {
-          "title": "AI Can Do Everything…Except This",
-          "summary": "After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars enjoy it! Thank you so much for the amaz...",
-          "link": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
+          "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://www.kitp.ucsb.edu/sites/default/files/YM_working_group.p...",
+          "link": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i1.ytimg.com/vi/x7iwI6WfWS0/hqdefault.jpg"
+          "thumbnail": "https://i4.ytimg.com/vi/gl2U4fGTr6g/hqdefault.jpg"
         }
       ]
     }
