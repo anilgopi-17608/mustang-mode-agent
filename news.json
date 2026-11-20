@@ -1,91 +1,91 @@
 {
-  "last_updated": "Thursday, November 19, 2026 at 02:46 PM IST",
-  "last_updated_iso": "2026-11-19T14:46:18.483315",
+  "last_updated": "Friday, November 20, 2026 at 02:29 PM IST",
+  "last_updated_iso": "2026-11-20T14:29:10.042739",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 25451.45,
-        "change": 64.04999999999927,
-        "change_pct": 0.25229050631415295,
+        "price": 25761.15,
+        "change": 533.25,
+        "change_pct": 2.1137312261424848,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 82862.07,
-        "change": 329.8700000000099,
-        "change_pct": 0.39968642541942406,
+        "price": 83858.63,
+        "change": 1826.8300000000017,
+        "change_pct": 2.226977830548643,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 62894.55,
-        "change": 621.3500000000058,
-        "change_pct": 0.9977807467739025,
+        "price": 64564.75,
+        "change": 2526.1500000000015,
+        "change_pct": 4.071900397494465,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "Maruti",
-        "price": 13486.0,
-        "change": 854.0,
-        "change_pct": 6.760607979734008,
-        "is_up": true
-      },
-      {
-        "name": "Sun Pharma",
-        "price": 1908.0,
-        "change": 36.5,
-        "change_pct": 1.9503072401816726,
-        "is_up": true
-      },
-      {
         "name": "HDFC Bank",
-        "price": 819.9,
-        "change": 11.75,
-        "change_pct": 1.4539380065581884,
+        "price": 848.25,
+        "change": 26.450000000000045,
+        "change_pct": 3.2185446580676618,
+        "is_up": true
+      },
+      {
+        "name": "Maruti",
+        "price": 14009.0,
+        "change": 420.0,
+        "change_pct": 3.0907351534329237,
+        "is_up": true
+      },
+      {
+        "name": "ICICI Bank",
+        "price": 1638.3,
+        "change": 29.399999999999864,
+        "change_pct": 1.827335446578399,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Infosys",
-        "price": 1081.6,
-        "change": -27.200000000000045,
-        "change_pct": -2.4531024531024572,
+        "name": "Reliance",
+        "price": 1367.0,
+        "change": -8.599999999999909,
+        "change_pct": -0.6251817388775741,
         "is_up": false
       },
       {
-        "name": "TCS",
-        "price": 2340.6,
-        "change": -38.90000000000009,
-        "change_pct": -1.6347972263080517,
+        "name": "Sun Pharma",
+        "price": 1890.1,
+        "change": -9.900000000000091,
+        "change_pct": -0.5210526315789521,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 184.25,
-        "change": -0.8899999999999864,
-        "change_pct": -0.48071729501997756,
+        "name": "L&T",
+        "price": 4201.8,
+        "change": -9.199999999999818,
+        "change_pct": -0.21847542151507524,
         "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 93.3,
-        "change": -0.1599999999999966,
-        "change_pct": -0.17119623368285533,
+        "price": 92.7975,
+        "change": -0.4825000000000017,
+        "change_pct": -0.5172598627787325,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3740.5,
-        "change": -1.400000000000091,
-        "change_pct": -0.03741414789278417,
+        "price": 3583.7,
+        "change": -101.80000000000018,
+        "change_pct": -2.762176095509434,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-          "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce ...",
-          "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+          "title": "Apple may be developing its own AI agent that runs your Mac",
+          "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots....",
+          "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
           "source": "TechCrunch"
         },
         {
-          "title": "Elon Musk says: ‘I’m not MAGA’",
-          "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolis...",
-          "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+          "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+          "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion....",
+          "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
           "source": "TechCrunch"
         },
         {
-          "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+          "title": "Apple is hiring engineers to build its own AI agent",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+          "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
           "source": "The Verge"
         },
         {
-          "title": "The nation’s largest school districts consider ditching Google Search",
+          "title": "A brief history of Nvidia’s recent stock fluctuations",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
           "source": "The Verge"
         },
         {
-          "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-          "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues....",
-          "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+          "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+          "summary": "Amazon now uses its shopping platform for political purposes....",
+          "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
           "source": "Ars Technica"
         }
       ]
@@ -130,34 +130,34 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Tiger-backed Razorpay set to file for India IPO as early as next week",
-          "summary": "Tiger Global-backed Razorpay is preparing to file its IPO papers in India as early as next week, with investor roadshows expected to follow immediately. The Bengaluru-based fintech...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-backed-razorpay-set-to-file-for-india-ipo-as-early-as-next-week/articleshow/135983381.cms",
+          "title": "Indian finance hub eyes dual share model to kickstart public offers: Report",
+          "summary": "Indian regulators are currently assessing a new proposal that would allow companies to introduce dual-class shares for listings in both domestic markets and GIFT City. This initiat...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-finance-hub-eyes-dual-share-model-to-kickstart-public-offers-report/articleshow/136017941.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Goldman Sachs names 22 ‘high-growth’ stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list",
-          "summary": "Goldman Sachs has identified 22 Indian companies exposed to structural growth themes and initiated Buy ratings on 21. Bharti Airtel, Eternal, HDFC Bank and InterGlobe Aviation feat...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms",
+          "title": "Who is Roaring Kitty? The man behind GameStop's meme rally",
+          "summary": "Keith Gill, better known as Roaring Kitty, is back on social media after nearly two years. His cryptic Cat Mario post sent GameStop shares higher, reviving memories of the 2021 mem...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/who-is-roaring-kitty-the-man-behind-gamestops-meme-rally/slideshow/136017912.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Tata Tech jumps over 9% as FY30 roadmap targets $1.3 billion revenue",
-          "summary": "The key announcements included FY30 revenue target of $1.1-1.3 billion versus approximately $620 million in FY26, implying a 15-20 per cent compound annual growth rate....",
-          "link": "https://www.business-standard.com/markets/news/tata-tech-jumps-over-9-as-fy30-roadmap-targets-1-3-billion-revenue-126111900557_1.html",
-          "source": "Business Standard Markets"
+          "title": "ICICI Prudential Life Insurance to focus on growing absolute VNB amid slump in FY24",
+          "summary": "In its Q4FY24 results, the company#39;s VNB fell 19.45 percent to Rs 2,227 crore for FY24...",
+          "link": "https://www.moneycontrol.com/news/business/icici-prudential-life-insurance-to-focusgrowing-absolute-vnb-amid-slumpfy24_17532041.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Nifty IT tanks for 3rd day, down 6.5% in Nov so far: What's behind fall?",
-          "summary": "During the three days, Nifty IT has lost 4.5 per cent and remains 6.45 per cent lower in November so far....",
-          "link": "https://www.business-standard.com/markets/news/nifty-it-tanks-for-3rd-day-down-6-5-in-nov-so-far-what-s-behind-fall-126111900522_1.html",
-          "source": "Business Standard Markets"
+          "title": "Tata Elxsi Q4 net profit, revenue decline QoQ; firm declares dividend of Rs 70 per share",
+          "summary": "The net profit was down 4.6 percent quarter-on-quarter compared to the October to December period of FY24 and 2.32 percent against the March quarter of FY23...",
+          "link": "https://www.moneycontrol.com/news/business/tata-elxsi-q4-net-profit-revenue-decline-qoq-firm-declares-dividendrs-70-per-share_17532061.html",
+          "source": "Moneycontrol Business"
         },
         {
-          "title": "Ambuja Neotia to invest about  ₹2,700 crore in hotels, almost triple room capacity",
-          "summary": "The Kolkata-based group plans to add capacity to its hotels business, largely in eastern India, while expanding its partnership with IHCL and building an asset-light boutique hotel...",
-          "link": "https://www.livemint.com/companies/news/ambuja-neotia-to-invest-about-2700-crore-hospitality-business-hotel-expansion-11795005410954.html",
-          "source": "Livemint Companies"
+          "title": "India VIX up 9%, tops 17-mark; analysts say FII flows keep bulls in control",
+          "summary": "Analysts said that profit booking is happening in the market, but the FII buying is so sustained and aggressive that the bulls are calling the shots....",
+          "link": "https://www.business-standard.com/markets/news/india-vix-up-9-tops-17-mark-analysts-say-fii-flows-keep-bulls-in-control-126112000547_1.html",
+          "source": "Business Standard Markets"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "FDA clears Medtronic’s Hugo robot for general surgery",
-          "summary": "The US FDA has cleared Medtronic's Hugo robotic-assisted surgery (RAS) system for use in all upper abdominal general surgical procedures. The post FDA clears Medtronic’s Hugo robot...",
-          "link": "https://www.medicaldevice-network.com/news/fda-medtronics-hugo-system-general-surgery/",
+          "title": "Philips introduces ultrasound data consolidation platform",
+          "summary": "Philips has introduced Skylight Device Manager, a cloud-based software that gathers usage and operational information from linked ultrasound machines into a single interface. The p...",
+          "link": "https://www.medicaldevice-network.com/news/philips-introduces-ultrasound-data-consolidation-platform/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
+          "title": "‘My dream is to make WeWork India the default choice for workspaces’",
+          "summary": "CEO and Managing Director Karan Virmani speaks to YourStory about WeWork India's first year as a public company, its expanding product portfolio, the impact of AI, market opportuni...",
+          "link": "https://yourstory.com/2026/11/my-dream-is-to-make-wework-india-the-default-choice-for-workspaces",
+          "source": "YourStory"
+        },
+        {
           "title": "Six Indian startups selected for Hub71's Immersion Programme in Abu Dhabi",
           "summary": "The winners were chosen from among ten finalists in the areas of AI, clean energy, advanced manufacturing and digital finance....",
           "link": "https://yourstory.com/2026/11/six-indian-startups-selected-for-hub71s-immersion-programme-in-abu-dhabi",
           "source": "YourStory"
         },
         {
-          "title": "5 Life-changing lessons from It's Okay by Jaya Kishori",
-          "summary": "Discover 5 meaningful lessons from It's Okay by Jaya Kishori on accepting emotions, overcoming self-doubt, letting go and finding inner peace....",
-          "link": "https://yourstory.com/2026/11/lessons-jaya-kishori",
-          "source": "YourStory"
-        },
-        {
-          "title": "Nitin Gadkari Urges States To Adopt Aggregator Guidelines Amid Bike Taxi Crackdowns",
-          "summary": "Union minister for road transport and highways Nitin Gadkari has urged states to adopt the Motor Vehicle Aggregator Guidelines, 2025,&#8230;...",
-          "link": "https://inc42.com/buzz/nitin-gadkari-urges-states-to-adopt-aggregator-guidelines-amid-bike-taxi-crackdowns/",
+          "title": "Amazon Prime India Head Abhinav Agarwal Quits After 16 Years At Company",
+          "summary": "Amazon Prime India head Abhinav Agarwal has left the ecommerce giant after 16 years, ending a stint spanning supply chain,&#8230;...",
+          "link": "https://inc42.com/buzz/amazon-prime-india-head-abhinav-agarwal-quits-after-16-years-at-company/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "LAPP marks 50 years in U.S. with manufacturing expansion",
-          "summary": "LAPP is marking 50 years since Ursula Ida and Oskar Lapp opened the company’s first branch outside Germany in Florham Park, N.J. The company’s U.S. operations include manufacturing...",
-          "link": "https://www.designworldonline.com/lapp-marks-50-years-in-u-s-with-manufacturing-expansion/",
+          "title": "Boost Product Performance with Precision cut Tubing.",
+          "summary": "Enhance your products’ efficiency and reliability with precisely cut tubing, engineered for optimal performance in medical and high-performance applications, ensuring precision, du...",
+          "link": "https://www.designworldonline.com/boost-product-performance-with-precision-cut-tubing/",
           "source": "Design World"
         },
         {
-          "title": "Explosion Proof Inspection Robot Ready for Hazardous Duty",
-          "summary": "This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. Four legged or “quadruped” inspection robots are becoming a common site warehouses, constructi...",
-          "link": "https://www.designworldonline.com/explosion-proof-inspection-robot-ready-for-hazardous-duty/",
+          "title": "The Machine Builder’s HMI-to-IIoT Blueprint",
+          "summary": "For machine builders, the operator panel has quietly become one of the most strategic components on the machine. End customers now expect equipment that streams production data to ...",
+          "link": "https://www.designworldonline.com/the-machine-builders-hmi-to-iiot-blueprint/",
           "source": "Design World"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i4.ytimg.com/vi/KTDJiVpSDTI/hqdefault.jpg"
         },
         {
-          "title": "OpenAI's New Breakthrough Is... Utter Chaos",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://www.kitp.ucsb.edu/sites/default/files/YM_working_group.p...",
-          "link": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+          "title": "DeepMind Just Released The Best Thing AI Ever Did",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The DeepMind AlphaGenome paper is available here:\nhttps://deepmind.google/blog/alphagenome-2-...",
+          "link": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i4.ytimg.com/vi/gl2U4fGTr6g/hqdefault.jpg"
+          "thumbnail": "https://i4.ytimg.com/vi/Cy7Wz6Z4TWU/hqdefault.jpg"
         }
       ]
     }
