@@ -1,91 +1,91 @@
 {
-  "last_updated": "Friday, November 20, 2026 at 02:29 PM IST",
-  "last_updated_iso": "2026-11-20T14:29:10.042739",
+  "last_updated": "Saturday, November 21, 2026 at 02:10 PM IST",
+  "last_updated_iso": "2026-11-21T14:10:22.602659",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 25761.15,
-        "change": 533.25,
-        "change_pct": 2.1137312261424848,
+        "price": 25800.6,
+        "change": 286.2999999999993,
+        "change_pct": 1.1221158330818377,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 83858.63,
-        "change": 1826.8300000000017,
-        "change_pct": 2.226977830548643,
+        "price": 83919.71,
+        "change": 1887.9100000000035,
+        "change_pct": 2.301436759890681,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 64564.75,
-        "change": 2526.1500000000015,
-        "change_pct": 4.071900397494465,
+        "price": 64635.2,
+        "change": 1572.199999999997,
+        "change_pct": 2.4930624930624883,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "HDFC Bank",
-        "price": 848.25,
-        "change": 26.450000000000045,
-        "change_pct": 3.2185446580676618,
+        "name": "Maruti",
+        "price": 14011.0,
+        "change": 422.0,
+        "change_pct": 3.1054529398778423,
         "is_up": true
       },
       {
-        "name": "Maruti",
-        "price": 14009.0,
-        "change": 420.0,
-        "change_pct": 3.0907351534329237,
+        "name": "HDFC Bank",
+        "price": 846.0,
+        "change": 24.200000000000045,
+        "change_pct": 2.944755414942814,
         "is_up": true
       },
       {
         "name": "ICICI Bank",
-        "price": 1638.3,
-        "change": 29.399999999999864,
-        "change_pct": 1.827335446578399,
+        "price": 1640.0,
+        "change": 31.09999999999991,
+        "change_pct": 1.9329977002921193,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Reliance",
-        "price": 1367.0,
-        "change": -8.599999999999909,
-        "change_pct": -0.6251817388775741,
-        "is_up": false
-      },
-      {
         "name": "Sun Pharma",
-        "price": 1890.1,
-        "change": -9.900000000000091,
-        "change_pct": -0.5210526315789521,
+        "price": 1884.9,
+        "change": -15.099999999999909,
+        "change_pct": -0.7947368421052583,
         "is_up": false
       },
       {
         "name": "L&T",
-        "price": 4201.8,
-        "change": -9.199999999999818,
-        "change_pct": -0.21847542151507524,
+        "price": 4209.1,
+        "change": -1.8999999999996362,
+        "change_pct": -0.045119924008540396,
         "is_up": false
+      },
+      {
+        "name": "Reliance",
+        "price": 1377.5,
+        "change": 1.900000000000091,
+        "change_pct": 0.1381215469613326,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 92.7975,
-        "change": -0.4825000000000017,
-        "change_pct": -0.5172598627787325,
+        "price": 92.67,
+        "change": -0.6099999999999994,
+        "change_pct": -0.6539451114922806,
         "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3583.7,
-        "change": -101.80000000000018,
-        "change_pct": -2.762176095509434,
+        "price": 3515.4,
+        "change": -170.0999999999999,
+        "change_pct": -4.615384615384613,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Apple may be developing its own AI agent that runs your Mac",
-          "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots....",
-          "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "title": "Startup sues Apple in India over tap-to-share contacts feature",
+          "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India....",
+          "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-          "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion....",
-          "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit....",
+          "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
           "source": "TechCrunch"
         },
         {
-          "title": "Apple is hiring engineers to build its own AI agent",
+          "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+          "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
           "source": "The Verge"
         },
         {
-          "title": "A brief history of Nvidia’s recent stock fluctuations",
+          "title": "Rockstar says GTA VI made $3.79 billion in its first day",
           "summary": "",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+          "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
           "source": "The Verge"
         },
         {
-          "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-          "summary": "Amazon now uses its shopping platform for political purposes....",
-          "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+          "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+          "summary": "FCC preempts state rules that require AT&#038;T to keep offering home phone service....",
+          "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Indian finance hub eyes dual share model to kickstart public offers: Report",
-          "summary": "Indian regulators are currently assessing a new proposal that would allow companies to introduce dual-class shares for listings in both domestic markets and GIFT City. This initiat...",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-finance-hub-eyes-dual-share-model-to-kickstart-public-offers-report/articleshow/136017941.cms",
+          "title": "Stocks to buy: HSBC lists 19 Indian stocks that saw FY27 earnings upgrades, check target prices",
+          "summary": "HSBC identified 19 Indian stocks with Buy ratings that received FY27 earnings upgrades after Q2 results. Ather Energy, GAIL and IIFL Finance led revisions, while improving corporat...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-hsbc-lists-19-indian-stocks-that-saw-fy27-earnings-upgrades-check-target-prices/slideshow/136048231.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "Who is Roaring Kitty? The man behind GameStop's meme rally",
-          "summary": "Keith Gill, better known as Roaring Kitty, is back on social media after nearly two years. His cryptic Cat Mario post sent GameStop shares higher, reviving memories of the 2021 mem...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/who-is-roaring-kitty-the-man-behind-gamestops-meme-rally/slideshow/136017912.cms",
+          "title": "Concurrent Gainers: These 13 stocks gained for 5 days in a row, all rose over 27%",
+          "summary": "The Sensex gained 1.08% during the five sessions ending November 20, while 99 BSE 200 stocks advanced consecutively. Thirteen shortlisted stocks delivered impressive cumulative ret...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-these-13-stocks-gained-for-5-days-in-a-row-all-rose-over-27/slideshow/136047969.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "India VIX up 9%, tops 17-mark; analysts say FII flows keep bulls in control",
-          "summary": "Analysts said that profit booking is happening in the market, but the FII buying is so sustained and aggressive that the bulls are calling the shots....",
-          "link": "https://www.business-standard.com/markets/news/india-vix-up-9-tops-17-mark-analysts-say-fii-flows-keep-bulls-in-control-126112000547_1.html",
+          "title": "Bitcoin nears USD 60,000: What traders should watch, according to WazirX",
+          "summary": "Mumbai (Maharashtra) [India], November 20: Bitcoin has lost roughly 21% since the October close and is trading below USD 62,000 and faces sustained US spot ETF outflows. November i...",
+          "link": "https://www.business-standard.com/content/press-releases-ani/bitcoin-nears-usd-60-000-what-traders-should-watch-according-to-wazirx-126112000892_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "‘My dream is to make WeWork India the default choice for workspaces’",
-          "summary": "CEO and Managing Director Karan Virmani speaks to YourStory about WeWork India's first year as a public company, its expanding product portfolio, the impact of AI, market opportuni...",
-          "link": "https://yourstory.com/2026/11/my-dream-is-to-make-wework-india-the-default-choice-for-workspaces",
+          "title": "Karnataka CM to lead delegation to Japan to explore investments",
+          "summary": "Karnataka Chief Minister D K Shivakumar will lead a high-level state government delegation to Japan from November 23 to 25....",
+          "link": "https://yourstory.com/2026/11/karnataka-cm-to-lead-delegation-to-japan-to-explore-investments",
           "source": "YourStory"
         },
         {
-          "title": "Six Indian startups selected for Hub71's Immersion Programme in Abu Dhabi",
-          "summary": "The winners were chosen from among ten finalists in the areas of AI, clean energy, advanced manufacturing and digital finance....",
-          "link": "https://yourstory.com/2026/11/six-indian-startups-selected-for-hub71s-immersion-programme-in-abu-dhabi",
+          "title": "Google announces $5M funding for IIT Kharagpur for advanced AI research",
+          "summary": "The funding will support the institute's researchers and students across three core pillars: advanced AI research, educational opportunities, and AI capacity building....",
+          "link": "https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research",
           "source": "YourStory"
         },
         {
-          "title": "Amazon Prime India Head Abhinav Agarwal Quits After 16 Years At Company",
-          "summary": "Amazon Prime India head Abhinav Agarwal has left the ecommerce giant after 16 years, ending a stint spanning supply chain,&#8230;...",
-          "link": "https://inc42.com/buzz/amazon-prime-india-head-abhinav-agarwal-quits-after-16-years-at-company/",
+          "title": "India Minicorn Tracker: Mapping The Next Wave Of High-Growth Startups",
+          "summary": "A decade ago, India’s startup landscape barely registered on the global radar. Today, it stands as the world’s third-largest startup&#8230;...",
+          "link": "https://inc42.com/features/india-minicorn-tracker-mapping-the-next-wave-of-high-growth-startups/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Boost Product Performance with Precision cut Tubing.",
-          "summary": "Enhance your products’ efficiency and reliability with precisely cut tubing, engineered for optimal performance in medical and high-performance applications, ensuring precision, du...",
-          "link": "https://www.designworldonline.com/boost-product-performance-with-precision-cut-tubing/",
+          "title": "EXAIR Line Vac Wand simplifies bulk material handling",
+          "summary": "EXAIR’s new Line Vac Wand is an accessory for Line Vac Air Operated Conveyors that can be used to collect and move materials from floors, bins, bags and other hard-to-reach areas. ...",
+          "link": "https://www.designworldonline.com/exair-line-vac-wand-simplifies-bulk-material-handling/",
           "source": "Design World"
         },
         {
-          "title": "The Machine Builder’s HMI-to-IIoT Blueprint",
-          "summary": "For machine builders, the operator panel has quietly become one of the most strategic components on the machine. End customers now expect equipment that streams production data to ...",
-          "link": "https://www.designworldonline.com/the-machine-builders-hmi-to-iiot-blueprint/",
+          "title": "Boost Product Performance with Precision cut Tubing.",
+          "summary": "Enhance your products’ efficiency and reliability with precisely cut tubing, engineered for optimal performance in medical and high-performance applications, ensuring precision, du...",
+          "link": "https://www.designworldonline.com/boost-product-performance-with-precision-cut-tubing/",
           "source": "Design World"
         }
       ]
