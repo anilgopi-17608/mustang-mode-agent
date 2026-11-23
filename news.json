@@ -1,92 +1,92 @@
 {
-  "last_updated": "Sunday, November 22, 2026 at 02:08 PM IST",
-  "last_updated_iso": "2026-11-22T14:08:56.113869",
+  "last_updated": "Monday, November 23, 2026 at 03:06 PM IST",
+  "last_updated_iso": "2026-11-23T15:06:14.348254",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 25800.6,
-        "change": 572.6999999999971,
-        "change_pct": 2.2701057162902862,
-        "is_up": true
+        "price": 25371.05,
+        "change": -429.5499999999993,
+        "change_pct": -1.6648837623931199,
+        "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 83919.71,
-        "change": 1887.9100000000035,
-        "change_pct": 2.301436759890681,
-        "is_up": true
+        "price": 82585.4,
+        "change": -1334.3100000000122,
+        "change_pct": -1.5899840454644234,
+        "is_up": false
       },
       {
         "name": "Bank Nifty",
-        "price": 64635.2,
-        "change": 2596.5999999999985,
-        "change_pct": 4.18545873053228,
-        "is_up": true
+        "price": 62686.8,
+        "change": -1948.3999999999942,
+        "change_pct": -3.0144565190484354,
+        "is_up": false
       }
     ],
     "gainers": [
       {
+        "name": "TCS",
+        "price": 2454.3,
+        "change": 78.10000000000036,
+        "change_pct": 3.2867603737059325,
+        "is_up": true
+      },
+      {
+        "name": "Wipro",
+        "price": 187.25,
+        "change": 1.5500000000000114,
+        "change_pct": 0.8346795907377552,
+        "is_up": true
+      },
+      {
         "name": "Maruti",
-        "price": 14011.0,
-        "change": 422.0,
-        "change_pct": 3.1054529398778423,
-        "is_up": true
-      },
-      {
-        "name": "HDFC Bank",
-        "price": 846.0,
-        "change": 24.200000000000045,
-        "change_pct": 2.944755414942814,
-        "is_up": true
-      },
-      {
-        "name": "ICICI Bank",
-        "price": 1640.0,
-        "change": 31.09999999999991,
-        "change_pct": 1.9329977002921193,
+        "price": 14089.0,
+        "change": 78.0,
+        "change_pct": 0.556705445721219,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Sun Pharma",
-        "price": 1884.9,
-        "change": -15.099999999999909,
-        "change_pct": -0.7947368421052583,
+        "name": "HDFC Bank",
+        "price": 818.75,
+        "change": -27.25,
+        "change_pct": -3.2210401891252953,
+        "is_up": false
+      },
+      {
+        "name": "ICICI Bank",
+        "price": 1590.6,
+        "change": -49.40000000000009,
+        "change_pct": -3.012195121951225,
         "is_up": false
       },
       {
         "name": "L&T",
-        "price": 4209.1,
-        "change": -1.8999999999996362,
-        "change_pct": -0.045119924008540396,
+        "price": 4121.3,
+        "change": -87.80000000000018,
+        "change_pct": -2.0859566178042854,
         "is_up": false
-      },
-      {
-        "name": "Reliance",
-        "price": 1377.5,
-        "change": 1.900000000000091,
-        "change_pct": 0.1381215469613326,
-        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 92.67,
-        "change": -0.6099999999999994,
-        "change_pct": -0.6539451114922806,
-        "is_up": false
+        "price": 92.9275,
+        "change": 0.2674999999999983,
+        "change_pct": 0.28868983380099106,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3515.4,
-        "change": -170.0999999999999,
-        "change_pct": -4.615384615384613,
-        "is_up": false
+        "price": 3618.7,
+        "change": 103.29999999999973,
+        "change_pct": 2.938499175058307,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-          "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps....",
-          "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+          "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic....",
+          "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
           "source": "TechCrunch"
         },
         {
-          "title": "A tale of two Nvidias",
-          "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return....",
-          "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+          "title": "‘You Can See Everything’ has made more than $100M worldwide",
+          "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally....",
+          "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
           "source": "TechCrunch"
         },
         {
-          "title": "Amazon is complaining about NYC Council on shipping labels, too",
+          "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+          "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
           "source": "The Verge"
         },
         {
-          "title": "The UN fails to agree on rules regulating ‘killer robots’",
+          "title": "We haven’t seen the last of the major tech outages",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
           "source": "The Verge"
         },
         {
-          "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-          "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes...",
-          "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+          "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy....",
+          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
-          "summary": "Four to five Infrastructure Investment Trusts are expected to launch public offerings to raise Rs 17,000 crore by 2027. These offerings aim to mobilise long-term capital for infras...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
+          "title": "India bonds give up marginal opening gains as profit booking takes over",
+          "summary": "Indian government bonds fell after initial gains due to profit booking by traders and a sharp rupee decline. The benchmark yield of the 6.94% 2036 bond increased to 7.2185% during ...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-give-up-marginal-opening-gains-as-profit-booking-takes-over/articleshow/136093136.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "5 penny stocks plunge up to 68% in six months. Do you own any?",
-          "summary": "Five BSE Smallcap penny stocks have fallen between 21% and 68% in recent months. Kalind and Empower India led the declines, plunging 68% and 62%, respectively....",
-          "link": "https://economictimes.indiatimes.com/markets/stocks/news/5-penny-stocks-plunge-up-to-68-in-six-months-do-you-own-any/slideshow/136069072.cms",
+          "title": "Rupee retreats, Goldman calls it a 'port of stability' in AI storm",
+          "summary": "The Indian rupee initially rose to a seven-month high before retreating amid corporate dollar buying. It is on track for a monthly gain of over 2%, bolstered by significant foreign...",
+          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-retreats-goldman-calls-it-a-port-of-stability-in-ai-storm/articleshow/136092977.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "InvIT IPO rush gathers pace, 4-5 trusts likely to go public by Mar 2027",
-          "summary": "Four to five privately placed Infrastructure Investment Trusts (InvITs) are expected to tap the public markets by March 2027 to raise a combined Rs 17,000 crore, as infrastructure ...",
-          "link": "https://www.business-standard.com/markets/ipo/invit-ipo-rush-gathers-pace-4-5-trusts-likely-to-go-public-by-mar-2027-126112200225_1.html",
+          "title": "Stocks at 52-week low: Tata Power, Cochin Shipyard, APL Apollo, Aadhar Hsg",
+          "summary": "APL Apollo Tubes crashed over 20%; Tata Power, Inox Wind and Cochin Shipyard declined 3-4%, hitting fresh 52-week lows in Monday's intraday deals on the BSE....",
+          "link": "https://www.business-standard.com/markets/news/stocks-at-52-week-low-tata-power-cochin-shipyard-apl-apollo-aadhar-housing-126112300552_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Philips introduces ultrasound data consolidation platform",
-          "summary": "Philips has introduced Skylight Device Manager, a cloud-based software that gathers usage and operational information from linked ultrasound machines into a single interface. The p...",
-          "link": "https://www.medicaldevice-network.com/news/philips-introduces-ultrasound-data-consolidation-platform/",
+          "title": "Exo lands $11.6m Gates Foundation grant to expand ultrasound access",
+          "summary": "A 2026 report by the World Bank estimates that almost two-thirds of people globally cannot reliably access ultrasound imaging. The post Exo lands $11.6m Gates Foundation grant to e...",
+          "link": "https://www.medicaldevice-network.com/news/exo-lands-11-m-gates-foundation-grant-to-expand-ultrasound-access/",
           "source": "Medical Device Network"
         }
       ]
@@ -200,9 +200,9 @@
           "source": "YourStory"
         },
         {
-          "title": "The GTA VI-Sized Hole In Indian Gaming",
-          "summary": "At midnight on Thursday, when Grand Theft Auto VI finally launched, India was just another market waiting to play the&#8230;...",
-          "link": "https://inc42.com/features/the-gta-vi-sized-hole-in-indian-gaming/",
+          "title": "Meta Faces Scrutiny In India Over Content Moderation Practices, Political Biasness",
+          "summary": "The ongoing protests by members of the Indian Youth Congress (IYC) against Meta&#8217;s content moderation practices in India have again&#8230;...",
+          "link": "https://inc42.com/buzz/meta-faces-scrutiny-in-india-over-content-moderation-practices-political-biasness/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "EXAIR Line Vac Wand simplifies bulk material handling",
-          "summary": "EXAIR’s new Line Vac Wand is an accessory for Line Vac Air Operated Conveyors that can be used to collect and move materials from floors, bins, bags and other hard-to-reach areas. ...",
-          "link": "https://www.designworldonline.com/exair-line-vac-wand-simplifies-bulk-material-handling/",
+          "title": "AutomationDirect adds black METEcon connector housings",
+          "summary": "AutomationDirect has added METEcon heavy-duty multi-wire connector housings with a black finish, providing a color-matched option for machine and panel builders. This expansion add...",
+          "link": "https://www.designworldonline.com/automationdirect-adds-black-metecon-connector-housings/",
           "source": "Design World"
         },
         {
-          "title": "Boost Product Performance with Precision cut Tubing.",
-          "summary": "Enhance your products’ efficiency and reliability with precisely cut tubing, engineered for optimal performance in medical and high-performance applications, ensuring precision, du...",
-          "link": "https://www.designworldonline.com/boost-product-performance-with-precision-cut-tubing/",
+          "title": "LEMO introduces ORIGINALS B Series Lead-Free Solutions",
+          "summary": "LEMO announces the launch of its new ORIGINALS B Series Lead-Free Solutions, developed to support the industry’s shift toward stricter RoHS compliance requirements while maintainin...",
+          "link": "https://www.designworldonline.com/lemo-introduces-originals-b-series-lead-free-solutions/",
           "source": "Design World"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i4.ytimg.com/vi/KTDJiVpSDTI/hqdefault.jpg"
         },
         {
-          "title": "DeepMind Just Released The Best Thing AI Ever Did",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The DeepMind AlphaGenome paper is available here:\nhttps://deepmind.google/blog/alphagenome-2-...",
-          "link": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
+          "title": "Claude AI Solved The Secret Of Black Holes",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/claude-black-hole-physics\nhtt...",
+          "link": "https://www.youtube.com/watch?v=1jPdehG3Hms",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i4.ytimg.com/vi/Cy7Wz6Z4TWU/hqdefault.jpg"
+          "thumbnail": "https://i2.ytimg.com/vi/1jPdehG3Hms/hqdefault.jpg"
         }
       ]
     }
