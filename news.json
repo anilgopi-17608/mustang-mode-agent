@@ -1,91 +1,91 @@
 {
-  "last_updated": "Tuesday, November 24, 2026 at 04:59 PM IST",
-  "last_updated_iso": "2026-11-24T16:59:49.235323",
+  "last_updated": "Wednesday, November 25, 2026 at 03:46 PM IST",
+  "last_updated_iso": "2026-11-25T15:46:17.124510",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 25349.65,
-        "change": -450.9499999999971,
-        "change_pct": -1.7478275699014638,
-        "is_up": false
+        "price": 25819.25,
+        "change": 469.59999999999854,
+        "change_pct": 1.8524910600343538,
+        "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 82435.99,
-        "change": -1483.7099999999919,
-        "change_pct": -1.768011563435036,
-        "is_up": false
+        "price": 83938.28,
+        "change": 1502.2899999999936,
+        "change_pct": 1.8223715151598148,
+        "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 62585.35,
-        "change": -2049.8499999999985,
-        "change_pct": -3.1714143376983417,
-        "is_up": false
+        "price": 63703.25,
+        "change": 1117.9000000000015,
+        "change_pct": 1.7862007642363613,
+        "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "TCS",
-        "price": 2460.0,
-        "change": 83.80000000000018,
-        "change_pct": 3.526639171786895,
+        "name": "HDFC Bank",
+        "price": 846.2,
+        "change": 28.40000000000009,
+        "change_pct": 3.472731719246771,
         "is_up": true
       },
       {
-        "name": "Wipro",
-        "price": 187.29,
-        "change": 1.5900000000000034,
-        "change_pct": 0.8562197092084025,
+        "name": "ICICI Bank",
+        "price": 1640.0,
+        "change": 54.5,
+        "change_pct": 3.4374014506464836,
         "is_up": true
       },
       {
         "name": "Infosys",
-        "price": 1103.4,
-        "change": 5.400000000000091,
-        "change_pct": 0.49180327868853285,
+        "price": 1130.0,
+        "change": 26.59999999999991,
+        "change_pct": 2.4107304694580303,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "HDFC Bank",
-        "price": 817.8,
-        "change": -28.200000000000045,
-        "change_pct": -3.333333333333339,
+        "name": "Bharti Airtel",
+        "price": 2117.5,
+        "change": -11.0,
+        "change_pct": -0.516795865633075,
         "is_up": false
       },
       {
-        "name": "ICICI Bank",
-        "price": 1585.5,
-        "change": -54.5,
-        "change_pct": -3.323170731707317,
-        "is_up": false
+        "name": "Wipro",
+        "price": 189.05,
+        "change": 1.7600000000000193,
+        "change_pct": 0.939719152117048,
+        "is_up": true
       },
       {
-        "name": "L&T",
-        "price": 4099.9,
-        "change": -109.20000000000073,
-        "change_pct": -2.5943788458340435,
-        "is_up": false
+        "name": "Maruti",
+        "price": 14200.0,
+        "change": 190.0,
+        "change_pct": 1.3561741613133478,
+        "is_up": true
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 92.9,
-        "change": 0.0,
-        "change_pct": 0.0,
-        "is_up": true
+        "price": 92.22,
+        "change": -0.6800000000000068,
+        "change_pct": -0.7319698600645929,
+        "is_up": false
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3624.8,
-        "change": -26.59999999999991,
-        "change_pct": -0.728487703346659,
+        "price": 3561.1,
+        "change": -30.0,
+        "change_pct": -0.8353986243769318,
         "is_up": false
       }
     ]
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Figma employee sues, alleging company forced her to confront harassers",
-          "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination....",
-          "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+          "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+          "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposin...",
+          "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
           "source": "TechCrunch"
         },
         {
-          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals....",
-          "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+          "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accu...",
+          "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
           "source": "TechCrunch"
         },
         {
-          "title": "Google alternative Kagi launches an email service",
+          "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
           "summary": "",
-          "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+          "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
           "source": "The Verge"
         },
         {
-          "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+          "title": "The Verge’s 2026 gift guide for dads",
           "summary": "",
-          "link": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+          "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
           "source": "The Verge"
         },
         {
-          "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
-          "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday....",
-          "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+          "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+          "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply....",
+          "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "RBI DG asks primary dealers to bid responsibly in G-Sec underwriting auctions",
-          "summary": "RBI Deputy Governor Rohit Jain has urged primary dealers to bid responsibly in government securities auctions. Jain noted instances of volatile pricing that misalign with orderly m...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-dg-asks-primary-dealers-to-bid-responsibly-in-g-sec-underwriting-auctions/articleshow/136125661.cms",
+          "title": "Why are investors betting on Abercrombie's growth story?",
+          "summary": "Abercrombie &amp; Fitch shares surged 22% after record third-quarter sales and earnings beat estimates. The retailer also raised its full-year outlook, boosting optimism ahead of t...",
+          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-are-investors-betting-on-abercrombies-growth-story/slideshow/136151161.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "IIFCL IPO: Govt plans to sell part of its stake, company to issue fresh shares",
-          "summary": "The government aims to partially divest its shareholding in India Infrastructure Finance Company Ltd through an initial public offering. The IPO is expected to occur by the end of ...",
-          "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/iifcl-ipo-govt-plans-to-sell-part-of-its-stake-company-to-issue-fresh-shares/articleshow/136124476.cms",
+          "title": "India bonds inch higher as oil steadies ahead of RBI verdict",
+          "summary": "Indian government bonds have experienced a modest rise, driven by declining oil prices and consistent US Treasury yields. With the Reserve Bank of India's policy decision approachi...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-higher-as-oil-steadies-ahead-of-rbi-verdict/articleshow/136149265.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Investors become richer by ₹34.61 trillion as Sensex surges in November",
-          "summary": "Equity markets have rallied sharply this month, with the BSE Sensex climbing nearly 11 per cent, making equity investors richer by Rs 34.61 lakh crore amid strong foreign fund infl...",
-          "link": "https://www.business-standard.com/markets/news/investors-become-richer-by-34-61-trillion-as-sensex-surges-in-november-126112400402_1.html",
+          "title": "Nifty FMCG index soars 3%; Dabur, Godrej Consumer, HUL rally up to 8%",
+          "summary": "The Nifty FMCG index was the top gainer among sectoral indices up 3.18%, compared to a 1.66% rise in the Nifty 50 on Wednesday....",
+          "link": "https://www.business-standard.com/markets/news/nifty-fmcg-index-soars-3-dabur-godrej-consumer-hul-rally-up-to-8-126112500621_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "DocGo divests cardiac monitoring business in $25m deal",
-          "summary": "DocGo is divesting the cardiac implantable portion of its Cardiac RMS subsidiary to Medical Monitoring yet will hold on to the subsidiary’s virtual care segment. The post DocGo div...",
-          "link": "https://www.medicaldevice-network.com/news/docgo-divests-cardiac-monitoring-business-in-25m-deal/",
+          "title": "Tagomics secures $13m to advance LiquiPath platform",
+          "summary": "Tagomics has completed a $13m seed extension round to scale commercial operations and accelerate the development of its LiquiPath drug safety platform. The post Tagomics secures $1...",
+          "link": "https://www.medicaldevice-network.com/news/tagomics-secures-advance-liquipath-platform/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Taking a personal loan with variable income? Here's how to plan your EMI smartly",
-          "summary": "Taking a personal loan with variable income? Here's how to plan your EMI smartly For freelancers and self-employed professionals, monthly income can fluctuate significantly. One mo...",
-          "link": "https://yourstory.com/2026/11/taking-a-personal-loan-with-variable-income-heres-how-to-plan-your-emi-smartly",
+          "title": "Wiz webinar: Bringing a sharper, connected focus to AI security",
+          "summary": "From AI discovery to threat detection, Wiz brings security into focus in a new virtual webinar...",
+          "link": "https://yourstory.com/2026/11/wiz-webinar-bringing-sharper-connected-focus-to-ai-security-",
           "source": "YourStory"
         },
         {
-          "title": "What it takes for Indian startups to win when building is no longer the hard part",
-          "summary": "At TechSparks 2026, Lukas Jablonskas of Hostinger and Amar Dixit of WOI India discussed how founders can turn ideas into sustainable businesses in the age of AI....",
-          "link": "https://yourstory.com/2026/11/what-it-takes-for-indian-startups-to-win-when-building-is-no-longer-the-hard-part",
+          "title": "Beyond UPI: Why many Indians still need help accessing basic banking services",
+          "summary": "Assisted banking is not an alternative to regular banks or the mobile application that banks provide. Through the extension of their services via designated local access points, ba...",
+          "link": "https://yourstory.com/2026/11/beyond-upi-why-many-indians-still-need-help-accessing-basic-banking-services",
           "source": "YourStory"
         },
         {
-          "title": "JioStar To Cut 150 Jobs To Control Costs",
-          "summary": "Jio’s media arm, JioStar is reportedly looking to hand out the pink slip to about 150 employees. The job cuts&#8230;...",
-          "link": "https://inc42.com/buzz/jiostar-to-cut-150-jobs-to-control-costs/",
+          "title": "Film Body Seeks Ban On Pakistani Show’s Netflix Release In India",
+          "summary": "The All Indian Cine Workers Association (AICWA) has written to prime minister Narendra Modi seeking a ban on releasing the&#8230;...",
+          "link": "https://inc42.com/buzz/film-body-seeks-ban-on-pakistani-shows-netflix-release-in-india/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Rollon adds bearings and locknuts to myRollon platform",
-          "summary": "Rollon announces the integration of its bearings, cam followers and precision locknuts ranges into myRollon, the digital platform developed to support engineers and designers durin...",
-          "link": "https://www.designworldonline.com/rollon-adds-bearings-and-locknuts-to-myrollon-platform/",
+          "title": "Altech adds LED tower lights for industrial machinery",
+          "summary": "Altech Corporation has introduced two families of LED tower lights for industrial machinery. Both series use LED technology and are intended for signaling in automation and process...",
+          "link": "https://www.designworldonline.com/altech-adds-led-tower-lights-for-industrial-machinery/",
           "source": "Design World"
         },
         {
-          "title": "Festo adds stainless-steel electric motion for washdown use",
-          "summary": "Festo has introduced the EPRF stainless-steel electric cylinders and EMMH-AS stainless-steel servo motors for hygienic washdown applications. Used with Festo’s CMMT-AS multiprotoco...",
-          "link": "https://www.designworldonline.com/festo-adds-stainless-steel-electric-motion-for-washdown-use/",
+          "title": "GM Plans Big Bump in Factory Automation",
+          "summary": "Major increase in robotics on a tight timeline: 2028 This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. General Motors launched auto industry rob...",
+          "link": "https://www.designworldonline.com/gm-plans-big-bump-in-factory-automation/",
           "source": "Design World"
         }
       ]
@@ -235,11 +235,11 @@
           "thumbnail": "https://i4.ytimg.com/vi/cc5C8hRblBY/hqdefault.jpg"
         },
         {
-          "title": "Claude AI Solved The Secret Of Black Holes",
-          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://www.anthropic.com/research/claude-black-hole-physics\nhtt...",
-          "link": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+          "title": "Claude AI Solved It… But Nobody Understands How.",
+          "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://nasqret.github.io/riemann-rev/guide/proof-guide.pdf\nhttp...",
+          "link": "https://www.youtube.com/watch?v=hwWlEuI359w",
           "source": "Two Minute Papers (AI)",
-          "thumbnail": "https://i2.ytimg.com/vi/1jPdehG3Hms/hqdefault.jpg"
+          "thumbnail": "https://i1.ytimg.com/vi/hwWlEuI359w/hqdefault.jpg"
         }
       ]
     }
