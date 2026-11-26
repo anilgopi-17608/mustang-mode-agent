@@ -1,92 +1,92 @@
 {
-  "last_updated": "Wednesday, November 25, 2026 at 03:46 PM IST",
-  "last_updated_iso": "2026-11-25T15:46:17.124510",
+  "last_updated": "Thursday, November 26, 2026 at 03:26 PM IST",
+  "last_updated_iso": "2026-11-26T15:26:29.634399",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
-        "price": 25819.25,
-        "change": 469.59999999999854,
-        "change_pct": 1.8524910600343538,
+        "price": 25897.4,
+        "change": 547.7000000000007,
+        "change_pct": 2.1605778372130664,
         "is_up": true
       },
       {
         "name": "Sensex",
-        "price": 83938.28,
-        "change": 1502.2899999999936,
-        "change_pct": 1.8223715151598148,
+        "price": 84288.74,
+        "change": 1852.7400000000052,
+        "change_pct": 2.2474889611334916,
         "is_up": true
       },
       {
         "name": "Bank Nifty",
-        "price": 63703.25,
-        "change": 1117.9000000000015,
-        "change_pct": 1.7862007642363613,
+        "price": 63587.4,
+        "change": 1002.0,
+        "change_pct": 1.6010123766884927,
         "is_up": true
       }
     ],
     "gainers": [
       {
-        "name": "HDFC Bank",
-        "price": 846.2,
-        "change": 28.40000000000009,
-        "change_pct": 3.472731719246771,
-        "is_up": true
-      },
-      {
-        "name": "ICICI Bank",
-        "price": 1640.0,
-        "change": 54.5,
-        "change_pct": 3.4374014506464836,
-        "is_up": true
-      },
-      {
         "name": "Infosys",
-        "price": 1130.0,
-        "change": 26.59999999999991,
-        "change_pct": 2.4107304694580303,
+        "price": 1181.2,
+        "change": 51.200000000000045,
+        "change_pct": 4.530973451327438,
+        "is_up": true
+      },
+      {
+        "name": "TCS",
+        "price": 2624.0,
+        "change": 106.69999999999982,
+        "change_pct": 4.238668414571159,
+        "is_up": true
+      },
+      {
+        "name": "Wipro",
+        "price": 196.57,
+        "change": 7.519999999999982,
+        "change_pct": 3.9777836551176837,
         "is_up": true
       }
     ],
     "losers": [
       {
-        "name": "Bharti Airtel",
-        "price": 2117.5,
-        "change": -11.0,
-        "change_pct": -0.516795865633075,
+        "name": "ICICI Bank",
+        "price": 1613.0,
+        "change": -27.0,
+        "change_pct": -1.6463414634146343,
         "is_up": false
       },
       {
-        "name": "Wipro",
-        "price": 189.05,
-        "change": 1.7600000000000193,
-        "change_pct": 0.939719152117048,
-        "is_up": true
+        "name": "Maruti",
+        "price": 14065.0,
+        "change": -135.0,
+        "change_pct": -0.9507042253521126,
+        "is_up": false
       },
       {
-        "name": "Maruti",
-        "price": 14200.0,
-        "change": 190.0,
-        "change_pct": 1.3561741613133478,
-        "is_up": true
+        "name": "Bharti Airtel",
+        "price": 2100.0,
+        "change": -17.5,
+        "change_pct": -0.8264462809917356,
+        "is_up": false
       }
     ],
     "currency": [
       {
         "name": "USD/INR",
-        "price": 92.22,
-        "change": -0.6800000000000068,
-        "change_pct": -0.7319698600645929,
-        "is_up": false
+        "price": 92.4375,
+        "change": 0.21750000000000114,
+        "change_pct": 0.23584905660377484,
+        "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3561.1,
-        "change": -30.0,
-        "change_pct": -0.8353986243769318,
-        "is_up": false
+        "price": 3603.7,
+        "change": 39.09999999999991,
+        "change_pct": 1.0968972675756021,
+        "is_up": true
       }
     ]
   },
@@ -95,33 +95,33 @@
       "color": "#dc2626",
       "items": [
         {
-          "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-          "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposin...",
-          "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+          "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating....",
+          "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
           "source": "TechCrunch"
         },
         {
-          "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-          "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accu...",
-          "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+          "title": "FCC approves SpaceX plan to put AI data centers in space",
+          "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory a...",
+          "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
           "source": "TechCrunch"
         },
         {
-          "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+          "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
           "summary": "",
-          "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+          "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
           "source": "The Verge"
         },
         {
-          "title": "The Verge’s 2026 gift guide for dads",
+          "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
           "summary": "",
-          "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+          "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
           "source": "The Verge"
         },
         {
-          "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-          "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply....",
-          "link": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+          "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+          "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"...",
+          "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Why are investors betting on Abercrombie's growth story?",
-          "summary": "Abercrombie &amp; Fitch shares surged 22% after record third-quarter sales and earnings beat estimates. The retailer also raised its full-year outlook, boosting optimism ahead of t...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-are-investors-betting-on-abercrombies-growth-story/slideshow/136151161.cms",
+          "title": "Rupee falls 20 paise to 92.40 against US dollar in early trade",
+          "summary": "The rupee fell 20 paise to 92.40 against the US dollar in early trade. Higher crude oil prices and proposed tariffs by the US administration increased dollar demand. Foreign fund i...",
+          "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "India bonds inch higher as oil steadies ahead of RBI verdict",
-          "summary": "Indian government bonds have experienced a modest rise, driven by declining oil prices and consistent US Treasury yields. With the Reserve Bank of India's policy decision approachi...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-higher-as-oil-steadies-ahead-of-rbi-verdict/articleshow/136149265.cms",
+          "title": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks",
+          "summary": "Indian government bonds fell as oil prices surged, raising concerns about inflation and economic stability. The Reserve Bank of India highlighted rising food inflation pressures, i...",
+          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136179562.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Nifty FMCG index soars 3%; Dabur, Godrej Consumer, HUL rally up to 8%",
-          "summary": "The Nifty FMCG index was the top gainer among sectoral indices up 3.18%, compared to a 1.66% rise in the Nifty 50 on Wednesday....",
-          "link": "https://www.business-standard.com/markets/news/nifty-fmcg-index-soars-3-dabur-godrej-consumer-hul-rally-up-to-8-126112500621_1.html",
+          "title": "IndiGo up 22% in a month; Anand Rathi sees macro tailwinds aiding recovery",
+          "summary": "Anand Rathi has maintained a 'Buy' rating on IndiGo stock and raised the target price to ₹6,600 from ₹5,550. The target implies an upside of nearly 16 per cent from the previous cl...",
+          "link": "https://www.business-standard.com/markets/news/indigo-up-22-in-a-month-anand-rathi-sees-macro-tailwinds-aiding-recovery-126112600733_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Tagomics secures $13m to advance LiquiPath platform",
-          "summary": "Tagomics has completed a $13m seed extension round to scale commercial operations and accelerate the development of its LiquiPath drug safety platform. The post Tagomics secures $1...",
-          "link": "https://www.medicaldevice-network.com/news/tagomics-secures-advance-liquipath-platform/",
+          "title": "Thermo Fisher receives expanded clearance for multiple myeloma assay",
+          "summary": "The US Food and Drug Administration (FDA) has cleared an expanded intended use for Thermo Fisher Scientific's EXENT Analyser with EXENT Immunoglobulin Isotypes (GAM) Assay. The pos...",
+          "link": "https://www.medicaldevice-network.com/news/thermo-fisher-fda-clearance-exent-assay/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Wiz webinar: Bringing a sharper, connected focus to AI security",
-          "summary": "From AI discovery to threat detection, Wiz brings security into focus in a new virtual webinar...",
-          "link": "https://yourstory.com/2026/11/wiz-webinar-bringing-sharper-connected-focus-to-ai-security-",
+          "title": "Zoho–LinkedIn report: AI is helping Indian SMBs grow, but skills lag behind",
+          "summary": "Zoho–LinkedIn report: Indian SMBs with AI talent grow teams 5.2 points faster, while only 6% have everyday AI skills across staff....",
+          "link": "https://yourstory.com/2026/11/indian-smbs-ai-talent-headcount-growth-zoho-linkedin-report",
           "source": "YourStory"
         },
         {
-          "title": "Beyond UPI: Why many Indians still need help accessing basic banking services",
-          "summary": "Assisted banking is not an alternative to regular banks or the mobile application that banks provide. Through the extension of their services via designated local access points, ba...",
-          "link": "https://yourstory.com/2026/11/beyond-upi-why-many-indians-still-need-help-accessing-basic-banking-services",
+          "title": "From selling drones to intelligence: Where will the next wave of value come from?",
+          "summary": "As the drone industry evolves, the focus is shifting from aircraft specifications to the value delivered to customers. The next phase of growth will be shaped by AI, software, inte...",
+          "link": "https://yourstory.com/2026/11/from-selling-drones-to-intelligence-where-will-next-wave-of-value-come-from",
           "source": "YourStory"
         },
         {
-          "title": "Film Body Seeks Ban On Pakistani Show’s Netflix Release In India",
-          "summary": "The All Indian Cine Workers Association (AICWA) has written to prime minister Narendra Modi seeking a ban on releasing the&#8230;...",
-          "link": "https://inc42.com/buzz/film-body-seeks-ban-on-pakistani-shows-netflix-release-in-india/",
+          "title": "[Update] After Meta Meeting, Congress’ Youth Wing Moves Delhi HC Over Automated Takedown Rules",
+          "summary": "Update&#124; November 26, 14:00 IST A day after Congress met Meta executives, Indian Youth Congress (IYC) national secretary Manu Jain&#8230;...",
+          "link": "https://inc42.com/buzz/bound-by-local-laws-meta-tells-congress-amid-content-moderation-row/",
           "source": "Inc42"
         }
       ]
@@ -211,15 +211,15 @@
       "color": "#0891b2",
       "items": [
         {
-          "title": "Altech adds LED tower lights for industrial machinery",
-          "summary": "Altech Corporation has introduced two families of LED tower lights for industrial machinery. Both series use LED technology and are intended for signaling in automation and process...",
-          "link": "https://www.designworldonline.com/altech-adds-led-tower-lights-for-industrial-machinery/",
+          "title": "Material selection and custom converting for immersion cooled data centers",
+          "summary": "Sponsored by CS Hyde. Air has done the majority of cooling work in data centers for decades. However, with single chips now drawing over 1,000 watts and rack power requirements rea...",
+          "link": "https://www.designworldonline.com/material-selection-and-custom-converting-for-immersion-cooled-data-centers/",
           "source": "Design World"
         },
         {
-          "title": "GM Plans Big Bump in Factory Automation",
-          "summary": "Major increase in robotics on a tight timeline: 2028 This episode is brought to you by Mouser Electronics. Visit mouser.com to learn more. General Motors launched auto industry rob...",
-          "link": "https://www.designworldonline.com/gm-plans-big-bump-in-factory-automation/",
+          "title": "Altech adds LED tower lights for industrial machinery",
+          "summary": "Altech Corporation has introduced two families of LED tower lights for industrial machinery. Both series use LED technology and are intended for signaling in automation and process...",
+          "link": "https://www.designworldonline.com/altech-adds-led-tower-lights-for-industrial-machinery/",
           "source": "Design World"
         }
       ]
@@ -228,14 +228,14 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "I'm Starting Over",
-          "summary": "Last video from this studio. Ever. Next up: A fresh start\n\nBlack Friday sale at Ridge and get up to 49% off at https://ridge.com/MKBHD\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist...",
-          "link": "https://www.youtube.com/watch?v=cc5C8hRblBY",
+          "title": "I've Been Keeping This A Secret",
+          "summary": "The biggest project I've ever done\n\nGet dbrand’s Black Friday’s deals at https://dbrand.com/shop/black-friday\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: ht...",
+          "link": "https://www.youtube.com/watch?v=-Cd_JmKG1SM",
           "source": "MKBHD",
-          "thumbnail": "https://i4.ytimg.com/vi/cc5C8hRblBY/hqdefault.jpg"
+          "thumbnail": "https://i2.ytimg.com/vi/-Cd_JmKG1SM/hqdefault.jpg"
         },
         {
-          "title": "Claude AI Solved It… But Nobody Understands How.",
+          "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
           "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The paper is available here:\nhttps://nasqret.github.io/riemann-rev/guide/proof-guide.pdf\nhttp...",
           "link": "https://www.youtube.com/watch?v=hwWlEuI359w",
           "source": "Two Minute Papers (AI)",
