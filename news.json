@@ -1,27 +1,27 @@
 {
-  "last_updated": "Friday, November 27, 2026 at 03:30 PM IST",
-  "last_updated_iso": "2026-11-27T15:30:26.208822",
+  "last_updated": "Saturday, November 28, 2026 at 02:47 PM IST",
+  "last_updated_iso": "2026-11-28T14:47:19.184618",
   "market": {
     "indices": [
       {
         "name": "Nifty 50",
         "price": 25607.2,
-        "change": -212.0,
-        "change_pct": -0.8210943793765879,
+        "change": -277.2999999999993,
+        "change_pct": -1.0712974946396465,
         "is_up": false
       },
       {
         "name": "Sensex",
-        "price": 83322.29,
-        "change": -616.0100000000093,
-        "change_pct": -0.733884293582321,
+        "price": 83339.26,
+        "change": -989.3400000000111,
+        "change_pct": -1.1731962821628854,
         "is_up": false
       },
       {
         "name": "Bank Nifty",
         "price": 63040.9,
-        "change": -662.2999999999956,
-        "change_pct": -1.0396651973527165,
+        "change": -494.40000000000146,
+        "change_pct": -0.778150099236175,
         "is_up": false
       }
     ],
@@ -74,18 +74,18 @@
     "currency": [
       {
         "name": "USD/INR",
-        "price": 92.975,
-        "change": 0.539999999999992,
-        "change_pct": 0.5841942986963726,
+        "price": 92.99,
+        "change": 0.5549999999999926,
+        "change_pct": 0.6004219181046061,
         "is_up": true
       }
     ],
     "commodity": [
       {
         "name": "Gold (₹/10g)",
-        "price": 3705.9,
-        "change": 141.30000000000018,
-        "change_pct": 3.963979128092919,
+        "price": 3668.5,
+        "change": 103.90000000000009,
+        "change_pct": 2.9147730460640773,
         "is_up": true
       }
     ]
@@ -107,21 +107,21 @@
           "source": "TechCrunch"
         },
         {
-          "title": "The absolute best Black Friday deals we’ve found (so far)",
+          "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+          "summary": "",
+          "link": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+          "source": "The Verge"
+        },
+        {
+          "title": "The absolute best Black Friday deals you can still get",
           "summary": "",
           "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
           "source": "The Verge"
         },
         {
-          "title": "Netflix’s coziest show has made a very quiet return",
-          "summary": "",
-          "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
-          "source": "The Verge"
-        },
-        {
-          "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
-          "summary": "There’s just one thing we still don’t know: How much will they cost?...",
-          "link": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+          "title": "The best Black Friday deals Ars could find",
+          "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?...",
+          "link": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
           "source": "Ars Technica"
         }
       ]
@@ -130,15 +130,15 @@
       "color": "#7c3aed",
       "items": [
         {
-          "title": "Can SpaceX's AI ambitions drive further upside in its stock?",
-          "summary": "SpaceX shares rally on bullish trading signals as Elon Musk expands the company's AI ambitions. Strong revenue growth and a proposed satellite data centre network fuel optimism, de...",
-          "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-spacexs-ai-ambitions-drive-further-upside-in-its-stock/slideshow/136213079.cms",
+          "title": "Jaiprakash Power Ventures, CarTrade Tech among 11 smallcap stocks that plunged the most in a year, but mutual funds raised stakes",
+          "summary": "Mutual funds increased stakes in 16 Nifty Smallcap 250 companies despite significant share price declines. Explore 11 major laggards where institutional investors steadily raised h...",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/jaiprakash-power-ventures-cartrade-tech-among-11-smallcap-stocks-that-plunged-the-most-in-a-year-but-mutual-funds-raised-stakes/slideshow/136242594.cms",
           "source": "Economic Times Markets"
         },
         {
-          "title": "India bonds decline ahead of fresh debt sale as elevated oil prices fan inflation worries",
-          "summary": "Indian government bonds decreased in early trading due to rising oil prices and cautious investor sentiment. The benchmark 6.94% 2036 bond yield increased significantly amid higher...",
-          "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/articleshow/136211546.cms",
+          "title": "Concurrent Gainers: 9 stocks that gain for 5 days in a row",
+          "summary": "Nine BSE 500 stocks delivered gains in each of the five trading sessions between November 19 and 27, with PB Fintech leading the pack with a 16.66% return....",
+          "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-stocks-that-gain-for-5-days-in-a-row/slideshow/136241215.cms",
           "source": "Economic Times Markets"
         },
         {
@@ -154,9 +154,9 @@
           "source": "Moneycontrol Business"
         },
         {
-          "title": "Angel One surges 7% on huge volume; stock nears record high in weak market",
-          "summary": "Angel One: In the past month, the stock price of the stock broking & allied services company surged 32% against a 13.6% rally in the BSE Sensex....",
-          "link": "https://www.business-standard.com/markets/news/angel-one-surges-7-on-huge-volume-stock-nears-record-high-in-weak-market-126112700640_1.html",
+          "title": "Indian markets rebound in November after months of underperformance: HSBC",
+          "summary": "Indian financial markets have staged a broad-based recovery in November, reversing months of underperformance against emerging-market peers as falling crude oil prices, a correctio...",
+          "link": "https://www.business-standard.com/markets/news/indian-markets-rebound-in-november-after-months-of-underperformance-hsbc-126112800271_1.html",
           "source": "Business Standard Markets"
         }
       ]
@@ -177,9 +177,9 @@
           "source": "Medical Design & Outsourcing"
         },
         {
-          "title": "Dongwoon secures digital medical device GMP certification in South Korea",
-          "summary": "South Korea's MFDS has granted digital medical device manufacturing GMP certification to Dongwoon Anatech for its D-SaLife saliva-based glucose monitoring system. The post Dongwoon...",
-          "link": "https://www.medicaldevice-network.com/news/dongwoon-medical-device-gmp-certification-korea/",
+          "title": "UK hospital completes world-first implantation of new Medtronic pacemaker",
+          "summary": "Medtronic’s Restoria uses conduction system pacing to directly targets the heart’s natural electrical pathways versus non-selective stimulation as with traditional pacemakers. The ...",
+          "link": "https://www.medicaldevice-network.com/news/uk-hospital-completes-world-first-implantation-of-new-medtronic-pacemaker/",
           "source": "Medical Device Network"
         }
       ]
@@ -188,21 +188,21 @@
       "color": "#ff6b00",
       "items": [
         {
-          "title": "Meet the women creators who are making finance, science and farming easier for millions to follow",
-          "summary": "From index funds to research papers to terrace gardens, 11 women creators explain finance, science and farming to millions on YouTube and Instagram....",
-          "link": "https://yourstory.com/2026/11/women-creators-making-finance-science-farming-easier",
+          "title": "The no-buy challenge: How to stop unnecessary spending",
+          "summary": "Learn how to try a no-buy challenge, identify spending triggers and build healthier money habits without feeling deprived....",
+          "link": "https://yourstory.com/2026/11/how-to-stop-unnecessary-spending",
           "source": "YourStory"
         },
         {
-          "title": "Hala Mobility combines EV rentals, delivery jobs, and financial services for gig workers",
-          "summary": "Hala Mobility gives delivery riders EV rentals, delivery jobs, early-salary financing and accident insurance, says founder Srikanth Reddy Kalakonda....",
-          "link": "https://yourstory.com/2026/11/hala-mobility-ev-rentals-jobs-finance-gig-riders",
+          "title": "Masters’ Union hit by widespread job cuts, employees say",
+          "summary": "Masters’ Union layoffs are estimated to have affected over 350 employees, disproportionately impacting sales staff and including recent hires, according to sources....",
+          "link": "https://yourstory.com/2026/11/masters-union-hit-widespread-job-cuts-employees-say",
           "source": "YourStory"
         },
         {
-          "title": "Haleon In Talks To Acquire Controlling Stake In HealthKart At $1.4 Bn Valuation: Report",
-          "summary": "UK-based consumer healthcare major Haleon is in early-stage discussions to acquire a controlling stake in nutrition and supplements soonicorn HealthKart&#8230;...",
-          "link": "https://inc42.com/buzz/haleon-in-talks-to-acquire-controlling-stake-in-healthkart-at-1-4-bn-valuation-report/",
+          "title": "Personal AI Agents Are Coming: Who Owns The Customer Now?",
+          "summary": "Next time you want to order groceries, book a restaurant, or check your bank balance, you may not have to&#8230;...",
+          "link": "https://inc42.com/features/personal-ai-agents-are-coming-who-owns-the-customer-now/",
           "source": "Inc42"
         }
       ]
@@ -228,11 +228,11 @@
       "color": "#ff0000",
       "items": [
         {
-          "title": "I've Been Keeping This A Secret",
-          "summary": "The biggest project I've ever done\n\nGet dbrand’s Black Friday’s deals at https://dbrand.com/shop/black-friday\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: ht...",
-          "link": "https://www.youtube.com/watch?v=-Cd_JmKG1SM",
+          "title": "Welcome to MKBHQ! The Ultimate Video Studio Tour",
+          "summary": "Welcome to MKBHQ!\n\nFor the desk mat and hiring forms soon: http://twitter.com/MKBHD\n\nLearn more about Synology at https://sy.to/lcpkt\nGet connected with AT&T Business Internet for ...",
+          "link": "https://www.youtube.com/watch?v=ZvqYNSnsIDY",
           "source": "MKBHD",
-          "thumbnail": "https://i2.ytimg.com/vi/-Cd_JmKG1SM/hqdefault.jpg"
+          "thumbnail": "https://i3.ytimg.com/vi/ZvqYNSnsIDY/hqdefault.jpg"
         },
         {
           "title": "DeepMind’s New AI Just Changed The AI Race",
